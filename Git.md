@@ -1,4 +1,4 @@
-# Clients #
+# Clients
 
 ## Kraken ##
 As of August 2019 its about to become subscription based. It was free for individual use prior to this.  Its like $40 per year.
