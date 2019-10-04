@@ -1,0 +1,2 @@
+- In 2050 kids will go to camps where roughing it means using cell phones
+- 
