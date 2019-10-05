@@ -1,5 +1,6 @@
 # Tutorials #
 
+* [Low Poly Island](#Low-Poly-Island)
 
 # Hitchhikers Guide to the Tutorialsphere #
 
@@ -7,10 +8,10 @@
 
 Unity3D is a great tool but when you are starting out it is overwhelming.  For a beginner it will be easier to pick up than Unreal Engine 4 because the way it does things is a bit more in line with the way the rest of the world does things, but even so it will take time to get used to even a fraction of what Unity3D has to offer.  Fortunately if you are clever about the learning process you don’t have to ‘learn it all’ and by learning the right parts of Unity3D you will be able to make something useful or fun or special.  
 
-To do this following along with tutorials is wise and fun, but honestly there are so many tutorials on the web and on youtube that at first glance its impossible to know where to start.  This page is here to help guide you through the ‘tutorial-sphere’* and help you find the tutorials that are right for you as well as avoid tutorials which have fallen prey to the deadly ‘tutorial-rot’**
+To do this following along with tutorials is wise and fun, but honestly there are so many tutorials on the web and on youtube that at first glance its impossible to know where to start.  This page is here to help guide you through the ‘tutorial-sphere’ and help you find the tutorials that are right for you as well as avoid tutorials which have fallen prey to the deadly ‘tutorial-rot’
 
 * I just invented the term ‘tutorial-sphere’!  not bad eh?
-** tutorial-rot (aka tut-rot) – the phenomenon that tutorials experience over time when they become so old or unclear that new tut-ees will just find them frustrating.
+* tutorial-rot (aka tut-rot) – the phenomenon that tutorials experience over time when they become so old or unclear that new tut-ees will just find them frustrating.
 
 As a result of all of the above here is a curated reference list of the best and most effective tutorials about Unity3D.
 
@@ -112,13 +113,12 @@ In 2019 Blender received a large and critical update called 2.8 which changed so
 
 ## Blender 2.8 ##
 * [Make a low poly animal](https://www.youtube.com/watch?v=6mT4XFJYq-4) (or anything really) starting with a picture to trace from in just 10 minutes
-* [Low Poly Island](#Low Poly Island)
 
 
-### Low Poly Island ###
+# Low-Poly-Island #
 [Low Poly Island](https://www.youtube.com/watch?v=0lj643VmTsg) 
 
-Following along with the low poly island tutorial.  this will be the first Blender 2.8 tutorial I have ever followed along with.  I'll keep track of   
+Following along with the low poly island tutorial.  this will be the first Blender 2.8 tutorial I have ever followed along with.  
 
 
 ## Blender 2.79 ##
