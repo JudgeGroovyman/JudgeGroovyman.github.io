@@ -123,6 +123,8 @@ Derivatives of C are modern languages but C was invented in 1972 so I think its 
 The [8 bit show and tell channel](https://www.youtube.com/channel/UC3gRBswFkuteshdwMZAQafQ) has a lot of videos about commodore 64 assembly and it is pretty amazing what he got the hardware to do back then.  
 
 
+## Assembly on Dos ##
+I got this great book called [Programming Boot Sector Games](https://nanochess.org/store.html) and its certainly the clearest and most accessible assembly language tutorial Ive ever seen.  It also explains exactly how to get your programs running on any computer (hint: use dosbox or boxerapp)
 
 
 
