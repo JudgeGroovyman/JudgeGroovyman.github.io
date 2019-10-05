@@ -29,6 +29,15 @@ horizontal rule
 ____
 
 
+inline `code` has back ticks around it
+
+```
+
+blocks of code are fenced by three back ticks
+```
+ 
+
+
 ### Other Things you Can Do with Markdown ###
 Images
 Syntax Highlighting

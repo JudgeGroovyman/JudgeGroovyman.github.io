@@ -1,4 +1,24 @@
 
+
+# Emulating old systems #
+
+## QEMU ##
+One way is with QEMU.  Install it and then add the path to windows environment variables and you can boot up linux isos or whatever.
+
+This video [Installing and setting up qemu on windows 10](https://www.youtube.com/watch?v=al1cnTjeayk) describes how to install it and get linux running in it.
+
+### Linux Iso ###
+To get it running with a linux iso
+``` 
+qemu-system-x86_64.exe -boot d -cdrom .\alpine-standard-3.10.2-x86_64.iso -m 512
+```
+
+
+
+
+## VirtualBox ##
+This is faster and better for x86 virtualization.  Qemu has way more architectures.
+
 # Magazines #
 There is so much commodore magazines and reference material at the life of kenneth its insane.  Commodore 64 c64 technical stuff and fun popular stuff too.
 * [The Life Of Kenneth](https://mirror.thelifeofkenneth.com/sites/)

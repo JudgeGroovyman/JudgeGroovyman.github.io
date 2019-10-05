@@ -35,6 +35,7 @@ These pages are roughly about the topics in the titles:
 23. [Desktop Video Editing](VideoManipulation.md)
 24. [Virtual Reality](VirtualReality.md)
 25. [Windows Computers](Windows.md)
+26. [Web Design](WebDesign.md)
 
 
 

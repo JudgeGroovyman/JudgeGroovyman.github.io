@@ -1,4 +1,36 @@
 
+# BootBasic #
+
+
+## Installation ##
+The repo is easy to [clone from github](https://github.com/nanochess/bootBASIC).   
+
+## Running it in QEMU ##
+See [QEMU in Classic Computing](ClassicComputing.md#QEMU) for info on getting the emulator setup.  
+
+I followed all the instructions (including getting nasm and running those commands) to run it with qemu but it wouldn't boot from the floppy image. They say it will run in dosbox so lets try that.  
+ 
+See Update in the next section.
+
+## Running it in DOSBox ##
+UPDATE: I got it working in DOSBox and then I realized something, it was working in qemu all along!  Its just a no holding your hand kind of program so I just saw a prompt and thought it was broken.  It probably worked the first time I tried it and I could have been using it for the last half hour :) 
+
+To actually get it running in dosbox you first have to mount a local drive in dosbox to be able to get to it
+` mount f f:\Unity\bootBASIC` then execute the com file.
+
+## Doing useful things with it ##
+well hello world is just `print "Hello, World!"
+
+heres a program that shows some of the unique syntax
+```
+5 i=5
+10 print "Hello, World!"
+20 i=i-1
+30 if i-0 goto 10
+```
+What do you think that does?
+
+
 # AMOS
 Given the computer I had and the skills I had as a kid this was the second most important programming language for me starting in 1992.  Heres a [short history of AMOS](http://www.powerprograms.nl/amiga/amiga-all-about-amos.html)
 
@@ -27,6 +59,9 @@ Fun Trivia: BASIC stands for Beginner's All-purpose Symbolic Instruction Code
 
 [A modern video about the basics of BASIC](https://www.youtube.com/watch?v=seM9SqTsRG4) on one of my favorite classic computing channels: [The8-BitGuy](https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww)
 [101 Basic Computer Games](http://www.vintage-basic.net/games.html)
+
+## Boot Basic ##
+ This is an 'integer basic' interpreter that runs in the boot sector of an old pc.  
 
 ## QBasic
 Back in the day (the 80s and 90s) QBasic was included as a part of MS-DOS and/or Windows so a lot of people had automatic access to it so for a lot of people it was how they first cut their teeth on programming, or how they made their computer do something simple.
@@ -65,6 +100,11 @@ When Bill Gates and Paul Allen wrote Altair Basic they didnt have an Altair mach
 
 #### Further History
 [How the MITS Altair bootstrapper worked](https://www.reddit.com/r/learnprogramming/comments/4oarlf/eli5_how_did_bill_gates_and_paul_allen_create_the/)
+
+
+## Small Basic ##
+
+[Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/) is a pretty cool microsoft developed (although not heavily marketed or supported) basic thats made for kids.  There is a notable [tetris game](http://smallbasic.com/program/?Tetris), a [cute sokoban](http://smallbasic.com/program/?Soko) game with great graphics, and a [cool blinking eyes example](http://smallbasic.com/program/?GHR094-0), and [many more](https://smallbasic-publicwebsite.azurewebsites.net/resources), and all of the source is included and generally seems quite readable.  The tetris game was really good imho.
 
 
 # C

@@ -1,3 +1,10 @@
+# Splitting Videos 
+
+# Converting Videos #
+Format Factory seems to work pretty well on Windows.
+
+# Editing Videos #
+VSDC Video Editor seems to work pretty well on Windows.
 
 #Downloading Videos#
 
