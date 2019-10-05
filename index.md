@@ -30,7 +30,7 @@ These pages are roughly about the topics in the titles:
 18. [React Programming](React.md)
 19. [Games by Tank Pump Studios](TankPumpStudioGames.md) Thats my company.
 20. [Game Development Toolbox list](Toolbox.md)
-21. [Software Development Tutorials](Tutorials.md)
+21. [Tutorials](Tutorials.md) all kinds but primarily software development
 22. [Unity Game Engine](Unity.md)
 23. [Desktop Video Editing](VideoManipulation.md)
 24. [Virtual Reality](VirtualReality.md)
