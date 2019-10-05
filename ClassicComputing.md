@@ -13,7 +13,9 @@ To get it running with a linux iso
 qemu-system-x86_64.exe -boot d -cdrom .\alpine-standard-3.10.2-x86_64.iso -m 512
 ```
 
-
+## Dosbox ##
+[Dosbox](http://dosbox.com) works great on windows.
+[Boxer](http://boxerapp.com) is the mac version which works great on mac.  
 
 
 ## VirtualBox ##
