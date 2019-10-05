@@ -18,6 +18,9 @@ UPDATE: I got it working in DOSBox and then I realized something, it was working
 To actually get it running in dosbox you first have to mount a local drive in dosbox to be able to get to it
 ` mount f f:\Unity\bootBASIC` then execute the com file.
 
+For mac use [Boxer](http://dosbox.com) because trying to run dosbox on mac there are a few problems (primarily that theres no paste and or because I cant trigger the insert key) but 
+
+
 ## Doing useful things with it ##
 well hello world is just `print "Hello, World!"
 
