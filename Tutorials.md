@@ -1,6 +1,6 @@
 # Tutorials #
 
-* [Low Poly Island](#Low-Poly-Island)
+* [Low Poly Island](#low-poly-island)
 
 # Hitchhikers Guide to the Tutorialsphere #
 
