@@ -108,10 +108,26 @@ This took me 80 minutes and I did it all while I was watching John Carmacks Ocul
 
 # Blender #
 
+In 2019 Blender received a large and critical update called 2.8 which changed some key things about the user interface.  
+
+## Blender 2.8 ##
+* [Make a low poly animal](https://www.youtube.com/watch?v=6mT4XFJYq-4) (or anything really) starting with a picture to trace from in just 10 minutes
+* [Low Poly Island](#Low Poly Island)
+
+
+### Low Poly Island ###
+[Low Poly Island](https://www.youtube.com/watch?v=0lj643VmTsg) 
+
+Following along with the low poly island tutorial.  this will be the first Blender 2.8 tutorial I have ever followed along with.  I'll keep track of   
+
+
+## Blender 2.79 ##
+(anything before Blender 2.8)
+
 1. How to make [simple 3d Low Poly Tree model](https://www.youtube.com/watch?v=GsPDxcub3-4) (5min)
 2. (My Video) [Basic Blender Operations](https://www.youtube.com/watch?v=P_npoIprUcA): Curves and Macbook pro trackpad
-3. (My Video) [Low Poly Mesh from pixel art in Blender] https://www.youtube.com/watch?v=kBVVXhdAQ5A
-4. [Make a low poly animal](https://www.youtube.com/watch?v=6mT4XFJYq-4) (or anything really) from a picture in 10 minutes
+3. (My Video) [Low Poly Mesh from pixel art in Blender] (https://www.youtube.com/watch?v=kBVVXhdAQ5A)
+
 
 # Shaders #
 

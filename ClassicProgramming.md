@@ -124,7 +124,14 @@ The [8 bit show and tell channel](https://www.youtube.com/channel/UC3gRBswFkutes
 
 
 ## Assembly on Dos ##
-I got this great book called [Programming Boot Sector Games](https://nanochess.org/store.html) and its certainly the clearest and most accessible assembly language tutorial Ive ever seen.  It also explains exactly how to get your programs running on any computer (hint: use dosbox or boxerapp)
+I got this great book called [Programming Boot Sector Games](https://nanochess.org/store.html) and its certainly the clearest and most accessible assembly language tutorial Ive ever seen.  It also explains exactly how to get your programs running on any computer (hint: use dosbox or boxerapp).  
+
+### Comments about Programming Boot Sector Games ###
+I can send these to biyubi@gmail.com when I'm done.
+* In section 1.6 the batch file has an error.  It needs '=='
+* Example logical1.asm doesn't mention what the output of the program is supposed to be so we dont know if we did it right.
+
+
 
 
 
