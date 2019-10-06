@@ -9,6 +9,20 @@ Here's what I've learned so far:
 ### How to make a link
 `[Name](link)`
 
+#### How to link directly to a header
+`[click here to go to header near the bottom](delineating-sections)`
+
+[click here to go to header near the bottom](delineating-sections)
+
+note that you need to replace spaces with `-` and lowercase all of the words.
+
+#### Linking to a header in another file
+`[go to header in another file](Tutorials.md#low-poly-island)`
+
+[go to header in another file](Tutorials.md#low-poly-island)
+
+
+
 ### H3 Header##
 `### H3 Header##`
 #### H4 Header##

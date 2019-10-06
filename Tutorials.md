@@ -1,6 +1,5 @@
 # Tutorials #
 
-* [Low Poly Island](#low-poly-island)
 
 # Hitchhikers Guide to the Tutorialsphere #
 
@@ -113,7 +112,7 @@ In 2019 Blender received a large and critical update called 2.8 which changed so
 
 ## Blender 2.8 ##
 * [Make a low poly animal](https://www.youtube.com/watch?v=6mT4XFJYq-4) (or anything really) starting with a picture to trace from in just 10 minutes
-
+* [Low Poly Island](#low-poly-island) (see below for more about this one)
 
 ### Low Poly Island ###
 [Low Poly Island](https://www.youtube.com/watch?v=0lj643VmTsg) 
