@@ -108,7 +108,7 @@ This took me 80 minutes and I did it all while I was watching John Carmacks Ocul
 
 # Blender #
 
-In 2019 Blender received a large and critical update called 2.8 which changed some key things about the user interface.  
+Around early 2019 Blender received a large and critical update called 2.8 which changed some key things about the user interface.  
 
 ## Blender 2.8 ##
 * [Make a low poly animal](https://www.youtube.com/watch?v=6mT4XFJYq-4) (or anything really) starting with a picture to trace from in just 10 minutes
@@ -117,7 +117,9 @@ In 2019 Blender received a large and critical update called 2.8 which changed so
 ### Low Poly Island ###
 [Low Poly Island](https://www.youtube.com/watch?v=0lj643VmTsg) 
 
-Following along with the low poly island tutorial.  this will be the first Blender 2.8 tutorial I have ever followed along with.  
+Following along with the low poly island tutorial.  this will be the first Blender 2.8 tutorial I have ever followed along with.  Ok I'm just 2 minutes in and I love this low poly sculpting mode.  This is so cool!  its fun and it looks amazing.  I got blender 2.8.1 thinking it wouldn't matter much but it did immediately.  in the Dynamic Topology settings in this video it says to set the detail size to 6, well in this version it should be set to 0.5.  it was hard for me to believe that I had that setting wrong otherwise it would have made a lot of sense to change that value.  I'm actually going to change it down a bit more actually.  
+
+topics: Scuplt, Dynamic Topology, Sculpt symmetry, Changing brush radius, knife tool, making water material shader, using hdris, lighting, transparent shader, glossy shader, vertex paint, 
 
 
 ## Blender 2.79 ##

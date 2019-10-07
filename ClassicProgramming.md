@@ -130,6 +130,11 @@ I got this great book called [Programming Boot Sector Games](https://nanochess.o
 I can send these to biyubi@gmail.com when I'm done.
 * In section 1.6 the batch file has an error.  It needs '=='
 * Example logical1.asm doesn't mention what the output of the program is supposed to be so we dont know if we did it right.
+* The commas in the code throughout the book are too small and they look like periods.  My eyes confuse them but can figure it out, but I don't think everyones eyes could and thats such an important punctuation in code I think the font should have been (or should be) slightly modified to have the commas be clearer.  Its not a show stopper and an experienced assembly programmer wouldn't get tripped up by this because they would know 'no one every puts periods there', or something like that, but as a beginner its tripping me up a little bit every 30 minutes or so, in fact most of my errors end up being because I typed a . instead of a , and even on second inspection my eyes dont always see that distinction.
+
+
+
+
 
 
 
