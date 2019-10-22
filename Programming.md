@@ -1,5 +1,8 @@
 
-## Assembly onModern Mac ##
+# Music Programming #
+* Sonic Pi is an application with a music synthesizer programming language with tons of great features in the IDE and built in tutorial and documentation.
+
+# Assembly on Modern Mac #
 This is actually pretty tricky to do assembly on modern systems unless you really know what you're doing.  
 
 * I got a hello world going from [James Fishers tutorial])
@@ -24,5 +27,17 @@ Programming training comes in 1000 varieties so this section is for sites that a
 Unity, Unreal are the two big engines. Here are a few more intriguing ones:
 1. [Raylib](https://www.raylib.com/examples.html) (Straightforward C and OpenGL library with tons of language bindings and lots of capability)
 
+Unity Versions Installed:
+5.0.0f4
+2019.2.8f1
+Some 2018 version
+
 # Makefiles #
 [Super simple makefile](https://spin.atomicobject.com/2016/08/26/makefile-c-projects/)
+
+
+# Merging #
+
+## Windows ##
+* WinMerge (FOSS) 3 way, directories, images
+* Meld (FOSS) 3 way, directories, nice graphics to show the merges, written in python?  The file selector boxes are unfamiliar (though not problematic in any way)   it wont let you reload the diff that you did (like when you changed something which happens a lot) instead you have to start a new diff.  It didn't identify carriage return differences which winmerge did identify instantly.  This could be a blessing or a curse because some people dont want those to be identified, however I didn't see that in the options for this program.

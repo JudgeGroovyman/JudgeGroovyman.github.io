@@ -1,3 +1,32 @@
+
+
+<!--
+  __  __           _      
+ |  \/  |         (_)     
+ | \  / |_   _ ___ _  ___ 
+ | |\/| | | | / __| |/ __|
+ | |  | | |_| \__ \ | (__ 
+ |_|  |_|\__,_|___/_|\___|
+-->
+
+
+# Music #
+
+* [Chuck for Unity](http://chuck.stanford.edu/chunity/) is a music programming language and synthesizer right inside Unity
+* [Procedural Music Generator](https://assetstore.unity.com/packages/audio/music/orchestral/procedural-music-generator-99791) 
+
+with many styles available and a desktop demo to see what it can do.  Its pretty cool honestly but its a bit tricky to figure out how to make it sound consistent.  For the style presets it has though you could just hit go and it would be perfect. 
+
+
+
+
+
+
+
+
+
+
+
 <!--
  __      __________   __           _____           _   _      _           
  \ \    / /  ____\ \ / /   ___    |  __ \         | | (_)    | |          
@@ -22,10 +51,6 @@ Creepy lava energy trails
 You can change the color
 
 Trick for Mobile Platforms: disable HDR and check 'Use 32-bit Depth Display Buffer' for bloom to work correctly
-
-
-
-
 
 
 

@@ -1,3 +1,29 @@
+# Music #
+
+## Albums From My Past ##
+Masterpieces
+### Some that not everybody recognizes ###
+1. Savage Garden(1997) - I remember loving some of the songs on this but I don't remember listening to the album, however when I listen in 2019 I remember half of the songs fondly.  "Carry On Dancing"  "In Santa Monica in the winter time" "You moved me in a way that I've never known" "So Break me shake me take me over"
+2. Collective Soul - Collective Soul
+3. Laura Marling - I speak because I can
+4. Laura Marling - Once I was an Eagle
+
+
+### Some classics ###
+1. Neil Young - Harvest
+2. Dave Matthews Band - Crash
+4. Bob Dylan - The Times they are a Changing
+5. Billy Joel - The Stranger
+
+## Recent ##
+
+### Unexpected Masterpieces ###
+1. Astronoid - Astronoid  Start with the song Breathe.  This is some kind of catchy, major key electronic metal.  Reminds me of Devin Townshend.
+
+### Albums from my playlist that help me think ###
+1. Bon Iver
+2. Tegan and Sara
+
 
 # TV #
 ## Star Trek Voyager ##
