@@ -1,3 +1,14 @@
+# Doom #
+to play with wads:
+1. Right click gzdoom.exe and create shortcut
+2. Right click the shortcut and hit properties
+3. in the target field add: -iwad DOOM2.wad -file Valiant.wad -savedir Valiant
+
+Or make a .bat file with the same command
+
+## Doom Wads ##
+1. Valiant - wow this is wonderful.  The level design is great and had many moments of scary stuff jumping out at me when I entered a new room or flipped a switch.  The enemies they throw at you are hard but not too hard (I'm playing on difficulty 3/5) and the level was really interestingly laid out with lots of secrets that made me feel clever for finding them.  I just beat level one and it took me about 15 minutes doing it leisurely but I'm sure it actually took more due to save states.  
+
 
 # Crossplay VR #
 

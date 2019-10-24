@@ -86,6 +86,8 @@ Added Sep 9 2019
 Unity 2018.3.4f1
 Topics: 2D Sprite Animation, Mecanim, 
 
+
+
 ### Arkanoid ###
 I'm doing [this Arkanoid tutorial from noobtuts](https://noobtuts.com/unity/2d-arkanoid-game)
 
@@ -94,7 +96,8 @@ The blocks arent breaking consistently.  Maybe my speed is too fast?  Nope in th
 This took me 80 minutes and I did it all while I was watching John Carmacks Oculus Connect 6 keynote.  Its a good tutorial and you end up with a fun simple game when you're done!
 
 
-
+### Bejeweled ###
+I bought the premium Noobtuts (because they're great).  in the 'Solving Matches' section it doesn't say where to put the code there.   I guess it presumes you know you are working in the same file as last time.  Thats probably ok. Its really nice having access to all of the source code so you can see where you went wrong. 
 
 # Starting Points #
 1. [Unity Learn](https://unity3d.com/learn) website

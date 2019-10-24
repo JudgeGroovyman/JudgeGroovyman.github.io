@@ -4,6 +4,14 @@
 - [Hookpad](https://www.hooktheory.com/hookpad/app) is so cool you get to lay out chord progression and it plays them for you.  Its great for songwriting because it keeps you in the key.  If you want to export directly you have to purchase for $5. (thats just for one month) but then it can go to MIDI or guitartab or sheet music.  One really cool feature is you just type 1-7 with your keys but if you get up to 7 and go right back to 1 it assumes you're trying to go up an octave!  Thats so intuitive!  Its got a magic chord feature (only available a few times in the free version) that you can use twice that fills in a chord and tells you what pop songs used that chord in that situation. 
 - [Autochords](https://autochords.com/) generates chord progressions in any key with different feels
 
+# Helio #
+This is a great program with a funky interface.  Its really cool how you can use layers and how you can introduce chords.  I wish it had some kind of automatic arpeggiation feature but maybe it does or maybe theres an easy way to use what it has to do that.  I don't know how to explicitly save or load and scrolling around is unusual.  I dont know what most of the buttons do.  
+
+## Learning ##
+* Right click switches layers.  You can also click the box button in the top left and select a layer from there. 
+* Middle click and drag on a note to lower the attack
+
+
 # DAWs and VSTs #
 I was looking for free or cheap DAWs to use VSTs with because there are so many cool VSTs that I want to fiddle with.  Well first I figured out that you don't need a DAW that you can use VSTs with a little host program like savihost.
 

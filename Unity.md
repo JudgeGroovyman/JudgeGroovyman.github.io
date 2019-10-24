@@ -7,7 +7,14 @@
 # Starting Point #
 1. Title Screen
 2. Scoring
-3. 
+3. Game Over Screen
+4. High Score Screen (optional) (could be part of title screen)
+5. Rotator
+6. InGameText fields
+7. Quick Level Loader
+
+## Starting Point Assets ##
+
 
 
 # Skills #
