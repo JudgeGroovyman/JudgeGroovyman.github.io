@@ -17,7 +17,24 @@
 
 
 
+# Improvements to QOL #
+* TODO Manager - $0 Searches your project for TODOs
+* Scene Heirarchies
+
+
+
+# Investigate #
+* .CSX files and Roslyn (with https://assetstore.unity.com/packages/tools/visual-scripting/ucodeeditor-117349)
+* Scriptcs.net
+* Building C# from within visual studio for instant running of unit tests
+* [Unity Runtime Inspector](https://github.com/yasirkula/UnityRuntimeInspector) - This seems really cool allowing you to change a bunch of values from within the game world.  This seems like it could be almost universally useful. [Here is a youtube video](https://www.youtube.com/watch?v=bpy4yAUHNps) about how to use it.  Here it is on [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/runtime-inspector-hierarchy-111349?aid=1011lQ8D&cid=1100l6EZxMsF&utm_source=aff)  [Tweakable Member](https://gist.github.com/Danik/85d4a7b6d344e69c7579) does something very similar but you just add that tag to your properties.
+* [Giles](https://github.com/Unity-Technologies/giles) lets you adjust settings during runtime but its a level editor also that saves data as JSON
+
+
+
 # Skills #
+Part of the point of developing your skills is so you can focus on the problem space.  if you're trying to make a pacman game you don't want to have to spend your time trying to solve problems with scene loading or editor scripts or displaying text to the user.  These are things that most or all games have to deal with and problems which have been solved before.  YOu want to be able to make your game out of problems that you can solve without them dragging your attention away from the unique problem you are trying to solve.  You want to make a game mostly out of problems that have been solved already and a little bit out of problems that you have to solve uniquely for this game.  
+
 * Scene heirarchies - Preload your character and camera in one scene and make it dont destroy on load then load the rest of your levels via other destroyable scenes.  Also in other scenes if theres no player then load the main scene.  Also you could load the other scenes super smooth without disrupting gameplay much at all.
 * Probuilder
 * UI fields that can be easily changed from scripts
@@ -28,8 +45,11 @@
 * Vertex Shaders
 * Motion Shaders (like grass for a lively world (brackeys has a video on a grass shader but I think there is one in the unity standard assets)
 * Delegates rather than messages (more work to do on this one)
+* Extension Methods
+* Editor Scripts (able to make one from nothing in 2 minutes with no mental complexity)
 
-# Rename Script #
+
+# How to Rename a Script #
 This is a very tricky business.  I just had success with the following but don't do this without a full backup and a way to figure out if it all worked.  You might want to list what objects use the script so you can check them afterwards.
 
 1. In Unity project view in assets folder right click on the script and go to rename and rename it. 

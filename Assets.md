@@ -1,3 +1,32 @@
+<!--
+   _____           _       _   _             
+  / ____|         (_)     | | (_)            
+ | (___   ___ _ __ _ _ __ | |_ _ _ __   __ _ 
+  \___ \ / __| '__| | '_ \| __| | '_ \ / _` |
+  ____) | (__| |  | | |_) | |_| | | | | (_| |
+ |_____/ \___|_|  |_| .__/ \__|_|_| |_|\__, |
+                    | |                 __/ |
+                    |_|                |___/ 
+					
+-->
+
+# Scripting #
+
+## Runtime ##
+I love the idea of having game logic able to be changed during runtime with no ill effects.
+Possibly one of these would do the trick
+* [Freedom Script](https://assetstore.unity.com/packages/tools/freedom-script-67440) or [Freedom Script Demo](https://assetstore.unity.com/packages/tools/freedom-script-demo-68621)
+* [Moddable](https://assetstore.unity.com/packages/tools/integration/moddable-29573)
+* [Miniscript](https://assetstore.unity.com/packages/tools/integration/miniscript-87926) voted as the least intimidating programming language
+
+
+## Visual Scripting ##
+* [Panda BT Free](https://assetstore.unity.com/packages/tools/ai/panda-bt-free-33057)  $0 Text based (the pro version is $30 and has an inspector drag and drop editor) but apparently works fairly well.
+* [AI Machine](
+https://assetstore.unity.com/packages/tools/ai/ai-machine-aim-visual-programming-and-ai-122906) $10 No.  This looks like a great visual scripting solution but there are no reviews.  It was updated earlier this year.  Not until there are reviews or a detailed how to on youtube.
+* [Behavior Bricks](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-bricks-74816) $0  No because reviews indicate shitty documentation lots of bugs and spotty support
+
+
 
 
 <!--
