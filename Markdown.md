@@ -9,6 +9,20 @@ Here's what I've learned so far:
 ### How to make a link
 `[Name](link)`
 
+#### How to link directly to a header
+`[click here to go to header near the bottom](delineating-sections)`
+
+[click here to go to header near the bottom](delineating-sections)
+
+note that you need to replace spaces with `-` and lowercase all of the words.
+
+#### Linking to a header in another file
+`[go to header in another file](Tutorials.md#low-poly-island)`
+
+[go to header in another file](Tutorials.md#low-poly-island)
+
+
+
 ### H3 Header##
 `### H3 Header##`
 #### H4 Header##
@@ -132,6 +146,13 @@ This is the same thing in a tricky markdown comment (Ideally you won't see this 
 
 If you put something like this in your markdown source it will be easily scanned by a human reader.
 
-## How to make ##
+## How to make AsciiArt Headers ##
 
 http://patorjk.com/software/taag/#p=display&f=Big&t=Meshes
+
+
+# Making Presentations #
+Can markdown be used (or abused) to make a presentation like this? 
+http://simeonfranklin.com/talk/pyglet/slides.html#slide-7
+
+

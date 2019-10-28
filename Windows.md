@@ -1,8 +1,12 @@
-# Windows
+# Dropbox #
+* If the client gets stuck cyncing files heres an [advanced possible workaround](https://www.reddit.com/r/dropbox/comments/8rae7h/dropbox_stuck_on_indexing_syncing_in_windows_10/)
+
+# Windows #
 
 
 
-### Custom Context Menu Items
+
+# Custom Context Menu Items #
 create a .reg file and paste some commands in there then right click and 'merge' to merge it into your registry.
 UPDATE: This may only work on Win7 not Win10
 
@@ -18,7 +22,7 @@ REGEDIT4
 https://superuser.com/questions/98717/get-the-parent-of-a-folder-from-search-results
 
 
-### Launching powershell or command.exe ###
+# Launching powershell or command.exe #
 shift right click on a folder and select `open powershell window here` 
 
 if you want to use the command.exe features instead of powershell just type cmd at the powershell prompt

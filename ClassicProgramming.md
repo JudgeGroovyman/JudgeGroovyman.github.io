@@ -40,7 +40,11 @@ Given the computer I had and the skills I had as a kid this was the second most 
 * Archive.org has the manuals to [all versions of AMOS](https://archive.org/search.php?query=AMOS%20Manual) can be found.
 * A book called [Amiga Game Maker's Manual](https://computerarchive.org/files/comp/applications/amiga/manual/Amiga%20Game%20Makers%20Manual%20-%20With%20AMOS%20Basic%20-%20Manual-ENG.pdf) is all about programming with AMOS. 
 * A book called [Ultimate AMOS](https://amigasourcecodepreservation.gitlab.io/ultimate-amos/) from 1994 is on gitlab now
-
+* A [forum about AMOS Development](https://www.ultimateamiga.com/index.php?PHPSESSID=s1rjf9gaoi5el4c6c4ed0egt6h&board=312.0) has trickles of activity and even an AMOS Pro v2.10 alpha release
+* A [github](https://github.com/AMOSFactory/AMOSProfessional) last updated in 2017 with very few commits but which was being worked on by someone at that forum at ultimate amiga
+* A very old packaged [AMOSPro installer for windows](http://eab.abime.net/showthread.php?t=60144) where the idea was to distribute AMOS with AROS and therefore have a completely free development environment that could be installed on windows.
+* [AMOSTools](https://github.com/kyz/amostools) Tools that let you extract the contents of .amos files
+* A [Wiki about AMOS](http://www.amigacoding.com/index.php/Main_Page) (and other Amiga languages) Development 
 ## Modern AMOS
 
 * The [AMOS Facebook group](https://www.facebook.com/groups/AmosPro/) is quite active in 2019
@@ -53,9 +57,147 @@ Another distant descendant of AMOS BASIC by other members of the AMOS team are [
 
 The third (and this is only a descendant by rumor) is called [livecode](https://livecode.com)
 
-AMOS Professional has been updated somewhat recently as an [open source project](https://github.com/marc365/AMOSProfessional).
 
 There is an open source reimplementation of AMOS in C++ which even supports AMOS sprite banks. Its called [XAMOS](https://sourceforge.net/projects/xamos/)
+
+## Running AMOSPro in 2019 ##
+It seems to run perfectly from the latest github master branch files (there are already built binaries in there in an AMOS directory)
+
+### Tips ###
+If you want to switch back to workbench hit the WB at the top right, then when in the workbench to switch back to AMOSPro press amiga+a (windows key in winUAE)
+
+## Building AMOS Pro from Source in 2019 ##
+
+
+
+### Adventures in OS3.1 ###
+Trying to compile in OS3 I had much more luck and it compiled through many sections but failed on clib.  It said Loading LEqu.s, loading +CLib.s, c/Check_CLib failed returncode 20.  this happens on my A1200 and A4000 configuration
+
+#### Releases didnt work ####
+The source release version didnt work because none of the scripts are executable.  I retried the source version but only unzip on the amiga side instead of unzipping on windows but this didn't change anything (scripts still not executable)
+
+The core release version didn't work because it expected volume AP2 in any drive.  
+
+### Figuring out Git Problem ###
+I noticed that the git zip file compiled but the git clone didnt.  Why not?  Well after several diff tools I found out it is indeed line endings where the unix versions of the files worked and the windows did not.  
+
+1. How to use git on windows but extract the unix versions of the text files or
+2. How to convert them and then 
+3. Try the original source release again because with this fix it might actually work just fine.  
+
+### Next Steps ###
+
+
+Now on to several things
+1. DONE Cloning the latest git and executing it with that 
+2. DONE With the properly configured repo I did a checkout on the ref id of the source release and it didn't work because nothing was executable but not because of line endings but because Make_Labels failed returncode 20 or File not found.  I presume their protections were different but I tried protect +e on everything.
+3. DONE With the properly configured repo I did a checkout on the ref id of the core release but then it demanded AP2 so `assign AP2: /AMOSProfessional` and then it built successfully!
+2. DONE Delete the AMOS executables before building and see if it makes new ones.  Result: AMOSPro is there but compiler shell disappears
+3. DONE Try protect +s instead of -se 
+3. DONE Try protect +e instead of -se
+3. DONE Try protect +se instead of -se
+3. Get OS3.1.4
+
+
+### I FIXED IT!!! ###
+I feel like a genius!  I did some digging through the code and figured out where it was dying it was looking for `+CLib.s` so I went and looked for that file to be in the same folders that the other files it was looking for were located and it wasnt there!  I hoped I had come upon a solution and when I found it and copied it in then it started working!   YES `execute aall` totally works now!!!  Also it explains why it would have worked for him because in his folder this file was undoubtedly already copied over.
+
+
+
+#### How to fix ####
+
+Two ways to fix it:
+1. Copy (not move) `compiler/+CLib.s` to the main build directory
+2. Move `compiler/+CLib.s` to the main build directory and then update the two paths in `compiler/aclib`
+
+to test whether your fix worked type `execute compiler/aclib`
+
+If you want to dig deeper and try to fix the `c/Check_CLib` then open it in AMOSPro (theres a working version in the latest master branch in the AMOS folder before you even compile)
+to compile `c/Check_CLib` type `execute atools`
+
+
+### I fixed the scripts not executable problem too!!! ###
+It was a unix windows line ending problem and it seems that if we were to add a .gitattributes to the AMOSProfessional folder that had just one line it in then no matter how the users git client is configured (which mine wasn't configured) it will override and use only unix line endings throughout.  
+
+
+```
+* text=auto eol=lf
+```
+
+Adding something like these lines would just help it figure things out
+```
+*.iff binary
+*.o binary
+*.AMOS binary
+*.Bin binary
+*.bin binary
+*.Lib binary
+*.lib binary
+*.Abk binary
+*.anim binary
+*.Anim binary
+*.info binary
+*.prefs binary
+bin/* binary
+c/* binary
+*.s text=auto eol=lf
+
+```
+
+
+
+### New email ###
+I know its been a while since our last correspondence but yesterday I was finally ready to sink my teeth into AMOSPro and hooray! I got it built but there was a problem and I had to use a workaround so I wanted to get your input about next steps.
+
+Problem and workaround:
+Using the master branch zip file and typing `execute aall` it built for a while but died when the scripts were trying to `execute acomp` with this error: `c/Check_CLib failed returncode 20`.  
+
+My workaround: I finally figured out that if the file `+CLib.s` is in the top level build directory everything builds!  
+
+What should we do?
+Option 1: We could move this file to be permanently in the top level directory and change two lines in `compiler/aclib` to point back to that top level directory.  I have gotten this approach working consistently.
+Option 2: (this is over my head) We could somehow change the `c/Check_CLib.AMOS` to work with the location of the file `compiler/+CLib.s`, however this is over my head.  I did attempt this in the AMOS source for `c/Check_CLib.AMOS` but couldn't get it to work.
+Option 3: Other Options?
+
+What do you recommend and how can I help?  Thanks for doing all of this.  Its really cool.
+
+Thanks,
+John
+
+P.S. I'm also going to try Francois Lionet's new AMOS 2 soon to see what its like.  I did become a patreon patron of that project last night because it looks really cool. 
+
+
+
+P.S. Some history of what I tried in case you're interested:
+* I accidentally (long story) got legacy OS3.1 installed rather than OS3.1.4 and it is working well but I will probably get OS3.1.4 installed sometime soon.
+* I couldn't get either of the releases to even begin building on OS3.1
+	* My success above came using a zip of the latest files from the master branch.  
+	* the `sources release` as it is has windows CRLF settings so none of the scripts will execute on the Amiga side.  This initially happened for me with the latest master branch too and I think if we added just one line to a .gitattributes file we wouldn't have this problem.
+	* the `core release` immediately demanded volume AP2 but when I assigned that to the AMOSProfessional directory it built just fine.
+	
+### For my debugging ###
+Its dying on execute 
+
+ recompiles the c/check_clib
+
+### Misadventures in OS4 ###
+ 
+Big Update (10/8/19): I don't think I was ever supposed to (or able to) get it compiling in OS4.1.  I think that was a mistake in how I read his emails.  Oops.  
+
+(10/7/19)
+
+AMOS Professional has been updated somewhat recently (2017/18) as an [open source project](https://github.com/marc365/AMOSProfessional) and I contacted the dev and am going to try to build it.  First I have to get it into my AmigaOS4.1 environment (since thats what the email that I got from the maintainer said to do) and I'm using local FTP for that.  I might try building it on the RAM disk to speed up the process, the disadvantage is if anything goes wrong and I have to restart I lose it all :(  No I dont think disk access is going to be the bottleneck here so I'm not going to risk it.
+
+I did what his instructions said in an email: download the releases and then go into the directory and type execute aall but the first thing it said was "ALib: file is not executable" and when I looked through the scripts I found that they were nested and none of the scripts had been marked executable.  I'm not sure if thats even possible to maintain the executable status in a zip file so maybe this is normal.  Anyway I had to just type `protect <file> -se` s for script e for executable.  for all of the things in all of the scripts.  Wait maybe tar.gz will work better?  let me try that before I go much further.  Update: The tar did not work better.
+
+Once I finished making a bunch of them executable, execute aall ran but it also finished almost instantly making me think it didnt do anything at all.  It would be hard for me to believe that it had done all of the compiling and linking in an instant like that.  
+
+Ok it looks like there have been a lot of changes in the last few years since the releases so I'm going to grab the latest and see what happens.  Ok from that I got just a few lines of execution and then a guru meditation in OS4 which locked up the terminal. 
+
+I tried the core release in OS4 (immediate shell GURU Meditation).  I tried to build the latest master in OS4 in some kind of 68k compatibility mode but couldn't figure out how.
+
+I even built the latest github master branch on OS3.1 then transferred them to OS4 and they didnt execute then transferred them back to OS3.1 and they built and then tried them again on OS4 and this time got a guru meditation.
+
 
 # BASIC
 Fun Trivia: BASIC stands for Beginner's All-purpose Symbolic Instruction Code
@@ -124,12 +266,8 @@ The [8 bit show and tell channel](https://www.youtube.com/channel/UC3gRBswFkutes
 
 
 ## Assembly on Dos ##
-I got this great book called [Programming Boot Sector Games](https://nanochess.org/store.html) and its certainly the clearest and most accessible assembly language tutorial Ive ever seen.  It also explains exactly how to get your programs running on any computer (hint: use dosbox or boxerapp).  
+I got this great book called [Programming Boot Sector Games](https://nanochess.org/store.html) and its certainly the clearest and most accessible assembly language tutorial Ive ever seen.  It also explains exactly how to get your programs running on any computer (hint: use dosbox or boxerapp) and all of the programs work really well. 
 
-### Comments about Programming Boot Sector Games ###
-I can send these to biyubi@gmail.com when I'm done.
-* In section 1.6 the batch file has an error.  It needs '=='
-* Example logical1.asm doesn't mention what the output of the program is supposed to be so we dont know if we did it right.
 
 
 

@@ -75,7 +75,91 @@ Maybe I could combine some of these: Gauntlet (Find keys and food and the exit, 
 
 # Elements of Game Design
 
+
 # Structural elements
+
+### Doom ###
+Here are some of the elements that the doom engine and its surrounding ecosystem provides game developers out of the box without having to develop any of these things themselves.  Note: To be clear I mean no disrespect to game developers who make games using the doom engine since they still have to design the maps and layout all of the beasties and powerups and everything and do that for every difficulty level and playtest it all so theres still a lot of involvement and I have huge respect for everyone who does this.  Also there is a non trivial learning curve to get all the different bits and bobs hooked up and settings set in just the right way and to learn how to do all of that hooking up and setting and to learn to use all of the tools.  Its generally easier to learn to use a well designed and mature tool than to develop a tool yourself from scratch but that doesnt mean its trivial (although for some people I bet it is pretty trivial).  I don't have any insight into how well all of those processes are documented but my guess is they are documented very well as of 2019.  Also many game developers add their own textures and things so they are investing their own art into the process too.
+
+* Character controller
+	* Movement
+	* Aiming
+	* Shooting
+	* Shot Calculations
+	* Health Management
+* UI
+	* Health display
+	* Ammo display
+	* Level Complete
+	* Game Over
+	* Deep detailed options menu 
+	* options screens
+	* Deep in-game control reconfiguration
+	* Screen transition animations
+	* Simple Overworld level transition screens
+* Continue Structure
+	* Load at any moment
+	* Save at any moment
+	* Intuitive and Instant
+* Scoring
+	* Timing
+	* Par time to beat
+	* Statistics
+	* Secret count
+	* Kill count
+* Many Guns
+	* Models
+	* Sounds
+	* Shot Animations
+	* Projectile Art
+	* Projectile Animation
+	* Ammo maintenance
+* Weapon switching
+	* Inventory
+	* Animations
+	* Several switching schemes
+* Health Pickups
+	* Several varieties
+* Weapon Pickups
+* Player Damage
+	* Damage received indications
+	* Damage received animations
+* Enemy Damage
+	* Damage animations
+	* Damaged enemy graphics
+	* Blood
+	* Gibs
+	* Remaining blood
+* Enemy AI
+* Many enemy types
+* Levels
+	* Secrets
+	* Buttons
+	* Switches
+	* Doors
+	* Colored Keys
+	* Multiple wall types
+	* Stairs
+	* Moving platforms
+	* Elevators
+	* Walk through wall secrets
+	* Hidden buttons
+	* Trigger to spawn enemy groups
+	* Enemies hidden behind doors
+	* Enemies hidden on top of platforms
+	* Windows
+	* Outdoor areas
+	* Multiple skyboxes
+	* Darkness and Light
+* Automap
+	* Really detailed
+	* Live while moving around
+	* HUD based
+	* Minimap in corner (iirc)
+* Level Editor
+	* Ecosystem
+	
+
 
 ### Gauntlet
 * Explore Dungeon

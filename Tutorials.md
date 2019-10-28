@@ -1,6 +1,5 @@
 # Tutorials #
 
-* [Low Poly Island](#low-poly-island)
 
 # Hitchhikers Guide to the Tutorialsphere #
 
@@ -87,6 +86,8 @@ Added Sep 9 2019
 Unity 2018.3.4f1
 Topics: 2D Sprite Animation, Mecanim, 
 
+
+
 ### Arkanoid ###
 I'm doing [this Arkanoid tutorial from noobtuts](https://noobtuts.com/unity/2d-arkanoid-game)
 
@@ -95,7 +96,8 @@ The blocks arent breaking consistently.  Maybe my speed is too fast?  Nope in th
 This took me 80 minutes and I did it all while I was watching John Carmacks Oculus Connect 6 keynote.  Its a good tutorial and you end up with a fun simple game when you're done!
 
 
-
+### Bejeweled ###
+I bought the premium Noobtuts (because they're great).  in the 'Solving Matches' section it doesn't say where to put the code there.   I guess it presumes you know you are working in the same file as last time.  Thats probably ok. Its really nice having access to all of the source code so you can see where you went wrong. This was a really good tutorial with some very clever and straightforward ways of solving the problems that make it easy for a newbie to understand.
 
 # Starting Points #
 1. [Unity Learn](https://unity3d.com/learn) website
@@ -109,16 +111,18 @@ This took me 80 minutes and I did it all while I was watching John Carmacks Ocul
 
 # Blender #
 
-In 2019 Blender received a large and critical update called 2.8 which changed some key things about the user interface.  
+Around early 2019 Blender received a large and critical update called 2.8 which changed some key things about the user interface.  
 
 ## Blender 2.8 ##
 * [Make a low poly animal](https://www.youtube.com/watch?v=6mT4XFJYq-4) (or anything really) starting with a picture to trace from in just 10 minutes
-
+* [Low Poly Island](#low-poly-island) (see below for more about this one)
 
 ### Low Poly Island ###
 [Low Poly Island](https://www.youtube.com/watch?v=0lj643VmTsg) 
 
-Following along with the low poly island tutorial.  this will be the first Blender 2.8 tutorial I have ever followed along with.  
+Following along with the low poly island tutorial.  this will be the first Blender 2.8 tutorial I have ever followed along with.  Ok I'm just 2 minutes in and I love this low poly sculpting mode.  This is so cool!  its fun and it looks amazing.  I got blender 2.8.1 thinking it wouldn't matter much but it did immediately.  in the Dynamic Topology settings in this video it says to set the detail size to 6, well in this version it should be set to 0.5.  it was hard for me to believe that I had that setting wrong otherwise it would have made a lot of sense to change that value.  I'm actually going to change it down a bit more actually.  
+
+topics: Scuplt, Dynamic Topology, Sculpt symmetry, Changing brush radius, knife tool, making water material shader, using hdris, lighting, transparent shader, glossy shader, vertex paint, 
 
 
 ## Blender 2.79 ##
@@ -132,6 +136,28 @@ Following along with the low poly island tutorial.  this will be the first Blend
 # Shaders #
 
 As of 9/27/2019 my understanding of shader programming is somewhere between the first half of [this video about shaders for noobs](https://www.youtube.com/watch?v=JfC_ye23MvY) (which I understand pretty well) and [this video about truchet tiling](https://www.youtube.com/watch?v=2R7h76GoIJM&t=1160s) (which every step was almost entirely over my head)
+
+# VR #
+
+##  HTC Vive Tutorial using WMR Controllers ##
+
+https://www.raywenderlich.com/792-htc-vive-tutorial-for-unity
+This is a good tutorial to get some things started.
+
+problems/Adjustments:
+1.  About halfway through the tutorial they have you add a box collider to fit on the end of your controller to allow you to pick things up.  The dimensions are all wrong for a WMR controller.  These are better dimensions although you can adjust them so that it feels like your hand is within the object when you want to pick it up:
+Left Controller
+Center:
+X .015  Y -.04  Z -.04
+Size:
+X .1    Y .1    Z .08
+
+Right Controller
+Center:
+X -.015  Y -.04  Z -.04
+Size:
+X .1    Y .1    Z .08
+
 
 
 
