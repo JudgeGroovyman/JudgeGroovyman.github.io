@@ -20,8 +20,11 @@
 # Improvements to QOL #
 * TODO Manager - $0 Searches your project for TODOs
 * Scene Heirarchies
-
-
+* History Selection - [$20 History & Favorites Ultimate](https://assetstore.unity.com/packages/tools/utilities/history-favorites-ultimate-126302) or 
+[$6 History Inspector](https://assetstore.unity.com/packages/tools/utilities/history-inspector-44279) which looks like it works with prefabs or [$0 Simple Selection History Lite](https://assetstore.unity.com/packages/tools/utilities/simple-selection-history-lite-130881) or [$0 History and Working Set Window](https://assetstore.unity.com/packages/tools/utilities/history-and-working-set-window-60202) which lets you drag prefabs in and you can even drag and drop from the window into your public inspector fields.  Possibly could use [Choose Your Own Inspector](https://assetstore.unity.com/packages/tools/utilities/choose-your-own-inspector-73126) which lets you add components from many different objects to a custom window and there are more
+* In Unity Script Editors - This can dramatically speed up workflows.  $40 [Script Inspector 3](https://assetstore.unity.com/packages/tools/visual-scripting/script-inspector-3-3535)
+then Hidden in this cool [$15 power inspector - Oct 25 2019](https://assetstore.unity.com/packages/tools/utilities/power-inspector-140430) package is an in-unity editor.
+* Easily add a button to execute a routine in your script with [$10 Inspector Gadgets](https://assetstore.unity.com/packages/tools/gui/inspector-gadgets-pro-83013) or with the [$0 Button Inspector](https://assetstore.unity.com/packages/tools/utilities/buttoninspector-72858) which I havent used but am looking forward to using
 
 # Investigate #
 * .CSX files and Roslyn (with https://assetstore.unity.com/packages/tools/visual-scripting/ucodeeditor-117349)

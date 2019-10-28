@@ -97,7 +97,7 @@ This took me 80 minutes and I did it all while I was watching John Carmacks Ocul
 
 
 ### Bejeweled ###
-I bought the premium Noobtuts (because they're great).  in the 'Solving Matches' section it doesn't say where to put the code there.   I guess it presumes you know you are working in the same file as last time.  Thats probably ok. Its really nice having access to all of the source code so you can see where you went wrong. 
+I bought the premium Noobtuts (because they're great).  in the 'Solving Matches' section it doesn't say where to put the code there.   I guess it presumes you know you are working in the same file as last time.  Thats probably ok. Its really nice having access to all of the source code so you can see where you went wrong. This was a really good tutorial with some very clever and straightforward ways of solving the problems that make it easy for a newbie to understand.
 
 # Starting Points #
 1. [Unity Learn](https://unity3d.com/learn) website
@@ -136,6 +136,28 @@ topics: Scuplt, Dynamic Topology, Sculpt symmetry, Changing brush radius, knife 
 # Shaders #
 
 As of 9/27/2019 my understanding of shader programming is somewhere between the first half of [this video about shaders for noobs](https://www.youtube.com/watch?v=JfC_ye23MvY) (which I understand pretty well) and [this video about truchet tiling](https://www.youtube.com/watch?v=2R7h76GoIJM&t=1160s) (which every step was almost entirely over my head)
+
+# VR #
+
+##  HTC Vive Tutorial using WMR Controllers ##
+
+https://www.raywenderlich.com/792-htc-vive-tutorial-for-unity
+This is a good tutorial to get some things started.
+
+problems/Adjustments:
+1.  About halfway through the tutorial they have you add a box collider to fit on the end of your controller to allow you to pick things up.  The dimensions are all wrong for a WMR controller.  These are better dimensions although you can adjust them so that it feels like your hand is within the object when you want to pick it up:
+Left Controller
+Center:
+X .015  Y -.04  Z -.04
+Size:
+X .1    Y .1    Z .08
+
+Right Controller
+Center:
+X -.015  Y -.04  Z -.04
+Size:
+X .1    Y .1    Z .08
+
 
 
 

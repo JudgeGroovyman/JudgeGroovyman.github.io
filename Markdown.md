@@ -146,6 +146,13 @@ This is the same thing in a tricky markdown comment (Ideally you won't see this 
 
 If you put something like this in your markdown source it will be easily scanned by a human reader.
 
-## How to make ##
+## How to make AsciiArt Headers ##
 
 http://patorjk.com/software/taag/#p=display&f=Big&t=Meshes
+
+
+# Making Presentations #
+Can markdown be used (or abused) to make a presentation like this? 
+http://simeonfranklin.com/talk/pyglet/slides.html#slide-7
+
+

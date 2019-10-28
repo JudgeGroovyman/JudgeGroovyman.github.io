@@ -27,6 +27,9 @@ https://assetstore.unity.com/packages/tools/ai/ai-machine-aim-visual-programming
 * [Behavior Bricks](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-bricks-74816) $0  No because reviews indicate shitty documentation lots of bugs and spotty support
 
 
+# Event System #
+
+There is a system called [$0 Event Delegate System](https://assetstore.unity.com/packages/tools/integration/event-delegate-system-68785) that looks really good.
 
 
 <!--
