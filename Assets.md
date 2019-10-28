@@ -24,7 +24,7 @@ You can change the color
 Trick for Mobile Platforms: disable HDR and check 'Use 32-bit Depth Display Buffer' for bloom to work correctly
 
 
-
+[This is a library of particle effects, which you can freely use in your own projects.](http://wiki.unity3d.com/index.php/Particle_Library) I dont know how up to date they are but its cool anyway
 
 
 
@@ -268,5 +268,16 @@ The video shows the features of selecting triangles and faces, extruding, subdiv
 
 I couldn't get it to do anything at all in Unity 2018.3.4f1  Further the authors website is entirely dead.  I can't imagine this is ever going to work or get any support.  The last update was 2015, there is no longer a support or documentation website since those links are now entirely down.  Other people (in reviews) are reporting that it doesn’t work for them in Unity 2018 either.  
 Recommendation:  Supported Unity versions on the asset store say 4.0 or later however I think thats no longer accurate and needs to be changed to 4.0 through Unity 2017.
+
+
+# Procedural Generation Toolkit #
+
+The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit) seems to do some things that make procedural generation more pleasant.  Looped arrays (so you can just keep adding 1 to the index I presume), Color gradients, and colors in HSV 
+
+## Investigate ##
+[Procedural Toolkit](https://github.com/Syomus/ProceduralToolkit)
+[Straight Skeleton](https://en.wikipedia.org/wiki/Straight_skeleton) which can be done by the Procedural toolkit!  This might be perfect for what I need for beldevere!
+[CJ Lib](https://github.com/TheAllenChou/unity-cj-lib)
+[Bear Framework](https://github.com/MrSpecjal/unity-bear-framework)
 
 
