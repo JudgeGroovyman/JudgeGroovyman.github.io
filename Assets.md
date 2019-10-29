@@ -337,4 +337,16 @@ The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit)
 [CJ Lib](https://github.com/TheAllenChou/unity-cj-lib)
 [Bear Framework](https://github.com/MrSpecjal/unity-bear-framework)
 
-
+<!--
+  _                    _   _____            _             
+ | |                  | | |  __ \          (_)            
+ | |     _____   _____| | | |  | | ___  ___ _  __ _ _ __  
+ | |    / _ \ \ / / _ \ | | |  | |/ _ \/ __| |/ _` | '_ \ 
+ | |___|  __/\ V /  __/ | | |__| |  __/\__ \ | (_| | | | |
+ |______\___| \_/ \___|_| |_____/ \___||___/_|\__, |_| |_|
+                                               __/ |      
+                                              |___/       
+											  
+-->
+# Level Design #
+* [MonKey](https://assetstore.unity.com/packages/tools/utilities/monkey-editor-commands-productivity-booster-119938) seems to have some effective level design shortcuts built in.  its regularly updated and is made by game devs who are using it day to day so I have a good feeling about this.
