@@ -169,6 +169,11 @@ with colors, from REM Storm
 
 
 # Meshes #
+
+### Mesh Face Optimization ###
+[Mesh Face Optimization](https://assetstore.unity.com/packages/tools/modeling/mesh-face-optimization-99412?q=mesh%20face%20optimization&orderBy=0)
+This is for when you have combined primatives or other meshes to make bigger more interesting meshes and want to optimize them.  If you combine  meshes then they sit on top of and inside one another and this looks at that combined mesh and removes the invisible faces.
+
 ### Mesh Explosion ###
 $20 Blast apart a mesh into its triangles
 Level 2 (specific usefulness, great support)
