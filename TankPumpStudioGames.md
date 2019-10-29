@@ -12,9 +12,21 @@ I had fun making it and even playing it and have thought about re-creating it in
 # Survival Shooter
 
 
-# Game ideas #
+# Game ideas & Projects #
+
+* Serious Sam Shooter with those PBR enemies and fighters
+* Hogans Alley and Jungle hunt Shooter with the Tower Defense pack
+* Gauntlet Dungeon Crawler with that dungeon pack I'm getting tomorrow and some $20 projectile particle pack and with the cool statues and things that I downloaded
+* Alien Breed Dungeon Crawler using the metal Textures from one of the free assets I've got or seen recently or some of the PBR that I have bought before with each level having different color point lights and different statues with point lights and with some objects with only partial metal covering with emissive color textures underneath
+
+* Sprites on Chipped Dominoes
+* A pack of low poly assets with chipped shapes based on the ground shapes in the tower defense pack
+* Lots of generated low poly terrains by that open source terrain generator I found yesterday 
+
 ## Inspired by Amiga Games ##
 * Alien 3 is a great game.  See my review in the amiga section but a game like this with unlimited ammo and lots of exploration in tight corridors even overhead view I think would be a ton of fun.
+
+
 
 # Speed Chunk #
 The daring escape of Biff Speedchunk

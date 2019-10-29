@@ -1,13 +1,16 @@
-<<<<<<< HEAD
+# Projects #
+1. Assembly Boot Sector Book
+2. C64 programming from that guys assembly tutorials on YT
+3. Make a tetris game in Python (Pygame and then with Pyglet)
+4. Make a tetris game in C with SMFL (then in pure C# in Visual Studio)
+5. Make a synthesizer using the simple fluid synth API in C
+6. Write a game directly for [linux framebuffer](http://betteros.org/tut/graphics1.php)
+7. Write a game direclty on video hardware for [raspberry pi] (http://raspberrycompote.blogspot.com/2012/12/low-level-graphics-on-raspberry-pi-part_9509.html)
+8. Write a [game for DOS in C](https://nullprogram.com/blog/2014/12/09/)
+
+
 # Assembly #
 ## Assembly onModern Mac ##
-=======
-
-# Music Programming #
-* Sonic Pi is an application with a music synthesizer programming language with tons of great features in the IDE and built in tutorial and documentation.
-
-# Assembly on Modern Mac #
->>>>>>> 44129feb7fd6859ab9ff9873ccd8de34c80ff9b9
 This is actually pretty tricky to do assembly on modern systems unless you really know what you're doing.  
 
 * I got a hello world going from [James Fishers tutorial])
@@ -16,6 +19,7 @@ https://jameshfisher.com/2017/02/20/macos-assembly-hello-world/) but then I saw 
 * I heard earlier today that really assembly is about the details of the hardware as much as the language.  
 * Samuel Evans-Powell figured out some things about [learning NASM on macOS](http://sevanspowell.net/posts/learning-nasm-on-macos.html) like about syscalls and the differences on mac and linux and also in that article he talks about linking c and assembly, and he talks about not absolute addressing on mac osx, and also about padding the stack frame.  It suggests using gcc to link instead of ld which lets you use the c standard library.  
 * Here is a [Brainfuck Interpreter](https://www.kylem.net/programming/bf_interp.html) in x86-64 assembly
+* Here are some 8086 programs that I can probably get running like I did with nasm on the mac above or with the boot sector approach
 
 ### Linking with a C Library ###
 I wanted a super simple C Library so I'm going to [write one myself](https://www.quora.com/How-do-you-make-your-own-libraries-in-C-programming).  I got it working and was able to call a super simple C library that I made (that just printfs the input number) from assembly.  It sends a number as a parameter but I dont understand the assembly enough yet to decide how to tell it to send an integer.  I got it sending a string (char *) through to the C code though and it worked great!
@@ -32,6 +36,9 @@ I wanted a super simple C Library so I'm going to [write one myself](https://www
 # C #
 * [Freestanding C programs](https://nullprogram.com/blog/2016/01/31/) on windows.  this guy wrote some C programs for windows on linux with no external libraries or dependencies except operating System DLLs.  He also wrote some opengl style programs in tiny sizes for DOS (and he wrote those in linux too)
 
+# C++ #
+* To make SDL style grpahics with C++ (bindings for C and C# and others) use [SFML](https://www.sfml-dev.org/faq.php#grl-whatis)
+
 # Javascript
 
 [A set of simple Javascript programs](https://github.com/NishiGaba/100-Basic-Javascript-Programs)
@@ -45,17 +52,5 @@ Programming training comes in 1000 varieties so this section is for sites that a
 Unity, Unreal are the two big engines. Here are a few more intriguing ones:
 1. [Raylib](https://www.raylib.com/examples.html) (Straightforward C and OpenGL library with tons of language bindings and lots of capability)
 
-Unity Versions Installed:
-5.0.0f4
-2019.2.8f1
-Some 2018 version
-
 # Makefiles #
 [Super simple makefile](https://spin.atomicobject.com/2016/08/26/makefile-c-projects/)
-
-
-# Merging #
-
-## Windows ##
-* WinMerge (FOSS) 3 way, directories, images
-* Meld (FOSS) 3 way, directories, nice graphics to show the merges, written in python?  The file selector boxes are unfamiliar (though not problematic in any way)   it wont let you reload the diff that you did (like when you changed something which happens a lot) instead you have to start a new diff.  It didn't identify carriage return differences which winmerge did identify instantly.  This could be a blessing or a curse because some people dont want those to be identified, however I didn't see that in the options for this program.
