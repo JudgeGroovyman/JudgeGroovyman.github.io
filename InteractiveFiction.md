@@ -1,7 +1,16 @@
 PASTE THIS IN TERMINAL `grip  --user-content --user= --pass= . 2626)`
 [TO VIEW THIS CLICK HERE](http://localhost:2626/InteractiveFiction.md)
 
-# Interactive Fiction #
+
+# IF Comp 2019 #
+* Girth Loinhammer and the Quest for The Unsee Potion - "Beaureaumancer" HAHA!  This is really cool I got an adventure sheet and several online dice and am playing along.  "The worldbuilding in this place is a little heavy-handed" classic!  I didnt get the elixir but it was a really cool game! it says 15 minutes but it took me 30 and it was great.
+* Turandot - "your prison cell did not incommode me in the least.  ... Four stars out of five.  Would recommend."  haha!  OMG I just finished it - I played it all the way through and have a feeling that you can't actually die in the game but what a wonderful tale.  I played it over 2 days and enjoyed it thoroughly and feel lucky to have found it.  Theres even some deep insights about human connection in there.  
+
+
+# Writing Interactive Fiction #
+
+
+
 
 Note to self: Read This Over and Over.  Edit it.  Work with it.
 

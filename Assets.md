@@ -11,6 +11,13 @@
 -->
 
 # Scripting #
+## Script Inspector 3 ##
+1. I heard a rumor thats not true: 
+2. Biggest thing to get used to: Window Resizing to view google simultaneous (use a virtual desktop perhaps?
+3. Doesn't indent to line up with other lines in a block comment
+4. Doesn't explicity do a smart reformat.  I fully expected I could hit a key combination and it would reformat the whole document to meet coding standards (someones coding standards) but you have to open it in VS to do that (which is easy enough honestly so its not a show stopper)
+
+
 
 ## Runtime ##
 I love the idea of having game logic able to be changed during runtime with no ill effects.
@@ -355,3 +362,21 @@ The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit)
 -->
 # Level Design #
 * [MonKey](https://assetstore.unity.com/packages/tools/utilities/monkey-editor-commands-productivity-booster-119938) seems to have some effective level design shortcuts built in.  its regularly updated and is made by game devs who are using it day to day so I have a good feeling about this.
+
+
+
+# Virtual Reality #
+* VR Shooter Kit - This was released recently and has been getting lots of support and I'm glad because we needed something up to date like this.
+	* Comments: The SteamVR Installation manual doesn't mention what to do with the SteamVR_UnitySettingsWindow. I  selected Accept All and I hope that was right.  At least Steam VR suggested "You made the right choice!" with a popup haha.  
+	* Immediately after installing when I open the Example_SteamVR it says Missing Prefab.  
+	* There was an error when I selected Create Input Bindings and hit overwrite but hitting it again and the error doesnt reappear.  later: Interesting that when I did the final step in the installation manual (Save and generate) the error happened again (almost the same error anyway)
+	* The SteamVR Installation manual in step 8 should say something like "Now turn on Steam VR (from inside Steam), Open the example secene hit run and put on your headset to see some of what can be done with VR Shooter Kit"
+	* Manual: The path in step 2 says VRShooterKit/Prefabs/SteamVR but there isn't a SteamVR folder there, in the photo it gives me a clue to look in the PlayerSetup/SteamVR so I used that.
+	* VR Shooter Kit 
+	* VR Shooter Kit Test 2 is 2018 (accidentally) but I did everything else right and theres still a json error and it doesn't recognize my controllers
+	* VR Shooter Kit Test 3 is 2019 and latest kit and Steam 220.  Just installing steam I get that json error.  Create input bindings Overwrite and I get it again.  However one thing is different: When I clicked on Window SteamVR INput it said "looks like you are missing actions.json would you like me to generate"  I feel like it did more when I hit save and generate.  It didn't work either (the hands were behind me floating in the air instead of on the floor)
+	* VRSK 2019 SteamVR245 is what the name says.
+
+I followed the VRShooterKit authors video recorded instructions to make this binding.
+VRSK132 Unity2019.2.8f1 SteamVR245
+
