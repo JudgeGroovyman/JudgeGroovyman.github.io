@@ -34,7 +34,7 @@ The biggest problem with trying to run old computer software is they all assumed
 4. In the Amiga Desktop double click 'Software' on the left.
 5. And Voila!  whatever you have installed is in there somewhere.
 
-#### Emulator Controls ####
+### Emulator Controls ##
 1. F12 to select a different configuration
 2. To get back to windows click the middle mouse button
 2. To quit the game its either F10, or the End key, or the * on the numpad and if none of that works hit F12 and then click reset in the bottom left
@@ -43,28 +43,28 @@ The biggest problem with trying to run old computer software is they all assumed
 5. The help key is PgDn
 6. The pause button on PC keyboard pauses the emulation entirely
 
-##### New Games #####
+### New Games ###
 Pinball Fantasies is already in the emulator in the Software folder.
 
 You actually install new games in windows before you start the Amiga.  Copy the WHDLoad folder to <wherever you have your emulator>/Hard Disk/Software/ and then it will be there in the Amiga when you start it up.
 
 This isn't setup to run ADFs and I doubt they would work.  WHDLoad are way more compatible.
 
-##### Pinball Fantasies #####
+### Pinball Fantasies ###
 Pinball Fantasies is already in the emulator in the Software folder.
 
 * On the menu hit PgDn to switch to the second set of boards
 * F1-F8 to start that many players
 * For a screenshot hit print screen then you can paste it into mspaint and save it (or take a pic with your phone)
 
-##### Some warnings #####
+### Some warnings ###
 Occasionally a game wont save correctly so its worth making sure that it does early on if its a long game and you want to sink your teeth into it.  
 
 Some games save high scores and others dont.  Some save automatically and others dont.  Some games expect you to hit strange keys and you might have to look up winuae keyboard mapping.  
 
 I use A4000 turbo most of the time but if the game doesnt run or crashes or has graphical glitches or the music plays too fast or the sprites are moving too fast or something then switch back to 'A4000 Compatible'.
 
-##### Disadvantages of WHDLoad #####
+### Disadvantages of WHDLoad ###
 WinUAE Save States don't work.  Thats the only thing I can think of.
 
 
