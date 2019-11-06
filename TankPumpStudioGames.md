@@ -21,7 +21,7 @@ I had fun making it and even playing it and have thought about re-creating it in
 
 
 * Sprites on Chipped Dominoes
-* A pack of low poly assets with chipped shapes based on the ground shapes in the tower defense pack and the polygon prototyping pack vertex shaded
+* A pack of low poly blockout shapes with chipped shapes based on the ground shapes in the tower defense pack and the polygon prototyping pack vertex shaded
 * Lots of generated low poly terrains by that open source terrain generator I found yesterday 
 * Identify the top 10 materials I like best and want to use for my games (plus the meat of course) and 10 more cool normal patterns
 * A pack of 

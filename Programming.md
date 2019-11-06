@@ -7,7 +7,9 @@
 6. Write a game directly for [linux framebuffer](http://betteros.org/tut/graphics1.php)
 7. Write a game direclty on video hardware for [raspberry pi] (http://raspberrycompote.blogspot.com/2012/12/low-level-graphics-on-raspberry-pi-part_9509.html)
 8. Write a [game for DOS in C](https://nullprogram.com/blog/2014/12/09/)
-
+9. [Invent your own computer games with Python](http://inventwithpython.com/invent4thed/)
+10. [Cracking Codes with Python](https://inventwithpython.com/cracking/)
+11. [Making games with Python and Pygame](https://inventwithpython.com/pygame/)
 
 # Assembly #
 ## Assembly onModern Mac ##
