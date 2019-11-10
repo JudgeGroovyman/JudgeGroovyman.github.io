@@ -15,7 +15,9 @@ Or apparently you can drag and drop if the doom2.wad and doom.wad are in the sam
 
 
 ## Doom Wads ##
-1. Valiant - wow this is wonderful.  The level design is great and had many moments of scary stuff jumping out at me when I entered a new room or flipped a switch.  The enemies they throw at you are hard but not too hard (I'm playing on difficulty 3/5) and the level was really interestingly laid out with lots of secrets that made me feel clever for finding them.  I just beat level one and it took me about 15 minutes doing it leisurely but I'm sure it actually took more due to save states.  
+1. Valiant - wow this is wonderful.  The level design is great and had many moments of scary stuff jumping out at me when I entered a new room or flipped a switch.  The enemies they throw at you are hard but not too hard (I'm playing on difficulty 3/5) and the level was really interestingly laid out with lots of secrets that made me feel clever for finding them.  I just beat level one and it took me about 15 minutes doing it leisurely but I'm sure it actually took more due to save states. Update 10/29/2019
+ I just beat level 7 The Manchubian Candidate and all of the levels were really good.  It ended with some cool text exposition and then just kind of puts you in the menu which I think means I should start the next campaign in this wad.  They're all really good the way I play which is to be a bit careful and use lots of save states but I feel like I would have to be a lot better at the game to get anywhere on my first life.  Wow level 2.2 probably took me 2h (the game said 45 min but I had to start over many many times).  It is a puzzle just to try to survive the hordes and its very fun all along.  Level 2.3 took me 1:53 according to the game. In real world time looking at svae states ... 3h15m wow.  I'm proud of myself though.  I am having some doubts that I will be able to beat later levels at all if they get harder (which given that I'm only 1/4 through they surely will get harder)
+ 
 
 
 # Crossplay VR #

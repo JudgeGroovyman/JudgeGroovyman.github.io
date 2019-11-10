@@ -19,9 +19,12 @@ I had fun making it and even playing it and have thought about re-creating it in
 * Gauntlet Dungeon Crawler with that dungeon pack I'm getting tomorrow and some $20 projectile particle pack and with the cool statues and things that I downloaded
 * Alien Breed Dungeon Crawler using the metal Textures from one of the free assets I've got or seen recently or some of the PBR that I have bought before with each level having different color point lights and different statues with point lights and with some objects with only partial metal covering with emissive color textures underneath
 
+
 * Sprites on Chipped Dominoes
-* A pack of low poly assets with chipped shapes based on the ground shapes in the tower defense pack
+* A pack of low poly assets with chipped shapes based on the ground shapes in the tower defense pack and the polygon prototyping pack vertex shaded
 * Lots of generated low poly terrains by that open source terrain generator I found yesterday 
+* Identify the top 10 materials I like best and want to use for my games (plus the meat of course) and 10 more cool normal patterns
+* A pack of 
 
 ## Inspired by Amiga Games ##
 * Alien 3 is a great game.  See my review in the amiga section but a game like this with unlimited ammo and lots of exploration in tight corridors even overhead view I think would be a ton of fun.

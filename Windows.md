@@ -1,6 +1,10 @@
 # Dropbox #
 * If the client gets stuck cyncing files heres an [advanced possible workaround](https://www.reddit.com/r/dropbox/comments/8rae7h/dropbox_stuck_on_indexing_syncing_in_windows_10/)
 
+
+# Diff and Merge #
+* WinMerge seems to be the best option but theres something critical you have to do after you install:  Edit->Options->Compare->Folder->Include Subfolders  and then (immediately above that checkbox) Include Unique Subfolders Contents.  If you don't and you compare a directory tree it will happily tell you that they are identical when everything below the current level could be completely different.  In the last 24 hours I've done 5 or 6 diffs without that checked and I shudder to think what I might have missed.  
+
 # Windows #
 
 

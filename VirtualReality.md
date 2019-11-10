@@ -21,3 +21,13 @@ http://www.warrenrobinett.com/ecv/nasa_vr_vid1/index.html
 Games that dont work with wmr
 * [NMS, LA Noir, and SmashBall Arena](https://www.reddit.com/r/WindowsMR/comments/cqkiqy/if_you_want_wmr_support_for_no_mans_sky_tell/) pseudovive fixes all three
 * Tinertia works well with pseudovive in fact I beat the whole game and it performed flawlessly.
+
+# SteamVR #
+Simplest Steam project:
+1. Empty Unity Project
+2. Import latest SteamVR
+3. Drag in the CameraRig prefab from SteamVR/Prefabs 
+4. Turn on SteamVR
+5. Hit Run
+	* It will ask you a few questions just accept the defaults
+6. Then you will be in a simple VR experience of your own!
