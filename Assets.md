@@ -1,3 +1,6 @@
+
+
+
 <!--
    _____           _       _   _             
   / ____|         (_)     | | (_)            
@@ -362,7 +365,7 @@ The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit)
 -->
 # Level Design #
 * [MonKey](https://assetstore.unity.com/packages/tools/utilities/monkey-editor-commands-productivity-booster-119938) seems to have some effective level design shortcuts built in.  its regularly updated and is made by game devs who are using it day to day so I have a good feeling about this.
-
+* Octave looks really useful.
 
 
 # Virtual Reality #
@@ -380,3 +383,31 @@ The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit)
 I followed the VRShooterKit authors video recorded instructions to make this binding.
 VRSK132 Unity2019.2.8f1 SteamVR245
 
+
+# Investigate #
+## Humble Bundles ##
+- Humble Bundle: Ultimate Game Music Collection
+- uMMORPG
+- UFPS: Ultimate FPS
+- Modern Day Music Mini pack
+- RPG Maker 10 Tileset Packs
+	- Adventurers Journey
+	- Tyler Warren's First 50 battler pack dlc
+	- Royal Tileset Pack DLC
+	- High Fantasy Resource Pack DLC
+	- High Fantasy Main Party Pack DLC
+	- Futuristic Tiles Resource Pack DLC
+	- Inspirational Music pack DLC
+	- Tyler Warrens Second 50 Battler pack DLC
+	- Zombie Survival Graphic Pack DLC
+	- Rural Farm Tiles Resource Pack DLC
+- Heroic Fantasy Creatures full pack 
+- Exclusive RPG Maker Resource Pack
+- Best of Member Resources Samples
+- Inventory Pro
+- FlowCanvas
+- GameFlow
+- Realistic Effects Pack 4
+- Universal Sound FX
+- Gaia
+- Heroic Fantasy Creatures Full Pack Volume 1
