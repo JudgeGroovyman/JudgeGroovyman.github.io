@@ -1,3 +1,6 @@
+# Apps #
+- [Making an event app ](https://apptooltester.com/how-to-create-an-event-app/)
+
 # Projects #
 1. Assembly Boot Sector Book
 2. C64 programming from that guys assembly tutorials on YT
@@ -10,6 +13,10 @@
 9. [Invent your own computer games with Python](http://inventwithpython.com/invent4thed/)
 10. [Cracking Codes with Python](https://inventwithpython.com/cracking/)
 11. [Making games with Python and Pygame](https://inventwithpython.com/pygame/)
+12. Unity Virtual Reality Projects - humble bundle book
+14. Unity Game Development Blueprints - Humble bundle Book
+15. Discover Unity Game Development - From Zero to 12 Games Humble Bundle Book
+
 
 # Assembly #
 ## Assembly onModern Mac ##

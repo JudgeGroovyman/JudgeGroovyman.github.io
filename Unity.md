@@ -1,8 +1,62 @@
 # Unity #
 
+# Competitors #
+* Love
+* Godot
+* Unreal (of course)
+* Construct
+* Game Maker Studio - Community: toxic.  I even tried to argue in favor of it 'it cant be that bad' and I was assured that it was.  I own one version of this in humblebundle.
+* Amazons
+* RPG Maker - I own VX Ace and XP and a bunch of tile packs in humble bundle.
+
+## More Obscure Competitors ##
+* [JLud2D](https://github.com/rafael-esper/JLud2D) this looks like a great tiled compatible way to make Sega Master System and Genesis style games.  Updated May 2018
+* Defold
+* [Superpowers](http://superpowers-html5.com/index.en.html)
+* Clickteam Fusion - I own multimedia fusion 2 in humble bundle (Windows only for running, pay to export to mac)
+* Phaser.io
+* Pygame and its competitor for python ... (forgot name)
+* Raylib - C/C++ Code with no external dependencies.
+* Arcade is a python library for 2d arcade games - open source updated 4 days ago.
+* [Piston](https://www.piston.rs/) - A modular game engine written in rust updated 1month ago. 
+
+## More specific competitors ##
+* OpenBOR [OpenBOR Community](http://www.chronocrash.com/forum/) for making double dragon games and shooters and more.  Active development.  
+* Frogatto has a [built in level editor](https://frogatto.com/developer-info/) for making platform games
+* [Solarus](https://www.solarus-games.org/) Lightweight foss Action RPG engine.  Written in C++ games in LUA specifically for 16bit action rpgs like Zelda.  Updates in last weeks.
+* [Lionheart](https://www.b3dgs.com/v7/page.php?lang=en&section=lionengine) an engine dedicated to games like Lionheart or other Amiga style 2d games.  
+* Mario
+	* [The Secret Chronicles of Dr.M](https://secretchronicles.org/en/) a mario clone but with completely original IP and a built in level editor and a scripting language.
+	* [SuperTux](https://www.supertux.org/) updated 1hr ago
+	* [Mario-Game](https://github.com/jazzyjester/Mario-Game) plus level editor
+* [Rockbot](https://github.com/protoman/rockbot) megaman engine which is pretty flexible. 
+* [Dust Racing](http://juzzlin.github.io/DustRacing2D/index.html) Micro Machines or Super cars game engine with qt based level editor for new tracks.  
+* Minecraft all three updated recently
+	* [MineTest](https://www.minetest.net/) an open source voxel game engine.  Make your own game or play one of their many games.
+	* [Terasology](https://terasology.org/) Minecraft clone voxel game open source.
+	* [Veloren](https://veloren.net/) 
+	* [Hematite](https://github.com/PistonDevelopers/hematite) written in rust with the piston game engine.
+* [Xonotic](https://xonotic.org/) a 3d game engine primarily for multiplayer gaming
+* [Portal](https://glportal.de/) Free portal clone recently updated
+
+## Investigate ##
+* Skyline (drag and drop)
+* 001 Game Creator (PC only, templates available)
+* Cry Engine
+* PlayCanvas (Unity’s lightweight younger sibling)
+* GameGuru (The FPS Template master - easiest for 3D, Windows only - made by appgamekit creators))
+* Stencyl (has templates (kits), and good for simple games, subscription based?) 
+* AppGameKit (expensive-ish ($20-80 + asset bundles), very fast compilation cross platform)
+* GameSalad ($12-25/month subscription)
+* Buildbox ($2-300/yr sub, with the templates this is probably the fastest of all to make a simple commercial game)
+* Urho3D - free lightweight, cross platform 2d, 3d C++ MIT License.  
+* Duality2d - Promising Open source, clean understandable code in .net, life editing, introduce game logic via plugins, hot reload resources & plugins, updated recently.
 
 
-
+# Want #
+The same kind of resources Coppercube gives you out of the box in Unity + Some unreal features.
+* AI Enemies (patrol, chase, attack in a radius) models and code so you can drag and drop them into a scene which shoot projectiles and Ragdoll when killed
+* 
 
 # Starting Point #
 1. Title Screen

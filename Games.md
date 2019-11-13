@@ -1,3 +1,91 @@
+# Games that I have that I could play #
+## Humble Bundle ##
+- Super Meat Boy
+- Psychonauts (On drive F already)
+- Superfrog HD
+- System Shock 2 (maybe with a cheat?)
+- Transformers Comic Books
+- Trine 2 (On drive F already)
+- Universe Sandbox
+- Graphic Audio
+- Worms Armageddon (blast, crazy golf, pinball, revolution, ultimate mayhem)
+- Wizzywig: Portrait of a serial hacker
+- Pinball FX2 Core Pack and Marvel Pinball
+- Limbo
+- Giana Sisters (I already bought one of these didnt I?)
+- Democracy 2
+- Deathspank
+- Developers Dilemma
+- Carrier Command: Gaea Mission
+- Brutal Legend
+- Braid
+- Bit Trip Runner
+- Batman Arkham Asylum GOTY
+- Batman Arkham City GOTY
+- Batman Arkham Origins DLC
+- Bastion
+- All Hail Megatron
+- Alien Breed Complete Pack
+- Shadowgrounds (On drive F already)
+- Shadowgrounds Survivor (On drive F already)
+
+## Investigate from Humble Bundle ##
+- To the moon
+- Torchlight
+- Thirty Flights of Loving
+- Turbo Dismount
+- Wizorb
+- Titan Attacks
+- Revenge of the Titans
+- Out of the Park Baseball 14
+- Mortal Kombat
+- Machinarium
+- Free Games Bundle 1 RPG Maker
+- Free Games Bundle 2 RPG Maker
+- FTL: Faster Than Light
+- The Geneforge Saga
+- Gratuitous Tank Battles
+- Gratuitous Space Battles
+- Dungeons of Dredmor
+- Dustforce
+- Avernum Escape from the pit
+- Avadon The Black Fortress
+- Avernum The Great Trials Trilogy
+- Aquaria
+- Amnesia The Dark Descent
+- And Yet It Moves
+- A Valley Without Wind
+- The 7th Guest
+- AER Memories of Old
+- AI War
+- The 11th Hour
+- Cinders - a mature fairy tale
+
+## Investigate Open Source ##
+* [Endless Sky](https://github.com/endless-sky/endless-sky) an open source escape velocity nova clone which looks awesome.
+* [Lemmings](https://github.com/tomsoftware/Lemmings.ts) Lemmings in Javascript (Typescript)  or [LixD](https://github.com/SimonN/LixD) which was updated a few months ago and has over 700 puzzles and online multiplayer and included level editor. or [Pingus](https://gitlab.com/pingus/pingus) 
+* [Lionheart](https://www.b3dgs.com/v7/page.php?lang=en&section=lionengine) an engine dedicated to games like Lionheart or other Amiga style 2d games.  
+* [The Secret Chronicles of Dr.M](https://secretchronicles.org/en/) a mario clone but with completely original IP and a built in level editor and a scripting language.
+* [Megaman](https://github.com/CamHenlin/ExecutiveMan) clone for javascript in browser using tiled maps so you can make more.  
+
+## Investigate ##
+* [Mari0](https://stabyourself.net/mari0/) Mario with a portal gun and 4 player coop. Buildt with the Love engine.
+
+## Investigate Online ##
+* [Liero](http://www.liero.be/) recent commits [here](https://github.com/gliptic/liero)
+* BZFlag
+
+## Many Games One engine ##
+
+* [MineTest](https://www.minetest.net/) an open source voxel game engine.  Make your own game or play one of their many games.
+* Doom of course
+* Marathon
+* [Thief](http://www.thedarkmod.com/main/)
+
+
+
+
+
 # Doom #
 to play GZDoom with wads:
 Or apparently you can drag and drop if the doom2.wad and doom.wad are in the same folder as the gzdoom
@@ -18,7 +106,8 @@ Or apparently you can drag and drop if the doom2.wad and doom.wad are in the sam
 1. Valiant - wow this is wonderful.  The level design is great and had many moments of scary stuff jumping out at me when I entered a new room or flipped a switch.  The enemies they throw at you are hard but not too hard (I'm playing on difficulty 3/5) and the level was really interestingly laid out with lots of secrets that made me feel clever for finding them.  I just beat level one and it took me about 15 minutes doing it leisurely but I'm sure it actually took more due to save states. Update 10/29/2019
  I just beat level 7 The Manchubian Candidate and all of the levels were really good.  It ended with some cool text exposition and then just kind of puts you in the menu which I think means I should start the next campaign in this wad.  They're all really good the way I play which is to be a bit careful and use lots of save states but I feel like I would have to be a lot better at the game to get anywhere on my first life.  Wow level 2.2 probably took me 2h (the game said 45 min but I had to start over many many times).  It is a puzzle just to try to survive the hordes and its very fun all along.  Level 2.3 took me 1:53 according to the game. In real world time looking at svae states ... 3h15m wow.  I'm proud of myself though.  I am having some doubts that I will be able to beat later levels at all if they get harder (which given that I'm only 1/4 through they surely will get harder)
  
-
+## Marathon ##
+- A competitor for Mac was Marathon [modern version recently updated](https://alephone.lhowon.org/) by Bungie and I would probably have a blast playing it 
 
 # Crossplay VR #
 
