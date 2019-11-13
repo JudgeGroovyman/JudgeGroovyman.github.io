@@ -1,3 +1,5 @@
+
+
 # Jamming Online #
 - ChordChord lets you make chord progressions.  You define the key, instrument, arpeggiation, tempo, scale, etc and it will generate chord progressions.  This could be used to generate chords for entire songs very quickly.  Pro version ($5/mo) exports to midi which could then be loaded into garage band.
 - Sampulator is a really cool rhythm machine.  It uses the keyboard with easy recording and playback (shift and space).  No export though.
@@ -33,6 +35,11 @@ To use VSTs you need a host (some or many come as standalone packages as well bu
 * Reaper is free to try (and apparently never expires) and only $60 for full version
 * [Soundbridge](http://soundbridge.io) is free for PC or Mac and looks great but doesnt have midi typing
 * MuLab $69
+
+## Chiptunes ##
+* Renoise obviously
+* [Sunvox](https://www.warmplace.ru/soft/sunvox/) - Tracker + a thousand other things for pc and ios.
+* [OpenMPT](https://openmpt.org) I have not had good luck with this tracker, but it seems to be the most popular one for some time.  VST Plugin compatible too.  Recent updates too.  On second look it doesnt look bad, but I dont know what instruments i could use except I do because I could use instruments from my favorite amiga mods.  
 
 ## High Quality VSTs ##
 

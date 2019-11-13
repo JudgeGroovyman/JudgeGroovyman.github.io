@@ -1,3 +1,18 @@
+<!--
+  _____                    _       _            
+ |_   _|__ _ __ ___  _ __ | | __ _| |_ ___  ___ 
+   | |/ _ \ '_ ` _ \| '_ \| |/ _` | __/ _ \/ __|
+   | |  __/ | | | | | |_) | | (_| | ||  __/\__ \
+   |_|\___|_| |_| |_| .__/|_|\__,_|\__\___||___/
+                    |_|                         
+-->
+
+# Templates #
+## Full Game Templates ##
+- [Awesome space shooter on github](https://github.com/Blurlingite/space-shooter-pro) with a [demo at itch.io](https://blurlingite.itch.io/space-shooter-pro) Its got great graphics and explosions and sound.  Its super simple with probably random enemies coming at you, and the view is such that you cant see when theyre coming, but the basics are there for sure.  
+
+
+
 
 
 
@@ -39,7 +54,49 @@ https://assetstore.unity.com/packages/tools/ai/ai-machine-aim-visual-programming
 
 # Event System #
 
-There is a system called [$0 Event Delegate System](https://assetstore.unity.com/packages/tools/integration/event-delegate-system-68785) that looks really good.
+- There is a system called [$0 Event Delegate System](https://assetstore.unity.com/packages/tools/integration/event-delegate-system-68785) that looks really good.
+- [Script Intelligence Pack](https://assetstore.unity.com/packages/tools/integration/sip-script-intelligence-pack-96227) Free Updated in July. This lets scripts talk to one another.  "This has made my life as a beginner dev so much easier. You don't have to think about what a script can access and just do it and make everything coherent in a logical way thats very easy to understand"
+
+# AI #
+- [2D Platformer AI](https://assetstore.unity.com/packages/templates/packs/2d-enemy-ai-platformer-prefabs-137265) $5 and has 4 different interesting AIs for 2D platform games.  
+
+# Controllers #
+
+## 2D Platformer ##
+
+### Free from Asset Store ###
+- [Platformer Microgame](https://assetstore.unity.com/packages/templates/platformer-microgame-151055) Free on the asset store, updated Aug 2019, Only compatible with Unity 2018.4.6 or before.
+- [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) Free Full platformer asset without wall jump and advanced things but still. 
+- [Flat Platformer Template](https://assetstore.unity.com/packages/2d/environments/flat-platformer-template-108101) Free and looks pretty well featured
+- [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351) Free and there is a simple 2d platformer scene in the standard assets
+
+### Free from Github ###
+- [Akashenen 2d Platformer Controller](https://github.com/akashenen/2d-platformer-controller) #Favorites MIT License updated in May with all features I can imagine.  Moving Platforms, Wall Jump, slide, one way platforms.  This one is really good with good code and examples and everything.
+- [Vrompasa](https://github.com/vrompasa/2d-platformer-character-controller) a 2019 updated 2d platformer character controller.  No noted license information.  Simple code.  Wall jumping and sliding. one way platforms.  
+- [Cjddmut Unity 2d Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) Free - Updated 3-4 years ago but pretty advanced.
+- [JPBotelhos Unity Platformer Controller](https://github.com/JPBotelho/Unity-Platformer-Controller) Everything but wall jump including double jumping and jetpacks.  Updated May 2018
+- [Brackeys simple 2d Character Controller](https://github.com/Brackeys/2D-Character-Controller) 
+
+### Commercial from Asset Store ###
+- [Platformer Pro 2](https://assetstore.unity.com/packages/templates/systems/platformer-pro-2-140510) $80 and pretty advanced.  Competition with Corgi
+- [Triangulo 2d Platformer Game Template](https://assetstore.unity.com/packages/templates/packs/2d-platformer-game-template-139368) $5 and has sword combat built in which loosk amazing imho.
+- [Ghostisz Pixel Platformer Game Asset](https://assetstore.unity.com/packages/2d/characters/pixel-platformer-game-asset-156285) $15 and already used in a full game
+- [UniPhys Advanced Platformer 2D](https://assetstore.unity.com/packages/templates/systems/advanced-platformer-2d-15175) $15 Ladders, Railings, Wall Jump, Moving Platforms, Updated this year, Tutorial included.
+- [MCGames retro Platformer 2D](https://assetstore.unity.com/packages/templates/packs/retro-platformer-2d-132015) $9 Contra style game.  Probably a bit clumsy. Updated 1yr ago.  Looks great though.  
+- [GraphicDNA Platformer Code Toolkit](https://assetstore.unity.com/packages/templates/tutorials/platformer-code-toolkit-130597) $9.90 for super mario 1 controls, art not included.
+- [Wizcorp 2D Platformer Mini Staarter Kit](https://assetstore.unity.com/packages/templates/2d-platformer-mini-starter-kit-32816) $10 No because last update was 2015
+
+
+## FPS ##
+- [FP All In One] (https://assetstore.unity.com/packages/templates/systems/first-person-all-in-one-135316) Free and looks high quality.  Doesnt have shooting built in.
+
+
+## 2D overhead ##
+- [The Dungeon Game Kit](https://assetstore.unity.com/packages/templates/packs/the-dungeon-game-kit-136459) $5 mouse based dual stick shooter. Updated May 2019.  Comes with enemy and Boss AI
+- [Aesmailsparta Food Fight on Github](https://github.com/aesmailsparta/FoodFight_C-Sharp_Game_Project) #Favorites a top down 3d shooter MIT license.
+
+
+
 
 
 <!--
@@ -142,6 +199,7 @@ Trick for Mobile Platforms: disable HDR and check 'Use 32-bit Depth Display Buff
 - $10 [Toon Zombie Pack](https://assetstore.unity.com/packages/3d/characters/toon-zombie-pack-117481) Super Configurable zombies from REM Storms
 - $10 [8 Cute Low Poly Animals](https://assetstore.unity.com/packages/3d/characters/animals/cute-low-poly-animals-super-pack-118520) Super configurable
 with colors, from REM Storm
+- Free for GPL Software [Universal Sprite Sheet Character Generator](https://www.gamefromscratch.com/post/2019/08/06/Universal-Sprite-Sheet-Character-Creator.aspx)
 
 
 ## Places to find art ##
@@ -149,6 +207,9 @@ with colors, from REM Storm
 - itch.io
 - unity asset store
 - cgtrader (usually $5-20 for a character)
+
+- Craftpix.net for 2d art there are tons of attractive tilesets here.  1 month is $11 and 1 yr is $30 and you can use the assets forever.
+
 
 ## Specifics ##
 - [Quaternius](https://www.patreon.com/quaternius)
@@ -158,7 +219,7 @@ with colors, from REM Storm
 - Toon Enemies at the asset store
 - [Meshtint Studio](https://assetstore.unity.com/publishers/3867)
 - [REM Storm](https://assetstore.unity.com/publishers/778)
-
+- [Tycoon Tile](https://assetstore.unity.com/packages/templates/systems/tycoon-tile-156866) $65 makes populous looking terrains at runtime looks so amazing to me.
 
 
 
@@ -368,6 +429,17 @@ The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit)
 * Octave looks really useful.
 
 
+<!--
+ __     ___      _               _   ____            _ _ _         
+ \ \   / (_)_ __| |_ _   _  __ _| | |  _ \ ___  __ _| (_) |_ _   _ 
+  \ \ / /| | '__| __| | | |/ _` | | | |_) / _ \/ _` | | | __| | | |
+   \ V / | | |  | |_| |_| | (_| | | |  _ <  __/ (_| | | | |_| |_| |
+    \_/  |_|_|   \__|\__,_|\__,_|_| |_| \_\___|\__,_|_|_|\__|\__, |
+                                                             |___/ 
+
+-->
+
+
 # Virtual Reality #
 * VR Shooter Kit - This was released recently and has been getting lots of support and I'm glad because we needed something up to date like this.
 	* Comments: The SteamVR Installation manual doesn't mention what to do with the SteamVR_UnitySettingsWindow. I  selected Accept All and I hope that was right.  At least Steam VR suggested "You made the right choice!" with a popup haha.  
@@ -382,6 +454,41 @@ The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit)
 
 I followed the VRShooterKit authors video recorded instructions to make this binding.
 VRSK132 Unity2019.2.8f1 SteamVR245
+
+
+<!--
+   ___  _   _               
+  / _ \| |_| |__   ___ _ __ 
+ | | | | __| '_ \ / _ \ '__|
+ | |_| | |_| | | |  __/ |   
+  \___/ \__|_| |_|\___|_|   
+                            
+-->
+
+# Other #
+- [Cinemachine Camera in 2D](https://github.com/akashenen/2d-platformer-controller)  This has great cinemachine camera controls
+
+# ASCII Art #
+[Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
+[Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
+
+
+
+<!--
+   ___  _   _               
+  / _ \| |_| |__   ___ _ __ 
+ | | | | __| '_ \ / _ \ '__|
+ | |_| | |_| | | |  __/ |   
+  \___/ \__|_| |_|\___|_|   
+                            
+-->
+
+# Other #
+- [Cinemachine Camera in 2D](https://github.com/akashenen/2d-platformer-controller)  This has great cinemachine camera controls
+
+# ASCII Art #
+[Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
+[Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
 
 
 # Investigate #

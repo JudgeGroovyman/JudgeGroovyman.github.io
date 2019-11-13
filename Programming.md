@@ -18,6 +18,14 @@
 15. Discover Unity Game Development - From Zero to 12 Games Humble Bundle Book
 
 
+# Smalltalk #
+I met Alan Kay once.  It changed my life. 
+
+1. [Pharo](https://github.com/pharo-project/pharo) Modern Smalltalk.  Updated 17hrs ago.
+2. [Amber.js](https://amber-lang.net) A language and live environment built for the javascript runtime.  Updated in the last few weeks.
+3. [Seaside](http://www.seaside.st) For sophisticated Web applications in Smalltalk.  Updated in the last few months.  
+
+
 # Assembly #
 ## Assembly onModern Mac ##
 This is actually pretty tricky to do assembly on modern systems unless you really know what you're doing.  
