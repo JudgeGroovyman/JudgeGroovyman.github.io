@@ -56,6 +56,15 @@ Part of the point of developing your skills is so you can focus on the problem s
 * Editor Scripts (able to make one from nothing in 2 minutes with no mental complexity)
 
 
+# Level Design #
+1. [Surface snapping](https://unitycoder.com/blog/2015/11/18/surface-snapping-in-editor/) Shift command when in center mode and transforming from the center gizmo Snap to any collider
+2. [Rotation Pointing](https://unitycoder.com/blog/2015/11/18/surface-snapping-in-editor/) point an object at any point on any other collider by using the rotate tool in pivot mode and then starting to rotate any axis or all 3 and press shift cmd.
+3. [MAST - Modular Asset Staging Tool](https://assetstore.unity.com/packages/tools/level-design/mast-modular-asset-staging-tool-154939) Free - for the objects setup with their components, this lets you: see the available objects, easily select them, easily put them in the scene, and snap to a grid, super easy rotation, raise and lower the grid and a robust randomizer for varying props.
+4. [Level Building Tools](https://assetstore.unity.com/packages/tools/utilities/level-building-tools-93315) $8 lets you randomize position, rotation, scale, stack objects, clone objects to the mouse, snap to surfaces like terrains.  Select a few prefabs and then click and it will select them randomly and align them to the surface normal to create variation.  
+5. [Smart Snap Buttons for Inspector](https://assetstore.unity.com/packages/templates/systems/smart-snap-buttons-for-inspector-106586) Free - for any given selected object enable surface snapping, snap axes, it looks really good.  
+6. Use [Game Builder](https://store.steampowered.com/app/929860/Game_Builder/) engine
+
+
 # How to Rename a Script #
 This is a very tricky business.  I just had success with the following but don't do this without a full backup and a way to figure out if it all worked.  You might want to list what objects use the script so you can check them afterwards.
 
