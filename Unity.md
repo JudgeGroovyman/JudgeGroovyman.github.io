@@ -129,6 +129,17 @@ This is a very tricky business.  I just had success with the following but don't
 
 I haven't tested it with a 'refactor' style rename since this class was small and not referred to.   Update: That refactor rename did work in a small case
 
+# Cinemachine #
+## Camera Confiner ##
+1. Add the extension at the bottom of the cinemachine virtual camera (working example in Akashenen 2d character controller)
+2. Setup a kinematic 2d rigidbody on an empty game object (call it camera confiner) with a composite collider 2d with polygons geometry type, then add colliders (polygon, box, whatever) to make the shape you want.  
+3. Attach the 'camera confiner' gameobject to the bounding shape 2d in the confiner script on the virtual camera.  Confine screen edges, and damping 0.
+
 # Quirks #
-* Custom Editors work great with some quirks: 1. you have to set dirty if you change something in the editor.  Sometimes.  If you don't you may get unexpected results.  2. Sometimes you have to put ExecuteInEditMode and sometimes you don't.  3.  I feel like a custom button that just calls a function should be a one liner header embedded in the code, but the boilerplate isnt too bad for making a custom editor.  it only takes 2 minutes for a simple one.
+* Custom Editors work great with some quirks: 
+	1. you have to set dirty if you change something in the editor.  Sometimes.  If you don't you may get unexpected results.  
+	2. Sometimes you have to put ExecuteInEditMode and sometimes you don't.  
+	3.  I feel like a custom button that just calls a function should be a one liner header embedded in the code, but the boilerplate isnt too bad for making a custom editor.  it only takes 2 minutes for a simple one.
 * Broadcast message works but if you run it in edit mode and send a message to a class that isn't set to ExecuteInEditMode you get an error reported but generally everything actually still works!?!  You won't be able to set the receiver's information as dirty though.  In my case it worked even with the error and still saved the received data since the receiver was brand new in the heirarchy and new = dirty.
+* Renaming a script shouldn't be rocket science - I saw one reply suggesting "In a perfect world you will name your scripts correctly to begin with" which is the lamest cop-out in history and completely ignores reality, and shits on the process of refactoring.
+* There is no good reason that you have to get a script involved to make an animator flip a sprite.  Its so common that virtually every 2d dev does this daily and has to write code to do it.  There should be a feature built into the animator that flips the sprite based on a boolean.  There are two that seem related: 1. flipx in the renderer (which you can't access from the animator without a script) and mirror in the animation state (which doesnt flip the sprite).  Otherwise you can just effectively double your frames of animation that you have to create (wont take long) and maintain (makes the relevant folders in your asset folder less readable and easily understandable and all sprites harder to find)

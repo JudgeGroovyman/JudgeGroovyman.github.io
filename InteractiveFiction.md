@@ -8,7 +8,10 @@ Spoilers abound here
 * Girth Loinhammer and the Quest for The Unsee Potion - "Beaureaumancer" HAHA!  This is really cool I got an adventure sheet and several online dice and am playing along.  "The worldbuilding in this place is a little heavy-handed" classic!  I didnt get the elixir but it was a really cool game! it says 15 minutes but it took me 30 and it was great.
 * Turandot - "your prison cell did not incommode me in the least.  ... Four stars out of five.  Would recommend."  haha!  OMG I just finished it - I played it all the way through and have a feeling that you can't actually die in the game but what a wonderful tale.  I played it over 2 days and enjoyed it thoroughly and feel lucky to have found it.  Theres even some deep insights about human connection in there.  
 * The Surprise - This is good.  I love how it times the process and doesnt let you proceed.  I loved it.  Its a short exciting emotional experience by Candy Meldromon.  I liked how it kept you in suspense.  
-* The Island - This is really good.  I dont know how I could have convinced anyone else to come with me but I wish I could have
+* Valand - The Island by Ann Hoffman - This is really good.  I dont know how I could have convinced anyone else to come with me but I wish I could have
+* Dull Grey - The graphics are pulilng me in. I love this setting and the choices I have to make for the kid.  I love the robots how they are sometimes helpless.  I love the characters how they make their lives seem so bleak.  I love the multiple endings and I played it 3 times and am proud that I got the ending only 1% of others got.  
+
+Voted on the 5 above on 11/12/19 at ifcomp.org
 
 # Writing Interactive Fiction #
 
