@@ -1,3 +1,6 @@
+# Apps #
+- [Making an event app ](https://apptooltester.com/how-to-create-an-event-app/)
+
 # Projects #
 1. Assembly Boot Sector Book
 2. C64 programming from that guys assembly tutorials on YT
@@ -7,6 +10,12 @@
 6. Write a game directly for [linux framebuffer](http://betteros.org/tut/graphics1.php)
 7. Write a game direclty on video hardware for [raspberry pi] (http://raspberrycompote.blogspot.com/2012/12/low-level-graphics-on-raspberry-pi-part_9509.html)
 8. Write a [game for DOS in C](https://nullprogram.com/blog/2014/12/09/)
+9. [Invent your own computer games with Python](http://inventwithpython.com/invent4thed/)
+10. [Cracking Codes with Python](https://inventwithpython.com/cracking/)
+11. [Making games with Python and Pygame](https://inventwithpython.com/pygame/)
+12. Unity Virtual Reality Projects - humble bundle book
+14. Unity Game Development Blueprints - Humble bundle Book
+15. Discover Unity Game Development - From Zero to 12 Games Humble Bundle Book
 
 
 # Smalltalk #

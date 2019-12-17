@@ -131,6 +131,10 @@ Here are some of the elements that the doom engine and its surrounding ecosystem
 	* Gibs
 	* Remaining blood
 * Enemy AI
+	* Movement Speed
+	* Attack Pattern
+	* Actions
+	* Pathfinding
 * Many enemy types
 * Levels
 	* Secrets

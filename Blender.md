@@ -75,3 +75,7 @@ if you want to paint individual faces
 
 Detailed at about 15:00 in this 
 [Low Poly Island](https://www.youtube.com/watch?v=0lj643VmTsg) video.
+
+
+## Bevel Corners ##
+To make any model look kind of worn: Add Bevel modifier.  Width .01m, check only vertices.  Switch width to .03m or .04m for a different more circular and unique look.  Update: this leaves little tiny holes in the mesh.  

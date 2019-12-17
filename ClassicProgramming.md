@@ -268,8 +268,9 @@ The [8 bit show and tell channel](https://www.youtube.com/channel/UC3gRBswFkutes
 ## Assembly on Dos ##
 I got this great book called [Programming Boot Sector Games](https://nanochess.org/store.html) and its certainly the clearest and most accessible assembly language tutorial Ive ever seen.  It also explains exactly how to get your programs running on any computer (hint: use dosbox or boxerapp) and all of the programs work really well. 
 
-
-
+## Assembly on Sega Genesis ##
+- Sega Genesis [Tiny Basic Compiler](http://devster.monkeeh.com/sega/basiegaxorz/)
+- Teach you how to [code for Genesis](https://www.youtube.com/watch?v=PSYhSmXBgIw&t=1s)
 
 
 

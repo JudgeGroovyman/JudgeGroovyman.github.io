@@ -7,6 +7,7 @@ Masterpieces
 2. Collective Soul - Collective Soul
 3. Laura Marling - I speak because I can
 4. Laura Marling - Once I was an Eagle
+6. Pride & Glory
 
 
 ### Some classics ###
@@ -14,6 +15,14 @@ Masterpieces
 2. Dave Matthews Band - Crash
 4. Bob Dylan - The Times they are a Changing
 5. Billy Joel - The Stranger
+7. Michael Jackson - Dangerous
+8. Ozzy - No More Tears
+
+
+#### Some Runners Up ####
+1. Ozzy - Blizzard, Diary, Ozzmosis
+2. Michael - Thriller, Bad
+
 
 ## Recent ##
 
@@ -74,7 +83,8 @@ Some of my favorite episodes:
 * 3x17 Rory is watching Lord of the Rings!  Its Denethor!!!  "... after we saved Barack Obama!  Oh and I met John Noble!"
 * 3x18 "They beat him with the care bear stare!"  "Like Voltron!" "Are we making a baby?"  "You telling us to focus is making it hard to focus."  Their voltron form is so epic!!!
 
-
+## Dead Zone ##
+Up to 5x8 as of 11/3/2019
 
 ## MST3K ##
 * 1205  They are on FIRE starting from the third joke! Farts popcorn yahtzee - THis is one of my favorites!

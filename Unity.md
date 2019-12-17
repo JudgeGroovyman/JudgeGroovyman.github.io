@@ -1,8 +1,64 @@
 # Unity #
 
+# Competitors #
+* Love
+* Godot
+* Unreal (of course)
+* Construct
+* Game Maker Studio - Community: toxic.  I even tried to argue in favor of it 'it cant be that bad' and I was assured that it was.  I own one version of this in humblebundle.
+* Amazons
+* RPG Maker - I own VX Ace and XP and a bunch of tile packs in humble bundle.
+
+## More Obscure Competitors ##
+* [JLud2D](https://github.com/rafael-esper/JLud2D) this looks like a great tiled compatible way to make Sega Master System and Genesis style games.  Updated May 2018
+* Defold
+* [Superpowers](http://superpowers-html5.com/index.en.html)
+* Clickteam Fusion - I own multimedia fusion 2 in humble bundle (Windows only for running, pay to export to mac)
+* Phaser.io
+* Pygame and its competitor for python ... (forgot name)
+* Raylib - C/C++ Code with no external dependencies.
+* Arcade is a python library for 2d arcade games - open source updated 4 days ago.
+* [Piston](https://www.piston.rs/) - A modular game engine written in rust updated 1month ago. 
+
+## More specific competitors ##
+* OpenBOR [OpenBOR Community](http://www.chronocrash.com/forum/) for making double dragon games and shooters and more.  Active development.  
+* Frogatto has a [built in level editor](https://frogatto.com/developer-info/) for making platform games
+* [Solarus](https://www.solarus-games.org/) Lightweight foss Action RPG engine.  Written in C++ games in LUA specifically for 16bit action rpgs like Zelda.  Updates in last weeks.
+* [Lionheart](https://www.b3dgs.com/v7/page.php?lang=en&section=lionengine) an engine dedicated to games like Lionheart or other Amiga style 2d games.  
+* Mario
+	* [The Secret Chronicles of Dr.M](https://secretchronicles.org/en/) a mario clone but with completely original IP and a built in level editor and a scripting language.
+	* [SuperTux](https://www.supertux.org/) updated 1hr ago
+	* [Mario-Game](https://github.com/jazzyjester/Mario-Game) plus level editor
+* [Rockbot](https://github.com/protoman/rockbot) megaman engine which is pretty flexible. 
+* [Dust Racing](http://juzzlin.github.io/DustRacing2D/index.html) Micro Machines or Super cars game engine with qt based level editor for new tracks.  
+* Minecraft all three updated recently
+	* [MineTest](https://www.minetest.net/) an open source voxel game engine.  Make your own game or play one of their many games.
+	* [Terasology](https://terasology.org/) Minecraft clone voxel game open source.
+	* [Veloren](https://veloren.net/) 
+	* [Hematite](https://github.com/PistonDevelopers/hematite) written in rust with the piston game engine.
+* [Xonotic](https://xonotic.org/) a 3d game engine primarily for multiplayer gaming
+* [Portal](https://glportal.de/) Free portal clone recently updated
+* [Nightdive Kex](https://www.nightdivestudios.com/kex/) For early 90s FPS games this is custom made for those games.  Apparently been around for a while even though I haven't heard of it before today (12/3/2019) System Shock, Blood:Fresh Supply, Turok, Turok 2 all made in this.  XboxOne, Switch, Windows, Mac, Linux, PS4 platform support.  "Great for creating simple/retro themed games without the constraint over bloated engine features"  Unfortunately I can't figure out how to download it or buy it or try it at all.  
+* [Cube Sauerbraten](http://cubeengine.com/wiki/Main_Page) This FPS game engine lets you edit maps from inside the game.  You can make  your own maps and mods, but I dont know if you can sell them, but you certainly can't sell this engine as a standalone game without replacing all of the textures maps and sounds from scratch yourself.  YOu can even do cooperative in game editing.  
+
+## Investigate ##
+* Skyline (drag and drop)
+* 001 Game Creator (PC only, templates available)
+* Cry Engine
+* PlayCanvas (Unity’s lightweight younger sibling)
+* GameGuru (The FPS Template master - easiest for 3D, Windows only - made by appgamekit creators))
+* Stencyl (has templates (kits), and good for simple games, subscription based?) 
+* AppGameKit (expensive-ish ($20-80 + asset bundles), very fast compilation cross platform)
+* GameSalad ($12-25/month subscription)
+* Buildbox ($2-300/yr sub, with the templates this is probably the fastest of all to make a simple commercial game)
+* Urho3D - free lightweight, cross platform 2d, 3d C++ MIT License.  
+* Duality2d - Promising Open source, clean understandable code in .net, life editing, introduce game logic via plugins, hot reload resources & plugins, updated recently.
 
 
-
+# Want #
+The same kind of resources Coppercube gives you out of the box in Unity + Some unreal features.
+* AI Enemies (patrol, chase, attack in a radius) models and code so you can drag and drop them into a scene which shoot projectiles and Ragdoll when killed
+* 
 
 # Starting Point #
 1. Title Screen
@@ -75,6 +131,17 @@ This is a very tricky business.  I just had success with the following but don't
 
 I haven't tested it with a 'refactor' style rename since this class was small and not referred to.   Update: That refactor rename did work in a small case
 
+# Cinemachine #
+## Camera Confiner ##
+1. Add the extension at the bottom of the cinemachine virtual camera (working example in Akashenen 2d character controller)
+2. Setup a kinematic 2d rigidbody on an empty game object (call it camera confiner) with a composite collider 2d with polygons geometry type, then add colliders (polygon, box, whatever) to make the shape you want.  
+3. Attach the 'camera confiner' gameobject to the bounding shape 2d in the confiner script on the virtual camera.  Confine screen edges, and damping 0.
+
 # Quirks #
-* Custom Editors work great with some quirks: 1. you have to set dirty if you change something in the editor.  Sometimes.  If you don't you may get unexpected results.  2. Sometimes you have to put ExecuteInEditMode and sometimes you don't.  3.  I feel like a custom button that just calls a function should be a one liner header embedded in the code, but the boilerplate isnt too bad for making a custom editor.  it only takes 2 minutes for a simple one.
+* Custom Editors work great with some quirks: 
+	1. you have to set dirty if you change something in the editor.  Sometimes.  If you don't you may get unexpected results.  
+	2. Sometimes you have to put ExecuteInEditMode and sometimes you don't.  
+	3.  I feel like a custom button that just calls a function should be a one liner header embedded in the code, but the boilerplate isnt too bad for making a custom editor.  it only takes 2 minutes for a simple one.
 * Broadcast message works but if you run it in edit mode and send a message to a class that isn't set to ExecuteInEditMode you get an error reported but generally everything actually still works!?!  You won't be able to set the receiver's information as dirty though.  In my case it worked even with the error and still saved the received data since the receiver was brand new in the heirarchy and new = dirty.
+* Renaming a script shouldn't be rocket science - I saw one reply suggesting "In a perfect world you will name your scripts correctly to begin with" which is the lamest cop-out in history and completely ignores reality, and shits on the process of refactoring.
+* There is no good reason that you have to get a script involved to make an animator flip a sprite.  Its so common that virtually every 2d dev does this daily and has to write code to do it.  There should be a feature built into the animator that flips the sprite based on a boolean.  There are two that seem related: 1. flipx in the renderer (which you can't access from the animator without a script) and mirror in the animation state (which doesnt flip the sprite).  Otherwise you can just effectively double your frames of animation that you have to create (wont take long) and maintain (makes the relevant folders in your asset folder less readable and easily understandable and all sprites harder to find)

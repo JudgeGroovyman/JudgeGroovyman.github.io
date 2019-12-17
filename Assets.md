@@ -13,6 +13,9 @@
 
 
 
+
+
+
 <!--
    _____           _       _   _             
   / ____|         (_)     | | (_)            
@@ -61,6 +64,8 @@ https://assetstore.unity.com/packages/tools/ai/ai-machine-aim-visual-programming
 
 ## 2D Platformer ##
 
+BTW: To get tilemaps working without tearing change the cell gap on the grid to -.0001 (for xyz)
+
 ### Free from Asset Store ###
 - [Platformer Microgame](https://assetstore.unity.com/packages/templates/platformer-microgame-151055) Free on the asset store, updated Aug 2019, Only compatible with Unity 2018.4.6 or before.
 - [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) Free Full platformer asset without wall jump and advanced things but still. 
@@ -68,7 +73,23 @@ https://assetstore.unity.com/packages/tools/ai/ai-machine-aim-visual-programming
 - [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351) Free and there is a simple 2d platformer scene in the standard assets
 
 ### Free from Github ###
-- [Akashenen 2d Platformer Controller](https://github.com/akashenen/2d-platformer-controller) #Favorites MIT License updated in May with all features I can imagine.  Moving Platforms, Wall Jump, slide, one way platforms.  This one is really good with good code and examples and everything.
+- [Akashenen 2d Platformer Controller](https://github.com/akashenen/2d-platformer-controller) #Favorites MIT License updated in May with all features I can imagine.  Moving Platforms, Wall Jump, slide, one way platforms.  This one is really good with good code and examples and everything.  To use you have to copy all of the files over to a new project.  Issues: 
+	1. Sprites don't flip left and right with the given shaders.  Have to make a new sprite material using default 2d shaders (lwrp->2d->Sprite-Lit-Default).  just swap the material in the prefab.  
+	2. Have to start with the included scenes because 
+		1. the default settings on the 2d character controller scripts are all 0s so you need reasonable values to start with (rationale: there are a ton of fields and theres no reason to learn what all of them mean and optimize them without even being able to try it out first and play with the values), 
+		2. the camera has some special scripts attached too
+		3. Theres also a physics config object that is required
+	3. When you use the included scene:
+		1. make a new tilemap and use the layers ground,ladder,box,owplatform,character,etc.
+		2. swap your sprite, and animator for the player
+			1. You will probably have to move the sprite renderer to the top level prefab from the child.  Probably delete the child.
+		3. Reconfigure the ActorAnimation animator with your animation clips
+			1. you can drag sets of sprites in to make animation clips
+			2. You can probably (untested) drag your clip into the 'motion' field when you click on one of the animation states.  Once you have your animations in the project somewhere that should make this part pretty easy.
+			3. You know what .. I dont think this package has any mechanism for flipping the sprite.  Easy Fix: Add a check for it where you set the animation data in the character controller 2d and flip the scale.x if its going left  This works well for me (Tested)
+	4. Left xbox stick only works going to the right, dpad works both directions.
+	5. Ladders dont work with tilemaps.  Only with sprite renderers. Clarification: it doesnt work with tilemaps witha ny kind of collider on them.  It works if theres a box collider on a parent empty gameobject and a tilemap as a child.  NO! That only partially works.  What works: Tilemap with child collider on ladder layer.  dont adjust the size of the collider just the size of the empty game object containing the collider.  If climbing to a platform make the collider align with the top of the platform
+	
 - [Vrompasa](https://github.com/vrompasa/2d-platformer-character-controller) a 2019 updated 2d platformer character controller.  No noted license information.  Simple code.  Wall jumping and sliding. one way platforms.  
 - [Cjddmut Unity 2d Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) Free - Updated 3-4 years ago but pretty advanced.
 - [JPBotelhos Unity Platformer Controller](https://github.com/JPBotelho/Unity-Platformer-Controller) Everything but wall jump including double jumping and jetpacks.  Updated May 2018
@@ -423,7 +444,7 @@ The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit)
 -->
 # Level Design #
 * [MonKey](https://assetstore.unity.com/packages/tools/utilities/monkey-editor-commands-productivity-booster-119938) seems to have some effective level design shortcuts built in.  its regularly updated and is made by game devs who are using it day to day so I have a good feeling about this.
-
+* Octave looks really useful.
 
 
 <!--
@@ -453,6 +474,23 @@ I followed the VRShooterKit authors video recorded instructions to make this bin
 VRSK132 Unity2019.2.8f1 SteamVR245
 
 
+<!--
+   ___  _   _               
+  / _ \| |_| |__   ___ _ __ 
+ | | | | __| '_ \ / _ \ '__|
+ | |_| | |_| | | |  __/ |   
+  \___/ \__|_| |_|\___|_|   
+                            
+-->
+
+# Other #
+- [Cinemachine Camera in 2D](https://github.com/akashenen/2d-platformer-controller)  This has great cinemachine camera controls
+
+# ASCII Art #
+[Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
+[Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
+
+
 
 <!--
    ___  _   _               
@@ -468,3 +506,33 @@ VRSK132 Unity2019.2.8f1 SteamVR245
 
 # ASCII Art #
 [Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
+[Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
+
+
+# Investigate #
+## Humble Bundles ##
+- Humble Bundle: Ultimate Game Music Collection
+- uMMORPG
+- UFPS: Ultimate FPS
+- Modern Day Music Mini pack
+- RPG Maker 10 Tileset Packs
+	- Adventurers Journey
+	- Tyler Warren's First 50 battler pack dlc
+	- Royal Tileset Pack DLC
+	- High Fantasy Resource Pack DLC
+	- High Fantasy Main Party Pack DLC
+	- Futuristic Tiles Resource Pack DLC
+	- Inspirational Music pack DLC
+	- Tyler Warrens Second 50 Battler pack DLC
+	- Zombie Survival Graphic Pack DLC
+	- Rural Farm Tiles Resource Pack DLC
+- Heroic Fantasy Creatures full pack 
+- Exclusive RPG Maker Resource Pack
+- Best of Member Resources Samples
+- Inventory Pro
+- FlowCanvas
+- GameFlow
+- Realistic Effects Pack 4
+- Universal Sound FX
+- Gaia
+- Heroic Fantasy Creatures Full Pack Volume 1
