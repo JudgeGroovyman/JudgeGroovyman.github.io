@@ -38,6 +38,8 @@
 	* [Hematite](https://github.com/PistonDevelopers/hematite) written in rust with the piston game engine.
 * [Xonotic](https://xonotic.org/) a 3d game engine primarily for multiplayer gaming
 * [Portal](https://glportal.de/) Free portal clone recently updated
+* [Nightdive Kex](https://www.nightdivestudios.com/kex/) For early 90s FPS games this is custom made for those games.  Apparently been around for a while even though I haven't heard of it before today (12/3/2019) System Shock, Blood:Fresh Supply, Turok, Turok 2 all made in this.  XboxOne, Switch, Windows, Mac, Linux, PS4 platform support.  "Great for creating simple/retro themed games without the constraint over bloated engine features"  Unfortunately I can't figure out how to download it or buy it or try it at all.  
+* [Cube Sauerbraten](http://cubeengine.com/wiki/Main_Page) This FPS game engine lets you edit maps from inside the game.  You can make  your own maps and mods, but I dont know if you can sell them, but you certainly can't sell this engine as a standalone game without replacing all of the textures maps and sounds from scratch yourself.  YOu can even do cooperative in game editing.  
 
 ## Investigate ##
 * Skyline (drag and drop)

@@ -64,6 +64,8 @@ https://assetstore.unity.com/packages/tools/ai/ai-machine-aim-visual-programming
 
 ## 2D Platformer ##
 
+BTW: To get tilemaps working without tearing change the cell gap on the grid to -.0001 (for xyz)
+
 ### Free from Asset Store ###
 - [Platformer Microgame](https://assetstore.unity.com/packages/templates/platformer-microgame-151055) Free on the asset store, updated Aug 2019, Only compatible with Unity 2018.4.6 or before.
 - [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) Free Full platformer asset without wall jump and advanced things but still. 
@@ -86,7 +88,8 @@ https://assetstore.unity.com/packages/tools/ai/ai-machine-aim-visual-programming
 			2. You can probably (untested) drag your clip into the 'motion' field when you click on one of the animation states.  Once you have your animations in the project somewhere that should make this part pretty easy.
 			3. You know what .. I dont think this package has any mechanism for flipping the sprite.  Easy Fix: Add a check for it where you set the animation data in the character controller 2d and flip the scale.x if its going left  This works well for me (Tested)
 	4. Left xbox stick only works going to the right, dpad works both directions.
-	5. Ladders dont work with tilemaps.  Only with sprite renderers. Clarification: it doesnt work with tilemaps witha ny kind of collider on them.  It works if theres a box collider on a parent empty gameobject and a tilemap as a child.  NO! That only partially works.  What works: Tilemap with child collider on ladder layer.  dont adjust the size of the collider just the size of the empty game object containing the collider
+	5. Ladders dont work with tilemaps.  Only with sprite renderers. Clarification: it doesnt work with tilemaps witha ny kind of collider on them.  It works if theres a box collider on a parent empty gameobject and a tilemap as a child.  NO! That only partially works.  What works: Tilemap with child collider on ladder layer.  dont adjust the size of the collider just the size of the empty game object containing the collider.  If climbing to a platform make the collider align with the top of the platform
+	
 - [Vrompasa](https://github.com/vrompasa/2d-platformer-character-controller) a 2019 updated 2d platformer character controller.  No noted license information.  Simple code.  Wall jumping and sliding. one way platforms.  
 - [Cjddmut Unity 2d Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) Free - Updated 3-4 years ago but pretty advanced.
 - [JPBotelhos Unity Platformer Controller](https://github.com/JPBotelho/Unity-Platformer-Controller) Everything but wall jump including double jumping and jetpacks.  Updated May 2018
