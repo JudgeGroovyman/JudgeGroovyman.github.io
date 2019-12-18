@@ -1,3 +1,10 @@
+# My Job
+If I ever get a job again 
+1. Get a remote tdd job or 
+2. work someWhere with a wonderful corporate culture like Zappos no matter what I am doing 
+3. or both
+
+
 # Triplebyte
 
 "I think a lot of people still don't realize what a great time investment [Triplebyte] is. I woke up early and did their 2-hour interview before going to work one day. Within a week I'd been offered 30+ on-site interviews at well-funded Bay Area startups, as well as a couple of bigger companies."

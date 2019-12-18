@@ -1,3 +1,12 @@
+
+# Games I thought were just the coolest games ever #
+1. Street Fighter 2
+2. Strider Arcade
+3. Bionic Commando
+4. Space Harrier
+
+
+
 # Games that I have that I could play #
 ## Humble Bundle ##
 - Super Meat Boy
