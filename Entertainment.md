@@ -10,12 +10,12 @@ Masterpieces
 6. Pride & Glory
 
 
-### Some classics ###
+### utter masterpieces imho ###
 1. Neil Young - Harvest
 2. Dave Matthews Band - Crash
 4. Bob Dylan - The Times they are a Changing
 5. Billy Joel - The Stranger
-7. Michael Jackson - Dangerous
+7. Michael - Dangerous
 8. Ozzy - No More Tears
 
 
@@ -84,7 +84,13 @@ Some of my favorite episodes:
 * 3x18 "They beat him with the care bear stare!"  "Like Voltron!" "Are we making a baby?"  "You telling us to focus is making it hard to focus."  Their voltron form is so epic!!!
 
 ## Dead Zone ##
-Up to 5x8 as of 11/3/2019
+Up to 6x2 as of 12/18/19
+* 6x1 - Damn it!  Thats so sad!  About to have a baby too.  :( 
+* 6x3 "I bet being Vice President is as hard as it looks" - Sarah "Well you don't get to pick your battles but you still have to win them." - Vice President Stillson on Dead Zone 6x3 17:00
+* 6x8 This ended up being one of the coolest episodes.  Self contained and heartwarming and interesting and clever.  Great writing and heart.
+* 6x9 Its kind of funny how his step dad Reverend Purdy just disappeared.  he said he would but they didnt explain it any further than that haha :).  Wait ... why did she make that decision at the end?  thats rash imho
+* 6x13 Ahh this might help wrap up Reverend Purdys questions.  
+
 
 ## MST3K ##
 * 1205  They are on FIRE starting from the third joke! Farts popcorn yahtzee - THis is one of my favorites!

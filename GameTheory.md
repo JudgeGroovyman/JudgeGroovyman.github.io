@@ -18,44 +18,4 @@ http://www.warrenrobinett.com/papers/Video_Game_Theory_Reader_Foreword_by_Warren
 And little boys haven’t changed. (Not even the ones who are now 30 or 40.) They still like to blow up bad guys, fight scary monsters, and drive noisy, powerful vehicles.
 
 
-# My Philosophy on Difficulty #
-* Games that were fun in the eighties were partially fun because of the difficulty
-	* Which creates a consequent reward and satisfaction and fulfillment in the process of improving your skill and eventually getting good at and possibly beating them or even ‘mastering’ them
-	* And this difficulty evolved more or less directly from the video arcades which generally made more money if the game had just the right difficulty
-	* It made its way into home games and difficult became the norm and the standard
-	* And there was certainly some value to that since for a dedicated player a difficult game provided more play time for a dedicated player since they would have to play it many times to master it and make progress
-	* Not to mention the satisfaction mentioned above
-* But it didn’t have to be this way
-	* For home games and conversions they did not have to be so difficult.  You had already paid the $40.  
-	* I don’t mean that every game creator that made their game difficult in the eighties was wrong to do so, far from it since that also provided a perceived value for money that some players and reviewers required for credibility
-	* I do believe most games would have benefited from a legitimate easy mode which had unlimited lives or continues or something like that
-	* For many gamers given the amount of time or skill or entertainment-patience they had me included most games were unfortunately out of reach for them which meant that you would buy it and play it for a while and the difficulty was so high even on easy mode that it provided a barrier to entry that was too much to overcome
-	* Especially if many of the tricks were used such as restarting the game after you died too many times.  
-	* This stuff always boggled my mind and I felt it was a waste and a shame and I still do
-* For these reasons I like the idea of games that provide much of the joy of the core gameplay of those games without the same difficulty level.
-	* Games with fair difficulty meet a need I have had since the 80s
-	* I’ve always wanted to experience the fun core gameplay of pac man but with a chance to make real progress through a story or scenario and get immersed the way I did with Super Mario Bro’s. 
-	* I always wanted to be able to play Smash TV and Robotron without cheap deaths
-	* Fundamentally I always wanted to be able to put unlimited quarters into the games I bought for my home
-	* And I always wanted for them to be easy enough that I knew that with a just little reasonable amount of patience and practice and retries I could make legitimate progress
-	* And I always wanted for my progress to be saved between play sessions somehow 
-	* And I always wanted for me to be able to play games with confidence knowing that I wouldn’t get stuck on something impossible for me and making the game somewhat of a waste
-	* And I always wanted to play games that I could see all of the content if I just gave it enough time
-* What is my kind of hard
-	* Having to retry to learn things about the game is great
-	* Learning new things about how the enemies re act or how the bosses attack or how the levels are laid out is fine and great and fun
-	* Learning and developing strategies for getting past groups of enemies is fun and rewarding 
-	* Sometimes even learning where traps are located and what to do to avoid them (even the hard way) is ok if it doesn’t punish you by putting you too far back
-* What’s too hard
-	* Expecting you to upgrade your skills to progress in the game is too much
-	* Punishing you by putting you far back is cheap
-* Some of this can’t be Known or balanced 
-	* True that there are infinite skill sets so you can’t hit it right for everyone 
-	* I’m aiming at gamers who have experience playing games for a while but who haven’t beat a lot of games because they were too hard
-	* And some games I’m aiming at gamers who have no experience
-* Not for hardcore competitive gamers and that’s ok
-	* This may mean that to beat it competitively you have to beat it under a certain time or with a certain accuracy
-	* Or it may mean that competitive players won’t find much to keep them occupied 
-	* It also may mean that for some people the games are not very interesting 
-	
 	

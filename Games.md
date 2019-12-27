@@ -5,50 +5,130 @@
 3. Bionic Commando
 4. Space Harrier
 
+# Steam games #
+
+## Games I would probably want to play again ##
+1. Viral EX
+2. Wonderboy III the dragons trap.
+3. Refunct
+4. Trackmania
+5. Portal 2 Single Player
+6. Hatchick
+
+## Games I haven't played but am really looking forward to ##
+1. Burnout Revenge with Wheel
+2. Portal 1
+3. SoulCalibur VI
+4. Rise of the Tomb Raider
 
 
-# Games that I have that I could play #
+### Runners Up ###
+1. Spelunky
+5. Street Fighter V
+6. Far Cry 3: Blood Dragon
+3. Bioshock Infinite
+4. FEAR 2: Project Origin
+5. Doom 2016
+6. Half Life 1
+5. Metro 2033
+6. Vanquish
+
+
+# Games on Steam Wishlist #
+
+## Really looking forward to ##
+1. Hellbound
+2. The Chaos Engine
+3. Yoku's Island Express (Wow the demo was so magical!)
+3. Monster Boy and the Cursed Kingdom
+4. Jet Island
+
+## Other Retro games I will probably enjoy ##
+1. Shantae: Half-Genie Hero
+2. Enger the Gungeon (Dual Stick Dungeon Crawl)
+3. Super Galaxy Squadron Turbo (Forgiving vertical shooter)
+4. Cuphead (Like Contra or Metal Slug)
+5. Katana Zero (Awesome stylish)
+6. Hostile Waters: Antaeus Rising (A 2001 Carrier Command clone which is very highly regarded and looks like it has a great continue structure)
+7. Castle Crashers
+
+## More modern games I will probably enjoy ##
+1. Halo: The Master Chief Collection
+2. Zone of the Enders the 2nd Runner VR
+3. Serious Sam 4: Planet Badass
+4. Distance (VR Awesome Futuristic Trackmania style Racing)
+
+## Fun ones ##
+1. Starwhal
+
+## Games I should like but dont know if I will ##
+1. Hostile Water: Antaeus Rising (Carrier Command Clone)
+2. Skyrim
+
+# VR Wave Shooters #
+1. Serious Sam the Last Hope
+2. Stardust VR
+3. Time Carnage
+
+
+# Games I might like to watch on youtube #
+1. MDK2
+
+# Games Cristi might like #
+1. Minecraft
+2. Portal 2 with me 
+	* Portal 1 and 2 by herself and with me watching
+2. Destiny 2 
+3. Fortnite
+4. Monster Hunter World 
+5. Warhammer Vermintide 2 (built for co-op, really fun easy to grasp combat)
+6. Anthem (3rd person, built for multiplayer co-op, deep story, loads of loot and upgrades)
+
+She might like other ['Loot Shooters' ](https://www.tomsguide.com/us/pictures-story/1456-games-like-destiny.html)
+
 ## Humble Bundle ##
-- Super Meat Boy
 - Psychonauts (On drive F already)
 - Superfrog HD
-- System Shock 2 (maybe with a cheat?)
-- Transformers Comic Books
+- Deathspank
+- Alien Breed Complete Pack
+- Brutal Legend
+- Giana Sisters (I already bought one of these didnt I?)
+- Super Meat Boy
 - Trine 2 (On drive F already)
 - Universe Sandbox
-- Graphic Audio
-- Worms Armageddon (blast, crazy golf, pinball, revolution, ultimate mayhem)
-- Wizzywig: Portrait of a serial hacker
-- Pinball FX2 Core Pack and Marvel Pinball
-- Limbo
-- Giana Sisters (I already bought one of these didnt I?)
-- Democracy 2
-- Deathspank
-- Developers Dilemma
-- Carrier Command: Gaea Mission
-- Brutal Legend
-- Braid
-- Bit Trip Runner
+- Shadowgrounds (On drive F already)
+- Shadowgrounds Survivor (On drive F already)
 - Batman Arkham Asylum GOTY
 - Batman Arkham City GOTY
 - Batman Arkham Origins DLC
-- Bastion
 - All Hail Megatron
-- Alien Breed Complete Pack
-- Shadowgrounds (On drive F already)
-- Shadowgrounds Survivor (On drive F already)
+- Transformers Comic Books
+- Pinball FX2 Core Pack and Marvel Pinball
+- System Shock 2 (maybe with a cheat?)
+- Graphic Audio
+- Worms Armageddon (blast, crazy golf, pinball, revolution, ultimate mayhem)
+- Wizzywig: Portrait of a serial hacker
+- Limbo
+- Democracy 2
+- Developers Dilemma
+- Carrier Command: Gaea Mission
+- Braid
+- Bit Trip Runner
+- Bastion
 
 ## Investigate from Humble Bundle ##
-- To the moon
-- Torchlight
-- Thirty Flights of Loving
-- Turbo Dismount
-- Wizorb
 - Titan Attacks
 - Revenge of the Titans
-- Out of the Park Baseball 14
-- Mortal Kombat
+- Thirty Flights of Loving
+- Cinders - a mature fairy tale
+- Turbo Dismount
+- Dustforce
+- To the moon
 - Machinarium
+- Mortal Kombat
+- Torchlight
+- Wizorb
+- Out of the Park Baseball 14
 - Free Games Bundle 1 RPG Maker
 - Free Games Bundle 2 RPG Maker
 - FTL: Faster Than Light
@@ -56,7 +136,6 @@
 - Gratuitous Tank Battles
 - Gratuitous Space Battles
 - Dungeons of Dredmor
-- Dustforce
 - Avernum Escape from the pit
 - Avadon The Black Fortress
 - Avernum The Great Trials Trilogy
@@ -68,7 +147,6 @@
 - AER Memories of Old
 - AI War
 - The 11th Hour
-- Cinders - a mature fairy tale
 
 ## Investigate Open Source ##
 * [Endless Sky](https://github.com/endless-sky/endless-sky) an open source escape velocity nova clone which looks awesome.
@@ -92,7 +170,9 @@
 * [Thief](http://www.thedarkmod.com/main/)
 
 
-
+# Dont own but might want to #
+1. Red Faction: Guerrilla - "Bringing destructibility and absolute fun"  "Being able to put explosives in one part of a building and watch it crumble because of your expert placement is more fun than you know"  does that guy have an ostrich?  
+2. Uncharted 2 through 4 - I'm pretty sure I would love these to death.  I sure loved the first one.  
 
 
 # Doom #
@@ -358,3 +438,8 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 * Lego Jurassic World - Wow the PC controls are broken as hell.  It is a chore and nightmare to move the players around.  It is advertised in the manual that you can use keyboard and mouse but no it wont let you use the mouse at all even to select menu items.  Its absurd.  Further in the process of trying to switch to gamepad I activated the second player and couldnt deactivate.  Further and the nail in the coffin is the saves are way too far apart and this was something I remember from some of the other games too.  
 * Red Faction 2 -  5.1hrs on record in Steam. Short and sweet just how I like it.   Heres the review I posted on Steam in its entirety: "This is a great game and I had a blast playing it in 2019.  To address the mixed reviews I think I understand what is going on here. When you hold this title up against its predecessor there are some things missing from this title which I think warrant some peoples complaints namely: there's not much of the game that is destructible which is sorely missed since it was such a huge aspect of the first game, and its shorter than the first game (it was a perfect length imho but to each his own). Those are valid complaints when you compare it with the first game and I guess I just wish they had named it something other than Red Faction because when you look at the game without comparing it to its predecessor its great! What you get in place of those aspects that are missing is a more exciting action packed game with more interesting NPCs, great voice acting (the great actor Jason Statham voices one of the characters!), excellent vehicle levels to add variety and interesting boss fights. The story had twists and turns which kept it interesting all the way through. This whole game was cinematic. The gunplay is excellent. All of the weapons feel appropriately powerful and make a big impact which makes the basic shooting in the game (which is the core of the gameplay) feel fantastic. Its a joy to play and I had a blast. I played it in 4k with max settings and it looked better than I expected it to tbh." 
 * Red Faction 1 - Well I played about half way through but theres a game breaking bug!  You can't enter the submarine at all.  It falls and crashes because the overhead release is on a frame count timer not a real time timer.  Apparently the open source Red Faction engine can play it and would let me finish.  I think I would like to because it was so good bitd and I had so much fun playing the first few hours.  
+* Gauntlet Slayer Edition 12/18/19 - I beat this today!  I first played it a few months ago and it took me a while to get into but once I figured out the elf and the controls I've been having lots of fun.  I beat it on Easy.  Continue structure is perfect.  You can replay any level and you have to unlock the next levels by beating one of the current levels.  When you die you have to wait a few seconds and then you can respawn in exactly the same location (at least on easy mode) the elf is a dual stick shooter and I had a blast. 
+* Hellbound Demo - 12/18/19 - I've played for 53 minutes and in my last game I beat it in 16 minutes (par was <2 but thats ok) and I loved it.  Its the same formula as doom but with updated graphics and shooting that are wonderful and with a really interesting map.  Interesting to me in the perfect way: finding keys finding the best way to come at the enemies to get the drop on them and not have them overwhelm you and unlocking doors to find the exit.  I loved it.  
+* Project Warlock Arctic Attack - 12/18/19 - I liked this ok but I feel like I am supposed to like it more.  I loved the great retro look and feel.  it felt big and scary and intense and interesting, but having just played hellbound I dont know ...I'm not done and plan to play it some more and wouldn't be ashamed to buy the full version.
+* Out Run 3D 3DS - 12/26/19 - This is really good. the controls are great and well mapped and I dont feel cheated by them.  I think I'm doing something wrong though because I am not making any big mistakes and still can't beat the second leg.  I get close every time.  I'll keep trying.  The 3d is fantastic.  I can't tell whether the continue structure is good here because it seems like you can select your leg but I don't see that working unfortunatley so that may just be for fastest times on that leg.  
+* Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic!
