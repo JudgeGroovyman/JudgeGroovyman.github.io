@@ -189,6 +189,16 @@ Or apparently you can drag and drop if the doom2.wad and doom.wad are in the sam
 * Optionally add +logfile ValiantLog.txt
 * If you dont have doom.wad or doom2.wad then use [FreeDoom](https://freedoom.github.io/)
 
+### In game console commands ###
+1. noclip nomonsters notarget on off
+2. maplist
+3. map map01
+4. fly
+5. give ammo
+6. regenhealth on
+
+### Configuring GZDoom ###
+I had to do some substantial configuration to get my DS4 controller which works with every game on mac wirelessly to work even wired with GZDoom.  It didnt work wirelessly at all.  I had to set all of the button settings in the config to figure out what buttons were what but then some I had to set manually (specifically the fire button) in the gzdoom.ini file because strangely they didnt all reflect in the in game configuration GUI.  In the configure controller I had to set axis 1 to strafing, axis 2 to moving forward, axis 3 to turning, and axis 4 to looking up down and set the overall sensitivity on that one to 0. and invert it.  
 
 
 ## Doom Wads ##
@@ -319,6 +329,7 @@ Ok I just beat it!  (its now Oct 1 2019 so 3 days later) Levels 3 4 and 5 arent 
 Gimmick (Famicom Oct 4) - Beat it!  It was way too hard but great at the same time.  I used rewind constantly and it was tons of fun with rewind.  All of the bosses were hard but some of the bosses were amazing and some were way too hard.  Lots of cool touches as mentioned in Pats video.
 
 
+
 Evergreen games for me:
 Alex Kidd in Miracle World
 Wonder Boy III The Dragons Trap
@@ -443,3 +454,88 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 * Project Warlock Arctic Attack - 12/18/19 - I liked this ok but I feel like I am supposed to like it more.  I loved the great retro look and feel.  it felt big and scary and intense and interesting, but having just played hellbound I dont know ...I'm not done and plan to play it some more and wouldn't be ashamed to buy the full version.
 * Out Run 3D 3DS - 12/26/19 - This is really good. the controls are great and well mapped and I dont feel cheated by them.  I think I'm doing something wrong though because I am not making any big mistakes and still can't beat the second leg.  I get close every time.  I'll keep trying.  The 3d is fantastic.  I can't tell whether the continue structure is good here because it seems like you can select your leg but I don't see that working unfortunatley so that may just be for fastest times on that leg.  
 * Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic!
+* Mickey Mouse Land of Illusion Game Gear 1/8/2020 - I got to the second or third level, its cool that theres an overworld map and its got a good continue structure with apparently unlimited continues.  On tihs level theres a bunch of clunky underwater controls and its prety unforgiving and makes it not too much fun.  I was hopingto have more fun with it and its not too hard and I know I could beat it I'm just not motivated.  I think it would have been great bitd.  
+* Devilish GG 1/8/2020 - This is a weird game with breakout controls.  I dont like it but I did have a game on DS called Class Action Devilish I think and I made some decent progress in that one.
+* Double Dragon GG 1/8/2020 - Well this is so weird, its nothing like any of the other versions you can move up and down but its real clunky and its sort of more like a side scrolling platformer.  Its weird and not that fun but it might have been plenty of fun bitd.
+* Double Dragon SMS 1/8/2020 - I remember wanting this when one of my friends was over and I asked my dad to go get it for us so we could play it on a sleepover and he did and it was super fun.  I think we beat it or got to the end and had a blast.  The graphics are shiny and clear and really discrete.  It looks great.  
+* Power Strike SMS 1/8/2020 - Its pretty fancy with all of the 8 way controls and stuff.  I didnt love it though.  
+* Sonic SMS 1/8/2020 - The graphics are great and theres an overworld which is pretty cool.  I would have loved this if I had bought it although I would have continued to be jealous of the genesis version.  The graphics are great.  the enemy sprites are small but everything is clear and the shading is great like the trees and grass hanging over the edge.  The controls actually feel fantastic. Maybe better than the Genesis.  it looks like you get the chaos emeralds by finding them hidden in teh levels.  The continue structure kind of sucks though.  On interesting quirk is you can't collect your rings when you get hit. One thing that means is on bosses you get one hit.  I wish I had bought it bitd.  Even before nintendo.  I was just sure though that it was a cheaper version of the genesis game which I saw as such graphical and technical perfection that I knew this wouldnt live up to that level and I thought this would actually be much worse than it is.  Its great.  Alright!  Ibeat the first boss and released a bunch of cute bunnies and birdies!  I also loved that about the original genesis game:  You were saving the enemies not killing them and you saved a bunch at the end of the level.  it made me feel really good.  The level 2 theme is really catchy.  You know what the platforming gets too hard a few levels in where you have to jump onto a little log from far away.  The waterfall level is one of those silly situations where if you advance the screen 1 inch above the ground hit box then you die if you land back on the ground.  The whole waterfall level is kind of crappy because of it being so unforgiving on the perfect platforming and some of the platforms dont land right which gets really frustrating.  Ok 3rd boss down using some save states and a bit of rewind.  Now I'm in Labyrinth zone.  The slowdown in the water level was pretty crappy and the slow sonic underwater platforming is not that fun.  Looks like I'm about half way through.  One weird thing is the spikes have horrible sloppy and unfair collision boxes.  I like this idea for making games easy: If its a kaizo trick that I couldn't have seen coming then rewind is ok.  I just beat it!  It was pretty fun and pretty short and I would have liked it as a kid.  I wonder though if I could beat it without save states.  The last words in the game are "Presented by Sega   End"  And it locks up which is kind of funny :) 
+* Space Harrier GG 1/8/2020 - Continue structure is great because it has limited continues but then gives you a short password!  The gameplay is pretty terrible and the graphics are too super chunky with unmasked sprites  :(
+* Sonic Game Gear 1/8/2020 - This version is pretty close to the master system version but a few differences: I think the invincibility sphere is smaller which intrigues me about the size of the sprites.  Its just barely as big as sonic in a ball not nearly as big when hes walking.  In the master system one the sphere is just as big as the player.  
+* Gleylancer - 1/8/2020 - This is amazing.  There are so many cool things about this the graphics, ships, playability, collision, shooting powerups, controls (which there are 6 options for controlling your sidearms).  I beat the first level with just a few rewinds.  Its really great. I tried it without rewind and didnt make it through the first level.  It doesnt actually start you over at the beginning when you die ther are invisible checkpoints.  Lets try it again.  The high score entry is one of the coolest Ive seen.  Theres a very tricky part at the end of world 1 where you are supposed to not go after a powerup or you will die.  Its so tempting and I'm sure theres a very tricky way when you have ltos of skills to do it but you have to be very good and plan ahead.  Continue structure seems great.  YOu have a few lives to beat the level and then unlimited cotninues if you don't starting you at the beginning of that level.  Also it asks if you want to cahnge your shot type.  I did it with 3 ships left!!! Hey I nearly beat the next level in one life!  This game is really really good.  The collision on the ship is just perfect.  Its all very fair and fantastic.  The weapons are so cool.  The levels are amazing.  I love this so much.  This level I'm on now has a boss which closes you in to a tiny space and I haven't beaten it yet even after getting there like 10 times.  Lets see if I can do it with rewind.  Yeah i can beat it without too much trouble with rewind.  Ok after many more tries I finally beat that boss just now with only save states but not with rewind.  I am on level 11 now with rewind through the previous few levels and its great.  I love how the big enemies change color when hit, The palette changes to brighten them up its not an external glow but it looks great and is an excellent representation of them being hit.  Beat it!  I dont honestly think I could have beat the last few levels without rewind, but its still one of the fairest shooting games I've played.  its great.  
+* Streets of Rage 2 - 1/8/2020 - This is a pretty good beatemup with small sprites but actually really great combat.  Its really fun punching in this game where thats not always true.  
+* Hybris - 1/8/2020 - Hybris this has a great trainer which lets you start on any stage.  I'm playing on the mac on FS-UAE with an ADF.  I've played 2 games and havent gotten very far.  I'm using the trainer that lets you have all 5 powerups when you start, but honestly its really hard not to lose them quickly. Alright!  After trying many time s(probaly 7) II completed the first boss and stage! I'm proud!  I didnt have any lives left though but  its very fun!  Lets try it wihtout the trainer.  The continue structure is great! It lets you continue unlimited from the beginning of each stage.  Thats awesome imho.  Update: Its got credits on the first screen .. does that mean it only gives you on econtinue???  I love this game.  Continues seem unlimited and even better they dont start you off at the beginning of the level.  Thats wonderful!  The continues are only to get highscore it looks like.  Its so fun.  I got to level 2 fairly with no save states and on many legit cotninues.  Maybe 100 retries with save states and continues and I finally beat level 2.  I have no idea how I could beat some of these enemy patterns without save states.  One of the hardest ones are guys that come out of the side you're not nearest to at points near your vertical position and then fly in and shoot and then dip slightly randomly making it hard to avoid them and there are many of them really hard to dodge or shoot.  I would like the plane to be faster honestly.  
+* SWIV - 1/8/2020 Amiga - I had this game aand loved it so much. I got pretty far (for me) and I played it again a week or two ago for my amiga project.  The ADF has lots of cool trainer options like lives and autofire.  I'm using unlimited continues, and autofire and spread missiles.  Doing it this way you are effectively invincible so its fun but not that fun.   To get it to run I had to use some 1MB chip ram and PAL mode and auto resolution and Kickstart 1.3 A500.  I beat the first big gun boss with unlimited continues
+* Fantasy Zone - 1/8/2020 SMS - This sucked because there are no continues and the 2nd boss is silly difficult.  Getting a nupgrade would help but that shouldnt be required to just beat a boss because then you lose it and have to grind to get another upgrade but you cant count on it.  You can't be sure you will win if you make any mistakes.  that kind of unforgivness is silly imho.
+* Golden Axe - 1/8/2020 SMS - This is so good.  I remember buying this and loving it because I could actually beat it once or twice.  I felt so accomplished. I really wanted it to have more characters and be two player but as it was it was super fun and looked great and played even better.  THe jump over the pit is still stupid and cheap and shouldnt be there.  having that there means your whole game can be ruined by a few tiny errors and having to learn techniques that you otherwise dont need to know or care about.  The player moves faster in this game which is nice.  Its not cheap in terms of your reach.  I beat it just now and got an A but I was using some rewind and I remember getting a really bad score bitd but at least I won!  I never felt like I had really mastered it because I didnt get a good grade.  
+* Streets of Rage 2 - 1/8/2020 Gen - This is really cool game. The fighting is near perfect. the enemies arent cheap on normal mode (Until you get to zamza the level 3 boss).  I beat level 3.  There are lots of rom hacks which let you play as other characters or a few different fighting features or the ninja turtles!  The wrestler ABADEBE is much less cheap than the ZAMZA blanka like boss. The continue structure sucks.  2 continues and thats it.  Options menu lets you select 5 lives per continue but thats not enough to be a fair challenge for non-experts.  R. Bear is cheaper than even ZAMZA.  I lost 4 lives on him the third time I tried.  Its pretty long too so it gives a lot of content for this one game.  Its great but I am a bit bored honestly.  1/11/2020 I beat stage 7 without using save states and with just a bit of rewijnd.  I lost like 3 lives.  One lame thing is fi you run out of time you lose a life.  Stage 8 clear with lots of rewind and one more continue - 5 lives left.  I beat it!  Hey the credits song is really catchy and fun.  This is a great game.  Interesting: in openemu with the ds4 attached as bt and wired I was able to somewhat control two characters at one time since it saw them as separate controllers.  if I can get that trick working more reliably I think it mmight be fun to play two at once and just not pay attention to both. 
+* The adventures of square - 1/10/2020 Doom Mod - This is really fun to play through with the puzzles being interesting and reminding me of Overload for PC if that is possible and the shooting being fun and controls being great.  I'm re-learning FPS controls on controller so I can play on the couch.  This is a really good game.  One cool thing about this game is you can download it on its own as a standalone game.  
+* Space Hunter Doom Mod - 1/10/2020 - I'm having the best time playing through the Doom2 levels with the space hunter mod because the shooting is more fun imho.  its pretty easy as doom mods go but its still hard enough to be interesting for me.  I get lost pretty easy and the puzzles are interesting for me plus surviving is too.  I'm having to re-learn palying FPS games wiht the ps4 controller.  Its a really good mod.  
+* Doom 2 - 1/12/2020 I'm playing the DOom 2 maps with the space hunter mod and these maps are a bit weird but also awesome. I'm spending 30-45 minutes solving the puzzles which makes me feel a bit stupid but I am not beating myself up too much I'm just having to lookin every nook and cranny.  I dont think the keys should be hidden in secrets I have to look at the map to find secret areas to find the keys and exit but I feel like I should be able to explore everywhere visible to find the keys and exits.  I found a secret to go to a wolfenstein level!  It was pretty cool!  In one case on the suburbs level the exit is so secret that you have to hit a secret unlabeled column, but if you hit it from the wrong angle (i.e. any of the flat sides like every other door in the game) the column moves but the door doesnt open.  If you hit it from the right angle then it opens the door  you need.  Tenements was frustrating. I loved exploring every nook and cranny its always fun, until I got to a point where I didnt know where to go even looking at every littl eline on the map.  finally After looking in the same place 4 times I had flipped some switch or opened some wall somehow to let me finally reach the exit.  It took 45 min total and was frustrating for probably 20 of those.  I played it again and it took under 15 min.  Par was 7 min.  I'm pretty happy with 15min, but I feel like trying it again. First time was just under 47 min, second time under 15, third time under 10, fourth time I beat par!  6:57!!!
+
+
+
+# Lists of Games #
+
+## Some of the best games ever ##
+
+I love these games from Master System:
+1. Wonder Boy 3
+2. Carmen Sandiego
+3. Double Dragon
+4. Phantasy Star
+5. Hang On/Jungle Hunt (built in)
+6. Castle of Illusion starting Mickey Mouse
+
+I loved these games from the PSX:
+1. Final Fantasy VII (this was so epic and I felt like a serious gamer playing this.  Beat this summer 1998)
+2. Metal Gear Solid (Same as FF7) (rented and beat this fall 1998/spring 1999)
+3. Resident Evil 2 (Same as FF7) (rented and beat this fall 1998/spring 1999)
+4. Castlevania Symphony of the Night
+5. Jet Moto 2 (Beat this Spring 1999 - really hard to beat this)
+6. Gex (Beat this Spring 1999 - It was some work to do it - really hard)
+7. Ridge Racer Type 4 (Great memories of renting this and thinking how much like GT it was but how it was slightly more edgy or something)
+8. Gran Turismo (This was so cool when I rented it a few times, maybe I even rented the second one)
+9. Suikoden (Beat this Summer 2000 when I was playing DWIV at the same time with the other hand)
+10. Tomba (I think I rented it and loved it in part but didnt buy it until much later - In like 2010 I played about half of this - I owned the 2nd game for a while too)
+11. Time Crisis (I beat it in 2000)
+12. Klonoa (I beat this in the 2000s but I dont know whether it was the one on the Wii? I played through half of Klonoa 2 on PS2 as well but never finished it.)
+14. Xenogears (I played through about half of this and was loving it so much playing it every night as I was going to sleep, but unfortunately my memory card died and I lost all of my progress :( it was one of those fancy high capacity memory cards)
+15. I played a ton of Brave Fencer Mushashi and loved it but I got stuck and gave up and never came back to it.  
+16. Um Jammer Lammy was amazing but it was very hard so I never beat it unfortunately
+17. Soul Blade probably my favorite on the system I unlocked all of the characters even the secrets.  
+18. Wipeout XL I played the hell out of this and I feel like I beat it but I dont remember when or what that would have really meant
+19. Spyro the Dragon - Betsy got me hooked on this but I beat it on my own it was very fun exploring this awesome 3d world.  I loved it so much and remember the final boss. I owned the 2nd and 3rd game at one point but never played either except enough to fly around a bit I remember that. 
+20. Final Fantasy 8 (Got about halfway through this actually)
+21. Twisted Metal 2 - I played about half of this in the 2000s but never beat it and certainly didnt play it enough bitd, but what a great game in every sense.  Multiplayer was epic.  
+22. Legacy of Kain: Soul Reaver - I played this for a bit on PSX, but then decided the DC version was the one to play and beat the whole game on Dreamcast.  It seemed like it took an eternity and it probably did but it was a really cool game.
+23. Blood Omen: Legacy of Kain - I remember playing this at Lyndie's house and it was so damn cool, I remember the load times being really annoying and not knowing where to go after a while and getting stuck, but I got many hours in proabably half way through it and it was really really cool and I loved the lore.  I think there were problems with it loading or something. 
+
+I Always wanted to play or master these from the PSX:
+1. Parasite Eve (Don't really know why I didnt play and beat this because I wanted it so bad) (Had a demo of it which I loved very much)
+2. Vagrant Story - I owned this at one point in the 2000s without a case but never really played it
+3. Chrono Cross
+5. Final Fantasy 9 - I owned this but never played it more than for just a few minutes.  
+6. Wing Commander 3 (or 4?) (I bought it at Hastings hoping Betsy and I could play it together but it didnt load :( 
+7. Everything in me said I should get Lunar: The Silver Star Complete collection for PSX but for some reason I never jumped on it.  I bet I would have freaking loved it.  It came with a map too!
+8. Suikoden 2 - never bought this one
+9. Time Crisis Project Titan - I owned this but only played it for a few minutes.
+10. All other Guncon games - I owned most of them in the 2000s but hardly played any of them.  
+11. Tenchu Stealth Assassins - I had this for a while and it was so cool
+12. Einhander - Same It was really cool but I didnt spend much time with it unfortunately
+13. Gradius V - Dust had this and I played it at his work and it was just so cool with that awesome 3D
+14. Ergheiz - I loved this for a few days and thought it was so cool
+15. Parappa the Rapper was pretty fun for a while.
+16. Frequency - Dust said it was great
+17. Tekken 2 I played a bit of and it was really cool.  I hardly played 3 at all.
+18. Alundra - Dust or Chuck had this and showed it to me and MAN I loved it so much just seeing the pictures of it. 
+19. Bushido Blade - I had some real fun with this for a few days because it was so cool it seemed like a strategy fighting game to me at the time, but I didnt get very far. 
+
+
+I'm interested in these FMV Games from the PSX:
+1. X Files (both recommended on a cannot be tamed video comment)
+
+## Game Gear games to consider trying ##
+1. GG Aleste Game Gear / Powerstrike 2 Game Gear
+2. Streets of Rage 1 & 2 on Game Gear
+3. Panzer Dragoon Mini

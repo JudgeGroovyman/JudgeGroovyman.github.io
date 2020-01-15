@@ -35,6 +35,10 @@ Masterpieces
 
 
 # TV #
+
+## X Files ##
+* 1x2 Super Young Seth Green!  
+
 ## Star Trek Voyager ##
 Some of my favorite episodes:
 * S6:E6 Riddles.  I liked this one because of how fun the interactions were when Tuvok was childlike and I just liked how childlike he was.  He acted this really well imho.  It tugged at my heartstrings
