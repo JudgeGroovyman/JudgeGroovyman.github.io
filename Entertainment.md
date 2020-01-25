@@ -38,6 +38,17 @@ Masterpieces
 
 ## X Files ##
 * 1x2 Super Young Seth Green!  
+* 3x12 "I dont know if you know anything about UFOs but ..." stranger speaking to Mulder haha
+* 3x13 this is getting funnier and more lighthearted.  Mulder is flirty in this episode and the previous.  "So what are you doing at my house?"  "I was hoping you could help me solve the mystery of the horny beast"  and later "Someone in here is wearing my favorite perfume" *sniffs scully* "must be detective white"  haha
+* 3x15 Scully "Its a north american P51 Mustang" Mulder "I just got very turned on"
+* 3x20 Jessie Ventura is in this episode!  Hes a spooky character and looks totally different than he does now.  later "One of them was disguised as a woman." (speaking of Scully)
+* 3x24 "Men can never be free because they are weak corrupt worthless and restless"
+* 3xlast episode WOW Cliffhanger!
+* 4x1 Bees!  So many bees!
+* 4x2 This is full of foul and disgusting things
+* 4x7 Awesome Background history episode with JFK and MLK,  And at the end theres a life is like a box of chocolates monologue by cancer man which is depressing yet funny.  Also whats funny is this was about the year forrest gump came out.  Its quiet desperation.  The guy was really cute when he got his work published so excited and happy for once.  
+* 4x13 Its so 90s.  She is at this guys house and on his thick laptop she dials a modem and it connects (10 times faster than possible) and then its a small window in the middle thats called like cytron net or something its pre-netscape days.  I think this was 1996.  Also a few minutes later he does a redial and I was thinking of *69
+* 4x18 "I think you were actually kindred spirits in some deep strange way" " What do you mean?" " Men with spartan lives simple in their creature comforts if only to allow for the complexity of their passions"
 
 ## Star Trek Voyager ##
 Some of my favorite episodes:
