@@ -626,7 +626,7 @@ Probably want to pick the one that has the most presets from other people so I c
 
 # Fender Cleans #
 - $200 VHT Special 6 head (17.5lbs, 15", Great Fender Cleans, FX Loop, Line out, Footswitchable)
-- $400 EVH 5150 III 15W Lunchbox (15lbs, 13Wx7Dx7H, Fender Cleans (Made by Fender), Crunch and Overdrive channel, Cheap Locally!!!, Footswitchable)
+- $400 EVH 5150 III 15W Lunchbox (15lbs, 13Wx7Dx7H, Fender Cleans (Made by Fender), Crunch and Overdrive channel, 1/4power, Cheap Locally!!!, Footswitchable, Headphone Out cuts poweramp)
 - $400 Fender Bassbreaker 15 (25lbs, 20W,9D,10H" (not small), XLR, Power Amp Mute, [Great cleans](https://youtu.be/B7kYdhXK0FQ?t=84), [Silent Recording](https://www.youtube.com/watch?v=2nkRu1alF2M))
 - $230 Fender Bassbreaker 007 (17lbs, no FX Loop, [Amazing Spongy Clean with tele](https://youtu.be/sSFWjAnkd5A?t=729))
 - $300 H&K Tubemeister 5 (7.72lbs, 10Wx6Hx6D, Great cleans)
@@ -723,7 +723,7 @@ Using my peavey 75w Vypyr:
 36. $369 * Peavey 6505 Mini (16.64lbs, 14", Headphones, XLR, USB, Footswitch, Super sturdy, Tube Monitor on Front)
 36. $390 Orange Dark Terror (12.5lbs, 12", FX Loop)
 37. $400 Fender Bassbreaker 15 (25lbs, 18" (not small), XLR, Power Amp Mute, [Great cleans](https://youtu.be/B7kYdhXK0FQ?t=84), [Silent Recording](https://www.youtube.com/watch?v=2nkRu1alF2M))
-38. $400 EVH 5150 III 15W Lunchbox (15lbs, Fender Cleans (Made by Fender), Crunch and Overdrive channel, Cheap Locally!!!, Footswitchable)
+38. $400 EVH 5150 III 15W Lunchbox (15lbs, Fender Cleans (Made by Fender), Crunch and Overdrive channel, Cheap Locally!!!, Footswitchable, Headphone Out cuts poweramp)
 40. $400 Orange OR15 (17lbs, Buffered FX Loop, 7/15W, Orange Case with handle)
 42. $500 Line6 Helix HX Stomp w/expression pedal ([Great Tones in this video](https://www.youtube.com/watch?v=q2VN1cIjlSw))
 43. $1500 Kemper with Michael Britt
@@ -1033,6 +1033,14 @@ EVH 5150 III Lunchbox 13Wx7Dx7H
 H&K Tubemeister 5 10Wx6Hx6D
 Mooer Little Monster 8Wx5Dx5H
 
+#### Tiny Heads ####
+Micro Terror 7Wx4Dx6H
+Micro Dark 7Wx4Dx6H
+Joyo 6.4Wx4.3Dx5.5H
+Mooer LIttle Monster 7.4Wx4Dx4H
+
+
+
 
 Most will fit in 20W
 Most will fit in 10H (not VHT or Blackstar)
@@ -1216,5 +1224,16 @@ Amb B: Classic 50
 The exercise of curiosity requires a committment, a sacrifice
 aaron brown clifford asness
 
+## Power ##
+USB Power technically works, but its super noisy no matter how I arrange batteries or whatever.
+1. $30 Donner Power Supply 
+2. $50 Dunlop DC Brick
+3. $30 AGPTEK CP-05 new
+4. $37 Caline Power CP-04
 
+## Shopping Feb 12 2020 ##
+1. $10 Rolls Stereo Headphone Amp https://www.guitarcenter.com/Used/Rolls/Stereo-Headphone-Amp-Headphone-Amp-116148251.gc
+2. $20 Behringer Stereo Chorus https://www.guitarcenter.com/Used/Behringer/UC200-Stereo-Chorus-Effect-Pedal.gc
+3. $120 Ditto X2 Stereo Looper https://www.guitarcenter.com/Used/TC-Electronic/Ditto-X2-Looper-Pedal-116026573.gc
+4. $30 Donner pedalboard Power Supply https://www.guitarcenter.com/Used/Donner/Power-Supply.gc
 

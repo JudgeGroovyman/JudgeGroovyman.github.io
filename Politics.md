@@ -39,3 +39,15 @@ Source: Cover Up: Behind the Iran Contra Affair
 3. Covert war in Laos, Cambodia, Thailand
 4. Oliver North disappeared?
 5. Warren Commission - a major deception worked upon the American people
+
+# Arguing #
+
+## With Bullies ##
+1. I have neither the time nor the crayons to explain this to you.
+2. Go milk your goat.  We're done playing nice with the Nazis
+3. I like men, especially ones made out of straw like this one
+4. Imagine carrying a child in your womb for 9 months, giving birth to it, raising it to adulthood, only to have it make this post.
+
+# Trumpbarassment #
+1. [trumpgolfcount.com](http://trumpgolfcount.com)
+2. [Ask Trump Supporters](https://www.reddit.com/r/AskTrumpSupporters/) to help improve understanding of trump supporters and their views

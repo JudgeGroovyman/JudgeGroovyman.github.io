@@ -32,7 +32,7 @@ Some small local shops will change string gauges to whatever you want and do a f
 6. Vintage (the brand not the adjective) (quality guitars with nice Wilkinson hardware)
 7. Guitarfetish (Xaviere, Slick)
 8. Diamond (formerly DBZ) (many MIK at World Music)
-9. Chapman
+9. Chapman (Designed by the internet, owned by youtube superheroes)
 10. G&L Tribute
 11. Cort (Great woods and attractive playable designs)
 
@@ -50,16 +50,22 @@ Its hard to describe this range in fact I've never heard of anyone talk about it
 3. U.S. Masters (amazing quality and innovative features but I belive they aren't being made anymore)
 4. Prestige (an awesome Canadian built brand that is affordable in this range and quality)
 5. FGN (A great Japanese brand using the famous Fujigen factory with amazing technology and features)
-6. Godin (an awesome Canadian brand which has some unique features and excellent build precision such as super tight neck pockets for great sustain)
+6. Godin (an awesome Made in Canada brand which has some unique features and excellent build precision such as super tight neck pockets for great sustain, buying used often they are sub$500 and at those prices it seems impossible they will go down in price.  LG, LG Signatur)
 7. Edwards (a high quality ESP sub-brand)
 8. Zemaitis (High Quality UK brand Made in Japan or Korea with cool designs)
-9. Reverend (Funky and unique designs with great wood and quality)
+9. Reverend (Funky and unique designs with great wood and quality, Some first models made in USA but most made high quality in Korea)
 10. Dean Zelinsky (Amazing Tech and Beautiful Designs at <$1k)
 11. Jericho
 12. Solar
 13. [Doodcraft](https://reverb.com/shop/dood-craft-guitars)
+14. Tagima $700+ Made in Brazil (Added Feb 2020)
+15. Gianand Ribelle - really cool ash, chambered option, custom configurable less than $1k for basic model (Added Feb 2020)
+16. Texas Toast - Daily Driver like a Tele LT$1k (Small builder) - otherwise they are boutique
+17. CMG - US Builder for near LT$1k with thick masked flame binding
 
 Heres a video about great guitars like this [Great Non-Gibson Gibsons](https://www.youtube.com/watch?v=4aljGgg70Pg)
+
+
 
 ### Boutique Brands ###
 1. Acacia (dubious history but they look amazing now)
@@ -88,11 +94,10 @@ Name brands I think highly of:
 3. ESP (not LTD) (Standard or E-II Made in Japan)
 4. Parker (I don't think they make guitars at all anymore :( )
 5. Dean (Really cool high quality instruments)
-6. G&L (not G&L Tribute) (Leo Fenders company)
-7. Chapman (Designed by the internet, owned by youtube superheroes)
-8. Peavey (Since the 1970s theyve been making all variety of reliable musical instruments.  At one point they were one of the only companies that sold everything a band would need to put on a show through the entire signal chain)
-9. Ibanez (A fascinatingly important Japanese brand with MIJ at their top of line)
-10. Washburn (A surprisingly underrated brand of quality musical instruments)
+6. G&L (not G&L Tribute) (Leo Fenders company) (Some less than $1000 NOS)
+7. Peavey (Since the 1970s theyve been making all variety of reliable musical instruments.  At one point they were one of the only companies that sold everything a band would need to put on a show through the entire signal chain)
+8. Ibanez (A fascinatingly important Japanese brand with MIJ at their top of line)
+9. Washburn (A surprisingly underrated brand of quality musical instruments)
 
 ### Hugest Name Brands ###
 1. Paul Reed Smith

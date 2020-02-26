@@ -1,4 +1,9 @@
 
+# Drums #
+- EZDrummer and Superior Drummer are great but expensive ($150) [MTPowerDrumKit 2](https://drumlessjazz.com/ezdrummer-free-alternative) is a free alternative
+
+# Learning Guitar #
+- Ross Campbell on Youtube has an amazing 100k subs channel with clear practical down to earth guitar practicing advice.  [Three Exercises to Try the Next Time You Practice.](https://youtu.be/q9ZFEIviIL8) was my introduction to his work.
 
 # Jamming Online #
 - ChordChord lets you make chord progressions.  You define the key, instrument, arpeggiation, tempo, scale, etc and it will generate chord progressions.  This could be used to generate chords for entire songs very quickly.  Pro version ($5/mo) exports to midi which could then be loaded into garage band.
