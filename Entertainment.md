@@ -49,6 +49,10 @@ Masterpieces
 * 4x7 Awesome Background history episode with JFK and MLK,  And at the end theres a life is like a box of chocolates monologue by cancer man which is depressing yet funny.  Also whats funny is this was about the year forrest gump came out.  Its quiet desperation.  The guy was really cute when he got his work published so excited and happy for once.  
 * 4x13 Its so 90s.  She is at this guys house and on his thick laptop she dials a modem and it connects (10 times faster than possible) and then its a small window in the middle thats called like cytron net or something its pre-netscape days.  I think this was 1996.  Also a few minutes later he does a redial and I was thinking of *69
 * 4x18 "I think you were actually kindred spirits in some deep strange way" " What do you mean?" " Men with spartan lives simple in their creature comforts if only to allow for the complexity of their passions"
+* 4xfinal huge cliffhanger for final episode of season.  dirty trick.  That would have made me so mad!
+* 5x7 GREAT Twist at the end!  cant wait to see pt 2
+* 5x11 "It would need bandwidth.  Itd need a T3 at least.  a hardline 45megs a second".  Thats so funny because I remember wanting a T1 bitd so bad.  I considered paying like $1000/mo plus install.  later "But the government keeps those records secret for fear of sabotage."  "Gee you guys know anyone who works for the government?" haha
+* 5x12 luke wilson is hilarious here.  Theres some great tension! ITs relaly funny how in her recollection everything is dramatized more and funnier :) "Shut yo mouth Im talking about shaft"  and then Mulder tells the same story with hilarious funny twists of attitude and tone.  In Mulders story Luke Wilson was really ugly haha!  "Finally you left" (about scully finally leaving)
 
 ## Star Trek Voyager ##
 Some of my favorite episodes:
