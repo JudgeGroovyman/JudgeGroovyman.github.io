@@ -18,29 +18,65 @@ Some small local shops will change string gauges to whatever you want and do a f
 ### Local Places Near Me ###
 1. http://www.wicksguitarshop.com
 2. http://www.lambsmusic.com
+3. [Tone Shop Guitars](http://www.toneshopguitars.com/services/) theyre an hour away in Addison but reviews are great, they seem to know what theyre doing and they have a Plek!
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+______                     _     
+| ___ \                   | |    
+| |_/ /_ __ __ _ _ __   __| |___ 
+| ___ \ '__/ _` | '_ \ / _` / __|
+| |_/ / | | (_| | | | | (_| \__ \
+\____/|_|  \__,_|_| |_|\__,_|___/
+                                 		
+-->
 
 ## Brands ##
 
 ### Affordable ###
-1. Michael Kelly (Korean manufacturer with beautiful guitars and great appointments winning awards)
+1. Michael Kelly (Korean manufacturer with beautiful guitars and great appointments winning awards) (some are now made in indonesia or china)
 2. PRS SE (Excellent quality and designs)
 3. ESP LTD 400/401/256 series (and other set neck models) (some of the best appointments in the price range)
 4. Schecter Diamond (highly regarded with great quality and appointments but personally not my favs)
 5. Dean - Evo/Soltero (high quality classy instruments)
-6. Vintage (the brand not the adjective) (quality guitars with nice Wilkinson hardware)
-7. Guitarfetish (Xaviere, Slick)
+6. Vintage (the brand not the adjective) (really highly regarded quality guitars with nice Wilkinson hardware) [Heres the official site](https://vintageguitarsus.com/electric-acoustic/) I like the V100(lp), the V6 (strat), the V52 or V62 (tele), and the VS6(sg)
+7. Xaviere or Slick (Guitarfetish) these are super affordable beautiful instruments like the XV-500
 8. Diamond (formerly DBZ) (many MIK at World Music)
 9. Chapman (Designed by the internet, owned by youtube superheroes)
 10. G&L Tribute
-11. Cort (Great woods and attractive playable designs)
+11. Cort (Great woods and attractive playable designs, high quality korean and chinese factories)
+12. Danelectro (Made in Korea, high quality, under $500 new, sometimes 4.8lb, if their style works for you then they are a great choice)
+13. Agile or SX (Rondomusic) Agiles are made in South Korea with high quality parts and craftsmanship, SX are made in China
+14. Revelation (Made in China with high quality due to careful oversight) [History of the company](https://www.revelationguitars.co.uk/our-heritage/)
+15. Sozo barely known brand some models made in usa and no one knows them so they sell cheap.  A christian brand.  Not Recommended. Not enough information.
+16. Hard Luck Kings.  These are really cool and Inexpensive and highly regarded.  They will pro setup for $150 extra which is convenient, but not a particularly good deal. Oh!  Its on sale for $40.  
+17. Hagstrom Swede.  These are really cool with cool features and typically at a good price.  
+
+
 
 [List of guitars made in Korea at World Musical Instrument Co](https://www.thegearpage.net/board/index.php?threads/list-of-guitars-made-by-world-musical-instrument-co-ltd-korea.1702997/))
 
 Some very small brands:
 1. Crooked (like Ibanez)
 2. Legator
+
+
 
 ### Semi-Boutique ###
 
@@ -56,12 +92,13 @@ Its hard to describe this range in fact I've never heard of anyone talk about it
 9. Reverend (Funky and unique designs with great wood and quality, Some first models made in USA but most made high quality in Korea)
 10. Dean Zelinsky (Amazing Tech and Beautiful Designs at <$1k)
 11. Jericho
-12. Solar
+12. Solar (Ola's brand of sexy heavy metal guitars at great prices)
 13. [Doodcraft](https://reverb.com/shop/dood-craft-guitars)
 14. Tagima $700+ Made in Brazil (Added Feb 2020)
 15. Gianand Ribelle - really cool ash, chambered option, custom configurable less than $1k for basic model (Added Feb 2020)
 16. Texas Toast - Daily Driver like a Tele LT$1k (Small builder) - otherwise they are boutique
 17. CMG - US Builder for near LT$1k with thick masked flame binding
+18. Burny (MIJ or MIK)
 
 Heres a video about great guitars like this [Great Non-Gibson Gibsons](https://www.youtube.com/watch?v=4aljGgg70Pg)
 
@@ -87,22 +124,28 @@ I don't know a lot about these in fact the only one I've played with my own hand
 
 Of course many Paul Reed Smith, Gibson, and Fender models could also be considered Boutique.  In fact most brands have a boutique range.  Some (ESP and Schecter for example) have high end Japanese ranges and Schecter even has a higher end USA custom shop.
 
+
+
 ### Name Brands ###
 Name brands I think highly of:
 1. Ernie Ball Music Man
-2. Hamer USA (I don't think they make USA instruments anymore :( )
+2. Hamer USA (I don't think they make USA instruments anymore :( ) [Factory Tour with amazing carved top showing](https://www.youtube.com/watch?v=4wicSQKLVNs)
 3. ESP (not LTD) (Standard or E-II Made in Japan)
 4. Parker (I don't think they make guitars at all anymore :( )
 5. Dean (Really cool high quality instruments)
 6. G&L (not G&L Tribute) (Leo Fenders company) (Some less than $1000 NOS)
-7. Peavey (Since the 1970s theyve been making all variety of reliable musical instruments.  At one point they were one of the only companies that sold everything a band would need to put on a show through the entire signal chain)
+7. Peavey (Since the 1970s theyve been making all variety of reliable musical instruments.  At one point they were one of the only companies that sold everything a band would need to put on a show through the entire signal chain) The imports are fine but the USA models from the 70s-90s and early 2000s are high quality machine built instruments.
 8. Ibanez (A fascinatingly important Japanese brand with MIJ at their top of line)
-9. Washburn (A surprisingly underrated brand of quality musical instruments)
+9. Washburn (A surprisingly underrated brand of quality musical instruments.  can often find for $5-600 for a USA les paul style guitar from their USA custom shop usually with duncans and buzz feiten tuning systems, and also nice neck comfortable joints.)
+
+
+
 
 ### Hugest Name Brands ###
 1. Paul Reed Smith
 1. Gibson
 1. Fender
+
 
 ## Amazing Values ##
 
@@ -114,6 +157,19 @@ Korea
 Indonesia
 China
 
+In Japan one of the biggest guitar factories is Fujigen (aka FGN who also is a brand).  In Korea its probably Cort (who also have their own brand) or World Music International.
+
+to find these use words like 
+1. USA
+2. American
+3. Japanese
+4. MIJ
+5. Fujigen
+6. MIK
+7. World Music
+
+
+
 ### Korean Imports ###
 1. Michael Kelly 
 2. PRS SE
@@ -124,6 +180,8 @@ China
 Many of the korean imports can be found used for $350 and they are excellent instruments.  The models from these brands that are less expensive aren't always so special but the korean ones are typically great.
 
 P.S. Indonesia is apparently the new Korea when it comes to guitar building
+
+
 
 ### Specifics ###
 My current favorite is the Cort G100 series (especially the ones with OP in the title).  The OP models have Open Pores which is a really beautiful stained finish.  They have single coils or humbuckers, are hardtails and are super cheap (often $125-150 shipped on reverb).   They are made of Paulownia and probably as a result they are incredibly lightweight.  
@@ -141,7 +199,7 @@ You can get an amazing value by looking for an affordable guitar with upgraded p
 1. EMGs
 2. Seymour Duncans (Be on the lookout for Duncan Designed which are not worthwhile)
 3. Dimarzios
-4. Fishman (Fluence)
+4. Fishman (Fluence) (These are the new hotness)
 5. Lace
 6. Gibson
 7. Fender Custom Shop
@@ -160,6 +218,7 @@ Boutique that I barely know about (but probably should)
 1. Ron Kirn
 2. Danocaster
 3. Hahn
+
 
 ### Premium Values ###
 You'll often have to look for a while to find these deals.
@@ -193,6 +252,7 @@ Some other keywords to use to find values:
 17. Open Pore
 18. Nitro
 19. Hardshell Case (HSC, OHSC)
+20. Upgraded
 
 ## Lightweight ##
 
@@ -201,6 +261,13 @@ When I bought my most recent guitar (Nov 2017) I was in a bit of a pinch but was
 Last week when I ordered a new guitar online I decided to do some measurements and used my wifes postal scale and it measured to be 6lbs and 3oz and after looking around online I realized that is super light!  Its not common for guitars to be that light and I was really exciteds.  
 
 Well this week when I got my new guitar I put it on the same scales and they didnt register it, so I tried my old guitar and they didnt register it either!?!  I guess that scale is broken for 5lb+ things (I tested some other things too).  I bought a new scale and unfortunately it says that my old guitar weighs more than I thought: 7lbs and 4oz or 7.25lbs!  Thats actually kind of shocking to me because of all of the guitars Ive been looking at online and mentally dismissing in the last week as "too heavy" and "way heavier than my current guitar so why bother".
+
+### Woods ###
+Some notably lightweight woods are paulownia and korina
+
+Sometimes Swamp Ash or spruce or sitka-spruce
+
+Any kind of wood can work when cut thin or chambered or the right size or just a lucky low density chunk of wood.
 
 ### Searching By Weight ###
 
@@ -212,6 +279,9 @@ You can get to this by putting in a search term or clicking on electric guitars,
 
 #### eBay ####
 Otherwise you can add the word 'lbs' to ebay and then in the search options click 'search in description'
+#### Reverb ####
+3. [Search reverb for 6lbs and then read carefully to find some](https://reverb.com/marketplace/electric-guitars?query=6lbs&sort=price%7Casc)  or you can [search for 5lbs instead](https://reverb.com/marketplace/electric-guitars?query=5lbs&sort=price%7Casc) neither of these solutions are perfect because the search doesnt only list guitars that are in the 5lb range but it does match some that you can read the titles to find some lightweight guitars
+
 
 ### Sellers which list the weight ###
 Once you find a seller that lists the weight, in most cases all of the guitars they sell will also list the weight so you can bookmark that seller
@@ -221,28 +291,109 @@ Once you find a seller that lists the weight, in most cases all of the guitars t
 
 ### Lightweight Models ###
 
-Gibson SG
+Gibson SG Standard 6.1lb, 6.2lb, 6.1lb, m
+Gibson SG Tribute 6.2lb, 
 Epiphone G-400
-Fender Thinline Tele
+Fender Thinline Tele 6.2lb,
 Fender AVRI Reclaimed wood Tele (6lb4oz)
 Gordon Smith
 Paul Reed Smith
 PRS SE
-PRS S2
+PRS SE Mira 5.8lb, 
+PRS S2 Mira (often less than 7lbs)
+PRS S2 Vela 5.7lb, 5.8lb, 5.8lb, 6lb, 
+PRS S2 Standard 6.6lb
+Danelectro '59 4.9lb
 Paul Reed Smith X series
 Paul Reed Smith (especially Mira, Stella, Vela)
 Michael Kelly (especially Enlightened)
 Ibanez S series
-Ibanez RG Series (See the searching by weight at sweetwater below)
+Ibanez RG Series (See the searching by weight at sweetwater below) 
+Ibanez RGA 6.0lb, 6.9lb, 6.7lb, 7.6lb, 6.9lb, 6.4lb
+Ibanez RGD 6.5lb, 7.4lb
 Gibson Nighthawk
 Parker Fly
 Dean V
+Mario Martin T-Style (often under 6lbs)
+Fender Player series (often between 6-7lbs) 6.6, 
+G&L USA ASAT 6.4lb, 6.6lb, 6.8lb
+Ernie Ball John Petrucci 6.6lb, 
+Tom ANderson TopT 6.6lb, 6.4lb,
+ESP LTD Black Metal 6.4lb, 
+Peavey T-15 at least one is just 6.3lbs but T-60 is heavy
+Epiphone Les Paul Special II 
 
 
-### Woods ###
-Some notably lightweight woods are paulownia and korina
+#### Reddit Post ####
+PRS and Gibson Average Weights (from Sweetwater Listings) [OC]
 
-Sometimes Swamp Ash or spruce or sitka-spruce
+Here are some average weights for PRS and Gibson solidbody electric guitars (not semi-hollow or hollowbody or acoustic).  All of the data is from Sweetwater.com who have weight listings for most of the solid body electric guitars they have photographed and in stock as of Feb 27 2020.
+
+How did I get the data?  If you use sweet waters search filters for solid body electrics then you can sort by lightest guitar and then it puts all of the guitars they have weights for that meet your filter criteria at the top. 
+like this: https://www.sweetwater.com/c590--Solidbody_Guitars?sb=lightest&pn=2
+
+This only includes things from their solidbody listings so semi-hollow and hollowbody are not included in this data.
+
+I did lots of clicking, lots of copying and pasting, a bit of spreadsheeting, and some extrapolation to get this data and its approximate and imperfect and of course representative of only one sample set of data.  Nevertheless it is interesting and helpful to me.  
+
+What questions do you have for me?  Was this helpful to you too?
+
+The Results:
+--------------------------------
+
+PRS SE Series
+Average for PRS SE Models is 7.4lbs
+Lightest SE was a mira 5.8lbs *wow* heaviest was 8.6lbs
+Notes: There were 40 of these listed on Sweetwater and they generally sell for between $499 and $999.
+
+PRS S2 Series
+Average for PRS S2 Models without a maple top is 6.48lbs
+Average for PRS S2 Models with a maple top is 7.55lbs
+Average for all PRS S2 Models combined is 6.92lbs
+Lightest was 5.6 heaviest 8.4
+Notes:
+There were 22 with weights listed on Sweetwater and they generally sell for between $900 and $1849.
+
+PRS CE Series
+Average for PRS CE models was 7.34lbs
+lighest 6.85 heaviest 7.9
+Notes:
+There were 17 of these listed on Sweetwater and they generally sell for $1999
+
+PRS Silver Sky Series
+Average for PRS Silver Sky models was 7.18lbs
+Lightest 6.84lbs Heaviest 7.4lbs
+There were 7 of these listed on Sweetwater and they generally sell for $2299
+
+PRS Core (Standard, Custom, McCarty, and others that haven't been covered above)
+Average is 7.76lbs
+Lightest 6.7lbs heaviest 9.18lbs
+There were 156 of these on Sweetwater and they generally sell for $3000 and up (with a large range).  Many are between $3800 and $4500
+Breakdown:
+3 were less than 7lbs (6.7-6.8)
+about 19 were between 7lbs and 7.2lbs
+about 34 were between 7.2 and 7.5lbs
+about 50 were between 7.5 and 8lbs
+about 50 or so were over 8lbs
+
+All PRS
+Average for All PRS Models is 7.53lbs
+lightest 5.6lbs heaviest 9.15lbs
+
+
+Gibson SG
+Average was 6.49lbs
+Average for SGs without a maple cap or a tremolo (the three heaviest) or the abnormally light SG Jr (5.2lbs) was 6.3lbs
+There were 9 of these on Sweetwater.
+lightest was 5.2lbs heaviest was 7.7lbs
+
+Gibson Les Paul (Flat top models)
+Average weight 7.19lbs
+There were 13 of these on Sweetwater ranging between 6.78 and 7.78 lbs
+
+Gibson Les Paul (Carved top models)
+Average weight 8.57lbs
+There were 20 of these ranging between 7.3lbs and 9.6lbs
 
 
 
@@ -282,6 +433,7 @@ strings certainly have a tonal lifespan and undoubtedly start to sound dead afte
 2. Smooth them with a dab of mineral oil, lemon oil, or coconut oil though on a different part of the cloth or a new one.
 This worked very well for me and made the strings feel like joy.
 
+
 ## Unique ##
 Reverend Terz
 Billy Corgan apparently asked them to make this 21.5" scale guitar.  I want it!  https://www.reverendguitars.com/guitars/billy-corgan-terz
@@ -289,7 +441,9 @@ Billy Corgan apparently asked them to make this 21.5" scale guitar.  I want it! 
 Dean Zelinsky LaVoce
 In addition to its really special neck shape and feel its a lightweight skinny and beautiful les paul with special electronics (single coil, humbucker, and acoustic).  
 
-## For Me ##
+
+
+# For Me #
 
 1. Hardtail
 2. Blue (preferably a light burst and quilty or flamed)
@@ -312,6 +466,32 @@ Guitars I would like if I was making a collection:
 7. Walnut Neck Through
 8. Jericho Edge 6 NT Royal Blue Spalted Maple
 
+### Some sexy guitars ###
+Some part of me would like to have all of these but the baggage with having many and trying to get all of the sexiness is way too much.  I could own some of them for a time perhaps knowing that I was going to sell them
+
+- Beautiful shiny bright cherry sunburst les Paul style flame top guitar like Michael angelos
+- Blue quilt like the ocean or a light blue ice lake
+- Blue flame like light denim or sometimes dark denim
+- Blue burst light to slightly darker like the Dean V
+- Simple Blue like Pelham blue or powder blue Or sea foam green Or maybe a bit of sparkle like the blue Mira or the The dean Zelensky or the seafoam vela s2
+- Natural brown like the Mira x or my old $40 dean evo or like a natural sg
+- Satin red with wood grain like prs Mira or like the dean professional series PRS s2 Singlecut comes with this satin that I love
+- Satin brown with wood grain
+- Sexy Ibanez Burl
+- Thick Masked Carved flame or quilt top with blue stain and strong pop
+- Sexy Ibanez style with strong natural ash finish
+- Sexy Ibanez with partial natural on front and partial beautiful stain
+- Sexy lemon drop like that xaviere
+- Blueburst PRS SE Soapbar II Maple from the 00s (I bought one for $400 but it was burst not blue and I regretted it when I found a blue one and found the buzzing bad)
+- Simple Brown Hard wood hard Natural finish like Peavey T-60 or T-15.  Its like you can't really hurt these.  
+- Ibanez S series - Ocean Fade, Iron Label Blue Space Burst, anything called Cerulean Burst
+- Anything that looks like the ocean  like the Dean Oceanburst (Satin Neck )
+-
+
+
+
+
+
 ### Level Two ###
 7. Parker Fly
 8. Blue Jean Michael Kelly
@@ -323,7 +503,7 @@ Guitars I would like if I was making a collection:
 ### Specifics ###
 
 
-## Mods ##
+# Mods #
 Easiest mods to make it great quick
 - Swirl scratch remover $10 
 - fretboard cleaner / conditioner $10 / microfiber cloths so $5
@@ -335,3 +515,10 @@ Easiest mods to make it great quick
 - Home made quick connect pickup system
 - Sometimes adding weight to the headstock may increase sustain
 
+[From a cool short scale guitar](https://reverb.com/item/32645313-short-scale-guitar-w-warmoth-ebony-mustang-neck-fender-bridge-strat-grey-lomic)
+"Duncan Designed JB/Jazz (HB-102) with logos removed. Here's a little tone secret: If you use 1 Meg pots or only 1 500k Volume (as I have here), it opens up the sound of Duncan Designed pickups to where they sound almost identical to an actual JB/Jazz. They're my go-to for my personal guitars."
+
+# Kits #
+- BYOGuitar.com
+- Guitarfetish.com
+- Warmoth.com (search reverb for this)
