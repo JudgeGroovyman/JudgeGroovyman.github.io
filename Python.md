@@ -14,11 +14,16 @@ just change the name of python.exe in python3.8 to python3.exe
 
 
 ## Virtual Environments ##
+
 1. pip install virtualenv
 2. virtualenv any_name_you_want
-3. virtualenv any_name_you_want
+3. virtualenv <that name>
 4. source venv/bin/activate
 5. deactivate
+
+or to use python 3 or 2 you can use this as step 4
+
+1. virtualenv -p /usr/local/bin/python2 venv
 
 
 
@@ -39,6 +44,13 @@ I used this to scrape from ebay
 https://www.scrapehero.com/how-to-scrape-competitor-prices-from-ebay-com-using-python-and-lxml/
 
 I learned some things but the trickiest part seems to have been: xpaths can be printed as text with from lxml import etree and then print etree.tostring(product) if they are not empty
+
+### Scraping to PDF ###
+1. install pip as above
+2. pip install pdfkit
+3. add this to your code: 
+	* import pdfkit
+	* pdfkit.from_url('http://google.com', 'out.pdf')
 
 ## Textmate ##
 It is great but has something called softtabs which I had to turn off in the ~/.tm_properties softTabs = false_
