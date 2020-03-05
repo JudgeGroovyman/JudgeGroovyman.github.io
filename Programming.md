@@ -71,3 +71,6 @@ Unity, Unreal are the two big engines. Here are a few more intriguing ones:
 
 # Makefiles #
 [Super simple makefile](https://spin.atomicobject.com/2016/08/26/makefile-c-projects/)
+
+# Folder Organization #
+[Folder Structure by Infallible Code](https://youtu.be/F89PWIk7zec?t=328) It makes sense to keep scripts in scripts folder and textures in textures folder, but it also makes sense to organize conceptually or by object.  Searching lets you find things by name or type easily, but "You can't search by conceptual feature" like the laser dragon boss.  Plus things are often removed or replaced conceptually and delete a folder rather than finding things spread all over your product.  You can use tags too for categories and thats worth doing. 
