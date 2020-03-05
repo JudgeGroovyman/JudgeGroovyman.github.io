@@ -130,6 +130,7 @@ Some Evidence of Headphone Only:
 
 
 
+---------------------------------------------------------------------------------------------------
 # Big Tube Amps #
 - $200 Peavey Classix VTX Head (Vintage 1980s, Beautiful cleans, super heavy, would probably require maintenance)
 - $220 Blackstar HT5RH (27lbs, 20Wx9Dx9H, Amazing)
@@ -271,45 +272,64 @@ Some Evidence of Headphone Only:
 
 
 ----------------------------------------------------------------------------------------------
-# Solid State Amps #
-## Small Solid State ##
-- $50 Peavey Rage 158
-- $50 Orange Crush 10
-- $100 Blackstar ID:Core
-- $100 Boss Katana Mini
-- $100 Fender Champion 20 (Great clean tones, headphones, simple controls)
+# Non Tube Amps #
+
+## Tiny Solid State Amp heads ##
+- $499 BluGuitar Amp1 Tube Amp Head (60w, 2lbs, headphone out legendary tone)
 - $100 Hotone Nano Legacy Heart Attack. (Tiny solid state Mesa tones with headphone out)
 - $100 Hotone Nano Legacy Mojo Diamond (Tiny Tweed tones with Headphone out) 
-- $100 Peavey Solo Transtube (12lbs, really basic and simple, sounds good!)
+- $120 Quilter MicroBlock 45 (33W, Power amp, takes pedals great, aux in, headphone out)
+- $150 Vox MV50 (50W, Tube, Headphone Out, Tiny, AC sounds great, Cool VU Meter to keep sounding consistent)
+- $250 Quilter 101R (50W, "A Quilter 101R is a great pedal platform amp that can play at any volume. The limiter really allows you to smash the preamp without getting too much breakup, giving it that same feel as a cranked Fender Twin.", needs cab sim for headphone out)
+
+
+## Tiny Tube or Solid State Preamps ##
+2. $75 Behringer Vintage Tube Monster VT999 (Tube OD, noise gate, change the tube, see quotes below)
+
+
+
+## Small Solid State Combo Amps ##
+- $50 Peavey Rage 158
+- $75 Orange Crush 10
+- $100 Boss Katana Mini
+- $100 Blackstar ID:Core
+- $100 Peavey Vypr VIP1 (20lbs, Cool Footswitch with looper for 75)
+- $100 Roland Cube 30 (20lbs)
+- $100 Fender Champion 20 (Great clean tones, headphones, simple controls)
+- $100 Peavey Solo Transtube (14lbs, really basic and simple and portable for live artists, sounds good!)
 - $120 Fender Mustang (Best clean tones and tons of configurable FX, Complicated)
-- $130 Quilter MicroBlock 45 (Pedal sized amp, great with other pedals, aux in)
+- $120 Blackstar ID:Core Stereo 40W Head
 - $140 Orange Crush 20LDX (17lbs great cleans for an amp like this, unprocessed headphones out, Aux in, Built in tuner, FX, )
 - $150 Peavey Vypyr 30H (25lbs, tuner, FX, USB, Aux-in, Headphones)
-- $200 Yamaha THR10X (6lbs I loved the original when I plugged in a few years back.  This one is tuned towards modern metal) 
-- $220 Vox MV50 (FancyTubeLikeTech, Headphone Out, Tiny, AC sounds great, VU Meter to watch to keep your sound in the same spot and sounding consistent)
-- $250 Quilter 101R ("A Quilter 101R is a great pedal platform amp that can play at any volume. The limiter really allows you to smash the preamp without getting too much breakup, giving it that same feel as a cranked Fender Twin.", needs cab sim for headphone out)
+- $200 Yamaha THR10X (6lbs I instantly loved the original when I plugged in a few years back.  I hoped it was tube but I just loved the whole package.  This one is tuned towards modern metal) 
+- $219 Fender Champion 50xl (19lbs combo)
 - $300 Boss Katana Air
 - $400 Yamaha THR100H Head (9.2lbs The little amp in a head format, footswitchable, IR Speaker Sim, Desktop Software)
 - $700 Yamaha THR100HD Head (11.1lbs Two little amps in a head format, footswitchable, Dual Amp Sim Capability, IR Speaker Sim, Desktop Software)
-- $599 Line6 HX Stomp
 
-## Large Solid State ##
-- $80 Peavey Vypr VIP1 (20lbs, Cool Footswitch with looper for 50)
-- $FREE Roland Cube 30 (20lbs)
+
+
+## Large Solid State Amp Heads or Combos ##
 - $150 Peavey Supreme head (35lbs Solid State super high gain and nice cleans)
-- $150 Peavey Vypr 30 Head (20lbs, )
 - $150 Peavey Vypyr 75 Combo (44lbs)
 - $175 Roland Blues Cube 30 (27lbs, so classy, great tones, 59 tweed bassman)
-- $219 Fender Champion 50xl (19lbs combo)
-- $230 Boss Katana 50 (Great tones, PC configurable, "Boss is a pedal company and seems to have gone to great lengths to make a modeler that plays well with pedals")
+- $230 Boss Katana 50 (25lbs, 18.5", GA-FC Foot Controller, Expression pedal, and Boss Tone Studio Software) (Great tones, PC configurable, "Boss is a pedal company and seems to have gone to great lengths to make a modeler that plays well with pedals")
 - $250 Peavey Vypr 50 with Footswitch (Wah, Looper control, Patch Selection, etc.)
 - $350 Boss Katana 100 Head ($350) (Small speaker built in)
 - $400 Blackstar ID:60 (45lbs is rumored to be amazing through headphones and has separate pre and power amp models, and its stereo to some degree!)
-- Carvin?
+
+
+
+
+## Premium Amp Sims ##
+- $399 Strymon Iridium Amp & IR Cab Pedal
+- $499 BluGuitar Amp1 Tube Amp Head (60w, 2lbs, headphone out legendary tone) (Not a sim but in the highest league)
+- $599 Line6 HX Stomp (Preamp Only)
 - $1099 Line 6 Helix LT
 - $1500 Fractal AxeFX II
 - $1599 Line 6 Helix (external footswitch please?)
 - $1800 Kemper (12lbs, $500 for remote)
+
 
 
 ### Quotes ###
@@ -355,30 +375,34 @@ Some Evidence of Headphone Only:
 
 
 ---------------------------------------------------------------------------------------------------
-# Interesting Amps #
-1. $25 ART TubeMP Studio preamp
-2. $44 Behringer Vintage Tube Monster VT999 (Tube OD, noise gate, change the tube, see quotes below)
-2. $70 Quilter MicroBlock 45 (33W, Pedal sized Power amp, great with other pedals, aux in, headphone out)
+# Filter these into the above #
+
+## Chosen Ones ##
+1. $499 BluGuitar Amp1 Tube Amp Head (60w, 2lbs, headphone out legendary tone)
+2. $75 Behringer Vintage Tube Monster VT999 (Tube OD, noise gate, change the tube, see quotes below)
+3. $120 Quilter MicroBlock 45 (33W, Pedal sized Power amp, great with other pedals, aux in, headphone out)
+4. $25 ART TubeMP Studio preamp
 6. $160 JHS Clover Preamp ([Generates a line level](https://www.thegearpage.net/board/index.php?threads/tonebone-jdx-direct-drive-or.2036177/#post-28403307) )
-7. $20 Behringer GDI21 Pedal amp sim
 8. $200 Mesa Boogie V-Twin Pedal Amp (Highly Regarded with great tone, slight delay when channel switching)
-10. $120 AMT Legend F1 (Fender Twin Preamp, FET not Tube, FX Loop, parallel/serial fx loop switch, Amazing Tones [AB Fender Twin vs AMT F1 Pedal](https://www.youtube.com/watch?time_continue=927&v=rCkuJ2goPds)
+10. $120 AMT Legend F1 Pedal Preamp (Fender Twin Preamp, FET not Tube, FX Loop, parallel/serial fx loop switch, Amazing Tones [AB Fender Twin vs AMT F1 Pedal](https://www.youtube.com/watch?time_continue=927&v=rCkuJ2goPds)
 11. $150 AMT SS-30 Bulava Preamp (3 channel, High Gain, JFET (not Tube))
 12. $150 AMT SS-20 Tube Preamp (Independent channel EQ, F1 built in but warmed by a tube, [Great ACDC Tones](https://www.youtube.com/watch?v=ekNmavG_5A8)) (SS-11 is for more classic style)
+
+## Runners Up ##
 14. -----------------------------------------------------------------------------------------
+7. $20 Behringer GDI21 Pedal amp sim (Bought and returned
 23. $55 EHX Analogizer Preamp (Warms up your digital sounds giving them analog feel, add body and glow, plus boost up to 26db, also has a spread for a faux double tracking effect)
 24. Ethos Clean Preamp (Great tone demos on the [sales page](http://www.customtonesinc.com/preamps.html)
 29. $300 Ethos Overdrive (Functions as a preamp too. Can feed a power amp. Speaker sim out sounds great.  Great tone demos on the [sales page](http://www.customtonesinc.com/preamps.html)) 
 29. $399 Orange Pedal Baby (100W Tube Power Amp)
 29. $399 Seymour Duncan Power Stage 170 (170W Power Amp)
 25. $400 Baroni Doug Aldrich Signature Mini Power Amp (120W pedal power amp, 4/8/16ohm)
-20. $100 Tube Cake Power Amp (pedal sized power amp 3 watt, Headphone Out is too loud on its own)
+20. $100 Tube Cake Power Amp (pedal sized power amp 3 watt, Headphone Out is too loud on its own, only a power amp)
 20. $110 Palmer Pocket Amp (Tech21 clone, 3 amps, Mic position, XLR Out, 1/8 Phones, 1/8 Aux in, [Great tones](https://youtu.be/mXWgyNNANPM), I loved it a week ago but now it sounds shite)
 23. $200 Electro-Harmonix LPB 2ube Stereo Tube Preamp.  Discontinued (you can put your guitar into the first tube, and the second tube after your FX to warm them up, set the tubes differently) (Similar Pedals: Black Finger (Compression + Drive), Tube EQ (EQ Obviously))
 11. Coming Soon: AMT Tube Preamps similar to the legend
 14. $200 NUX Solid Studio Power Amp and IR Sim (settings dont stay which is frustrating)
 20. $300 Surprise Sound Lab: Rock Block (1W Tube Amp pedal)
-20. $150 At Ikes Music is a seymour duncan 84-40 for $150 which needs capacitor work
 15. $150 Hotone Binary Amp Pedal (Amp sim with cab sim but not IR)
 15. $200 Tech21 Sansamp 
 15. H&K Tubeman
@@ -706,7 +730,7 @@ Using my peavey 75w Vypyr:
 3. $44 Behringer Vintage Tube Monster VT999 (Tube OD, noise gate, change the tube, see quotes below)
 5. $90 * Orange Micro Terror (Headphone Out on front panel, no cab sim, no loop, small power cable)
 6. $100 * Orange Micro Dark (Headphone Out on front panel, crappy cab sim, fx loop, small power cable)
-32. $170 Katana 50 with (25lbs, 18.5", GA-FC Foot Controller, Expression pedal, and Boss Tone Studio Software)
+32. $170 Katana 50 (25lbs, 18.5", GA-FC Foot Controller, Expression pedal, and Boss Tone Studio Software)
 13. $180 AMT SS-20 Tube Preamp (Independent channel EQ, F1 built in but warmed by a tube, [Great ACDC Tones](https://www.youtube.com/watch?v=ekNmavG_5A8)) (SS-11 is for more classic style)
 14. $180 Crazy Tube Circuits Falcon (55 Tweed/61 Brownface tones)
 18. $200 Fender Champion 600 Combo (15lbs, 12", So classy, only combo, no FX, Speaker can be disconnected, AKA Gretsch G5222 Electromatic)
@@ -1231,9 +1255,9 @@ USB Power technically works, but its super noisy no matter how I arrange batteri
 3. $30 AGPTEK CP-05 new
 4. $37 Caline Power CP-04
 
-## Shopping Feb 12 2020 ##
-1. $10 Rolls Stereo Headphone Amp https://www.guitarcenter.com/Used/Rolls/Stereo-Headphone-Amp-Headphone-Amp-116148251.gc
-2. $20 Behringer Stereo Chorus https://www.guitarcenter.com/Used/Behringer/UC200-Stereo-Chorus-Effect-Pedal.gc
-3. $120 Ditto X2 Stereo Looper https://www.guitarcenter.com/Used/TC-Electronic/Ditto-X2-Looper-Pedal-116026573.gc
-4. $30 Donner pedalboard Power Supply https://www.guitarcenter.com/Used/Donner/Power-Supply.gc
+
+
+
+
+
 

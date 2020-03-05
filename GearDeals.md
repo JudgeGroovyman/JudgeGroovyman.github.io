@@ -84,10 +84,32 @@ Really Nice Top Quality Guitars
 3. Michael Kelly Patriot - $250 is a good value
 4. Dean Evo
 
+
+
 # Marketplaces #
 1. Reverb
 2. Ebay
 3. Musicgoround
-4. Guitar Center Used
+4. Guitar Center Used (note: 5-10% of their stuff is listed wrong so if its a specific item that you need double check it)
 5. Sweetwater Used (or new)
+
+
+
+
+
+
+# Shopping Feb 12 2020 #
+1. $10 Rolls Stereo Headphone Amp https://www.guitarcenter.com/Used/Rolls/Stereo-Headphone-Amp-Headphone-Amp-116148251.gc
+2. $20 Behringer Stereo Chorus https://www.guitarcenter.com/Used/Behringer/UC200-Stereo-Chorus-Effect-Pedal.gc
+3. $120 Ditto X2 Stereo Looper https://www.guitarcenter.com/Used/TC-Electronic/Ditto-X2-Looper-Pedal-116026573.gc
+4. $30 Donner pedalboard Power Supply https://www.guitarcenter.com/Used/Donner/Power-Supply.gc
+
+# Shopping Mar 5 2020 #
+1. [$30 Behringer UC200 Stereo Chorus](https://www.guitarcenter.com/Used/Behringer/UC200-Stereo-Chorus-Effect-Pedal.gc)
+2. [$99 Electro-Harmonix 720 Looper](https://www.guitarcenter.com/Used/Electro-Harmonix/720-Stereo-Looper-Pedal-116213180.gc)
+
+
+
+
+
 
