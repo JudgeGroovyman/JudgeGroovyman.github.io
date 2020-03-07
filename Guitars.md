@@ -500,8 +500,6 @@ Some part of me would like to have all of these but the baggage with having many
 12. PRS Hardtail Blue Jean 10 top, Natural Binding, Light Mahog back, maple neck, 6.5lbs, that chimes acoustically like a piano and has sustain for days
 13. US Masters
 
-### Specifics ###
-
 
 # Mods #
 Easiest mods to make it great quick
@@ -522,3 +520,9 @@ Easiest mods to make it great quick
 - BYOGuitar.com
 - Guitarfetish.com
 - Warmoth.com (search reverb for this)
+
+
+
+
+# Inbox 
+

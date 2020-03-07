@@ -50,3 +50,47 @@ If you were lucky enough to get a guitar amp in the 60s it was probably a decent
 - [Ridiculing Playing By Yourself](https://www.ultimate-guitar.com/forum/showthread.php?t=1004248)
 - [Some incredibly pleasant and level headed disagreements](https://www.robchapman.tv/forum/threads/best-small-tube-head-for-clean-tone.33759/page-2)
 - When your studio is your livingroom, and you are not alone, and the walls are thin, and your neighbors are trying to sleep, and you have to pack everything up and put it in a closet when you're done.
+
+
+# Inbox #
+
+## Tone ##
+
+Where does tone come from?
+Zoomed out to zoomed in
+Player + Guitar + Amp
+
+Player + ...
+Fingers +
+Fretting precision pressure and subtlety + Bending Strength and Precision +
+Pick technique and attack
+
+Guitar +
+Tone woods (neck, body) +
+Pickups +
+Pickup Height +
+Electronics +
+Shielding +
+Hardware +
+Setup +
+Fretwire and wear +
+Neck Connection
+
+Amp +
+Cable +
+Preamp characteristics +
+Preamp EQ +
+Preamp gain +
+FX Loop +
+Power amp Characteristics +
+Power amp gain +
+Speaker +
+Power amp interaction to speaker +
+Microphone (or ears) position relative to speaker
+
+
+A guitarists success may come from early tone and EQ and as a result how well they stand out in a mix
+
+
+Dump all your *core beliefs about bass* and play what you want. Play til it hurts, then play harder.
+

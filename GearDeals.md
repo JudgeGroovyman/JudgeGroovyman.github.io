@@ -34,6 +34,8 @@ I'm not a player of electric hollow body guitars or acoustic guitars (not that I
 29. Gibson Les Paul [$939 Blue LP Studio with Duncans and HSC](https://reverb.com/item/31724596-gibson-les-paul-studio-with-seymour-duncans-in-manhattan-midnight-blue-case) 2015 decent condition with dings and wear and rash, robot tuners, lovely dark blue burst, Custom Custom and JB, and really nice case, and nice shileding.  [$650 2013 Gibson LPJ Brown with duncans and upgrades](https://reverb.com/item/31883977-gibson-lpj-2013-brown-w-upgrades-and-gig-bag) one chip where pickguard should be, nice finish, upgraded tuners, tonepros, graphtech, duncan blackouts.  [$540 Les Paul CM black satin thin 6.7lbs Upgraded pickup](https://reverb.com/item/31920815-2016-gibson-les-paul-cm-modded-w-rio-grande-hb-split-coil-switch-upgraded-trc-knobs) Rio Grande pickup, scratches, thin mahogany body with maple top.  
 30. Warmoth Custom Guitars [$550 Short scale hardtail strat with duncan designeds and 6.5lbs](https://reverb.com/item/32645313-short-scale-guitar-w-warmoth-ebony-mustang-neck-fender-bridge-strat-grey-lomic)
 
+  
+
 
 # Favorites #
 ## Affordable ##
@@ -68,7 +70,7 @@ These are discontinued or for some other reason hard to find.  Some things are d
 Really Nice Top Quality Guitars 
 1. Dean USA series
 2. PRS Core series (not S2, or SE)
-
+3. Suhr
 
 
  
@@ -97,19 +99,34 @@ Really Nice Top Quality Guitars
 
 
 
+## Deals March 5 2020 ##
+1. [$150 ESP EC10 Blue](
+https://www.amazon.com/ESP-EC10-Electric-Guitar-Blue/dp/B01MYC3D2P)  Basswood, heavily contoured in a cool way, probably super light.
+2. This is an interesting [5.25lb Blue Purple finish les paul jr style guitar]( https://reverb.com/item/28266297-tweraser-baby-oc0-b-2019-chameleon-blue-purple-pink-do-it-yourself-kit-mini-project-kids-children-diy-les-paul-lp-singlecut-electric-guitar-hand-made-single-cut-handmade-unique-kid-handcrafted-hand-crafted) which was a kit so its not the highest quality but its really cheap with a cool finish and so lightweight!
+3. [$200 Epiphone Blue Les Paul Special](https://www.guitarcenter.com/Epiphone/Les-Paul-Special-II-Plus-Limited-Edition-Electric-Guitar.gc) 
+4. [$249 Peavey Vypyr 120W Tube Amp Head](https://www.guitarcenter.com/Used/Peavey/VYPYR-120W-Tube-Guitar-Amp-Head-116000800.gc) sells for $500-800 elsewhere
+8. [$649 H&K GrandMeister 36 with Footswitch](https://www.guitarcenter.com/Used/Hughes-Kettner/GrandMeister-36-Tube-Guitar-Amp-Head-115918561.gc?rNtt=grandmeister&index=4) built in looper in this not in the 40w?
+
 
 # Shopping Feb 12 2020 #
-1. $10 Rolls Stereo Headphone Amp https://www.guitarcenter.com/Used/Rolls/Stereo-Headphone-Amp-Headphone-Amp-116148251.gc
 2. $20 Behringer Stereo Chorus https://www.guitarcenter.com/Used/Behringer/UC200-Stereo-Chorus-Effect-Pedal.gc
 3. $120 Ditto X2 Stereo Looper https://www.guitarcenter.com/Used/TC-Electronic/Ditto-X2-Looper-Pedal-116026573.gc
 4. $30 Donner pedalboard Power Supply https://www.guitarcenter.com/Used/Donner/Power-Supply.gc
 
+
 # Shopping Mar 5 2020 #
+## FX ##
 1. [$30 Behringer UC200 Stereo Chorus](https://www.guitarcenter.com/Used/Behringer/UC200-Stereo-Chorus-Effect-Pedal.gc)
-2. [$99 Electro-Harmonix 720 Looper](https://www.guitarcenter.com/Used/Electro-Harmonix/720-Stereo-Looper-Pedal-116213180.gc)
+2. [$99 + sitting Electro-Harmonix 720 Looper](https://www.guitarcenter.com/Used/Electro-Harmonix/720-Stereo-Looper-Pedal-116213180.gc)
+4. [$85 Julius Reactive DI load box 100W](https://reverb.com/item/32734188-julius-music-box-reactive-di-load-box-8-ohm-100w) 
 
+## Amps ##
+5. [$169.99 + shipping Blackstar HT1RH](https://www.guitarcenter.com/Used/Blackstar/HT-Series-HT1RH-1W-Tube-Guitar-Amp-Head-115851341.gc)
+8. [$250 Blackstar HT-5 Metal](https://dallas.craigslist.org/dal/msg/d/carrollton-lunchbox-tube-heads/7086475231.html)
+9. [$325 Tubemeister 18](https://dallas.craigslist.org/ftw/msg/d/fort-worth-hughes-kettner-tubemeister-18/7064211755.html)
 
-
-
+## Devices ##
+7. [$179 Laney Ironheart IRT-Pulse](https://www.guitarcenter.com/Used/Laney/IRT-PULSE-Effect-Pedal-115952001.gc?source=4WWRWXGP&gclid=CjwKCAiA44LzBRB-EiwA-jJipJMYydm-EiPQOf962M-TFn7IGee8Nfn6Dy_Gp1fzBZxW0udaJWphjRoC2v0QAvD_BwE)
+6. [$450 BlueGuitar Amp1](https://dallas.craigslist.org/ndf/msg/d/carrollton-bluguitar-amp1-guitar-amp/7063099187.html)
 
 

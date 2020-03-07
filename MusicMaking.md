@@ -61,3 +61,12 @@ To use VSTs you need a host (some or many come as standalone packages as well bu
 * [Helio](https://helio.fm/) Free music composition software
 * [Sundog Song Studio](https://feelyoursound.com/sundog/)
 * [Melodyne](https://www.celemony.com/en/melodyne/what-is-melodyne) lets you do cool things with all audio like change pitch of each note and "Optimize the tiniest details of your recordings"
+
+
+# Amp Sims #
+1. Positive Grid Bias Amp ($59 and up)
+
+## Investigate These Amp Sims ##
+1. https://www.musicianonamission.com/guitar-amp-simulators-vs-real/
+2. http://www.vst4free.com/index.php?plug-ins=Guitar/Amp
+3. https://bedroomproducersblog.com/2012/02/21/bpb-freeware-studio-best-free-guitar-amp-simulator-vstau-plugins/
