@@ -133,3 +133,7 @@ https://www.amazon.com/ESP-EC10-Electric-Guitar-Blue/dp/B01MYC3D2P)  Basswood, h
 ## Amps ##
 1. [$480 Mesa Transatlantic](https://dallas.craigslist.org/mdf/msg/d/lewisville-mesa-boogie-transatlantic-ta/7080082074.html) Local near Denton.  Perfect for Reactive Load + Cab Sim.
 ##  ##
+
+
+# Shopping Mar 7 2020 #
+1. [$69 for Hotone Freeze B Nano Legacy Amp](https://www.walmart.com/ip/Freeze-B/391750386?wmlspartner=wlpa&selectedSellerId=1232&adid=22222222227162824969&wl0=&wl1=g&wl2=c&wl3=277782348125&wl4=pla-517127298687&wl5=9027261&wl6=&wl7=&wl8=&wl9=pla&wl10=112549935&wl11=online&wl12=391750386&veh=sem&gclid=Cj0KCQjw0pfzBRCOARIsANi0g0t1YJFc49nPIKagFtPDNTuMOvbOPHvZ12D2r0xnD8KOngUKSOFhpnkaAqMUEALw_wcB)

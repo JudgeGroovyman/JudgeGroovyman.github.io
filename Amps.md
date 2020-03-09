@@ -101,7 +101,8 @@ Some tube amps dont require plugging in a cab at all (if you have headphones plu
 6. $225 * Hughes & Kettner TubeMeister 5 (7.72lbs, Discontinued, Speaker Off Switch, No Headphone out but XLR mic out, No Handle, Tube Safety Control, Thick power cable)
 6. $369 * Peavey 6505 Mini (Headphones, XLR, USB, Footswitch, Super sturdy, Tube Monitor on Front)
 5. $300 Hughes Kettner TubeMeister 18 (Discontinued, 14Wx6Hx6D Speaker Off Switch, No Headphone out but XLR mic out, No Handle, Tube Safety Control, Thick power cable)
-6. $400 Laney Ironheart 15 (12lbs, 17Wx )(Some version are like the Lionheart but in a studio rack package and are not really what I'm looking for)
+6. $400 Laney Ironheart 15 (12lbs, 17Wx )
+7. $500 Laney Ironheart studio (12lbs, 16.8Wx4Hx11.22D, Phones, USB io, reamping, DI with Emulation, as low as 1W, Internal power soak for silent, very small, from some perspectives the perfect amp for me)
 6. $500 * Hughes Kettner TubeMeister Deluxe 20 (14Wx6Dx6.1H, 11lbs, Speaker Off Switch, No Headphone out but XLR mic out, Silent, Configurable Cab Sim, Tube Monitoring)
 7. $500 THD Univalve (Silent, have had my eye on this for over 10 years)
 6. $700 * Laney Lionheart L5 Studio (17lbs 16Wx8Dx8H, Headphones on back, headphone level control, Aux in, XLR, Speaker Emulation On/Off, USB, Aux in on back, thick power cable, Beautiful Blue tolex, sexy as hell)  
@@ -481,6 +482,8 @@ Everything from the headphone section above plus the following
 - $200 Quilter Interblock 45 (45W, amp power amp, takes pedals great, aux in, headphone out)
 - $250 Quilter 101R (50W, "A Quilter 101R is a great pedal platform amp that can play at any volume. The limiter really allows you to smash the preamp without getting too much breakup, giving it that same feel as a cranked Fender Twin.", needs cab sim for headphone out)
 - $499 BluGuitar Amp1 Tube Amp Head (60w, 2lbs, headphone out legendary tone)
+- $100 Hotone Siva Boogie (Shiva Clean) (5w, Bogner Shiva clean tones, huge headroom, perfect mini pedal platform, FX Loop)
+- $100 Hotone Freeze B (5w, Headphones, Friedman sounds, fx loop) Chapmans Favorite when he was playing it
 
 
 ### Second Place ###
@@ -488,8 +491,9 @@ Everything from the headphone section above plus the following
 - $100 Mooer baby bomb (30W Tiny Pedal amp - big cable)
 - $100 EHX Magnum 44 (44W Pedal Amp)
 - $120 Foxgear Kolt 45 (45W Pedal Amp)
-- $100 Hotone Nano Legacy Heart Attack. (5w, Tiny solid state Mesa tones with headphone out)
-- $100 Hotone Nano Legacy Mojo Diamond (5w, Tiny Tweed tones with Headphone out) 
+- $100 Hotone Heart Attack (Mesa). (5w, Tiny solid state Mesa tones with headphone out, FX Loop, gain knob does nothing)
+- $100 Hotone Vulcan Five-O (5150) (5w, Headphones, 5150 sounds, FX Loop), Chapmans late video favorite
+- $100 Hotone Nano Legacy Mojo Diamond (Tweed) (5w, Tiny Tweed tones with Headphone out, FX Loop) 
 - $150 Vox MV50 (50W, Tube, Headphone Out, Tiny, AC sounds great, Cool VU Meter to keep sounding consistent, many varieties)
 - $700 Milkman The Amp (50W, one tube, headphone out with cab sim, sounds amazing!)
 - $150 Quilter Phantom Block (Not an amp actually but lets you use phantom power to get your pedalboard to the PA)
@@ -1934,6 +1938,7 @@ Possibly just run directly into my Cab Sim.  That might work for the Pinnacle an
 4. $200 Quilter Interblock 45
 5. $250 Quilter 101R
 6. $100 Peavey 6505 Piranha
+7. $100 Hotone
 
 
 
@@ -1974,10 +1979,7 @@ Meeting the needs of my list above
 
 ## TODO 3-5-2020 ##
 Lookup reviews of everything in the possibilities here to get classic quotes
-Checkout Guitar Amp VSTs
-Test out some Guitar Amp VSTs
-Move the preamp pedals into the preamp section above
-Separate the small tube amps from the preamps
+Checkout Free Guitar Amp VSTs
 
 
 
