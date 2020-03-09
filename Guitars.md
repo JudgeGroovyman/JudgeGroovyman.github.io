@@ -124,7 +124,7 @@ I don't know a lot about these in fact the only one I've played with my own hand
 
 Of course many Paul Reed Smith, Gibson, and Fender models could also be considered Boutique.  In fact most brands have a boutique range.  Some (ESP and Schecter for example) have high end Japanese ranges and Schecter even has a higher end USA custom shop.
 
-
+Southerland make beautiful Warmoth guitars
 
 ### Name Brands ###
 Name brands I think highly of:
@@ -522,7 +522,36 @@ Easiest mods to make it great quick
 - Warmoth.com (search reverb for this)
 
 
+# Youtubers #
 
 
+### Hidden Gems ###
+
+
+### Medium Size Audiences ###
+- JayLeonardJ (30K)
+
+
+
+### Well Known ###
+- [Chords of Orion](https://www.youtube.com/watch?v=V0_DmwHjW9A) (100K)
+- [Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU) (102K) This guy is a legend having worked with important artists like Chris Cornell, Melissa Etheridge, and is a Ton Conoisseur
+- [Rhett Shull](https://www.youtube.com/watch?v=J02heFTwEXY&t=483s) (149K)
+- [JHS Pedals](https://www.youtube.com/watch?v=SVbceQGhbdM&t=641) (193K) This is the pedal maker (Josh) creating interesting humorous and creative videos
+
+### Youtube Superstars ###
+- [Rob Chapman](https://www.youtube.com/watch?v=ZmlGvHmQZH0) (734K) The Entertaining and Humorous shredder Rob Chapman shows off gear.  
 # Inbox 
 
+## Devin Townsend ##
+1. Wikipedia Fact or Fiction 12.5min
+	https://www.youtube.com/watch?v=Z9ZdpLSUrTU&t=33s
+2. Coffee With Ola 10min
+	https://youtu.be/alfa-Enao00?t=115 2:00 praise for keeping his fans happy with authenticity to 2:48 1min
+	https://youtu.be/alfa-Enao00?t=980 16:30 about critics until 19:26 3min
+	https://youtu.be/alfa-Enao00?t=1332 22:15 about taking opinions and dealing with others and introverts until 25:37  3.5min
+	https://youtu.be/alfa-Enao00?t=691 11:31 synesthsia rainspiration 13:26 2min
+	https://youtu.be/alfa-Enao00?t=1759 29:19-29:44 Just look how interested he is in the interviewer and how excited he is to touch the guitar  He is legitimately interested https://youtu.be/alfa-Enao00?t=1887 31:27 to 31:43 30s
+4. Kingdom EMGtv
+	https://www.youtube.com/watch?v=nubJjB95VdY 6min
+	

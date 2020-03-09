@@ -1,4 +1,4 @@
-/**
+<!--
                                           _____         _       _     
      /\                           ___    |  __ \       | |     | |    
     /  \   _ __ ___  _ __  ___   ( _ )   | |__) |__  __| | __ _| |___ 
@@ -6,8 +6,9 @@
   / ____ \| | | | | | |_) \__ \ | (_>  < | |  |  __/ (_| | (_| | \__ \
  /_/    \_\_| |_| |_| .__/|___/  \___/\/ |_|   \___|\__,_|\__,_|_|___/
                     | |                                               
-                    |_|                                                                                               
-**/
+                    |_|                                                              
+                                  
+-->
 
 # Amps & FX #
 
@@ -22,6 +23,8 @@
 - Tubes that can be swapped out [gain factor of tubes](https://www.thetubestore.com/gain-factor))
 - Great tone demos on the [Ethos sales page](http://www.customtonesinc.com/preamps.html)
 - [Stereo overdrive](https://youtu.be/l6vExiC3Ro4?t=293)
+- [Example of why Cab Sims are Important](https://youtu.be/X8W9IKWkwbM?t=103)
+- [This guy uses the Piranha to talk about the magic of great tones](https://youtu.be/2TTDflrZwKM?t=1064) earlier he was talking about ringing harmonics and [here he talks about amp heaven for $200](https://youtu.be/2TTDflrZwKM?t=1192)
 
 
 ### Stereo Amps tones ###
@@ -75,7 +78,7 @@
 
 
 
-/**
+<!--
   _    _                _       _                        _______    _          
  | |  | |              | |     | |                      |__   __|  | |         
  | |__| | ___  __ _  __| |_ __ | |__   ___  _ __   ___     | |_   _| |__   ___ 
@@ -84,13 +87,14 @@
  |_|  |_|\___|\__,_|\__,_| .__/|_| |_|\___/|_| |_|\___|    |_|\__,_|_.__/ \___|
                          | |                                                   
                          |_|                                          
-**/
+-->
 
 # Headphone Tube Amps #
 
 Some tube amps dont require plugging in a cab at all (if you have headphones plugged in) (even heads). 
 
 1. $90 * Orange Micro Terror (7Wx4Dx6H, Headphone Out on front panel, no cab sim, no fx loop, small power cable)
+1. $100 Peavey 6505 Piranha (7Wx5Dx4H, Headphone out on front, aux in, fx loop)
 2. $130 * Orange Micro Dark (7Wx4Dx6H, Headphone Out on front panel, crappy cab sim, fx loop, small power cable)
 4. $180 Blackstar HT1 (8.1lbs, 13Wx8Dx8H, (mkii has USB, aux and phones on front)(mki has aux and phones on rear and no usb) thick cable, silent, no FX Loop)
 5. $210 Blackstar HT-5 (H, RH, $340 for Blonde) (17.4Wx9Hx9D same features as HT1 except USB)
@@ -101,7 +105,7 @@ Some tube amps dont require plugging in a cab at all (if you have headphones plu
 6. $500 * Hughes Kettner TubeMeister Deluxe 20 (14Wx6Dx6.1H, 11lbs, Speaker Off Switch, No Headphone out but XLR mic out, Silent, Configurable Cab Sim, Tube Monitoring)
 7. $500 THD Univalve (Silent, have had my eye on this for over 10 years)
 6. $700 * Laney Lionheart L5 Studio (17lbs 16Wx8Dx8H, Headphones on back, headphone level control, Aux in, XLR, Speaker Emulation On/Off, USB, Aux in on back, thick power cable, Beautiful Blue tolex, sexy as hell)  
-9. $1600 Mesa Mark 5:25 (Cabinet cloned Headphone Out on the back)
+9. $1100 Mesa Mark 5:25 (17lbs, 8Hx14Wx9D, Fits on my shelves, Cabinet cloned Headphone Out on the back)
 
 ## Second Place Winners ##
 Pretty much nothing wrong with any of these they just aren't as high on my list as the winners above
@@ -112,7 +116,8 @@ Pretty much nothing wrong with any of these they just aren't as high on my list 
 6. $320 Peavey ValveKing II Micro Head (400 new) (Headphones, XLR, USB, Footswitch, Super sturdy, Tube Monitor On Front, Speaker Defeat switch)
 6. $350 * Peavey Classic 20 mini (600 new) (Headphones, XLR, USB, Footswitch, Super sturdy, Tube Monitor On Front, Speaker Defeat switch)
 5. $400 Fender Bassbreaker 15 (25lbs, 20W,9D,10H" (not small), XLR, Power Amp Mute, [Great cleans](https://youtu.be/B7kYdhXK0FQ?t=84), [Silent Recording](https://www.youtube.com/watch?v=2nkRu1alF2M))
-6. $500 * Peavey Vypyr Tube 120H (40lbs, 31.8Wx15Hx15.8D, Headphone out, USB out, Aux In, FX, Tuner, Footswitchable, Looper, Models, Pedals)
+6. $500 * Peavey Vypyr Tube 120H (40lbs, 31.8Wx15Hx15.8D (huge wont fit on shelf), Headphone out, USB out, Aux In, FX, Tuner, Footswitchable, Looper, Models, Pedals)
+7. $500 Mesa F30 (Huge combo but has headphone out on the back)
 9. $600 * Suhr Corso (Silent Recording, Speaker Sim Line Out)
 8. $700 H&K Grandmeister 40 deluxe (17lbs, 17.5Wx6.7Hx5.9D, silent operation, ipad app to control all features
 6. $700 ENGL Gigmaster 15 (Line Out with Speaker Sim, built in power soak for silent, fx loop, Footpedal)
@@ -123,11 +128,10 @@ Pretty much nothing wrong with any of these they just aren't as high on my list 
 
 ## Runners Up ##
 1. $99 Bugera BC15 (Lovely tube preamp Combo with line in and un simmed Headphone Out.  Not certain about cab sim but doubtful)
-1. $100 Peavey 6505 Piranha (7Wx5Dx4H, Reviews aren't universally complimentary)
 1. $120 (80 used) Bugera T5 (Head with headphones out) (rumors: cab sim on headphone out, clean headroom is low, sounds like theres a built in noisegate which makes a crackling during subtle playing, confirmed strange sounds first hand at GC, didn't sound organic enough at GC)
-5. $215 Bugera V5 combo (Tube Life Monitor on back, Headphones, Line In)
+5. $215 Bugera V5 combo (Tube Life Monitor on back, Headphones, Line In, Speaker Connect)
 5. $250 Vox Little Night Train (2W Headphone out on back) (Discontinued) 
-5. $250 Bugera G5 new (Tube Life Monitor on back, Headphones, 2 cab sims,  )
+5. $250 Bugera G5 new (Tube Life Monitor on back, Headphones, 2 cab sims, FX loop, Silent)
 5. $350 Bugera G20 (Tube Life Monitor on back, Headphones, Line In)
 5. $400 Hughes Kettner Cream Machine (Vintage Discontinued) (Line Out, Cabinet Simulator, Typically used as a line level output device)
 5. $400 Hughes Kettner Crunch Master (Vintage Discontinued) (for cleans and crunch, Line Out, Cabinet Simulator, Typically used as a line level output device)
@@ -139,14 +143,13 @@ Pretty much nothing wrong with any of these they just aren't as high on my list 
 6. $700 Laney Tony Iommi Combo TI15-112 (Headphones on back, aux in )
 9. $1000 Reason Bambino (Line out on the back)
 9. $1295 Tone King Gremlin Turquoise (Handwired, Reactive Load Built In, 30lbs)
-9. $1600 Mesa Mark 5:25 (Cabinet cloned Headphone Out on the back)
 
-### Details ###
-
+## Details ##
 For the XLR Out amps [heres a headphone amp](https://www.amazon.com/Behringer-MA400-Monitor-Headphone-Amplifier/dp/B000KUCQXY) 
 
 Some Evidence of Headphone Only:
 
+- [Bugera G5 Amazon answer](https://www.amazon.com/ask/questions/Tx1L3SNQYP7SH34/?)
 - [Official Bugera answer](https://music-group.force.com/musickb/view/article/bugera/en_US/Can-I-use-the-PHONES-out-on-the-T5-INFINIUM-without-connecting-a-speaker)
 - [Orange Headphone Only](https://www.ultimate-guitar.com/forum/showthread.php?t=1705569)
 - [Blackstar Headphone Only](http://www.blackstaramps.com/forum/viewtopic.php?t=2001)
@@ -162,10 +165,14 @@ Some Evidence of Headphone Only:
 - [Suhr Corso](https://www.manualslib.com/manual/814539/Suhr-Corso.html?page=3#manual)
 
 
-### Quotes ###
-- Micro Dark "what if I tried using the effects loop on the Micro Dark amp...so I ran the send output to the input of the pedal board, and the output of the pedal board to the return input on the MD...HUGE DIFFERENCE !! The effects all sound soooo much better and the guitar has it's nice clean tone back minus the distortion !! ... I just not enjoying it, I'm loving it !! The Micro Dark with the G12T-75 Celestion speaker in the Marshall cabinet has taken over my home studio. I'm getting so many great tones, at all volume levels. Great distortions, great cleans...sounds great at very low volume too !! This set up is just working out so well for me, and now the effect pedals I have sound better than ever. "
+Quotes
 
-### Other Options ###
+- Piranha - [Hey talks about quality amps having a harmonic ringing and this one does](https://youtu.be/2TTDflrZwKM?t=394) he gets harmonic overtones in his headphones because it adds a harmonic character that is really only found in the old classic fenders and vox amps.  14m0s:'They're ringing like a bell'
+- Piranha - high gain tone is good, combined with another amp its good, Reviews aren't universally complimentary
+- Micro Dark "what if I tried using the effects loop on the Micro Dark amp...so I ran the send output to the input of the pedal board, and the output of the pedal board to the return input on the MD...HUGE DIFFERENCE !! The effects all sound soooo much better and the guitar has it's nice clean tone back minus the distortion !! ... I just not enjoying it, I'm loving it !! The Micro Dark with the G12T-75 Celestion speaker in the Marshall cabinet has taken over my home studio. I'm getting so many great tones, at all volume levels. Great distortions, great cleans...sounds great at very low volume too !! This set up is just working out so well for me, and now the effect pedals I have sound better than ever. "
+- Mark 5 "The Mark V head is brilliant, but there's almost too many options. I can get such good cleans with reverb I sold my Silverface Princeton Reverb, the only thing I miss is the bias trem. Does it sound exactly BF clean? No. But it sounds great, and it gets tones from the other channel a SF/BF Fender never will. Plus the footswitchable contour control works good - set it on noon, at gig volumes you get singing sustain on the edge of controllable feedback. I can use it in my old-fashioned dance band with my 335 and Gretsch, or the modern band with PRS Custom and Strat. It does everything with the 2-mode channels, and you only need to tweak gain and treble slightly - if you're au fait with the Boogie 'set the gain and treble right' it' childsplay getting good tones. "
+
+Other Options
 1. Any regular tube amp with a tube preamp stage and FX loop and just run that preamp signal out to an amp sim pedal or speaker emulator or IR Power Amp Simulator or something and experiment to figure out what sounds good. (this is pretty high baggage)
 2. Attenuator between the power amp and speaker of a regular tube amp (this is pretty high baggage) (See attenuator section)
 3. Tube Headphone Amp
@@ -221,7 +228,7 @@ Some Evidence of Headphone Only:
 
 
 
-/** 
+<!-- 
   ____  _         _______    _                                         
  |  _ \(_)       |__   __|  | |          
  | |_) |_  __ _     | |_   _| |__   ___  
@@ -230,7 +237,7 @@ Some Evidence of Headphone Only:
  |____/|_|\__, |    |_|\__,_|_.__/ \___| 
            __/ |                         
           |___/                          
-**/
+-->
 
 # Big Tube Amps #
 This section keeps track of good big tube amps which can be amazing however are also almost certainly not what I want for my needs and purposes (as of 2019/2020 at least)
@@ -258,8 +265,8 @@ This section keeps track of good big tube amps which can be amazing however are 
 - $1600 Mesa/Boogie Triple Crown TC-50 (23Wx10Hx11D, Some of the greatest tones you'll ever hear in a pro-quality, three-channel head)
 - $1000 Morgan MVP23 head (20Wx10Dx10H, Hand Wired tube combo, .25W-23W power scaling "Its impossible to get a bad sound out of this amp", Vox + Bluesbreaker + Dumble)
 
-### Vintage Mesa Boobies ###
-Some of these mesas might be relatively small
+Vintage Mesa Boobies
+Dont know the size of these boobies
 - $550 Mesa Boogie Subway Blues (Vintage)
 - $550 Mesa Boogie Studio 22 (Vintage)
 - $550 Mesa Boogie Subway Rocket (Vintage)
@@ -270,7 +277,7 @@ Some of these mesas might be relatively small
 - $600 Mesa Boogie Studio (Vintage)
 - $650 Mesa Boogie Express 5:50 (Vintage)
 
-## Quotes ##
+## Details ##
 - 6505/5150 "Also, the effects loop has a poorly-designed buffer that robs all your low-end and adds fizz whenever you're using the loop (it even does this if you simply run a patch cable from send to return.) Eventually, you'll want to use the loop for delay, reverb, etc. It is a very simple fix, but you've got to be somewhat proficient with a soldering iron. It involves soldering a capacitor to the legs of a resistor just behind the effects loop "send" jack. Peavey endorses this fix. Anyway, it took me about 10 minutes to do it, and the sound is now the same whether the effects loop is used or not.   The big reason to do that is so you can run an EQ pedal in the effects loop. That is the most important upgrade to any 5150/6505, IMO. If you thought the amp crushed before doing so -- wait until you try it with an EQ."
 
 
@@ -313,42 +320,53 @@ Some of these mesas might be relatively small
 
 
 
-/** 
+<!-- 
    _____                 _ _   _______    _                                         
-  / ____|               | | | |__   __|  | |              /\                        
- | (___  _ __ ___   __ _| | |    | |_   _| |__   ___     /  \   _ __ ___  _ __  ___ 
-  \___ \| '_ ` _ \ / _` | | |    | | | | | '_ \ / _ \   / /\ \ | '_ ` _ \| '_ \/ __|
-  ____) | | | | | | (_| | | |    | | |_| | |_) |  __/  / ____ \| | | | | | |_) \__ \
- |_____/|_| |_| |_|\__,_|_|_|    |_|\__,_|_.__/ \___| /_/    \_\_| |_| |_| .__/|___/
-                                                                         | |        
-                                                                         |_|  
-
-**/
+  / ____|               | | | |__   __|  | |          
+ | (___  _ __ ___   __ _| | |    | |_   _| |__   ___  
+  \___ \| '_ ` _ \ / _` | | |    | | | | | '_ \ / _ \ 
+  ____) | | | | | | (_| | | |    | | |_| | |_) |  __/ 
+ |_____/|_| |_| |_|\__,_|_|_|    |_|\__,_|_.__/ \___| 
+                                                      
+-->
 
 
 # Small Tube Amps #
 
 Everything from the headphone section above plus the following
-- $100 (75 used) Epiphone Valve Jr Head (5w class A)
-- $220 VHT Special 6 Head (17.5lbs, 15Wx8Dx9.5H, Great Fender Cleans, FX Loop, Line out, Footswitchable, Amazing handwired, quotes below)
-- $200 Fender Champion 600 Combo (15lbs, 12", So classy, only combo, no FX, Speaker can be disconnected, AKA Gretsch G5222 Electromatic)
+
+## Gold Medals ##
+- $150 Joyo Bantamp: Bluejay (Fender cleans, FX Loop, Headphones on rear, )
+- $260 VHT Special 6 Ultra Head (17.5lbs, 15Wx8Dx9.5H, Great Fender Cleans, FX Loop, Line out, Footswitchable, Amazing handwired, wattage select, quotes below)
 - $200 Mooer little monster (all tube, 8Wx5Dx5H headroom for days, [great with pedals](https://youtu.be/6Wqn6i5iCec?t=1857))
-- $200 Vox AC4TVh (Classy Head, 20lbs, 14", Attenuator for 4,1,0.25W )
-- $229 Fender Bassbreaker 007 (17lbs, 16", Treble Boost, Great Tone, Classy Package, Love the knobs, Line Out (not silent), no FX Loop, [Amazing Spongy Clean with tele](https://youtu.be/sSFWjAnkd5A?t=729)))
-- $250 Fender Super Champ X2 (head 15W, 18.5lbs, 17.5Wx8Hx8.5D, one preamp tube, line out, disconnect speaker for silent, Fuse software for infinite tweakability)
-- $400 Orange OR15 (17lbs, Buffered FX Loop, 7/15W, Orange Case with handle)
-- $450 Laney Cub Supertop (16.5347lbs  210mm x 430mm x 176mm
-- $450 Laney Cub Head (16.5lbs 248mm x 435mm x 235mm 
-- $600 Orange Rocker 15 Terror (15lbs, attenuator from 15/7/1/.5W "From Bedroom To Headroom)
-- $600 * Mesa Transatlantic (12lbs, Lunchbox, Scalable Wattage, )
+- $300 Fender Pro Junior (22.85lbs, 2lbs more than my cube but the tone is reportedly so sweet and the pedal takeability is unrivalled)
+- $400 Orange OR15 (17lbs, 16Wx9Hx7D Buffered FX Loop, 7/15W, Orange Case with handle)
+- $400 Vox AC4 Combo (23lbs, 16", Classy cream or blue)
+- $550 Orange Rocker 15 Terror (15lbs, attenuator from 15/7/1/.5W "From Bedroom To Headroom)
+- $600 * Mesa Transatlantic 15 (12lbs, 6Hx12.5Wx7D, Lunchbox, Wattage Configurable by Channel)
 - $650 PRS Mark Tremonti 15W
 - $800 * Mesa Boogie Mini Rectifier (900 used, 12lbs)
-- $900 Mesa Boogie Mark 5:25 (17lbs, 8Hx14Wx9D)
- -----------------------------------------------------------------------------------------------
-- $150 Joyo Bantamp: Atomic = Vox, Zombie = Mesa, Vivo = 5150, Bluejay = Fender
+- $800 Mesa Boogie Express 5:25 (25W, 9.25Hx19Wx11.25D, Fits on my shelves barely, Great cleans (equal to or better than the mark), less Distortion)
+- $750 Victory BD1 (28W Lunchbox, FX Loop)
+- $1200 Rectoverb (Wonderful)
+- $1229 Victory V40 'The Duchess'
+
+## Silver Medals ##
+- $100 (75 used) Epiphone Valve Jr Head (5w class A)
+- $200 Fender Champion 600 Combo (15lbs, 12", So classy, only combo, no FX, Speaker can be disconnected, AKA Gretsch G5222 Electromatic)
+- $200 Vox AC4TVh (Classy Head, 20lbs, 14", Attenuator for 4,1,0.25W, Beautiful in blonde)
+- $229 Fender Bassbreaker 007 (17lbs, 16", Treble Boost, Great Tone, Classy Package, Love the knobs, Line Out (not silent), no FX Loop, [Amazing Spongy Clean with tele](https://youtu.be/sSFWjAnkd5A?t=729)))
+- $250 Fender Super Champ X2 (head 15W, 18.5lbs, 17.5Wx8Hx8.5D, one preamp tube, line out, disconnect speaker for silent, Fuse software for infinite tweakability)
+- $450 Laney Cub Supertop (16.5347lbs  210mm x 430mm x 176mm
+- $450 Laney Cub Head (16.5lbs 248mm x 435mm x 235mm 
+- $475 Fender Blues Junior (31lbs, Great tone my workouts will help though)
+- $475 Fender Blues Deluxe (45lbs, probably the best tone I've ever heard out of an amp with my own ears from my own fingers )
+- $500 Fender Vintage 1978 Vibro Champ (amazing tone and great vintage vibe, but theres baggage, then again resale will probably go up)
+
+## Bronze Medals ##
+- ----------------------------------------------------------------------------------------------
 - $150 Joyo Zombie - Mesa Heavy not much clean
 - $150 Biyang Wangs VT-1H 1 watt no headphone out
-- $175 Peavey JSX Mini Colossal Combo (21.5lbs, 14", Power Sponge (does it go silent?) Mic Sim XLR Recording Out, tiny clean headroom)
 - $200 Monoprice Stage Right 5w 
 - $250 Carvin Vintage 16 tube head
 - $300 Egnater Rebel 20
@@ -357,7 +375,7 @@ Everything from the headphone section above plus the following
 - $300 Marshall DSL1HR (1watt, low power mode, emulated line out (headphone jack size), aux in, FX Loop, 2 channel, footswitch, handle, thick power cable, 1x16ohm)
 - $300 Panama Fuego X (500 new) (High Gain, 3 Channel)
 - $350 Traynor Ironhorse D40H (Made in Canada)
-- $400 Vox AC4 Combo (23lbs, 16")
+- $400 Peavey JSX Mini Colossal Combo (21.5lbs, 14", Power Sponge (does it go silent?) Mic Sim XLR Recording Out, tiny clean headroom)
 - $400 Carvin V3m Head (19.1lbs, 15")
 - $440 Therdrail Tweed Princeton Style head (Vintage Tubes, They make boutique and custom amps)
 - $450 Carvin Vintage 16 Combo (
@@ -366,14 +384,13 @@ Everything from the headphone section above plus the following
 - $500 Marshall DSL20HR (20watt, low power mode, emulated line out (headphone jack size), aux in, FX Loop, 2 channel, footswitch, handle, thick power cable, 8ohm or 16ohm)
 - $500 Champ Clone on Reverb.
 - $500 Vox AC10
-- $750 Victory BD1 (28W Lunchbox, FX Loop)
+- $799 Mack Skyraider (20lbs, [Sales Page](http://www.mackamps.com/products-Skyraider-SR15) [Demo of Skyraider](http://www.dolphinstreet.com/video_clips/video-131.php))
 - $800 ENGL IronBall
 - $850 Gurus Amps 5015
 - $900 Reeves Custom 10HG (Low Power HOt Rod Marshall, power scaling)
-- $1200 Rectoverb (Wonderful)
-- $1229 Victory V40 'The Duchess'
+- $1200 Baroni-Lab Twin 20 Head
 - $1699 Mesa California Tweed Blue Head (SO BEAUTIFUL and classy)
-- Egnater Tweaker (Reliability and support still an issue)
+- Egnater Tweaker (No.  Reliability and support still an issue)
 
 
 [Best Budget Tube Amp Shootout 2019](https://www.youtube.com/watch?v=WQiumLhQbTI)
@@ -432,7 +449,7 @@ Everything from the headphone section above plus the following
 
 
 
-/**
+<!--
   _   _               _______    _                                         
  | \ | |             |__   __|  | |              /\                        
  |  \| | ___  _ __      | |_   _| |__   ___     /  \   _ __ ___  _ __  ___ 
@@ -441,11 +458,11 @@ Everything from the headphone section above plus the following
  |_| \_|\___/|_| |_|    |_|\__,_|_.__/ \___| /_/    \_\_| |_| |_| .__/|___/
                                                                 | |        
                                                                 |_|   
-**/
+-->
 
 # Non Tube Amps #
 
-/**
+<!--
   _______ _                                          
  |__   __(_)               /\                        
     | |   _ _ __  _   _   /  \   _ __ ___  _ __  ___ 
@@ -454,7 +471,7 @@ Everything from the headphone section above plus the following
     |_|  |_|_| |_|\__, /_/    \_\_| |_| |_| .__/|___/
                    __/ |                  | |        
                   |___/                   |_|        
-**/
+-->
 ## Tiny Solid State Amp heads ##
 
 ### Winners ###
@@ -493,7 +510,111 @@ Everything from the headphone section above plus the following
 
 
 
-/**
+<!--
+                               
+     /\                        
+    /  \   _ __ ___  _ __  ___ 
+   / /\ \ | '_ ` _ \| '_ \/ __|
+  / ____ \| | | | | | |_) \__ \
+ /_/    \_\_| |_| |_| .__/|___/
+                    | |        
+                    |_|        
+-->
+## Solid State Combo Amps ##
+- $50 Peavey Rage 158
+- $200 Yamaha THR10X (6lbs I instantly loved the original when I plugged in a few years back.  I thought it was tube but I just loved the whole package.  This one is tuned towards modern metal) 
+- $230 Boss Katana 50 (25lbs, 18.5", GA-FC Foot Controller, Expression pedal, and Boss Tone Studio Software) (Great tones, PC configurable, "Boss is a pedal company and seems to have gone to great lengths to make a modeler that plays well with pedals")
+- $250 Peavey Vypyr 30H (25lbs, tuner, FX, USB, Aux-in, Headphones)
+- $350 Boss Katana 100 Head ($350) (19.4lbs, 18.5Wx8.5Hx9D, Small speaker built in)
+- $700 Yamaha THR100HD Head (11.1lbs Two little amps in a head format, footswitchable, Dual Amp Sim Capability, IR Speaker Sim, Desktop Software)
+
+## Second Place ##
+- $100 Peavey Vypr VIP1 (20lbs, Cool Footswitch with looper for 75)
+- $120 Fender Mustang (Best clean tones and tons of configurable FX, Complicated)
+- $140 Orange Crush 20LDX (17lbs great cleans for an amp like this, unprocessed headphones out, Aux in, Built in tuner, FX, )
+- $219 Fender Champion 50xl (19lbs combo)
+
+## Runners Up ##
+- $75 Orange Crush 10
+- $100 Boss Katana Mini
+- $100 Roland Cube 30 (20lbs)
+- $100 Fender Champion 20 (Great clean tones, headphones, simple controls)
+- $100 Peavey Solo Transtube (14lbs, really basic and simple and portable for live artists, sounds good!)
+- $100 Blackstar ID:Core
+- $120 Blackstar ID:Core Stereo 40W Head
+- $400 Yamaha THR100H Head (9.2lbs The little amp in a head format, footswitchable, IR Speaker Sim, Desktop Software)
+- $150 Peavey Supreme head (35lbs Solid State super high gain and nice cleans)
+- $150 Peavey Vypyr 75 Combo (44lbs)
+- $175 Roland Blues Cube 30 (27lbs, so classy, great tones, 59 tweed bassman)
+- $250 Peavey Vypr 50 with Footswitch (Wah, Looper control, Patch Selection, etc.)
+- $300 Boss Katana Air
+- $400 Blackstar ID:60 (45lbs is rumored to be amazing through headphones and has separate pre and power amp models, and its stereo to some degree!)
+
+
+## Quotes ##
+- Mustang "Try a Mustang III v2 with just a touch of gain on the Fender Super Sonic emulation. You'll never go back to tubes!"
+- Mustang Unfortunately FUSE is dead now
+- Yamaha THR10X Settings at the end of [this video](https://www.youtube.com/watch?v=WLmKK5p9E80)
+- Vypyr Sanpera Pedal "you'll notice some people complain that there's a time lag when they switch presets. The switch engages as you're picking up your foot, not as you're stepping down on it. Thus, it will not engage until your foot comes off. Step on it a little early if you must and lift your foot off the second you need the switch to occur. Simple as that!"
+- Vypyr Sanpera Pedal "The only thing you might have to do to it is adjust the sensitivity of the expression pedal switches, so you won't have to step so hard on it to engage something like the wah-function. But there's a couple youtube videos on how to do that and they're pretty good. It's not hard, at all. It's more to adjust it according to what works for you, since you don't want it too easy, either."
+- Vypyr Sanpera Pedal - Theres a mod to drill the rubber under the Expression pedal to make it softer and make the clicking better.  Theres an official mod to open it up and adjust a screw 1/4 turn on a white plate to make it click easier or harder which looks super easy.  Theres a problem with the looper volume with my amp and apparently when you update the firmware in my amp it fixes that problem.  Making these mods and then setting the amp up with some great presets would be a valuable service.
+- Katana "No matter what sneakey amp or whatever knob positions i found it to be fatiguing for my ears. At the end of a 3-4 hour jam my ears and brain were exhausted. Does not happen with my main amp."
+- Katana/GT1 "Set the boss GT output to small combo, set the katana amp on clean and as flat as possible, and use the GT as a modeler and effects on one and you'll get killer tones.  ... t/s rep at Boss said that the modeling/effects were the same, but those in the Katana had been tuned to the speaker cabinet"
+- Katana Sneaky Amps "Katana's additional amps and effects, (some call sneaky amps) are accessible using the non-boss software KATANAFxFloorBoard."
+- Katana not GT100 "I had a Gt100 for a couple years and I could not make amp models work for me all that time, direct to the board or through effects loop return on my amp with cab modeling bypassed. I connected effects loop send of my katana head to the same amps effects return and it was thick, creamy, punchy, alive.. so according to my observations, it's not. Maybe modeling part shares some guts but there is something more going on with Boss now."
+- Katana - That Pedal Show during their wet dry videos talk about the inherent tiny delay in the katana and all other digital amps.  Its not noticeable to the ear on its own (note: I believe it is noticeable to the brain and thats 75% of the reason tubes are considered better is their instantaneous response to the fingers) but its noticeable when you get to working in stereo with other non delayed amps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
   _____                                    
  |  __ \                                   
  | |__) | __ ___  __ _ _ __ ___  _ __  ___ 
@@ -502,7 +623,14 @@ Everything from the headphone section above plus the following
  |_|   |_|  \___|\__,_|_| |_| |_| .__/|___/
                                 | |        
                                 |_|        
-**/
+-->
+# Preamps #
+
+Actual Preamps: According to [Why You Need A Preamp](https://www.youtube.com/watch?v=SVbceQGhbdM&t=641) preamp pedals are only the ones which tone shape but stay crystal clean.  Thats interesting but not what follows here, but perhaps it would be beneficial to put one in front of these tones to add definition and clarity.  
+
+Boost: This might be related to Pete Thorns [Treble Boosters](https://www.youtube.com/watch?v=eQFdP6PaKTk) or his [5 Pedals for Boosting your amp Tone Secrets #4](https://www.youtube.com/watch?v=CMjXLrFCOuU)
+
+
 ## Tiny Tube or Solid State Preamps ##
 1. $75 Behringer Vintage Tube Monster VT999 (Tube OD, noise gate, change the tube, see quotes below)
 7. $150 AMT SS-30 Bulava Preamp (3 channel, High Gain, JFET (not Tube), no phones out, [Great Tones](https://youtu.be/wDSIswyyscM)
@@ -578,66 +706,98 @@ Everything from the headphone section above plus the following
 - "unless you're after a real saturated metal distortion...a very low gain works best. It'll still OD a lot with a 12AU7, but you get a wider scope of clean to dirt with the low gain tube.  A better 12AX7 gain rating 100% 5751, and exact match to a 12AX7 with a gain rating of 70% 12AT7 gain rating 60% 12AY7 gain rating 45% 12AV7 gain rating 41% 12AU7 gain rating 19%  All of the tubes sounded MUCH better than the stock....but the 12AU7 gave the wide scope of overdrive and a fuller tone that responded the best to the tone controls.  any decent tube from Tung Sol, JJ...etc will work."
 - "The build quality is great, but the tube overdrive was missing the bottom end and clear not muddy distortion. So I got an electro Harmonix 12AX7E electron tube and it made a world of a difference!"
 
+The best explanation of why pedals matter is in [this boost video by Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU), especially listen to him rip with and without the pedal at 4:30. 
+
+## Boosts and Preamps ##
+
+- ART Tube MP (29-$100) (Warms up and preamps any signal, some versions have variable valve voicings)
+- About [Treble Boosters](https://www.youtube.com/watch?v=eQFdP6PaKTk)
+- About [some great boosts by Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU)
+- About [Preamps giving clarity](https://youtu.be/1gPxdl7hDKA?t=271)
+
+### Giving Life ###
+There are a class of pedals which boost in just the right way that it makes a clean tone come alive.  These are the kind of pedals that might stay always on and you would really miss if you turned it off.
+- EP Boost on 0 ([Talked about in this video](https://www.youtube.com/watch?v=0XGvRAQ0HeA&t=9m45s), )
+- Mojo Mojo on 0 Always on Paul Gilbert [Beginning of this video](https://www.youtube.com/watch?v=D5J8R2S3BZw)
+- Simble Predriver (Preamp/Booster/Compressor) (Good candidate for an always on magic pedal) [Pete Thorns Review](https://youtu.be/N8zzvVmyzIw?t=117)
+- Clover [More about this pedal](https://youtu.be/SVbceQGhbdM?t=203)
+
+
+### Treble Boosters ###
+- "Never played a Rangemaster but I own a Naga Viper ... My Mesa sounds amazing until I hit that pedal, and then its really magical"
+- Find them cheap by looking for naga clone or or beano clone or rangemaster clone or treble booster or java boost clone on reverb
+
+### Overdrives ###
+- Pinnacle (its an amp in a pedal designed to be used into a clean high headroom amp to emulate a hot rodded marshall)
+- Simble (Dumble)
+- Euphoria (Dumble)
+- Ethos blew my mind in a video
+- Fender Pugilist Distortion $119 (stacked overdrive)
+- Blackstar HT-Boost (150, Two extra hot tube stages)
+- Fuchs Plush Valve Job (260)
+- $100 Blackstar HT-Dual or HT-Dist or HT-Boost or HT-Drive or HT-Metal or HT-DistX (High Quality Tube Overdrives, speaker sim out)
+- $150 JHS Andy Timmons Signature Channel Drive
+
+Interesting to review the variety of dumble pedals available on reverb.  Same review for brown sound pedals
+
+## Boogie Tone Shapers ##
+- JOYO Boogie Master
+- JOYO Pocket 
+- Tone City Model B
+- Wampler Triple Wreck
+- Mesa Throttle Box (Doesn't seem to sound good)
+- Zvex Box Of Metal
 
 
 
-/**
-                               
-     /\                        
-    /  \   _ __ ___  _ __  ___ 
-   / /\ \ | '_ ` _ \| '_ \/ __|
-  / ____ \| | | | | | |_) \__ \
- /_/    \_\_| |_| |_| .__/|___/
-                    | |        
-                    |_|        
-**/
-## Solid State Combo Amps ##
-- $50 Peavey Rage 158
-- $200 Yamaha THR10X (6lbs I instantly loved the original when I plugged in a few years back.  I thought it was tube but I just loved the whole package.  This one is tuned towards modern metal) 
-- $230 Boss Katana 50 (25lbs, 18.5", GA-FC Foot Controller, Expression pedal, and Boss Tone Studio Software) (Great tones, PC configurable, "Boss is a pedal company and seems to have gone to great lengths to make a modeler that plays well with pedals")
-- $250 Peavey Vypyr 30H (25lbs, tuner, FX, USB, Aux-in, Headphones)
-- $350 Boss Katana 100 Head ($350) (19.4lbs, 18.5Wx8.5Hx9D, Small speaker built in)
-- $700 Yamaha THR100HD Head (11.1lbs Two little amps in a head format, footswitchable, Dual Amp Sim Capability, IR Speaker Sim, Desktop Software)
-
-## Second Place ##
-- $100 Peavey Vypr VIP1 (20lbs, Cool Footswitch with looper for 75)
-- $120 Fender Mustang (Best clean tones and tons of configurable FX, Complicated)
-- $140 Orange Crush 20LDX (17lbs great cleans for an amp like this, unprocessed headphones out, Aux in, Built in tuner, FX, )
-- $219 Fender Champion 50xl (19lbs combo)
-
-## Runners Up ##
-- $75 Orange Crush 10
-- $100 Boss Katana Mini
-- $100 Roland Cube 30 (20lbs)
-- $100 Fender Champion 20 (Great clean tones, headphones, simple controls)
-- $100 Peavey Solo Transtube (14lbs, really basic and simple and portable for live artists, sounds good!)
-- $100 Blackstar ID:Core
-- $120 Blackstar ID:Core Stereo 40W Head
-- $400 Yamaha THR100H Head (9.2lbs The little amp in a head format, footswitchable, IR Speaker Sim, Desktop Software)
-- $150 Peavey Supreme head (35lbs Solid State super high gain and nice cleans)
-- $150 Peavey Vypyr 75 Combo (44lbs)
-- $175 Roland Blues Cube 30 (27lbs, so classy, great tones, 59 tweed bassman)
-- $250 Peavey Vypr 50 with Footswitch (Wah, Looper control, Patch Selection, etc.)
-- $300 Boss Katana Air
-- $400 Blackstar ID:60 (45lbs is rumored to be amazing through headphones and has separate pre and power amp models, and its stereo to some degree!)
-
-
-## Quotes ##
-- Mustang "Try a Mustang III v2 with just a touch of gain on the Fender Super Sonic emulation. You'll never go back to tubes!"
-- Mustang Unfortunately FUSE is dead now
-- Yamaha THR10X Settings at the end of [this video](https://www.youtube.com/watch?v=WLmKK5p9E80)
-- Vypyr Sanpera Pedal "you'll notice some people complain that there's a time lag when they switch presets. The switch engages as you're picking up your foot, not as you're stepping down on it. Thus, it will not engage until your foot comes off. Step on it a little early if you must and lift your foot off the second you need the switch to occur. Simple as that!"
-- Vypyr Sanpera Pedal "The only thing you might have to do to it is adjust the sensitivity of the expression pedal switches, so you won't have to step so hard on it to engage something like the wah-function. But there's a couple youtube videos on how to do that and they're pretty good. It's not hard, at all. It's more to adjust it according to what works for you, since you don't want it too easy, either."
-- Vypyr Sanpera Pedal - Theres a mod to drill the rubber under the Expression pedal to make it softer and make the clicking better.  Theres an official mod to open it up and adjust a screw 1/4 turn on a white plate to make it click easier or harder which looks super easy.  Theres a problem with the looper volume with my amp and apparently when you update the firmware in my amp it fixes that problem.  Making these mods and then setting the amp up with some great presets would be a valuable service.
-- Katana "No matter what sneakey amp or whatever knob positions i found it to be fatiguing for my ears. At the end of a 3-4 hour jam my ears and brain were exhausted. Does not happen with my main amp."
-- Katana/GT1 "Set the boss GT output to small combo, set the katana amp on clean and as flat as possible, and use the GT as a modeler and effects on one and you'll get killer tones.  ... t/s rep at Boss said that the modeling/effects were the same, but those in the Katana had been tuned to the speaker cabinet"
-- Katana Sneaky Amps "Katana's additional amps and effects, (some call sneaky amps) are accessible using the non-boss software KATANAFxFloorBoard."
-- Katana not GT100 "I had a Gt100 for a couple years and I could not make amp models work for me all that time, direct to the board or through effects loop return on my amp with cab modeling bypassed. I connected effects loop send of my katana head to the same amps effects return and it was thick, creamy, punchy, alive.. so according to my observations, it's not. Maybe modeling part shares some guts but there is something more going on with Boss now."
-- Katana - That Pedal Show during their wet dry videos talk about the inherent tiny delay in the katana and all other digital amps.  Its not noticeable to the ear on its own (note: I believe it is noticeable to the brain and thats 75% of the reason tubes are considered better is their instantaneous response to the fingers) but its noticeable when you get to working in stereo with other non delayed amps
 
 
 
-/**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
                            _____ _           
      /\                   / ____(_)          
     /  \   _ __ ___  _ __| (___  _ _ __ ___  
@@ -646,7 +806,7 @@ Everything from the headphone section above plus the following
  /_/    \_\_| |_| |_| .__/_____/|_|_| |_| |_|
                     | |                      
                     |_|                      
-**/
+-->
 
 ## Amp Sims ##
 - $399 Strymon Iridium Amp & IR Cab Pedal (amazing tones, classy to have headphone jack in the front)
@@ -661,6 +821,7 @@ Everything from the headphone section above plus the following
 - $200 Zoom G3xn (12.5Wx3Hx7D inches)
 - $275 Zoom G5n (17.8Wx3Hx9D) (records to PC as an interface)
 - $1100 Fractal AX8 (14.64lbs 20.5Wx7.4Hx13.3D)
+- Mooer Amp Profiling
 
 
 ### Second Place ###
@@ -732,7 +893,7 @@ Everything from the headphone section above plus the following
 
 
 
-/**
+<!--
   _    _                _       _                           
  | |  | |              | |     | |                          
  | |__| | ___  __ _  __| |_ __ | |__   ___  _ __   ___  ___ 
@@ -741,7 +902,7 @@ Everything from the headphone section above plus the following
  |_|  |_|\___|\__,_|\__,_| .__/|_| |_|\___/|_| |_|\___||___/
                          | |                                
                          |_|                            
-**/
+-->
 
 # Headphones & Monitors #
 
@@ -867,7 +1028,7 @@ Computer speakers work ok.
 
 
 
-/**
+<!--
   ______             _              _____ _                      
  |  ____|           | |            / ____| |                     
  | |__ ___ _ __   __| | ___ _ __  | |    | | ___  __ _ _ __  ___ 
@@ -875,27 +1036,27 @@ Computer speakers work ok.
  | | |  __/ | | | (_| |  __/ |    | |____| |  __/ (_| | | | \__ \
  |_|  \___|_| |_|\__,_|\___|_|     \_____|_|\___|\__,_|_| |_|___/
                                                                  
-**/
+-->
 
 # Fender Cleans #
-- $220 VHT Special 6 Head (17.5lbs, 15Wx8Dx9.5H, Great Fender Cleans, FX Loop, Line out, Footswitchable, Amazing handwired, quotes below)
-- $400 EVH 5150 III 15W Lunchbox (15lbs, 13Wx7Dx7H, Fender Cleans (Made by Fender), Crunch and Overdrive channel, 1/4power, Cheap Locally!!!, Footswitchable, Headphone Out cuts poweramp)
-- $400 Fender Bassbreaker 15 (25lbs, 20W,9D,10H" (not small), XLR, Power Amp Mute, [Great cleans](https://youtu.be/B7kYdhXK0FQ?t=84), [Silent Recording](https://www.youtube.com/watch?v=2nkRu1alF2M))
-- $230 Fender Bassbreaker 007 (17lbs, no FX Loop, [Amazing Spongy Clean with tele](https://youtu.be/sSFWjAnkd5A?t=729))
-- $225 H&K Tubemeister 5 (7.72lbs, 10Wx6Hx6D, Great cleans)
-- $300 Fender Pro Junior (22.85lbs, 2lbs more than my cube but the tone is reportedly so sweet and the pedal takeability is unrivalled)
+- $220 VHT Special 6 Head
+- $400 EVH 5150 III 15W Lunchbox 
+- $400 Fender Bassbreaker 15 
+- $230 Fender Bassbreaker 007 
+- $225 H&K Tubemeister 5 
+- $300 Fender Pro Junior 
 - ---
-- $400 Traynor Darkhorse DH15H (15W Mini Head)
-- $440 Therdrail Tweed Princeton Style head (Vintage Tubes, They make boutique and custom amps)
-- $475 Fender Blues Junior (31lbs, Great tone my workouts will help though)
-- $475 Fender Blues Deluxe (45lbs, probably the best tone I've ever heard out of an amp with my own ears from my own fingers )
-- $500 Fender Vintage 1978 Vibro Champ (amazing tone and great vintage vibe, but theres baggage, then again resale will probably go up)
-- $799 Mack Skyraider (20lbs, [Sales Page](http://www.mackamps.com/products-Skyraider-SR15) [Demo of Skyraider](http://www.dolphinstreet.com/video_clips/video-131.php))
+- $400 Traynor Darkhorse DH15H
+- $440 Therdrail Tweed Princeton Style head
+- $475 Fender Blues Junior
+- $475 Fender Blues Deluxe
+- $500 Fender Vintage 1978 Vibro Champ
+- $799 Mack Skyraider 
 - $1200 Baroni-Lab Twin 20 Head
 
 ## Non Amps ##
-1. $120 AMT Legend F1 Pedal Preamp (Fender Twin Preamp, FET not Tube, FX Loop, parallel/serial fx loop switch, Amazing Tones [AB Fender Twin vs AMT F1 Pedal](https://www.youtube.com/watch?time_continue=927&v=rCkuJ2goPds)
-2. $150 AMT SS-20 Tube Preamp (Independent channel EQ, F1 built in but warmed by a tube, [Great ACDC Tones](https://www.youtube.com/watch?v=ekNmavG_5A8)) (SS-11 is for more classic style)
+1. $120 AMT Legend F1 Pedal Preamp
+2. $150 AMT SS-20 Tube Preamp 
 
 
 ### Quotes ###
@@ -908,7 +1069,7 @@ Computer speakers work ok.
 - "For big power BF cleans, a Showman....for less power a Bandmaster...if you like the Bandmaster but you want something spongier and more compressed still, a Tremolux. Those are the BF era Fender heads with the classic AB/AA763 preamp circuit (same as was used in the Twin Reverb and the Deluxe Reverb). No reverb though. Can't really go wrong with any of 'em if you're looking for classic BF Fender 6L6GC cleans in a head. And they're relatively inexpensive to boot!"
 - Bassbreaker: Problem with FX Loop Hum "first run (2017) has a faulty effects loop - both heads and combos .. Any Fender repair will fix the loop with a factor kit, at no charge to you. the fix is quick and at no charge to the consumer. ... the updated ones will have a plastic fx send jack, if it's all metal it has not been updated! "
 - Bassbreaker: "If you need an amp that is squeaky squeaky clean for fuzz, od, distortion, you might want to look somewhere else.  ... It is a real rock and roll amplifier.  Its single ended so you can drive it really hard, ... but you will have to master the art of manipulating the guitars volume and tone controls to regulate the amount of gain that you want from the amplifier.  I love playing in that fashion.  I think its liberating going with just a single cable right into an amplifier like this that is really cooking and make it through that show.  " [From Some Love for the Fender Bassbreaker 007](https://youtu.be/sSFWjAnkd5A?t=442)
-- Bassbreaker: "To sound bigger with this amp, put the volume at 3 o'clock, the gain at the minimum and use a good fuzz or overdrive pedal for your dirt. "
+- Bassbreaker: "To sound bigger with this amp, put the volume at 3 o'clock, the gain at the minimum and use a good fuzz or overdrive pedal for your dirt. "  Thats a good tip for a lot of amps. Volume high, gain low, boosts in front
 
 
 
@@ -967,8 +1128,7 @@ Computer speakers work ok.
 
 
 
-
-/**
+<!--
           _   _                         _                 
      /\  | | | |                       | |                
     /  \ | |_| |_ ___ _ __  _   _  __ _| |_ ___  _ __ ___ 
@@ -976,7 +1136,7 @@ Computer speakers work ok.
   / ____ \ |_| ||  __/ | | | |_| | (_| | || (_) | |  \__ \
  /_/    \_\__|\__\___|_| |_|\__,_|\__,_|\__\___/|_|  |___/
                                                           
-**/
+-->
 
 # Attenuators and Speaker Sims #
 If you power up a traditional tube amp, and pull out the speaker cable, you can destroy your tube amp because a tube power section requires the resistance provided by the speaker.  You or an amp manufacturer can use an 'attenuator' or 'dummy load' to electrically take the place of a speaker.  'Attenuation' is an electrical term which in physics means 'a loss of intensity' so an attenuator lowers the intensity of the amps signal and can provide the resistance necessary to run the amp quietly or silently while not burning out the power section of a tube power amp.  Typically the attenuator will have a line level signal coming out of it which is the same as the signal that was going to go to the speaker only quieter.  This works just fine electrically however there are two caveats: 
@@ -1012,6 +1172,9 @@ If you power up a traditional tube amp, and pull out the speaker cable, you can 
 34. $400 Tone King Ironman ii Mini (30Watt, Not silent, reactive load, footswitchable solo function)
 
 ## Cab Sims ##
+
+[Example of why Cab Sims are Important](https://youtu.be/X8W9IKWkwbM?t=103)
+
 ### IR Cab Sims ###
 10. $147 Mooer Radar Speaker Simulator (No Attenuator, IR, Speaker cab sim, USB Load 3rd party IR, Headphone Out, No line in, Better than Torpedo CAB)
 9. $150 Hotone Binary IR Cab Sim (No Attenuator, Speaker Cab IR sim, 3rd Party IRs, Aux In, Headphone Out)
@@ -1019,7 +1182,7 @@ If you power up a traditional tube amp, and pull out the speaker cable, you can 
 2. $350 Two Notes Torpedo C.A.B - Probably perfect to use with an 'amp in a pedal' it is not an attenuator but a flexible professional speaker and IR cabinet sim.  The CAB may be to ampify a pedalboard only rig.
 28. $200 JOYO Cab Box  (Cab Modeling + IR, 3rd party IR )
 35. Two Notes Torpedo Wall of Sound (Free trial with 2 free IRs)
-36. $300 BluGuitar BluBOX (IR, 16cabs, custom mic positions, XLR and Line out, Line in, Speaker passthrough, no custom IR)
+36. $300 BluGuitar BluBOX (IR, 16cabs, custom mic positions, XLR and Line out, Line in, no custom IR, Speaker passthrough is a unique feature, this means you can put this in line with your speaker (or cleverly with your load) and listen to your amp sound through headphones)
 37. $169 DigiTech CabDryVR (IR, 14 cabs, Two independent speaker simulations.  Guitar or bass, No Attenuation)
 
 
@@ -1114,7 +1277,7 @@ Headphones with low impedance (<25Ohms) require little power to deliver high aud
 
 
 
-/**
+<!--
   _____         _       _     
  |  __ \       | |     | |    
  | |__) |__  __| | __ _| |___ 
@@ -1122,61 +1285,10 @@ Headphones with low impedance (<25Ohms) require little power to deliver high aud
  | |  |  __/ (_| | (_| | \__ \
  |_|   \___|\__,_|\__,_|_|___/
                               
-**/
+-->
 
 # Pedals #
 
-The best explanation of why pedals matter is in [this video by Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU), especially listen to him rip with and without the pedal at 4:30. 
-
-## Giving Life ##
-There are a class of pedals which boost in just the right way that it makes a clean tone come alive.  These are the kind of pedals that might stay always on and you would really miss if you turned it off.
-- EP Boost on 0 ([Talked about in this video](https://www.youtube.com/watch?v=0XGvRAQ0HeA&t=9m45s), )
-- Mojo Mojo on 0 Always on Paul Gilbert [Beginning of this video](https://www.youtube.com/watch?v=D5J8R2S3BZw)
-- Simble Predriver (Preamp/Booster/Compressor) (Good candidate for an always on magic pedal) [Pete Thorns Review](https://youtu.be/N8zzvVmyzIw?t=117)
-- Clover [More about this pedal](https://youtu.be/SVbceQGhbdM?t=203)
-
-## Treble Boosters ##
-- "Never played a Rangemaster but I own a Naga Viper ... My Mesa sounds amazing until I hit that pedal, and then its really magical"
-- Find them cheap by looking for naga clone or or beano clone or rangemaster clone or treble booster or java boost clone on reverb
-
-## Overdrives ##
-- Pinnacle (its an amp in a pedal designed to be used into a clean high headroom amp to emulate a hot rodded marshall)
-- Simble (Dumble)
-- Euphoria (Dumble)
-- Ethos blew my mind in a video
-- Fender Pugilist Distortion $119 (stacked overdrive)
-- Blackstar HT-Boost (150, Two extra hot tube stages)
-- Fuchs Plush Valve Job (260)
-- $100 Blackstar HT-Dual or HT-Dist or HT-Boost or HT-Drive or HT-Metal or HT-DistX (High Quality Tube Overdrives, speaker sim out)
-- $150 JHS Andy Timmons Signature Channel Drive
-
-Interesting to review the variety of dumble pedals available on reverb.  Same review for brown sound pedals
-
-### Quotes ###
-
-
-## Boogie ##
-- JOYO Boogie Master
-- JOYO American Sound
-- JOYO Pocket 
-- Tone City Model B
-- Wampler Triple Wreck
-- Mesa Throttle Box (Doesn't seem to sound good)
-- Zvex Box Of Metal
-
-## Small Multi FX ##
-- Zoom G5n (Built In Expression Pedal, external expression pedal)
-- $199 Zoom G3n 169 + 30 for pedal (Outboard pedal) (menus)
-- Zoom G3Xn (Onboard pedal)
-- Zoom G1X FOUR (Onboard Pedal)
-- $329 Tech21 Richie Kotzen FlyRigv2 (Tuner, Headphones, Built in sansamp, EQ, Drive, Reverb, Delay, Fuzz, Boost, Compressor)
--  $150 Line6 M5 (outboard expression)
-- Line6 HX Stomp
-- Vox Stomp Lab 2G (Onboard expression)
-- Fractal AX8 
-- $900 Boss GT1000 (not highly regarded enough for the price)
-- $50 NUX MG200 (50 at GC local, looper and great drum machine, not reliable)
-- TC Toneprint (Upload entire tone and fx stacks into a pedal with your phone)
 
 ### MIDI Footswitch ###
 - Some FX Units can respond to midi signals and if they can I can make my own Footswitch that uses MIDI over USB or just MIDI to do anything I want!   
@@ -1188,21 +1300,20 @@ Interesting to review the variety of dumble pedals available on reverb.  Same re
 - Joyo American Sound (the one I have)
 - Behringer GDI21 V-Tone $30 (1/4" and XLR Out, this is like that Behringer Amp that I had which sounded so fucking fantastic)
 
-## Other Cool ##
+## Other Cool Pedals##
 - TC Electronic MIMIQ $60-120 (Double or Triple Track your Guitar sound, stereo ) 
-- ART Tube MP (29-$100) (Warms up and preamps any signal, some versions have variable valve voicings)
+- EHX Freeze (lets you sustain a note) [Tricks to use this pedal](https://www.youtube.com/watch?v=sjFth1mg5Rc)
 
 
 ## Ambiance ##
 - Boss RV3 Reverb + Delay
 - Any small FX pedal would have these two FX in it
-- EHX Freeze (lets you sustain a note) [Tricks to use this pedal](https://www.youtube.com/watch?v=sjFth1mg5Rc)
 
 ## Drums ##
 - Digitech Trio (whole band in a pedal)
 
 ## Cool pedal companies ##
-- Wampler (love the pedals)
+- Wampler (love the pedals, don't like the guy)
 - JHS pedal products have my respect
 - Baroni-Lab
 - AMT
@@ -1227,7 +1338,59 @@ More loopers are [listed here](https://musiccritic.com/equipment/pedals/looper-p
 - $100 FoxGear Ryder Doug Aldrich ([Demo of FoxGear Ryder](https://www.youtube.com/watch?v=sdTz4FbTtTY))
 (also see preamps above)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Shelves #
+Ideally 19.5Wx10Hx12D
+
+
 ### Needs ###
 Would like the top shelf to be 40-44" tall so I can tweak that one and the ones below it too
 < 22" wide to fit in the closet door
@@ -1265,7 +1428,7 @@ How deep are they?
 #### Medium Sized Heads ####
 NOFIT Morgan MVP23 20Wx10Dx10H
 NOFIT Bassbreaker 15 is 19.6Wx9Dx10H
-NOFIT Blackstar HT5RH  20Wx9Dx9H
+FIT!! Blackstar HT5RH  17.4Wx9Hx9D 
 FIT!! Superchamp X2 is 17.5Wx9Dx8H
 
 
@@ -1342,6 +1505,12 @@ Casio SA-46 has center positive but otherwise the same
 3. [$8.98, 9V, Few Ratings, 1.0A, Tip Negative, 6ft](https://www.amazon.com/dp/B00WJPXKNI) No amazon prime and it seems cheap
 
 
+# Working with a Modeler #
+[How to make your Helix or Kemper FEEL like the real thing](https://www.youtube.com/watch?v=J02heFTwEXY&t=483s)
+1. Stick a subtle compressor at the end of the chain to simulate natural tube poweramp compression. "This is more of a feel thing than a tone thing"
+2. We always perceive more volume as sounding better
+3. Use [subtractive EQ](https://youtu.be/J02heFTwEXY?t=609) to affect the sound after the amp and cab but before the delay and reverb
+4. Use a bit of soft clipping (subtle distortion) after amp and cab to simulate speaker and poweramp breakup
 
 
 
@@ -1389,9 +1558,7 @@ Casio SA-46 has center positive but otherwise the same
 
 
 
-
-
-/**
+<!--
  __          ___           _     _____  __          __         _   
  \ \        / / |         | |   |_   _| \ \        / /        | |  
   \ \  /\  / /| |__   __ _| |_    | |    \ \  /\  / /_ _ _ __ | |_ 
@@ -1401,7 +1568,7 @@ Casio SA-46 has center positive but otherwise the same
                                                                    
                                                                    
 
-**/
+-->
 
 # What I Want #
 Goals: Need to be able to easily get a killer brown sound and a killer warm creamy shimmering clean.
@@ -1440,7 +1607,19 @@ Low Baggage Tube Amp
 7. Not too many controls
 8. Not phone required (optional ok)
 
-# Some things I can try #
+Ideal Tube Amp
+1. Lightweight
+2. Low Maintenance
+3. Great Warm Fendery Clean Tone
+4. Fits on my shelf (19.5Wx10Hx12D)
+5. Headphone out on front
+6. <250
+7. Tnstantaneous response (probably means all tube required)
+8. Front panel access
+9. FX Loop for pedal experiments
+
+
+## Some things I can try ##
 1. Two Peavey Vypyrs in stereo
 2. Play with the Vypyr Edit software with my VIP 1
 3. Pinnacle with Vypyr Cleans
@@ -1486,7 +1665,7 @@ Low Baggage Tube Amp
 
 
 
-/**
+<!--
   _      _     _       
  | |    (_)   | |      
  | |     _ ___| |_ ___ 
@@ -1494,7 +1673,7 @@ Low Baggage Tube Amp
  | |____| \__ \ |_\__ \
  |______|_|___/\__|___/
                        
-**/
+-->
 # Lists #
 
 ## Classiest Amps ##
@@ -1532,6 +1711,20 @@ Ty said that stereo cleans from fender heads is one of the best tones you could 
 8. Yamaha THR Series (Software last updated 2012)
 
 
+Lightweight Cabs
+
+1. Carvin Openback 212 @32lbs
+3. Bluguitar Nanocab 112 22lbs 60W Parallel and Serial Outputs 
+4. Bluguitar 212 150W Closed back 41lbs
+5. Randall MTS R212NXT 38lbs
+6. DV Mark 212 @25lbs
+7. Mojotone 212 @22lbs Unloaded
+
+Notes:
+- Celestion Neo speakers are 3.5lbs lighter per speaker than regular
+- "My Randall MTS R212NXT weighs 38 pounds. It has Neo Celestions in it."
+- Look for "Compact 2x12"
+- My old Carvin sx200 weighed only 40lbs with the amp in it!
 
 
 
@@ -1578,7 +1771,8 @@ Ty said that stereo cleans from fender heads is one of the best tones you could 
 
 
 
-/**
+
+<!--
   _____       _               
  |_   _|     | |              
    | |  _ __ | |__   _____  __
@@ -1586,7 +1780,7 @@ Ty said that stereo cleans from fender heads is one of the best tones you could 
   _| |_| | | | |_) | (_) >  < 
  |_____|_| |_|_.__/ \___/_/\_\
                               
-**/
+-->
 
 # Inbox #
 
@@ -1654,7 +1848,8 @@ Future plans:
 - Matchless cleans?
 - Mooer PreAMP Live (Tone Capture)
 
-
+## Cabinets ##
+- All of the Bluguitar cabs are special small and lightweight
 
 ## Channel Switch Lag ##
 "The Diezel D-Moll doesn't have this drop issue, but it does have a little bit of a time lag when kicking in the channel change, and a bigger time lag when kicking in the fx loop. Can't speak for their other models."
@@ -1726,26 +1921,50 @@ Make some moves in each of these areas and then have some fun!
 ### Preamp Stage ###
 1. BOUGHT $80 (Amazon) Behringer Vintage Tube Monster VT999
 2. $200 (GC Shipped) Mesa Boogie V-Twin Pedal
-3. $250 (GC Lewisville) AMT SS20
+3. $250 (GC Lewisville) AMT SS20 (Great Fender Tones)
 4. $150 AMT SS-30 Bulava Preamp
 
 
 ### Poweramp Stage (Headphones) ###
 Possibly just run directly into my Cab Sim.  That might work for the Pinnacle and for any others too.  
-3. $180 (GC Shipped) Laney Ironheart IRT-Pulse (plus 12v .75A Tip Positive adapter)
-4. $120 (Reverb) Quilter MicroBlock 45
-6. $200 Quilter Interblock 45
-7. $250 Quilter 101R
+
+1. $180 (GC Not Local) Laney Ironheart IRT-Pulse (plus 12v .75A Tip Positive adapter)
+2. $120 Orange Micro Dark
+3. $120 (Reverb) Quilter MicroBlock 45
+4. $200 Quilter Interblock 45
+5. $250 Quilter 101R
+6. $100 Peavey 6505 Piranha
+
 
 
 
 ## For Real Tube Amp Tones ##
+
 2. $399 Strymon Iridium Amp & Cab Pedal
 3. $450 (CL Carrollton) BluGuitar Amp1 Tube Amp Head
 1. $325 (CL Benbrook)H&K Tubemeister 18
 2. $180 Blackstar HT1RH 
 3. $225 H&K TubeMeister 5 
-4. $260 VHT Special 6 Head 
+4. $260 VHT Special 6 Ultra Head 
+
+Deals 
+
+1. $240 VHT https://reverb.com/item/32649211-vht-av-sp-6hu-special-6-ultra-head-w-upgraded-power-tube or 
+2. $260 VHT https://reverb.com/item/32765433-vht-special-6-ultra-guitar-head or
+3. $250 Local https://dallas.craigslist.org/ndf/msg/d/plano-vht-special-6-ultra-head-av-sp-6hu/7088885808.html
+4. $85 Julius Music Box https://reverb.com/item/32734188-julius-music-box-reactive-di-load-box-8-ohm-100w
+
+Or
+
+1. $325 Tubemeister 18 https://dallas.craigslist.org/ftw/msg/d/fort-worth-hughes-kettner-tubemeister-18/7064211755.html
+2. XLR to Headphone https://www.amazon.com/dp/B077L3TCYS
+
+
+Meeting the needs of my list above
+1. Bugera G5 (Headphones on rear)
+2. Micro Dark (Not all tube)
+3. VHT Special 6 Ultra
+
 ### Optionally if the tube amp needs it ###
 1. $85 Julius Reactive Load
 
@@ -1755,17 +1974,11 @@ Possibly just run directly into my Cab Sim.  That might work for the Pinnacle an
 
 ## TODO 3-5-2020 ##
 Lookup reviews of everything in the possibilities here to get classic quotes
-- Mesa Mark5:25 head
-	What about small Mesa amps that would fit on my rack?
-	Mini rectifier?  In Eytschs video one of the mesas is about the same size as the Tubemeister
-Mooer Amp Profiling
 Checkout Guitar Amp VSTs
-Check out Zooms
 Test out some Guitar Amp VSTs
+Move the preamp pedals into the preamp section above
+Separate the small tube amps from the preamps
 
-Amplifire or Tube Amp
-Amp A is Tube Amp
-Amp B is Amplifire
 
 
 

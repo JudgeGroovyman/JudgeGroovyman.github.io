@@ -33,9 +33,10 @@ I'm not a player of electric hollow body guitars or acoustic guitars (not that I
 28. Epiphone High End [$389 G-400 with EMGs and HSC](https://reverb.com/item/31269853-epiphone-sg-emg-active-pickups-grover-locking-tuners-hard-case) in fair condition also has locking tuners and a nice red transparent wood top.  Thats a great deal.  
 29. Gibson Les Paul [$939 Blue LP Studio with Duncans and HSC](https://reverb.com/item/31724596-gibson-les-paul-studio-with-seymour-duncans-in-manhattan-midnight-blue-case) 2015 decent condition with dings and wear and rash, robot tuners, lovely dark blue burst, Custom Custom and JB, and really nice case, and nice shileding.  [$650 2013 Gibson LPJ Brown with duncans and upgrades](https://reverb.com/item/31883977-gibson-lpj-2013-brown-w-upgrades-and-gig-bag) one chip where pickguard should be, nice finish, upgraded tuners, tonepros, graphtech, duncan blackouts.  [$540 Les Paul CM black satin thin 6.7lbs Upgraded pickup](https://reverb.com/item/31920815-2016-gibson-les-paul-cm-modded-w-rio-grande-hb-split-coil-switch-upgraded-trc-knobs) Rio Grande pickup, scratches, thin mahogany body with maple top.  
 30. Warmoth Custom Guitars [$550 Short scale hardtail strat with duncan designeds and 6.5lbs](https://reverb.com/item/32645313-short-scale-guitar-w-warmoth-ebony-mustang-neck-fender-bridge-strat-grey-lomic)
-
-  
-
+31. Ernie Ball Music Man [$1000 for USA Axis Super Sport](https://reverb.com/item/20940837-ernie-ball-music-man-axis-super-sport-blue) or this [Local USA Music Man Axis Sport with P-90s](https://dallas.craigslist.org/dal/msg/d/pilot-point-ernie-ball-music-man-axis/7080958074.html)
+32. Vintage Fender [$975 Fender Lead III 1981 HH Hardtail](https://dallas.craigslist.org/dal/msg/d/dallas-american-fender-1981-lead-iii/7079977722.html) I love that fender.  I suspect its heavy but if it isn't then thats nearly a dream guitar of mine. 
+33. Yamaha Pacifica [$265 White Hardtail HH Strat stb](https://dallas.craigslist.org/dal/msg/d/dallas-deluxe-yamaha-pacifica/7074387193.html) Classic and so solid. 
+34. Dean Evo [$300 for a beautiful Tiger Quilt](https://dallas.craigslist.org/dal/msg/d/dallas-dean-select-special-lp-quilt-top/7073877751.html)
 
 # Favorites #
 ## Affordable ##
@@ -122,11 +123,13 @@ https://www.amazon.com/ESP-EC10-Electric-Guitar-Blue/dp/B01MYC3D2P)  Basswood, h
 
 ## Amps ##
 5. [$169.99 + shipping Blackstar HT1RH](https://www.guitarcenter.com/Used/Blackstar/HT-Series-HT1RH-1W-Tube-Guitar-Amp-Head-115851341.gc)
-8. [$250 Blackstar HT-5 Metal](https://dallas.craigslist.org/dal/msg/d/carrollton-lunchbox-tube-heads/7086475231.html)
 9. [$325 Tubemeister 18](https://dallas.craigslist.org/ftw/msg/d/fort-worth-hughes-kettner-tubemeister-18/7064211755.html)
 
 ## Devices ##
 7. [$179 Laney Ironheart IRT-Pulse](https://www.guitarcenter.com/Used/Laney/IRT-PULSE-Effect-Pedal-115952001.gc?source=4WWRWXGP&gclid=CjwKCAiA44LzBRB-EiwA-jJipJMYydm-EiPQOf962M-TFn7IGee8Nfn6Dy_Gp1fzBZxW0udaJWphjRoC2v0QAvD_BwE)
 6. [$450 BlueGuitar Amp1](https://dallas.craigslist.org/ndf/msg/d/carrollton-bluguitar-amp1-guitar-amp/7063099187.html)
 
-
+# Shopping Mar 6 2020 #
+## Amps ##
+1. [$480 Mesa Transatlantic](https://dallas.craigslist.org/mdf/msg/d/lewisville-mesa-boogie-transatlantic-ta/7080082074.html) Local near Denton.  Perfect for Reactive Load + Cab Sim.
+##  ##
