@@ -88,9 +88,35 @@ To use VSTs you need a host (some or many come as standalone packages as well bu
 
 
 # Amp Sims #
-1. Positive Grid Bias Amp ($59 and up)
 
 ## Investigate These Amp Sims ##
 1. https://www.musicianonamission.com/guitar-amp-simulators-vs-real/
 2. http://www.vst4free.com/index.php?plug-ins=Guitar/Amp
 3. https://bedroomproducersblog.com/2012/02/21/bpb-freeware-studio-best-free-guitar-amp-simulator-vstau-plugins/
+
+
+# Songwriting #
+## Some song structures ##
+1. intro4, verse16, chorus8, verse 8, chorus8, bridge8, chorus16, outro 4
+2. intro4, verse16, prechorus8, chorus8, verse8, chorus8, bridge8, chorus16, outro 4
+
+	
+- "The hook should be half as long as the first verse and the intro should be half as long as the hook"
+
+Chorus
+Not based on lyric but what sounds great and hooks them in 
+Instrumentation dominates the hook
+
+Verse
+Lyrics dominate the verse
+
+Bridge
+Then the bridge takes them somewhere else musically
+	Maybe a different key
+	Take them away from the song
+
+Prechorus
+Builds up anticipation for the chorus with instumentation or a filter or build up
+
+intro
+

@@ -119,8 +119,9 @@ Heres a video about great guitars like this [Great Non-Gibson Gibsons](https://w
 12. Skervesen
 13. Bailey
 14. Kiesel
+16. Prestige
 
-I don't know a lot about these in fact the only one I've played with my own hands is Warrior (I think!?!) but they are generally highly regarded and many of their guitars look and sound amazing!  I am unlikely to buy one of these personally unless I find a specific reason to.
+I don't know a lot about most of these in fact the only one I've played with my own hands is Warrior (I think!?!) but they are generally highly regarded and many of their guitars look and sound amazing!  I am unlikely to buy one of these personally unless I find a specific reason to.
 
 Of course many Paul Reed Smith, Gibson, and Fender models could also be considered Boutique.  In fact most brands have a boutique range.  Some (ESP and Schecter for example) have high end Japanese ranges and Schecter even has a higher end USA custom shop.
 
