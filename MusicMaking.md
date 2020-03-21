@@ -97,7 +97,7 @@ To use VSTs you need a host (some or many come as standalone packages as well bu
 
 # Songwriting #
 ## Some song structures ##
-1. intro4, verse16, chorus8, verse 8, chorus8, bridge8, chorus16, outro 4
+1. intro2, chorus4, verse16, chorus8, verse8, chorus8, bridge8, chorus16, outro 4
 2. intro4, verse16, prechorus8, chorus8, verse8, chorus8, bridge8, chorus16, outro 4
 
 	

@@ -25,6 +25,7 @@
 - [Stereo overdrive](https://youtu.be/l6vExiC3Ro4?t=293)
 - [Example of why Cab Sims are Important](https://youtu.be/X8W9IKWkwbM?t=103)
 - [This guy uses the Piranha to talk about the magic of great tones](https://youtu.be/2TTDflrZwKM?t=1064) earlier he was talking about ringing harmonics and [here he talks about amp heaven for $200](https://youtu.be/2TTDflrZwKM?t=1192)
+- [Spoiler the non valve wins in the ultimate blindfold test](https://www.youtube.com/watch?v=86yJqZq5uPc)
 
 
 ### Stereo Amps tones ###
@@ -533,11 +534,12 @@ Everything from the headphone section above plus the following
 - $50 Peavey Rage 158
 - $200 Yamaha THR10X (6lbs I instantly loved the original when I plugged in a few years back.  I thought it was tube but I just loved the whole package.  This one is tuned towards modern metal) 
 - $250 Tech21 Trademark 30 (14lbs, 110, FX Loop, Headphone out, XLR Direct out)
-- $230 Boss Katana 50 (25lbs, 18.5", GA-FC Foot Controller, Expression pedal, and Boss Tone Studio Software) (Great tones, PC configurable, "Boss is a pedal company and seems to have gone to great lengths to make a modeler that plays well with pedals")
+- $230 Boss Katana 50 (25lbs, 18.5", GA-FC Foot Controller with Expression pedal, and Boss Tone Studio Software) (Great tones, PC configurable, "Boss is a pedal company and seems to have gone to great lengths to make a modeler that plays well with pedals")
 - $250 Peavey Vypyr 30H (25lbs, tuner, FX, USB, Aux-in, Headphones)
-- $350 Boss Katana 100 Head ($350) (19.4lbs, 18.5Wx8.5Hx9D, Small speaker built in)
+- $350 Boss Katana 100 Head ($350) (19.4lbs, 18.5Wx8.5Hx9D, Small speaker built in, external foot controller with external expression pedal from the footswitch)
 - $450 Roland JC-22 (29lbs, 9Wx9Dx7H, stereo, stereo FX Loop, 2x6.5" speakers, Footswitch for chorus and reverb, lunchbox, headphones)
-- $500 Roland Blues Cube 30 (28lbs some are blonde, 210 or 112, so classy, great tones, 59 tweed bassman)
+- $450 Roland Blues Cube 30 (older BC-30s have a footswitch slopt but no phones, two channels, line out, or usb, no fx loop)
+- $500 Roland Blues Cube Hot (28lbs some are blonde, one channel, 210 or 112, so classy, great tones, 59 tweed bassman, simple footswitch, phones, line out, USB Recording, built in attenuator, one channel, some models have a boost (Boss drive special), no fx loop)
 - $700 Yamaha THR100HD Head (11.1lbs Two little amps in a head format, footswitchable, Dual Amp Sim Capability, IR Speaker Sim, Desktop Software)
 
 
@@ -552,6 +554,7 @@ Everything from the headphone section above plus the following
 7. Carvin SX200 (44lbs, Great sound and features, Takes pedals perfectly (years of first hand experience), FX Loop, Builtin reverb and or chorus or other effects)
 7. $500 Carvin SX200H (24lbs, Great sound and features, Takes pedals perfectly (years of first hand experience), FX Loop, Builtin reverb)
 6. $500 Roland Jazz Chorus 50 (112, 40lbs, takes stereo inputs, headphone out, fx loop with stereo return, 3 footswitches chorus, reverb, distortion, a nice reverb and chorus built into the amp)
+- $500 Roland Blues Cube 80 (30lbs, Footswitchable, headphone out, record out, fx loop, cool dual tone mode with both channels at once, takes pedals great, won as captains #1 fav in a shootout with tube amps, can be switched to .5Watts, stage artist and studio models have a feature to let you add tone modules, modeled after the Fender Bassman)
 - $100 Peavey Vypr VIP1 (20lbs, Cool Footswitch with looper for 75)
 - $120 Fender Mustang (Best clean tones and tons of configurable FX, Complicated)
 - $140 Orange Crush 20LDX (17lbs great cleans for an amp like this, unprocessed headphones out, Aux in, Built in tuner, FX)
@@ -577,10 +580,12 @@ more tutees
 - $150 Peavey Supreme head (35lbs Solid State super high gain and nice cleans)
 - $150 Peavey Vypyr 75 Combo (44lbs)
 - $250 Peavey Vypr 50 with Footswitch (Wah, Looper control, Patch Selection, etc.)
+- $300 Marshall Lead 12 ([Johan Playing Marshall Lead 12](https://www.youtube.com/watch?v=qAm4GnAPUa0))
 - $300 Boss Katana Air
 - $400 Blackstar ID:60 (45lbs is rumored to be amazing through headphones and has separate pre and power amp models, and its stereo to some degree!)
 - $600 Roland JC60/50 (mono version of JC120)
 - $600 Roland JC120 or JC-90/77 (63lbs too heavy, godly stereo chorus tones, 90:49lbs, 77:44lbs)
+- Peavey EFX, Special, Studio, Transtube
 
 ## Quotes ##
 - Mustang "Try a Mustang III v2 with just a touch of gain on the Fender Super Sonic emulation. You'll never go back to tubes!"
@@ -1395,6 +1400,19 @@ In the blues likes these  two ods best
 Royal Flush dual od
 Carrera od from buffalo fx
 
+JHS Recommendations
+Here are the ones I liked from [this video](https://www.youtube.com/watch?v=EGGiuhukWNo)
+
+1. $30 TC Electronic Cinders (Classic Blues tones)
+2. $150 Fender MTG: LA (with a tube and a boost) I love this tone. (More Modern Sound that I love)
+3. $120 Cusack Screamer (its got a secret to have better note clarity and lower non harmonic distortion than any other copy) This is the best tube screamer therefore SRV tone ever
+4. $200 Greer Southland (Great high gain chainsaw tone and squeak that I love very much)
+5. $150 Seymour Duncan Forza (Modified modified tube screamer this is a high gain klon and high gain larry carlton dumble)
+6. $100 MXR Sugar Drive (Tiny Klon Klone) 
+1. $150 LA Lady: You can load hundreds of other OD Pedal profiles into this
+
+
+Cornerstone Gladio - Great sounding Dumble Pedal (see shawn tubbs video for great tone)
 
 # Expression Pedals #
 - Roland DP10 has continuous input which apparently means you can use it as an expression pedal.  I want to try that
