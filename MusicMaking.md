@@ -24,6 +24,8 @@ This is a great program with a funky interface.  Its really cool how you can use
 # DAWs and VSTs #
 I was looking for free or cheap DAWs to use VSTs with because there are so many cool VSTs that I want to fiddle with.  Well first I figured out that you don't need a DAW that you can use VSTs with a little host program like savihost.
 
+"A large freeware/donationware/magazineware collection seems more fun to me than just a few faceless giant synths, not denying the excellence of payware sounds, but I really enjoy the interaction of many developers, and the perpetual motion of new instruments and sounds arriving every week, and with remarkable quality in many cases." [From KVR Audio Thread](https://www.kvraudio.com/forum/viewtopic.php?t=264273&start=15)
+
 ## Using VSTs ##
 To use VSTs you need a host (some or many come as standalone packages as well but you can't assume that they will for sure) and a good way to do that is using a DAW.  Here is a list of [free VST hosts (including DAWs)](https://bedroomproducersblog.com/2011/05/16/bpb-freeware-studio-best-free-vst-host-applications/)
 

@@ -541,7 +541,7 @@ Everything from the headphone section above plus the following
 - $450 Roland Blues Cube 30 (older BC-30s have a footswitch slopt but no phones, two channels, line out, or usb, no fx loop)
 - $500 Roland Blues Cube Hot (28lbs some are blonde, one channel, 210 or 112, so classy, great tones, 59 tweed bassman, simple footswitch, phones, line out, USB Recording, built in attenuator, one channel, some models have a boost (Boss drive special), no fx loop)
 - $700 Yamaha THR100HD Head (11.1lbs Two little amps in a head format, footswitchable, Dual Amp Sim Capability, IR Speaker Sim, Desktop Software)
-
+- $1600 Roland Blues Cube (18lbs, 9.25Hx21.5Wx9.18D (Wont fit), USB Out, Beautiful tones, 3 footswitch holes, USB Recording out(speaker sim?), XLR and 1/4" Line Out (speaker sim?), gnd lift, midi in, 2 FX Loops, headphones, built in attenuator, I love the robben ford capsule so much!(see andertons tone capsule shootout), $150-$300)
 
 ## Second Place ##
 1. $250 Peavey Bandit ($450 new, heavy 40lbs, great sounds, new models have 2 clean settings and 3 dirty plus reverb, takes pedals great)
@@ -754,7 +754,7 @@ The best explanation of why pedals matter is in [this boost video by Pete Thorn]
 
 ### Giving Life ###
 There are a class of pedals which boost in just the right way that it makes a clean tone come alive.  These are the kind of pedals that might stay always on and you would really miss if you turned it off.
-- EP Boost on 0 ([Talked about in this video](https://www.youtube.com/watch?v=0XGvRAQ0HeA&t=9m45s), )
+- EP Boost on 0 ([Talked about in this video](https://www.youtube.com/watch?v=0XGvRAQ0HeA&t=9m45s), also "Ultimate Overdrives Part One")
 - Mojo Mojo on 0 Always on Paul Gilbert [Beginning of this video](https://www.youtube.com/watch?v=D5J8R2S3BZw)
 - Simble Predriver (Preamp/Booster/Compressor) (Good candidate for an always on magic pedal) [Pete Thorns Review](https://youtu.be/N8zzvVmyzIw?t=117)
 - Clover [More about this pedal](https://youtu.be/SVbceQGhbdM?t=203)
@@ -1410,7 +1410,7 @@ Here are the ones I liked from [this video](https://www.youtube.com/watch?v=EGGi
 5. $150 Seymour Duncan Forza (Modified modified tube screamer this is a high gain klon and high gain larry carlton dumble)
 6. $100 MXR Sugar Drive (Tiny Klon Klone) 
 1. $150 LA Lady: You can load hundreds of other OD Pedal profiles into this
-
+2. Beano Booster: A Treble Booster pedal. Has to be at the front of your signal chain due to the germanium
 
 Cornerstone Gladio - Great sounding Dumble Pedal (see shawn tubbs video for great tone)
 
@@ -2081,6 +2081,22 @@ Checkout Free Guitar Amp VSTs
 3. Buy some stereo 1/4" to mono 1/4" cables for my zoom.  
 
 
+## 3-19-2020 ##
+1. AnalogMan King of Tone
+2. Look at Victory lunchbox amps
+3. Look at Victory 
+
+
+# Dumble #
+1. Malin Hand wired ALl Tube Dumble Clone preamp pedal (its a full dumble clone preamp in a box)
+2. Fuchs and Two Rock also make a dumble clone amp
+3. Kemper with dumble profile
+4. Kingsley pedals (they use the preamp of dumble #121)
+5. Mojo Hand FX DMBL pedal - $130 dumble clone 
+6. Bludodrive 
+7. $849 VHT D-Fifty (Hand Wired Dumble Clone)
+8. $250 Hermida Audio Zen Drive
+9. The Dude pedal
 
 
 
@@ -2120,3 +2136,5 @@ Checkout Free Guitar Amp VSTs
 
 
 
+
+x

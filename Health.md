@@ -125,3 +125,48 @@ Doesnt require treatment except to the degree that it causes problems
 - [Healthline](https://www.healthline.com/health/menopause#causes)
 - [Best DIY Remedies for heavy flow](https://www.bloodandmilk.com/the-best-diy-remedies-to-manage-a-heavy-flow/)
 - [Endometriosis and Ademyosis](https://www.webmd.com/women/endometriosis/women-endometriosis-vs-adenomyosis#1)
+
+# Inbox #
+Health Research 
+
+- Alkalyzed Water
+  - It should be noted that there is a significant difference between alkaline water, that which is made by chemical means which may be harmful to the body and ALKALYZED water which is made by passing an electrical current through the water thereby also creating a strong negative (-700 to -850) ORP (oxygen reduction principle). This negative ORP attracts the positivly charged free radicals in the body and starts breaking down the free radicals to the point where they the body is now able to flush them out naturally. This process is known as HOMEOSTASIS. It should also be pointed out that Alkalyzed water is also the most powerful antioxidant known to mankind. More pertinent information on ERW (electrolyzed reduced water) can be found by going to Google Scholar, which is a sub search engine of Google and typing in “Electrolyzed Reduced Water” or by visiting Pubmed.com and doing the same. Here you can find a great deal of information on what the Japanese have discovered to be the best kept secret the world has ever not known. My mom was working with this technology back in the early 60’s and had Russia not invaded our homeland (the Czech Republic, Czechoslovakia as known back then) which forced us to flee for obvious reasons, we would have been able to perfect this method of helping the body to heal itself with the assistance of alkalyzed water as it was having a staggeringly positive effect on her patients. Many hospitals throughout Asia, and Europe are utilizing this technology however it still remains relatively unknown in North America. Dor more information on this, please feel to contact me at tomsemail6646@gmail.com and I’ll do what I can to help. I hope this information was of value to you.
+- Ph test
+  - AlL filtered water
+  - Two shots per glass
+    - Cup and a yogurt
+    - Cup is getting cooked for 10min
+      - Right next to the device at 432 for 10min
+    - Ph prior to test 
+      - 6.75 for cup
+      - Same for yogurt
+    - Added 1/2tbsp of lemon juice
+      - Yogurt was 4.5 or maybe less
+      - Cup was exactly the same
+    - After the experiment was over I combined the cups and added 1/8tsp baking soda
+      - 6.75
+    - Then I added another 1/8tsp baking soda
+      - Still 6.75
+    - Then a clean 2 shot glasses of water in yogurt and one drop of lemon
+      - That’s more like 5.5
+    - Then one drop of optimal ph into yogurt
+  - Update: I’ve been doing this all wrong!
+    - It says to dip it in then wait 15s and then read it
+- 741 infection frequency
+- Structured water with Ann and Nanni
+  - Clayton nolte 
+  - http://www.halomultiverse.com/
+  - Cell signal remedy / ptsd remedy
+  - Ann 
+  - Two days after taking structured water Recently workout paralyzed Vet could stand and walk with assistance
+  - Treated structured water just for sleep - first time ptsd slept with no nightmares! 8oz at first now it’s just 4oz
+  - Structures botanicals with the water
+  - Bio photonic light
+  - 2-3h between taking in the treatments
+  - Structured water nanosizes the water so the water passes through the cells easily
+  - It will detox people so they will get sick temporarily
+  - 
+- Frequencies
+  - 963 is a god number
+  - 432 covers many different spectrums
+- 

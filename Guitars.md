@@ -487,7 +487,9 @@ Some part of me would like to have all of these but the baggage with having many
 - Simple Brown Hard wood hard Natural finish like Peavey T-60 or T-15.  Its like you can't really hurt these.  
 - Ibanez S series - Ocean Fade, Iron Label Blue Space Burst, anything called Cerulean Burst
 - Anything that looks like the ocean  like the Dean Oceanburst (Satin Neck )
--
+- Dean exile satin blue burst
+- Guitar finish that blue striped Unfinished les Paul from a few years  ago
+- Dean select ocean burst quilt v
 
 
 
