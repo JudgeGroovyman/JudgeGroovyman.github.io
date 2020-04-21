@@ -1,5 +1,6 @@
 # Unity #
 
+
 # Competitors #
 * Love
 * Godot
@@ -8,6 +9,19 @@
 * Game Maker Studio - Community: toxic.  I even tried to argue in favor of it 'it cant be that bad' and I was assured that it was.  I own one version of this in humblebundle.
 * Amazons
 * RPG Maker - I own VX Ace and XP and a bunch of tile packs in humble bundle.
+
+## About Game Engines ## 
+About game engine or programming language maturity
+
+- From Reddit
+  - When you google a problem in Godot and it only shows the official documentation, you know it's not ready for serious development.
+  - On the other, google something for Unity or Unreal, and someone has had that problem before and there's a good chance that it's solved.
+- 1. Google gives you almost nothing or results from another language
+- 2. Google gives you results from the official documentation
+- 3. Google gives you results from people who have had the problem before but haven’t had much discussion or activity
+- 4. Google gives results from people who have had the problems and the community has solved them 
+- 5. They’ve solved them and given easy applicable solutions 
+
 
 ## More Obscure Competitors ##
 * [JLud2D](https://github.com/rafael-esper/JLud2D) this looks like a great tiled compatible way to make Sega Master System and Genesis style games.  Updated May 2018

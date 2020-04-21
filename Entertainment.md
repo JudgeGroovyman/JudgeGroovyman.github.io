@@ -78,6 +78,7 @@ Masterpieces
 * 8x2 This is one of my favorite episodes ever.  They are so close to mulder in the desert!  I really really like robert patrick in this.  I didnt want to like him at all at first and his T2 apperaeance still make sme uncomfortable in a creepy way.  but he is a really cool guy and theres nobody who could take that role at all.  I think hes really compassionate and nice deep down.  it pisses me right off that the deputy director is such a dick about aliens and how hes going to ruin anyone who reports the facts about them.  Its going to be really cool to see how two unbelievers work together on crazy files like this.  Is she goign to run roughshod over all of the evidence.  
 * 8x21 Ended without a cliffhanger for once!  Doggett is great throughout this season. Hes an excellent addition to the team.  
 * 9x1 Whoa this aired 11/11/2001 just a few months after 9/11
+* 10x3 the description of how he changed at like 26:00 in the cemetery is so damn funny! And then how he skips off at the end.  Awesome!  Everything with him is funny.  I think I know his voice from somewhere
 
 
 ## Star Trek Voyager ##
@@ -134,61 +135,146 @@ Up to 6x2 as of 12/18/19
 * 6x3 "I bet being Vice President is as hard as it looks" - Sarah "Well you don't get to pick your battles but you still have to win them." - Vice President Stillson on Dead Zone 6x3 17:00
 * 6x8 This ended up being one of the coolest episodes.  Self contained and heartwarming and interesting and clever.  Great writing and heart.
 * 6x9 Its kind of funny how his step dad Reverend Purdy just disappeared.  he said he would but they didnt explain it any further than that haha :).  Wait ... why did she make that decision at the end?  thats rash imho
-* 6x13 Ahh this might help wrap up Reverend Purdys questions.  
+* 6x13 Ahh this might help wrap up Reverend Purdys questions. 
+* 5x4 It’s just the idea that a young man like josh Blake could be moved to hate and fear his own nature because of his faith
+Preacher on dead zone 5x4 37:00 
 
 
 ## MST3K ##
 * 1205  They are on FIRE starting from the third joke! Farts popcorn yahtzee - THis is one of my favorites!
 * 1206  Stop tickling me mr websalot.  Come on feel the noize..  "What better for a group of blind laborers than a gaping pit in the middle of the floor"
+* Lords of the Deep 50:19 The most realistic sex scene ever.  I could convince you but I’d like to do it tomorrow. 
+* Atlantic Rim - And the movie ends as it begins, as a garbage fire
 
-# Quotes from TV #
-- Funny Quote from AVGN
-    - Predator
-    The Nerd: (sarcastically) Wow, they sure followed the movie pretty closely. You know the plot: A special forces team led by Alan "Dutch" Schaefer dressed in hot pink go on a mission to rescue hostages in Central America. They are hunted by piranha balloons, plants that spit fireballs, Lolos or Shy Guys, chickens with skull masks, giant bacteria, Metroids, and birds that crap blood. 
-- Bong
-    - Statistical fact: Cops will never pull over a man with a huge bong in his car. Why? They fear this man. They know he sees further than they and he will bind them with ancient logics.
-- Kicktu our asses
-    So an evil copycat gort is coming to klaatu barada kicktu our asses ... 
-- The most realistic sex scene ever
-    - I could convince you but I’d like to do it tomorrow 
-    - Lords of the deep 50:19
-As a Garbage fire
-    And the movie ends as it begins, as a garbage fire
-    Atlantic rim
-Run iris run
-    I thought you had like 6 Ph.D.s
-    Seven
-    Yeah and which one of them is in mad science?
-    Mad science is just an area of study it’s not a degree ok
-Herr wells
-    And you herr wells, you’re very ... blunt
-    Obviously
-Bachelorette party
-    I’m really excited for that bachelorette party
-    Yup getting inebriated with same gender to celebrate an archaic institution ... priceless
-Academia
-    “Ahh the soul sucking flourescence of academia”
-    I know who you are
-    “Wow you really know your stuff”
-    “Well, Je Suis ... ... smart”
-Smile
-    I’m sorry I took the smile from your face
-    HR attack on gorilla city
-    Also
-    “I’m just a handsomer guy than your dad with a song in his heart.”
-Sumptious Day
-    No!  On your earth it’s ‘good morning’
-    Upbeat Harrison wells “shade”
-Attitude
-    “Will it test for their attitudes too?  I’m not sure I can stomach another Wells with your bedside manner.”
-    “I care for you too ... you jackwagon”
-    The new rogues 28:49
-Flash about tools
-    “You know what?  In battle, choose your weapon wisely.  Some people would choose a gun, I choose a Phillips head. ... Ramon, please have you ever worked with a tool before.”
-    “I’m working with one now”
-“You lose a chunk of your humanity every time you compromise your values.”
-    The flash Trajectory
-“From Hells Heart I stab at thee”
-    The flash early season 2
-“You’re 0 for 206 and you still think you’re her best bet?”
-    The flash
+## Flash ##
+* 5x9 So an evil copycat gort is coming to klaatu barada kicktu our asses ... 
+- Run iris run
+  - I thought you had like 6 Ph.D.s
+  - Seven
+  - Yeah and which one of them is in mad science?
+  - Mad science is just an area of study it’s not a degree ok
+- Herr wells
+  - And you herr wells, you’re very ... blunt
+  - Obviously
+- Bachelorette party
+  - I’m really excited for that bachelorette party
+  - Yup getting inebriated with same gender to celebrate an archaic institution ... priceless
+- Academia
+  - “Ahh the soul sucking flourescence of academia”
+  - I know who you are
+  - “Wow you really know your stuff”
+  - “Well, Je Suis ... ... smart”
+- Smile
+  - I’m sorry I took the smile from your face
+  - HR attack on gorilla city
+  - Also
+  - “I’m just a handsomer guy than your dad with a song in his heart.”
+- Sumptious Day
+  - No!  On your earth it’s ‘good morning’
+  - Upbeat Harrison wells “shade”
+- Attitude
+  - “Will it test for their attitudes too?  I’m not sure I can stomach another Wells with your bedside manner.”
+  - “I care for you too ... you jackwagon”
+  - The new rogues 28:49
+- Flash about tools
+  - “You know what?  In battle, choose your weapon wisely.  Some people would choose a gun, I choose a Phillips head. ... Ramon, please have you ever worked with a tool before.”
+  - “I’m working with one now”
+- “You lose a chunk of your humanity every time you compromise your values.”
+  - The flash Trajectory
+- “From Hells Heart I stab at thee”
+  - The flash early season 2
+- “You’re 0 for 206 and you still think you’re her best bet?”
+  - The flash
+* Ralph: *snaps* “Larry! My usual!”   Larry: “it’s Jason”
+
+## Supergirl ##
+* “She is actually a lovely woman.  If anything it was my narcissism and facial hair that ruined any chances I had with her.  Getting so soundly rejected has caused me to question many of my life choices.  I need some time alone.” - shapeshifter acting as max lord trying to get someone off his back
+* “Exactly.  Only a person who is determined to lie can answer all of the questions they are asked how do you think I caught lance armstrong”
+* These are tears of logic
+* When Oliver and Barry are swapped
+	Are you puffing out your chest.  
+	Yes
+# Wrestling #
+* All star wrestling dec 31 1977
+- Ken patera bear hugged someone to submission!
+- Captain Lou Albano was with ken
+- I just watched some 1977 WWWF where after a Bob Backlund match Freddie bassi talked about how rich mr Fuji’s and Professor Tanakas families are back in “the orient” where IBM is a drop in the ocean compared to how rich their families are hahaha 
+- There’s only a little piece of canvas outside the ring.  It must hurt out thwre
+- Vicky Williams could have gotten back in the ring but attacked instead and got counted out :( moola won :(
+- Vince just was talking about possibly disqualifying for what they called “aggressive tactics“
+- Now he’s interviewing and actually calling out the use of a foreign object and the manager is having to explain himself so the grand wizard says he hypnotized the whole audience into believing that he handed Lou graham a foreign object haha
+- Sep 2 1978
+- Wow they counted fast back then at 30:00 there was a series of near falls and the counts were 123 really fast
+- Then the wrestler picked up the ref and the ref kicked at the opponent to defend them both from the hot opponent
+- Top rope leaps were much sloppier the ropes were much softer and bouncier so there wasn’t really a way to do those mighty leaps
+- Peter maivia and bob backlund!
+- Jan 28 1978 and it’s a two on one match!
+
+* 1989 wcw bash
+- Gordon sully is no mean gene
+- Steamboat carried a live dragon out to the ring!
+- The tux match made me very happy
+- Irwin schyster is so unlikeable (mike rotunda)
+- Steamboat v luger
+  - Bringing a chair and preparing to hit your opponebt ok
+  - Tossing the ref around ok
+  - Knocking the ref down ok
+  - Hitting opponent on back with chair DQ
+- At 1:38 the Freebirds promo has Samoan swat team Eating each other in the front haha
+- At 2:23 Flairs piledrivers are weak and seem sloppy and like they could cause injury
+
+
+# Quotes from TV & Movies #
+* Travelers
+	Travelers s2x2 on a pier the doctor from the future uses tapping to try to treat ptsd, later she uses eye movement therapy and uses it with tapping
+	Travelers 2x9 said “historians, when you run out call this number to ask for more” and flashed the number on the screen for a fraction of a second and all of them instantly read it and memorized it. Haha so cool
+	It’s also cute how these matrix style updates seem to have any meaning since once he blinked and the characters are changing as fast  as a blink so he absolutely misses something in that blink.  Well ok to give them the benefit maybe it’s encoded with some kind of error correction
+* GLOW
+	S1e10 Viking Vag! Makes me teary-eyed
+* Quote from legends of Tomorrow
+  - Hug it out
+    - Nate and Mick 
+    - “I thought you were dead”. “I thought you were dead inside” *hug*
+    - A rat and his dad haha!
+  - Lute Loot
+    - In the middle of a really funny section
+    - Nates dad: "Why are you holding a tiny guitar or do I even want to know?"
+    - Nate: "oh this is a lute"
+    - Mick: (waking up abruptly) "Hmm?  Did someone say loot?"
+    - Nate: "This is what we're going to use to put the Minotaur to sleep"
+    - Mick: "I thought you said that was loot!?!"
+    - John: "Well I suppose it is more of a Lyre"
+    - Mick: "Everyones a liar"
+    - haha!
+    - (later)
+    - Nate: (arguing with his dad about his worth) "I don't know if you've noticed but I'm a grown ass superhero!  Who's just trying to play the lute for a minotaur"
+  - S4E6 "Tender is the Nate" is just so good.  Its so damn funny.  
+
+* Disenchantment
+  - 1x10 finale
+    - I love the story and how tragic it is and how happy it is
+  - 2x2
+    - I love the depiction of heaven and hell so much and God and his glowing head
+    - I love the spiral staircase and the hole at the end.
+    - I love the hell islands and stairs between them.  
+    - "Im your worst nightmare .. I'm needy and unstable and now that you've expressed interest in me I want to know where this relationship is going!"
+    - "Bite my shiny metal axe!"  Classic!
+  - 2x4
+    - Who ever knew a carpet could have such a back story
+  - 2x6
+    - Epluribus num num! chocolate coins
+ 
+* Roswell 1x12
+	Comment: I think it’s stupid they couldn’t save more of them.  Really stupid there could have been so much more plot there for many seasons.  Maybe just execute the prisoner whose cell is quarantined
+	It’s also just really sad and hard to hear
+* Frozen 2:
+	that’s just your fear fear is what can’t be trusted
+	when one can see no future all one can do is the next right thing
+* Avengers
+	I don’t judge people for their worst mistake
+	Everyone fails at what they’re supposed to be
+* The Cabin in the Woods
+	Statistical fact: Cops will never pull over a man with a huge bong in his car. Why? They fear this man. They know he sees further than they and he will bind them with ancient logics.
+* Funny Quote from AVGN
+    * Predator  The Nerd: (sarcastically) Wow, they sure followed the movie pretty closely. You know the plot: A special forces team led by Alan "Dutch" Schaefer dressed in hot pink go on a mission to rescue hostages in Central America. They are hunted by piranha balloons, plants that spit fireballs, Lolos or Shy Guys, chickens with skull masks, giant bacteria, Metroids, and birds that crap blood. 
+
