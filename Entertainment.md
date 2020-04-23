@@ -36,6 +36,45 @@ Masterpieces
 
 # TV #
 
+Some great shows you might not know about:
+
+1. Travelers
+2. Roswell
+3. Disenchantment
+4. Glow
+5. Legends of Tomorrow
+6. Sense8
+7. Dark Matter
+8. Frequency
+9. Another Life
+
+More popular shows that I like:
+
+1. Star Trek (all of them for various reasons)
+2. X Files
+3. Stranger Things
+4. Supernatural
+
+Shows I'd like to watch someday in full:
+
+1. The office (American)
+2. Arrested Development
+3. The Witcher
+4. Lost in Space
+5. Altered Carbon
+6. Black Mirror
+7. Spectral
+8. 
+
+Cool Movies you might not know about:
+
+1. Snowpiercer (super dark futuristic action movie with Captain America)
+2. Freaks
+3. Mr. Right (hilarious hitman movie)
+4. The Accountant (cool hitman movie about autism)
+
+
+
 ## X Files ##
 * 1x2 Super Young Seth Green!  
 * 3x12 "I dont know if you know anything about UFOs but ..." stranger speaking to Mulder haha
@@ -223,6 +262,8 @@ Preacher on dead zone 5x4 37:00
 - At 1:38 the Freebirds promo has Samoan swat team Eating each other in the front haha
 - At 2:23 Flairs piledrivers are weak and seem sloppy and like they could cause injury
 
+* 1992 Royal Rumble 4-22-2020 I've watched this before when Cristi said she liked Kerri von Erich so we looked him up and found this rumble.  I loved the cheesy solo promos before the rumble especially by repo man but all of them were great.  I realized that the Legion of Doom entrance is the same as the chorus to Def Leppards Women song (Proud of that realization).  Heenan says some really funny stuff.  Its cute that Monsoon keeps telling Heenan that "No one in the history of the royal rumble has ever drawn numbers one through five and been there at the end" its cute because this is only the 5th one ever haha.  Theres hardly any history to draw upon :)  Greg the hammer put the Flair Figure 4 on Ric Flair!!!  Its cool because this is a perfect example of people I knew from back in the day.  I knew almost everyone in this show.  I loved the bushwhackers today they are so much fun and I love their arm motion.  Whoa repo actually eliminated someone.  You know whats kind of weird is these guys had a huge influence on me in my childhood and I knew many of their names and faces and looks, but I dont remember watching much of this.  I dont remember watching any on a regular basis for sure.  I just remember occasionlaly stumbling upon it in the morning or the evening of a weekend or something.  I suspect I knew them from commercials during transformers or something.  Maybe ads for the thumb wrestlers or the dolls or something.  OMG Macho jumped over the ropes to keep attacking the snake! Mustafa was one of Hussein's generals?  Haha thats awesome!  After the rumble Mean Gene has to interrupt the interview to tell someone "Put that cigarette out!" haha
+* Funny: Somehow I found [this classic sell of a ref getting hit and bouncing down the ropes brilliantly](https://www.barstoolsports.com/blog/1425344/this-referees-sell-of-a-rowdy-roddy-piper-punch-is-my-favorite-thing-ive-ever-seen) lol 
 
 # Quotes from TV & Movies #
 * Travelers
