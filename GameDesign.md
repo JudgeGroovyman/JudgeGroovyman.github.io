@@ -1,4 +1,5 @@
 
+
 # Learned from Amiga games
 
 Back in the day they thought that making home games should be like making games for the arcade at home.  They thought people would want the exact arcade experience at home.  And they thought that people wanted the games to be hard to give them a challenge.  To some degree they were right about all this but in the name of making games hard and in the name of faithfully bringing arcade games into the home publishers and developers regularly committed some cardinal sins some of which I have identified and will list here:
@@ -98,6 +99,13 @@ From the Bards Tale GDc talk at the end
 
 ## Designing games from Chris Natsuume ##
 "I don't know much, but I know this: When you make a video game, you're gonna rebuild the tutorial about 30 times. If you are lucky."
+
+3. Approx 20 different things in a level make it interesting but not too diverse (Thats what I learned from Chris)
+
+See his youtube series
+See his AMAs
+See his podcast
+
 
 # Making games #
 

@@ -23,9 +23,8 @@ just change the name of python.exe in python3.8 to python3.exe
 
 or to use python 3 or 2 you can use this as step 4
 
-1. virtualenv -p /usr/local/bin/python2 venv
-
-
+1. virtualenv -p /usr/bin/python2 venv
+1. virtualenv -p /usr/bin/python3 venv
 
 https://www.alexkras.com/how-to-use-virtualenv-in-python-to-install-packages-locally/
 

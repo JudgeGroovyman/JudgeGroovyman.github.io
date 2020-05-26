@@ -672,9 +672,39 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
   - The hidden rooms On the ship were cooL
   - The dining room was cool
   - I liked it a lot and had a memorable experience
-
+* Dungeon Warfare 5-10-2020 I bought this on iphone the other day for like $2.99 on Matei's recommendation (though he implied it would be no good on iphone) but damn this is an amazing game!  I think I will be able to beat it!  5-13-2020 I just got 1.5mil XP on one endless mode.  Its great fun even though I dont typically love strategy games I have really enjoyed tower defense games in the past and this one really hit home for me.
+* Volgarr the Viking 5-22-2020 I beat the first checkpoint of Volgarr the Viking today!.  its stupid hard and you know what ... it DOESNT LET YOU SAVE!?!?!?!  Apparently since I looked at the forums you can skip levels you've beaten before at least.  The checkpoints are really far away from one another.  But strangely since you have unlimited continues at checkpoints I really didnt feel cheated or frustrated.  It is super satisfying to play and they justify it by saying that the satisfaction you will get is enormous by beating it.  Now They also say this game you will remember the layout of the levels more than most any other game and I think they are right, but there is a fine line because some games like 3d games with huge sprawling levels I may remember them sometimes but only because they were simple shapes or because the level was incredibly too hard.  Otherwise though you just speed through games like that and people dont appreciate the work that went into your levels.  I like the idea of making it satisfyingly hard but also like the idea of letting people progress and not holding them back.  I think they should have documented the level skip in the tutorial and if so I think I would have given a thumbs up to this being a great example of a super difficult game with a great continue structure.  If it had limited lives I absolutely would have returned it. Update: Later today I beat the first level!  So proud!  So Satisfying!  And believe it or not they actually did document that level skip int he tutorial!  They just put it at the end of the level so you would only know about the trick once you beat the first level.  Its a magical game actually.  I'm very happy about it.  oh and you have to beat the first boss after beating the second harder half of the whole level (there are like 3 parts that I still dont have down to a science yet) the first boss is huge and incredible looking and the designers intentionally made the bosses and the screen after you beat the
 
 # Lists of Games #
+
+## NES Games ##
+1. Wizards & Warriors
+2. Wizards & Warriors 2
+3. Super Mario 2
+4. Super Mario 3 
+5. Teenage Mutant Ninja Turtles
+6. Zelda 2
+7. Rygar
+8. Dragon Warrior
+9. Double Dragon 2 The Revenge
+10. Castlevania
+11. Contra
+
+Interesting Lesser Known Games
+
+8. Mr. Gimmick
+9. Kickle Cubicle
+10. Lolo 1,2,3
+12. Felix The Cat
+13. Amagon (super quirky and tough)
+16. Rollerball
+17. Snake Rattle & Roll
+18. Faxanadu
+
+1. Rygar, Amagon, Wizards & Warriors (quirky and tough) (Amagon is kind of buggy)
+2. Dragon Warrior 1 & 4 are cool
+3. Castlevania & Contra & Teenage Mutant Ninja Turtles
+
 
 ## Some of the best games ever ##
 
