@@ -477,7 +477,337 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 * Soul Calibur VI - 2/1/2020 - I love this so much.  the music is amazing and even goes into a hobbiton kind of song when you go into a town.  I love the adventure mode and the character creation and all of the different quests and stories you get in this mode. played 3 hrs last night and 1.5 today.  Its so fun and cool.  I got into a match that was 15 levels over mine (45-30) and it took probably 15 min but I finally won and learned some new skills on the way.  Its so good.  haha Azwel said "How dare you interrupt me mid-monologue".  This game does a fantastic job of training you on the major combat features by putting you in different scenarios where the only way out is to learn it enough to beat an opponent who without that technique is impossibel to beat.  I spent like 10 tries on Ivy before I got good enough at anticipating her moves (shes got some mean combos that keep you far away and take down your soul meter).  Thej ending to the story is cool and doesn't jsut dump you into the credits.  I like that there is some dialogue after the final boss battle. 
 
 
+# With Cristi #
+* Temtem
+* Portal 2
+* Rocksmith
+* Orbus VR
+* Spyro
+* Serious Sam 3
+* Crash Bandicute
+* Carnival Games VR
+* Jurassic World Evolution
+* No Mans Sky
+* Try Serious Sam 5 times every so often
+* Cloudlands
+* Seeking Dawn
+* Arizona Sunshine
+
+# With Tom #
+* Rocket League
+* Skyrim
+* Rec Room
+* Bridge Crew
+* That Strategy Board Game
+
+
 # Lists of Games #
+
+
+
+
+
+
+-----------------------------------
+## Most Exciting Games May 28 2020 ##
+Track these on one of those websites (the backloggery, rf generation, HLTB)
+Look at Wishlist and Humble Bundle and Games on Desktop
+
+These are the games that get my blood pumping
+* Volgarr the Viking
+* Doom Eternal
+
+Want to start and then finish
+* Psychonauts
+* Shovel Knight 3DS
+* Warhammer: Vermintide 2
+* Spelunky
+
+Stories
+* Bastion
+* Bioshock Infinite
+
+VR Stories
+* Half Life Alyx
+* Half Life VR
+
+Wheel
+* Burnout Paradise
+ 
+Finish by playing a bit every day
+
+Want to finish
+* Red Faction
+* Xion VR
+* Portal
+* Master Spy
+
+Future
+* Monster Boy and the Cursed Kingdom
+* Serious Sam 4
+* Tesla vs Lovecraft
+* Serious Sam Tormental
+
+
+
+
+
+
+-----------------------------------
+### Working On ###
+
+Working on regularly
+* Sonic the Hedgehog 3DS
+* Mario 3D Land 3DS
+* Dungeon Warfare iOS
+* Wonder Boy: The Dragon's Trap Mac
+
+Would like to work on regularly (not a chore)
+* Lone Echo
+* Redout: Enhanced Edition
+
+Less of a chore - just a hard part
+* Blasters of the Universe
+* Serious Sam 2 VR (with online)
+* Doom VFR
+* Professor Layton 3DS
+* Kid Icarus 3DS
+
+Games that are a bit of a chore to beat at the moment but will be satisfying to beat so play a bit every day or two
+* Mutant Storm Reloaded
+* Hamsterball
+* Crypt of the Necro Dancer
+* Space Channel 5: Part 2
+* Superhot VR
+* Doom VFR
+* Ultrawings
+* Chaos Engine
+
+
+
+
+
+
+
+-----------------------------------
+### Less Exciting ###
+
+Less Exciting
+* Bit Trip Saga 3DS
+* Sonic Generations 3DS
+* Luigi's Mansion 3DS
+* Starfox 64 3DS
+
+Very Promising
+* Zone of the Enders the 2nd Runner VR
+* Sonic Mania
+* VR Kanojo
+* Before We Leave
+* Hellbound
+* Serious Sam Double D XXL
+* <See list of VR Platform Games>
+* Cuphead
+* Enter the Gungeon
+* Road Redemption
+
+Promising
+* Flatout 2 (Wheel)
+* Sonic Generations PC
+* Super Crate Box
+* Deep Space Waifu (Series)
+* Rise of the Tomb Raider
+* Castle of Illusion
+* Metal Gear Rising: Revengeance
+* Hard Reset Redux
+* Metro 2033
+* Portal
+* Vanquish
+* Doom 2016
+* Yooka Laylee VR (use walkthroughs)
+* Metal Gear Solid V: The Phantom Pain
+* Half Life 2 VR
+* Doom 3 VR
+* GTA V VR
+* Quake 1 VR
+* BioShock
+* BioShock 2
+* Flatout 4
+* F.E.A.R 2: Project Origin
+* Castlevania: Lords of Shadow - Mirror of Fate HD
+* NiGHTS into Dreams
+
+Wishlist Most Promising
+* Pistol Whip
+* Islanders
+* Hypnospace Outlaw
+* Space Dragon
+* Gris
+* Blazing Chrome
+* Boiling Bolt
+* Sprint Vector VR
+* Jet Island
+* Katana Zero
+* Distance
+* Streets of Rogue
+* Climbey
+
+Big and dont own but promising
+* Amid Evil
+* Dusk
+* Ion Fury
+* Wolfenstein II: The New Colossus
+
+New but also promising
+* Run of Mydan
+* Owlboy
+* Little Nightmares
+* Scanner Sombre
+* A Plague Tale: Innocence
+* The Blu
+* Neverbound
+* Block Smashers
+* To The Top
+* The Town of Light
+* AER Memories of Old
+* Girlfriend Rescue
+* <Everything in Noobs Unknown on Steam>
+
+
+
+
+
+
+-----------------------------------
+### Specifics ###
+
+Entire Categories of their own
+* Dolphin VR
+* VorpX
+* Doom Mods VR and non
+* Quake Mods VR and non
+* Nvidia 3D Vision
+* Logitech G920
+* All of the games in Games To Consider bookmark
+
+Games that will take some practice and study to learn
+* Asseto Corsa (Shifting and racing like that)
+* DiRT Rally VR
+* Project CARS 2 
+* Hostile Waters: Anateus Rising
+* Skyrim VR with Mods
+
+Games that could go on forever
+* Diablo 3
+* Star Trek: Bridge Crew
+* Destiny 2
+* ----------
+* Space Engine
+* Cities Skylines
+* Rec Room Quests
+* Subnautica
+* Ark: Survival Evolved
+* Lord of the Rings Online
+* World of Warcraft
+
+Would like to make a game in
+* Francois older Tool
+* Francois new Tool
+* Smile Game builder (own)
+* Unreal
+* Javascript
+* Pygame
+* Defold
+* App Game Kit (own)
+* 001 Game creator (own)
+* RPG Maker (own)
+* Game guru (own)
+* Leadwerks Game Engine (own)
+
+
+
+
+
+
+
+-----------------------------------
+### Again ###
+
+Might like to play again
+* Alien Breed series
+* Bloodstained Curse of the Moon
+* Bloody Zombies
+* Bloodstained Ritual of the Night
+
+
+Great VR that I can play a bit every day
+* Compound
+* Viral EX
+* -----
+* Duo
+* VR Table Tennis
+* Thumper
+* Rez Infinite
+* Trackmania Turbo
+* Everspace
+* AirMech Command
+* Talos Principle VR
+* Transpose
+
+
+Great Active VR that I can play over and over
+* Beat Saber
+* In Death
+* -----
+* Echo Arena
+* Space Pirate Trainer
+* Knockout League
+* Serious Sam The Last Hope (100%)
+* Holopoint VR
+* QuiVR
+* Vanishing Realms
+
+
+Great pancake that I can play over and over
+* Spheres of Chaos
+* Mortal Kombat X
+* Refunct
+* Floating Point
+* Nex Machina
+* Bad Ass Babes
+* Dead or Alive V
+* Street Fighter IV
+* Street Fighter V
+* Quake Champions
+* Quake Live with 
+* Quake Dark Places online
+
+Stories that I can play again
+* Red Faction 2
+* The Signal from Tolva
+* Hellblade: Senua's Sacrifice VR
+
+Would like to play with VorpX or Nvidia 3D
+* Grow Up
+* Bad Ass Babes
+* Refunct
+
+
+### Games I could sell ###
+* Kirby 3DS
+* Zelda 3DS
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Some of the best games ever ##
 
