@@ -37,6 +37,7 @@ I'm not a player of electric hollow body guitars or acoustic guitars (not that I
 32. Vintage Fender [$975 Fender Lead III 1981 HH Hardtail](https://dallas.craigslist.org/dal/msg/d/dallas-american-fender-1981-lead-iii/7079977722.html) I love that fender.  I suspect its heavy but if it isn't then thats nearly a dream guitar of mine. 
 33. Yamaha Pacifica [$265 White Hardtail HH Strat stb](https://dallas.craigslist.org/dal/msg/d/dallas-deluxe-yamaha-pacifica/7074387193.html) Classic and so solid. 
 34. Dean Evo [$300 for a beautiful Tiger Quilt](https://dallas.craigslist.org/dal/msg/d/dallas-dean-select-special-lp-quilt-top/7073877751.html)
+35. D'Angelico [$500 Blue Les Paul like guitar with bad ass headstock](https://reverb.com/item/23094886-d-angelico-premier-series-sd-solid-body-electric-guitar-trans-blue)
 
 # Favorites #
 ## Affordable ##
@@ -132,8 +133,17 @@ https://www.amazon.com/ESP-EC10-Electric-Guitar-Blue/dp/B01MYC3D2P)  Basswood, h
 # Shopping Mar 6 2020 #
 ## Amps ##
 1. [$480 Mesa Transatlantic](https://dallas.craigslist.org/mdf/msg/d/lewisville-mesa-boogie-transatlantic-ta/7080082074.html) Local near Denton.  Perfect for Reactive Load + Cab Sim.
-##  ##
+
 
 
 # Shopping Mar 7 2020 #
-1. [$69 for Hotone Freeze B Nano Legacy Amp](https://www.walmart.com/ip/Freeze-B/391750386?wmlspartner=wlpa&selectedSellerId=1232&adid=22222222227162824969&wl0=&wl1=g&wl2=c&wl3=277782348125&wl4=pla-517127298687&wl5=9027261&wl6=&wl7=&wl8=&wl9=pla&wl10=112549935&wl11=online&wl12=391750386&veh=sem&gclid=Cj0KCQjw0pfzBRCOARIsANi0g0t1YJFc49nPIKagFtPDNTuMOvbOPHvZ12D2r0xnD8KOngUKSOFhpnkaAqMUEALw_wcB)
+1. [$69 for Hotone Freeze B Nano Legacy Amp](https://www.walmart.com/ip/Freeze-B/391750386)  Geez
+
+# Shopping Mar 13 2020 #
+1. [$56 Zoom G2U](https://reverb.com/item/29592367-zoom-g1u)
+	1. [$50 for the Roland DP10 expression pedal]
+2. [$80 Korg AX30G](https://reverb.com/item/30927296-korg-toneworks-ax30g)
+3. Buy some stereo 1/4" to mono 1/4" cables for my zoom.  
+4. [$1049 Mesa Mark 5:25](https://reverb.com/item/32713456-mesa-boogie-mark-five-25-2-channel-25-watt-guitar-amp-head)
+5. [$80 Peavey Pirahna local](https://dallas.craigslist.org/mdf/msg/d/mansfield-peavey-pirahna-head/7077136395.html)
+

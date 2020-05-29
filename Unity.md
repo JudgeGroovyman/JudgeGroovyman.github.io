@@ -1,5 +1,6 @@
 # Unity #
 
+
 # Competitors #
 * Love
 * Godot
@@ -8,6 +9,19 @@
 * Game Maker Studio - Community: toxic.  I even tried to argue in favor of it 'it cant be that bad' and I was assured that it was.  I own one version of this in humblebundle.
 * Amazons
 * RPG Maker - I own VX Ace and XP and a bunch of tile packs in humble bundle.
+
+## About Game Engines ## 
+About game engine or programming language maturity
+
+- From Reddit
+  - When you google a problem in Godot and it only shows the official documentation, you know it's not ready for serious development.
+  - On the other, google something for Unity or Unreal, and someone has had that problem before and there's a good chance that it's solved.
+- 1. Google gives you almost nothing or results from another language
+- 2. Google gives you results from the official documentation
+- 3. Google gives you results from people who have had the problem before but haven’t had much discussion or activity
+- 4. Google gives results from people who have had the problems and the community has solved them 
+- 5. They’ve solved them and given easy applicable solutions 
+
 
 ## More Obscure Competitors ##
 * [JLud2D](https://github.com/rafael-esper/JLud2D) this looks like a great tiled compatible way to make Sega Master System and Genesis style games.  Updated May 2018
@@ -81,10 +95,10 @@ The same kind of resources Coppercube gives you out of the box in Unity + Some u
 	* [$0 Simple Selection History Lite](https://assetstore.unity.com/packages/tools/utilities/simple-selection-history-lite-130881) which I got and its pretty good and does what it advertises (I left a positive review for this one its just so simple and good) or 
 	* [$0 History and Working Set Window](https://assetstore.unity.com/packages/tools/utilities/history-and-working-set-window-60202) which lets you drag prefabs in and you can even drag and drop from the window into your public inspector fields.  It was last updated Jul 2018 and it shows because there are a 8 warnings that show up when it is imported in Unity 2019.2.8f1.  Just select it from the window menu and the window pops up.  Its really just a simple favorites window and it works well.  It has a feature that some other similar tools don't have: You can drag from the favorites window into any inspector field which is a really smooth timesaver as opposed to clicking it and then having it be selected and then dragging from there.  you can put folders on there too.  There is one thing to know if you want to move the folder (I like to keep these kinds of things in a plugins folder) then you have to change a line of code.  Easy.  Its got some great shortcuts in its help menu too, you can easily drag and drop to reorder the items in the menu or even move items to the bottom by dragging to the right (which I think is a very clever and useful gesture).  Dragging to the left doesn't seem to work for some reason but is supposed to send to the top.  Middle click removes the item and ctrl+double click opens files in the windows explorer (thats a great shortcut).  All of this in about 30k. 
 		* Comments: Drag left doesn't work in 2019.2.8f1.  Shift + click on something like a folder generates a red error but should probably just be silent and do nothing (warning at worst).  Control double click works but only after you ctrl double click twice.   
-Possibly could use [Choose Your Own Inspector](https://assetstore.unity.com/packages/tools/utilities/choose-your-own-inspector-73126) which lets you add components from many different objects to a custom window and there are more
-* In Unity Script Editors - This can dramatically speed up workflows.  $40 [Script Inspector 3](https://assetstore.unity.com/packages/tools/visual-scripting/script-inspector-3-3535)
-then Hidden in this cool [$15 power inspector - Oct 25 2019](https://assetstore.unity.com/packages/tools/utilities/power-inspector-140430) package is an in-unity editor.
+* Possibly could use [Choose Your Own Inspector](https://assetstore.unity.com/packages/tools/utilities/choose-your-own-inspector-73126) which lets you add components from many different objects to a custom window and there are more
+* In Unity Script Editors - This can dramatically speed up workflows.  $40 [Script Inspector 3](https://assetstore.unity.com/packages/tools/visual-scripting/script-inspector-3-3535) then Hidden in this cool [$15 power inspector - Oct 25 2019](https://assetstore.unity.com/packages/tools/utilities/power-inspector-140430) package is an in-unity editor.
 * Easily add a button to execute a routine in your script with [$10 Inspector Gadgets](https://assetstore.unity.com/packages/tools/gui/inspector-gadgets-pro-83013) or with the [$0 Button Inspector](https://assetstore.unity.com/packages/tools/utilities/buttoninspector-72858) which I tried and it works great.  You just have to write two lines of code for every button you want so its extremely easy to use.  It isn't trying to be a complicated inspector replacement which means it just does one thing and it does that well: Effortlessly add a button to the inspector that calls one of your public methods.  Previously if you know the code like I do adding a button was a several minute boilerplate editor code job, and theres still a place for using editor scripts to make your own custom inspector when you want to do more interesting things than just call a method, but when all you want to do is call a method then theres nothing simpler than this. Its perfect.  I confirmed that it works perfectly in Unity 2019.2.8f1.  
+* Snapping To surfaces while dragging in the center using translate hold shift and control (command on Mac) to snap to the intersection of any collider and for Rotations: hold same combo to rotate the object towards a point on the surface of any collider which is a good way to make objects orient towards one another
 
 # Investigate #
 * .CSX files and Roslyn (with https://assetstore.unity.com/packages/tools/visual-scripting/ucodeeditor-117349)

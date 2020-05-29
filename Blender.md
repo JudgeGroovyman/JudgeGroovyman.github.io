@@ -79,3 +79,23 @@ Detailed at about 15:00 in this
 
 ## Bevel Corners ##
 To make any model look kind of worn: Add Bevel modifier.  Width .01m, check only vertices.  Switch width to .03m or .04m for a different more circular and unique look.  Update: this leaves little tiny holes in the mesh.  
+
+# Fiji #
+Scientific image manipulation
+
+If you want to make a black and white image into greyscale with smooth transitions between black and white:
+
+1. Open it in Fiji (not in binary mode needs to be in 8bit)
+2. Image->Scale  2x2 Bilinear interpolation
+
+If you want to make a gradient of pyramids or triangles
+
+1. Open a black and white checkerboard in Fiji
+2. Process->Binary->Make Binary
+3. Process->Binary->DistanceMap
+4. then use the scale above to smooth it out even more
+
+To get outlines of squares in black and white
+1. Open a black and white checkerboard in Fiji
+2. Process->Binary->Make Binary
+3. Process->Binary->Outline

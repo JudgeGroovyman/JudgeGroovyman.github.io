@@ -313,3 +313,48 @@ Here are some of the elements that the doom engine and its surrounding ecosystem
 * Put your name at the bottom and the publisher at the top
 * like in Dunk Hoop
 
+# Inbox #
+For game design markdown
+
+A strong designer can work in any box
+
+- Add to my blog
+  - https://reddit.com/r/programming/comments/88a8b5/awesome_list_of_important_podcasts_for_software/
+- Game Design From Zelda
+  - 
+  - Game design from Zelda 2
+    - Name everything with creative names (all enemies, each enemies weapons, enemies of different strengths get suffixes or additional adjectives, power ups, bosses, towns, mountain ranges, castles, bridges, canyons) and document all of the enemies in the game somehow maybe on the title or attract screen if you wait too long.  Maybe it only shows you the ones you have unlocked.
+    - Make a simple pattern of progression such as: explore the area you can easily get to, find the boundaries of it, find the town, heal, recharge magic, someone there will give you a clue and ask you to do a favor, go do that quest, reward is to get to talk to wise man who gives you magic, one castle in each area.  In the castle is an important item and a boss.  The boss gives you much experience, the item let’s you mechanically progress to the next area, also let’s you access secrets in the previous areas, also gives you shortcuts from the starting area to the area you are in (like the hammer or candle)
+    - Enumerate how everything works: does it give exp, take away exp, how many hit points, etc. basically do all of the analysis work that Zelda dungeon has done for the player.  This gives the player a way to get deeper into the game.  Maybe don’t do all of that but do make sure it is clear to you so it can be done by players
+    - Expect them to make a simple map on paper and write down any clues they found and where they found them
+    - No instant death pits.  (Metroid didn’t have any instant death)
+    - All upgrades are persistent (including extra lives - not many of those hidden around)
+    - Important secrets (lives and life and magic blocks) for exploring every spot on the map, or for solving puzzles by following clues (one clue for one of these per town - not a quest just a clue), less important secrets (experience p bags, life and magic refills) in secret areas that you find non intuitively (like where you can walk into mountains or walls where usually you can’t)
+    - No knock back!
+    - Enemies do not respawn until you leave the area or building 
+  - Game Design from Zelda
+    - Every important secret has two clues somewhere in the world
+    - Every bonus secret is hidden and has no clues (except perhaps a giveaway at the location of the secret) but rewards exploration and experimentation by handing out non essential but useful items
+    - Nothing essential is hidden secretly
+    - Two types of enemies: easy (brown) and hard (blue).  
+    - Just a few different simple landscape props with dimension and palette swaps
+    - Simple rounded blocks
+    - Just a few PBR textures
+    - If you beat it then you can beat the second quest in the same map which is kind of a remix game
+- You WIN a the game all the way no matter how you performed
+  - But then if you beat it really well then you unlock a bonus insanity or obsession or binge realm
+  - Everyone needs to be able to say that they won it
+    - Maybe even 99 lives to make it have some consequences and a motivation to perform
+    - But 99 lives even if you run out you will know it wasn’t because the game was unfair
+  - Not everyone needs to be able to say that the 100% it
+  - “Psychologically, challenge is important for catharsis.  Victory is sweeter when there’s a clear and looming presence of failure.”
+- A really good design should bring with it a moment of immense satisfaction in which everything falls into place, and you’re amazed at how little code is needed and how all the boundary cases just work properly.
+- Making a menu system
+  - I’ve already got one in beldevere
+  - I’m afraid to extract it out ... it would be a lot of work!?!
+  - Maybe not as much as I think?
+- To make a tutorial
+  - Show don’t tell
+  - Give them an opportunity to learn each mechanic in a safe environment with a safety net where if they mess it up they can easily try again without penalty and then and only then give them the same mechanic without the safety net
+  - Like in nitro rads video about sm3dworld at 12:00
+  - 

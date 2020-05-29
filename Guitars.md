@@ -119,8 +119,9 @@ Heres a video about great guitars like this [Great Non-Gibson Gibsons](https://w
 12. Skervesen
 13. Bailey
 14. Kiesel
+16. Prestige
 
-I don't know a lot about these in fact the only one I've played with my own hands is Warrior (I think!?!) but they are generally highly regarded and many of their guitars look and sound amazing!  I am unlikely to buy one of these personally unless I find a specific reason to.
+I don't know a lot about most of these in fact the only one I've played with my own hands is Warrior (I think!?!) but they are generally highly regarded and many of their guitars look and sound amazing!  I am unlikely to buy one of these personally unless I find a specific reason to.
 
 Of course many Paul Reed Smith, Gibson, and Fender models could also be considered Boutique.  In fact most brands have a boutique range.  Some (ESP and Schecter for example) have high end Japanese ranges and Schecter even has a higher end USA custom shop.
 
@@ -486,7 +487,9 @@ Some part of me would like to have all of these but the baggage with having many
 - Simple Brown Hard wood hard Natural finish like Peavey T-60 or T-15.  Its like you can't really hurt these.  
 - Ibanez S series - Ocean Fade, Iron Label Blue Space Burst, anything called Cerulean Burst
 - Anything that looks like the ocean  like the Dean Oceanburst (Satin Neck )
--
+- Dean exile satin blue burst
+- Guitar finish that blue striped Unfinished les Paul from a few years  ago
+- Dean select ocean burst quilt v
 
 
 

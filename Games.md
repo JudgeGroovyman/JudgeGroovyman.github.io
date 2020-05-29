@@ -445,15 +445,22 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 	* Update 30min later:  So admittedly I've had some gin and typing is hard, but I'm on the forest level and its much more difficult than the last.  I haven't been able to beat it on one continue and I've tried 5 times now.  Its a really fun game though so its ok.  I've revised my feelings about it somewhat, but it could have been clearer about its intentions with me and my feelings.  It could have announced that it was going to fuck with my feelings and make me feel not so powerful.  I'm playing with inifinite ammo and I dont honestly see how I could beat it with finite ammo regardless of continues.  Ok I finally beat it using 3 continues
 	* Already played it for 100 minutes so I'm almost up to the 2h limit for returns.  I dont think I'll return it since its been decent fun so far, but its so close to wonderfulness that its sad.  I don't know if I'll ever beat it unless I just use unlimited continues.  I don't think I'll ever see the final boss. :( 
 	* Next day.  I tried the genesis version and its no better.  On emulators you can save state which would seem like that would fix it but no it really doesn't because beating the first boss without using any continues is incredibly difficult and in this one there are no options for unlimited continues so I just spent 20 min trying to beat that one boss without using a continue to no avail.  
-* Warhammer: Vermintide 2 - The combat is amazing!  I had a ton of fun adventuring to escape some skaven base.  The amount of backstory and canon in this game and in their universe is staggering. This is a lot of fun. I think its on sale?   
+* Warhammer: Vermintide 2 - The combat is amazing!  I had a ton of fun adventuring to escape some skaven base.  The amount of backstory and canon in this game and in their universe is staggering. This is a lot of fun. I think its on sale?    Update: Played it at Trey's LAN Party and it was a complete blast!
 * Lego Jurassic World - Wow the PC controls are broken as hell.  It is a chore and nightmare to move the players around.  It is advertised in the manual that you can use keyboard and mouse but no it wont let you use the mouse at all even to select menu items.  Its absurd.  Further in the process of trying to switch to gamepad I activated the second player and couldnt deactivate.  Further and the nail in the coffin is the saves are way too far apart and this was something I remember from some of the other games too.  
 * Red Faction 2 -  5.1hrs on record in Steam. Short and sweet just how I like it.   Heres the review I posted on Steam in its entirety: "This is a great game and I had a blast playing it in 2019.  To address the mixed reviews I think I understand what is going on here. When you hold this title up against its predecessor there are some things missing from this title which I think warrant some peoples complaints namely: there's not much of the game that is destructible which is sorely missed since it was such a huge aspect of the first game, and its shorter than the first game (it was a perfect length imho but to each his own). Those are valid complaints when you compare it with the first game and I guess I just wish they had named it something other than Red Faction because when you look at the game without comparing it to its predecessor its great! What you get in place of those aspects that are missing is a more exciting action packed game with more interesting NPCs, great voice acting (the great actor Jason Statham voices one of the characters!), excellent vehicle levels to add variety and interesting boss fights. The story had twists and turns which kept it interesting all the way through. This whole game was cinematic. The gunplay is excellent. All of the weapons feel appropriately powerful and make a big impact which makes the basic shooting in the game (which is the core of the gameplay) feel fantastic. Its a joy to play and I had a blast. I played it in 4k with max settings and it looked better than I expected it to tbh." 
 * Red Faction 1 - Well I played about half way through but theres a game breaking bug!  You can't enter the submarine at all.  It falls and crashes because the overhead release is on a frame count timer not a real time timer.  Apparently the open source Red Faction engine can play it and would let me finish.  I think I would like to because it was so good bitd and I had so much fun playing the first few hours.  
 * Gauntlet Slayer Edition 12/18/19 - I beat this today!  I first played it a few months ago and it took me a while to get into but once I figured out the elf and the controls I've been having lots of fun.  I beat it on Easy.  Continue structure is perfect.  You can replay any level and you have to unlock the next levels by beating one of the current levels.  When you die you have to wait a few seconds and then you can respawn in exactly the same location (at least on easy mode) the elf is a dual stick shooter and I had a blast. 
 * Hellbound Demo - 12/18/19 - I've played for 53 minutes and in my last game I beat it in 16 minutes (par was <2 but thats ok) and I loved it.  Its the same formula as doom but with updated graphics and shooting that are wonderful and with a really interesting map.  Interesting to me in the perfect way: finding keys finding the best way to come at the enemies to get the drop on them and not have them overwhelm you and unlocking doors to find the exit.  I loved it.  
 * Project Warlock Arctic Attack - 12/18/19 - I liked this ok but I feel like I am supposed to like it more.  I loved the great retro look and feel.  it felt big and scary and intense and interesting, but having just played hellbound I dont know ...I'm not done and plan to play it some more and wouldn't be ashamed to buy the full version.
-* Out Run 3D 3DS - 12/26/19 - This is really good. the controls are great and well mapped and I dont feel cheated by them.  I think I'm doing something wrong though because I am not making any big mistakes and still can't beat the second leg.  I get close every time.  I'll keep trying.  The 3d is fantastic.  I can't tell whether the continue structure is good here because it seems like you can select your leg but I don't see that working unfortunatley so that may just be for fastest times on that leg.  
-* Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic!
+* Out Run 3D 3DS - 12/26/19 - This is really good. the controls are great and well mapped and I dont feel cheated by them.  I think I'm doing something wrong though because I am not making any big mistakes and still can't beat the second leg.  I get close every time.  I'll keep trying.  The 3d is fantastic.  I can't tell whether the continue structure is good here because it seems like you can select your leg but I don't see that working unfortunatley so that may just be for fastest times on that leg.  This is really cool.  You can change the settings to make it pretty easy.  Now I can just tap the brakes and beat it in a few minutes with ending A
+  - I love the 3D and smooth sprite scaling and cool environments.  This is one of the best racing games ever.  
+  - Splash wave!
+  - It seems to have an upgrade system of some sort which compels you to play it and beat it even at the easier levels
+  - Today 3-5-2020 I beat it on Two star difficulty and got the second ending where the car falls apart 
+* Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic! 2-28-2020  - Not only is the 3D fantastic but the quality of life features are top notch.  Adjustable lives and difficulty, level select, save and load, replay save, saved high scores.  It’s really great!
+  - It’s also got music playback in the menus which is great because the music is great
+
+# 2020 Games #
 * Mickey Mouse Land of Illusion Game Gear 1/8/2020 - I got to the second or third level, its cool that theres an overworld map and its got a good continue structure with apparently unlimited continues.  On tihs level theres a bunch of clunky underwater controls and its prety unforgiving and makes it not too much fun.  I was hopingto have more fun with it and its not too hard and I know I could beat it I'm just not motivated.  I think it would have been great bitd.  
 * Devilish GG 1/8/2020 - This is a weird game with breakout controls.  I dont like it but I did have a game on DS called Class Action Devilish I think and I made some decent progress in that one.
 * Double Dragon GG 1/8/2020 - Well this is so weird, its nothing like any of the other versions you can move up and down but its real clunky and its sort of more like a side scrolling platformer.  Its weird and not that fun but it might have been plenty of fun bitd.
@@ -475,6 +482,196 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 * Doom the Way Id DId DTWID - Therea re a lot of good maps here probably slightly better than d2 imho.  e3m7 is a  masterpiece imho.
 * Hard Reset - 1/17/2020 - I just started this game and I love it. The shooting and graphics are really satisfying and exciting and the enemies are scary.  I actually love the graphics.  I like that there are upgrades and that you are encouraged to use the environment to destroy your enemies.  I like that there are fair checkpoints.  The mouse user interfaces on the in game computers actually work really well and I like the puzzles which so far are just right for me.   They don't have me looking all over for a long time but are also non-obvious.  Its cute how since you cant crouch in the game they cover impassible gates with half a grate on the top half so it would physically be easy to crawl under but you know in the game you can't.  I really like this game.  I encountered a bug in the parking garage where I killed all enemies but the gate wouldn't open.  It took several tries to do it in the first place but I had to restart the checkpoint (by turning off the game) and then when I beat them again several tries later I was able to get through.  One thing I dont love is you can't play each level from any moment.  You can only continue from the checkpoint or restart the level you are on or just beat.  This is not a big deal but it would be nice to be able to go back somehow and retry each level.  If I were trying to get through a game using speedruns or get fastest scores or speed I would want that feature.   Wow I love the first huge boss the Atlas.  Hes so big and awesome and a fun battle.  As soon as I got to the second boss (the big crawly thing on buildings) gosh it got way harder.  Many encounters after seems to be harder too.  I spent like an hour on that boss, and the next major encounter is multi faceted and taking a really long time too.  The waves of enemies in this part aren't really matching the environment not giving me enough cover from these types of enemies.  Some of the enemies (specifically the flying ones) are not fun because its not clear when you have hit them and they dodge your shots, and its not clear how to even consistently hit them and they take way too many hits and theres no way to take real cover from them and not take damage.  11h later I beat it and this is a great game.  I loved it.  Beat it on 1/24/2020
 * Soul Calibur VI - 2/1/2020 - I love this so much.  the music is amazing and even goes into a hobbiton kind of song when you go into a town.  I love the adventure mode and the character creation and all of the different quests and stories you get in this mode. played 3 hrs last night and 1.5 today.  Its so fun and cool.  I got into a match that was 15 levels over mine (45-30) and it took probably 15 min but I finally won and learned some new skills on the way.  Its so good.  haha Azwel said "How dare you interrupt me mid-monologue".  This game does a fantastic job of training you on the major combat features by putting you in different scenarios where the only way out is to learn it enough to beat an opponent who without that technique is impossibel to beat.  I spent like 10 tries on Ivy before I got good enough at anticipating her moves (shes got some mean combos that keep you far away and take down your soul meter).  Thej ending to the story is cool and doesn't jsut dump you into the credits.  I like that there is some dialogue after the final boss battle. 
+
+* Kirby Planet Robobot 3-31-2020
+  - Stage 2 - the robot stuff here is so cool
+  - Stage 4 patched plains - the perspective at the beginning is so cool!
+  - This first clanky woods battle is really cool with several parts!
+  - 2-2 is a cool shmup ina. City with an absolutely awesome boss.  I would absolutely play a full game like this
+  - 2-4 is a cool casino background hey and it’s the cool 3D pool table level great fun catchy tunes
+  - 3-4 has a cool snowmen heads you have to fill with ice and amazing creamsicle ice cream swirl cones falling on you
+  - Overload ocean stage 5 has a really cool 3D background and foreground thing going up and down a lot which is awespme
+  - Gigabyte grounds 3 has a cool Rube Goldberg machines
+  - Gigabyte grounds 5 is a great shooter with great 3d
+  - 4-3 2020
+  - Rhythm route 2 - huge pool balls in the front layer
+  - Access ark 4 is awesome!  The environment is so damn cool
+  - The credits can be punched!  The whole final boss battles series is cool with great forgiving continue structure and let’s you load up on power ups before each boss if you die
+  - I beat it on 4/15/2020 and it’s really cool
+  - It unlocks a really cool speed run Survival mode called Meta knight mare mode which has a great bat mechanic that I love flapping those wings
+* Mario 3D land
+  - 2-4 has a Mario 1 theme even to the point that there’s and end sectionnthays awesome for 3D Mario 1
+  - 5-3 is like a Zelda dungeon with secrets and the Zelda sound and all
+  - 3-4 water level let’s you get a fireflpwer
+  - In 5-2 there’s a bonus room with a 1up near the top left and a fireflpwer below it some
+    - 5-2 has a cool place at the beginning where you can jump up and into the camera
+    - And a hidden fireflpwer at the beginning
+  - 5-4 is pretty good for 1ups and a fire flower
+  - 5-5 has a ton of 1ups in a stack of goombas
+  - 6-3 has a really cool piano level
+* Altered beast 3D classics 2-29-2020
+  - The 3D is fine
+  - There is local Wireless multiplayer!
+  - It should have more difficulty options.  It doesn’t even have unlimited continues which blows my mind
+  - At least it has save states
+  - I wonder if the non Japanese version is different with continues?
+  - 
+* Sonic 3DS 3D classics 2-29-2020
+  - There’s a built in level select which I think is wonderful
+  - Then there’s a save and load 
+  - And some great 3D options where it’s full 3D layers going in or popping out a bit and also an option to be flat but on an old school 3D curved CRT 
+  - I got through the third stage on just 2 lives including the boss!
+  - 4-11 I got through labyrinth zone on 3 lives but couldn’t beat the boss.  I could only hit him twice.  I bet there’s a strategy but so far I don’t like this boss 
+  - 4-19  I got through whole labyrinth zone on 3 lives in fact lost one and gained one so ended up with 3!
+  - 4-20 I got through labyrinth zone Again and then beat star light with 1 remaining
+  - Man this game is so damn cool.  I never owned a genesis as a kid but I thought it was the coolest damn thing It was super high tech making all these amazing 3D (appearing due to parallax) graphics and amazing beautiful sounds.  I thought the volume on the console was wicked so you could play in private and I thought the curves were out of this world.  It was so cool.  This was over before I knew anything about SNES (and before it was released)
+  - I rented sonic at least twice (which also meant I had to rent a genesis which I remember being $15 for the weekend)
+  - I remember not getting very far and getting pretty frustrated.  I think if I had really just played it a little bit every day I would have eventually beat it
+  - The last time I remember renting it I remember getting to world 2-1 but not getti much further.  That’s about as far as I typically got back in the day.  
+  - I never figured out how the chaos emeralds worked only once or twice ever got one didn’t know how to activate the bonus levels (for me it seemed totally random to get the big ring actually I think I thought you had to be moving fast when Th e level ended) I never got any good at the bonus levels and never realized that those emeralds were something worth collecting and I don’t know if I could have anyway.  Actually I’m not sure I ever got entirely though the border surrounding the chaos emeralds
+  - So I didn’t get many one ups from the bonus stages and in the regular stages I wanted to go really fast and felt like if I’m playing this game right I’ll be able to speed through each of the levels but I know now that’s not the case
+  - That’s also why level 2-1 puzzled me there’s no way to go fast
+  - If I had owned it or had more patience with it I could have beat it because now on 4-20 I got through labyrinth with 4 lives remaining and The next world all three levels and boss with 1 lives remaining
+  - I remember that last time I rented it something weird happened in my brain.  I found a trick in a magazine like start plus a or something when on the title screen and it sent me to a level select!  Today I have one on my 3DS built into the game but back then I didn’t know what to think of it.  I tried a few random levels and died quickly and finally I tried the final boss and it was really cool seei Ng the final boss but of course I died quickly several times and had to start over.  After thAt though ... I felt different about the game.  I felt like I had (inexplicably I know) seen or mastered the whole game or some feeling like that and I had much less desire to play it anymore.  There were two aspects as far as I could tell: 1.  Now I could play any part of the game all of the difficulty was removed (even though I hadn’t beaten all but like 4 it felt that way) and 2. I felt like I had pretty much beaten or unlocked or experienced all it had to offer.  It’s weird in hindsight but that was in my head and I still held it in high esteem but didn’t want to play it so much anymore. 
+  - In 2003 I played it again on DC or Xbox and remember thinking how stupid the 2nd world was how you couldn’t go fast at all. That’s kind of how I felt about the game until recently.
+  - Spring zone zone 3 has the best music in the game imho the second part of the music is so catchy and cool and interesting and fun.
+  -  the pinball parts In this game we’re so bad ass because they were better more fun momentary pinball action (the bouncing and sounds and stuff) than any other game I’d played outside of an actual pinball machine.  They made it feel super modern to me like a game within a game and I loved thay
+  - I remember one of the most stressful things in SMB was the situations where you had to perform the Difficult action perfect there was no way to get around it there was no safety net or backup plan.
+  -   In most situations in SMB there was a safety net at least in design because In most situations you can be in control of whether you are large and then if you get Hit you just go small.
+  - For most jumps it would be if You Jump too late you die but if you jump a bit too early that can be ok so you don’t have to perform perfect ther is wiggle room.  Or if you undershoot you die but if you overshoot You land safely
+  -   There were some big jumps that didn’t give you any safety net tho like on I think 8-2 or 4-3 where there’s a big leap where you have to run over a little gap and then land on a single block and then quickly jump again while still running.  It’s pretty easy for me now but bitd that was very difficult and scary because you knew that there was no way to get into that situation and not have to perform perfectly to beat it
+  - Well sonic has a lot more situations where you have to perform perfectly to beat them.  Instant kills and unforgiving jumps and movements.  You have to make the jump just right and if you don’t well not only do you have to backtrack but you are often hit or killed and sometimes thrown into lava or knocked back down a cliff
+  - Something I just noticed consciously but I think I knew subconsciously in the past is that in some ways the Mario games are faster.  No the character doesn’t actually move faster, but the levels are designed with generally less waiting and more left to right so you can run more than many of the sonic levels where you have to take it real slow and careful
+  - Sometimes like on 2-2 the checkpoint can be behind you or out of the normal path which I don’t feel like Mario does to you
+  - Also the bricks in the second world aren’t as beautiful of a sexy checkerboard they aren’t as clean or modern as the bricks on the first level
+  - As of 4-20 I’ve had this cart for about 4 yrs (since 2016 at the latest) and first played this game in 1990 but right now learning it and getting really good at it level by level with its beautiful sexy Ultra modern in 90s Graphics plus the incredible 3D parallax thay I love so much is one of the funnest and most satisfying gaming experiences of my life.  I’m loving it
+* New Super Mario 2
+  - I love this!
+  - One thing I don’t love is how it blurs when the 3D is deeper.  I understand why they did that and it’s a cool enough feature but I wish you could just turn it off.  I like to be able to focus on whatever i want at any depth and this doesn’t let me.  Yeah it’s more realistic but it’s less interesting to my eyes and brain and heart
+  - I don’t love how you have to beat a castle to save
+  - They give you lots of one up opportunities at least
+  - 1-4 has some cool ways to get one ups
+  - 2-4 there’s a pipe where you goomba jump for unlimited
+  - 2-midcastle great place for leaves
+* Kid Icarus Uprising 3D
+  - Wow here are some of the reasons why this is one of the best games ever made
+  - Adjustable difficulty every time you start a level With a transparent user interface to do so
+  - Amazing integrated tutorial
+  - Easy to replay levels
+  - Great full length game
+  - Amazing 3D graphics
+  - Great Unique controls Which work great
+  - Part of the game is like space harrier
+  - Amazing narration
+    - Great voice acting
+    - Teaches you things
+    - Breaks the fourth wall sometimes with pixelated jokes like the 3 headed dragon
+  - It plays a funny song when reapers see you that seems totally out of place but it’s from the NES game!
+  - Huge beast bosses
+  - Exciting flying
+  - Shows you direction to go in
+  - Hearkens to the old game with most of the same enemies and power ups and bosses and even the music 
+  - The bickering hydra heads are hilarious 
+  - The game has somewhat of a teen anime sense of humor
+  - I suck at this game.  The intensity slider has to be low or I die.  I still don’t know how to avoid the metroids while flying I’ve basically never avoided one.  There are lots of secrets I have no idea how to get. Like on level 3 or 4 there’s a pit that has a partial ring around it that looks like it needs to be rotated or something to get to the other side where there’s a treasure chest.  I can’t figure itnout
+  - Level 5 is a really cool futuristic low poly world with tons of voice acting character and some really brilliant And interesting level designs
+  - Chapter 6 has a great Spanish guitar song and a pretty large intricate level
+  - This game is a must buy if you have any interest in how cool the 3D can be on this system.  It’s the best example and it would be a great AAA game on any system even without the stereo
+  - Spoiler Alert One of these levels was like the final battle but then when I beat it the credits started rolling but then a worse boss interrupted them and the game started again :)
+  - On level 10 I got turned into a shrimp and eaten
+  - On 11 it’s a scary nuclear bomb!
+* 3D Gunstar Heroes
+  - It was so cheap at like $5.99 and so good
+  - I beat the first stage on my first try
+  - It’s forgiving the way I’ve got it set I set it easy mode and with double life I think
+  - I would have died without that double life but I wonder how far back I would go or how many lives I have.  I wonder about the continue structure
+  - The 3D is actually really great I’ve got it in pop out mode but it does take more eye adjusting than most of the games I’ve played on here 
+  - I think that makes it pop more but there’s a side border for both eyes that’s visible 
+  - I’ve gotten through most of the other levels without more than a couple retries and now I’m on probably stage 6 a horizontal shooter level
+  - The 3D parallax when you’re on the Spaceship is really cool and the rotating power station boss is awesome! This would have blown my mind if i ever could have gotten to it bitd 
+  - The last boss rush was tough but still only took me a few tries.  This mode is super fair.
+  - I’m really proud that I beat this game.  It’s so good
+  - The ending cinematic was fun and even slightly touching they included some emotion.  I loved it!
+  - I have no idea if I ever would have been able to beat this bitd. 
+  - It does seem to have unlimited continues and the final boss for example it starts you right there and even gives you a weapon upgrade 
+* About 3ds
+  - This is the first stereoscopic system and the tech is really cool!  It’s hard to imagine how it even works!  
+  - It is unique because it won’t be around forever and once the displays are dead they basically can’t be replaced.  You will still be able to play the games but in 2030 you’ll be able to play ps3 wii nds switch even NES but it’s not certain you’ll be able to play 3DS
+* BlasterMaster Zero 3DS
+  - Demo
+  - Not stereoscopic
+  - Area 1 and 3 available
+  - Seems to be unlimited lives and checkpoints everywhere
+  - Controls are tight and the game is just like NES!
+  - The music is epic and Deeply reminds me of playing NES games
+  - Weird thing about the colors is underground whether 2d or 3D when you’re moving the brown background blurs in such a way that the whole screen seems to go dark.  It’s distracting and disconcerting 
+  - The overhead areas are cool but I don’t think they could have been done on NES. They have parallax and are SNES worthy.  Update: the nes overhead areas looked amazing for the time with a huge character.  These look better but wow!  Nice work sunsoft!
+  - I beat the boss of area one!  This is a really fun game!  It took Only three tries and there was a checkpoint immediately before
+  - I got an upgrade to my gun!
+  - I like how the two modes control so differently
+  - It was cool that once I got my new weapon I could go to a few new sections of the same large map that I couldn’t get to before and that in face those weee the only places left to go really once the boss was beat
+  - Great game
+  - Not special on 3DS.  The steam version has some co op gameplay!  Wow the switch version has that feature too!!  Nice!  The co op is a crosshairs for the second player to shoot the enemies like operation wolf or something.  That’s really cool!  Or in boss mode it’s kind of pvp
+  - I had much fun with area 1 so I think I’ll play area 3 too.  (Update: no I didn’t end up enjoying 3 tonight anyway) I don’t know but I don’t think I’ll buy this but who knows it’s clearly fantastic and worth it :). I suspect I found this back when I was looking for Metroidvanias
+  - Apparently there’s a second game this one from 2017 and the new one from 2019 
+* Leander
+  - Amiga
+  - 4-6-2020
+  - Escape quits losing all lives with no continue and no mercy!
+  - In my cracked version I have unlimited bombs and coins but not life (I could have selected life but didn’t)
+  - You can select twin button joystick
+  - You can pick how many lives (Max 5) and credits (Max 3) you get and the difficulty of the game in the options
+  - I really wish you could go down through platforms to lower platforms 
+  - There is a password to split you through the game by thirds so you have 5lives with 3 continues to beat a third of the game 
+  - 4-7-2020
+    - I played for many hours and had much fun
+    - I got pretty good
+    - I don’t understand the weapon upgrades
+    - The dragon on 1-3 or 4 is far too brutal
+    - I found a big problem because due to some copy protection I couldn’t beat level 1-4
+    - A platform just didn’t exist
+    - And I couldn’t get any version that was rumored to work to actually work on my Mac uae fsuae 
+    - And I tried a lot
+    - It was all depressing because I wanted to keep playing
+    - Next day I got another version working and had fun
+    - I got a sword upgrade so it was more fun
+    - I think I accidentally also was invincible
+    - But I got through the first 4 levels pretty quick probably 45min
+    - Then I got through the rest of world 1!
+    - The jumping on flying bags was silly. It requires such perfect timing that I think it should be much more forgiving
+    - In the beginning of world 2 I found a part where I had to jump on a platform which floated up from spikes but the timing was so carefully critical that it wasn’t so much fun anymore
+    - Continue Structure: 5 lives, 3 continues. Each life you start off right where you were.  Each continue you start at the beginning of the stage (1.3, 2.4, whatever).  Thats not too unfair.  You lose your weapon when you get hit or die (not sure which)
+    - Hey If you have the infinite lives password in and then hit F8 the game pauses and then hold F6 and hit the fire button and it skips to the next level!
+* Magic Pockets
+  - I had some fun playing up to level 7 or 8 with heavy use of save states
+  - 4-6-2020
+  - Amiga
+  - The power ups were too complicated and the enemies too sort of random (their powers and behavior weren’t the same for a given enemy)
+* Miles & Kilo
+  - This is a cool game!  The continue structure is great and it lets you do as many continues and lives as you want
+  - The 3D is subtle but I like it
+* Kirbys adventure 3D classic
+  - I like the 3d
+  - The continue structure seems really good and lenient
+* Chaos Engine
+  - I read something that said that Navvie and Priest were the best duo
+  - Had to do some controller configurations and while it wasn’t hard it wasn’t particularly user friendly
+  - I beat level one without dying!  I never did that before!
+  - Beat level 2 but died like 3 times
+* VROOM Galleon VR 4-18-2020
+  - Expecting a game? You’ll be disappointed
+  - Expecting a pretty cool VR experience you’ll have fun.
+  - I played For 45 min or so and would like to play again sometime
+  - The sharks were cool
+  - The water was cool
+  - The horizon was awesome
+  - The eyeglass was cool
+  - The fish bucket was AMAZING!
+  - The mermaid was cool
+  - The pirate city was cool
+  - The hidden rooms On the ship were cooL
+  - The dining room was cool
+  - I liked it a lot and had a memorable experience
 
 
 # With Cristi #
@@ -866,6 +1063,17 @@ I Always wanted to play or master these from the PSX:
 
 I'm interested in these FMV Games from the PSX:
 1. X Files (both recommended on a cannot be tamed video comment)
+
+Games ( for markdown)
+
+- 3DS Favs
+  - Zelda Link Between Worlds (DONE AMAZING)
+  - Out Run - eshop
+  - Fantasy Zone II
+  - Sonic
+  - Space Harrier eshop 
+  - Shantae and the Pirates Curse! (DONE AMAZING)
+
 
 ## Game Gear games to consider trying ##
 1. GG Aleste Game Gear / Powerstrike 2 Game Gear
