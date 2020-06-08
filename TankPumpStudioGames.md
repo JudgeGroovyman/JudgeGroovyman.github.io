@@ -1,3 +1,22 @@
+# Alignment City 1987 #
+(preceded by 1986 and 1985)
+I'm proud of how fun these games ended up (so far) especially how fun it is just to flap the dragons wings.  Theres a lot of potential for fun platforming with this guy.  As of Sunday June 7 2020 I feel like there are lots of ways to make levels the biggest difference being between the level in 1986 and the levels in 1987, and even within the 1987 levels there is some significant variety.  The 86 game had only one level with 5 layers of depth.  The 87 game has 8 levels most of which have 4 or 5 layers of depth.  Those levels took me about a week of super part time work to make but I'm certainly getting faster at making them.  I can now probably make one layer in 30 min to an hour but then I'm a bit creatively burned and need to go play a VR game or take a nap to refresh.
+
+### Description of Alignment City 1985 ###
+Use left and right and jump keys (wasd or arrows plus the spacebar, or a four button gamepad) to touch the tops of buildings (cubes) and proceed to the end of the game as quickly as possible.  Your score is based on the number of buildings you touch and the time it takes you to get to the exit   The more buildings you touch the higher the score and the longer you take the lower your score.  
+
+There are several teleports which may allow you to skip sections of the level (and some that take you backwards).
+
+### Description of Alignment City 1986 and 1987 ###
+Welcome to Alignment City where you are a a dragon who can flap its wings and glide around the world and your job is to paint as many buildings as possible by touching them in the shortest time possible.  You will receive three scores: one which is your speed, one which is the exploration score (how may buildings youve found and painted and which naturally rewards your exploration of the world), and finally a technical score which is a mathematic calculation based upon those scores where you could get a high technical score even if you didnt paint as many building as you wanted to.  
+
+Tips:  Going right generally will get you to the end but there are many secrets and reasons to explore the world.   Touch the teleport spheres to teleport further into the world (or back).
+
+Controls:
+Use a gamepad or WASD or the arrow keys with shift and spacebar as the jump button.   Press Escape or q to quit.  
+
+
+
 # Axehand
 Made in Coppercube which is an interesting engine but ultimately not maintainable.  
 
