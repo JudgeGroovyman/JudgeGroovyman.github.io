@@ -1,16 +1,32 @@
 # Clients
+for Windows and Mac
 
-## Kraken ##
-As of August 2019 its about to become subscription based. It was free for individual use prior to this.  Its like $40 per year.
+Free ones
 
-## Tower ##
-Like Kraken its also subscription based.  Its like $70 per year.
+* [GitUp](https://gitup.co) FOSS mac(only) is an unique instantaneous visualizer for a repo.  Apparently maps out 40k commits in 1s.  Free and Open Source.  It bypasses the git binary tool where most of the rest of these are interfacing with it instead.  
+* [GitEye](https://www.collab.net/products/giteye) Free win/mac/lin Looks like a super cool free client with some great insight features like line by line change history.  From a company with significant resources from their other enterprise subscription products
+* [Sourcetree](https://www.sourcetreeapp.com) Free for Mac/Win Yes this is by Atlassian who make other fantastic open source apps.  It looks sophisticated and very much like fork and is probably the most straightforward competitor to fork or kraken
+* [GitAhead](https://gitahead.github.io/gitahead.com/) FOSS win/mac/lin looks awesome made by the developers of Understand so this seems real promising 
+* ----- Less straightforward desktop solutions ----- 
+* [Git Horizon](https://www.cycligent.com/git-tool) FOSS Mac/Win/Lin Electron/Angular2 app This looks really advanced actually and is a graphical git dashboard which few of the others are.  I wonder if this is most like GitUp for windows?  
+* [Ungit](https://github.com/FredrikNoren/ungit) wow this actually looks really cool.  its a node app (which means easy install and updates and probably lightweight) and its FOSS and cross platform.  it runs in the browser and you just go to the directory you are working in and say ungit to launch it.  Its apparently a very clean UI and I like this idea a lot.  Its like a really comfortable step between the command line versions and a full GUI client.  
 
-## Fork ##
-This looks like the best free client.
+Free ones I'm saying no to for me at this point
+ 
 
-## GitUp ##
-An instantaneous visualizer for a repo.  Apparently maps out 40k commits in 1s.  Free and Open Source.
+* [Git Cola](http://git-cola.github.io) FOSS win/mac/lin written in Python with integrated diff tool (merge is uncertain).  For mac you use Homebrew to install QT first.  They say its sleek and powerful but I get the impression that its geeky and therefore to some degree will have some clumsy unusualyUI decisions.  Thats just an impression I havent used it.
+* [TortoiseGit](https://tortoisegit.org) windows only  builds the commands into the windows explorer which imho sounds like aa nightmare but I've heard its great and I think I used it a bit at work in 2016 and it worked just fine.  Comes with Tortoise Gitmerge
+
+
+Commercial
+
+* Fork $50 1 time win/mac This looks like the best free client (now non-free).  Update: 4-2020 This is going Commercial like $50 one time so its no subscription which is nice.  Its a small indie dev team an dI've been using it for 6-8 months and its great.
+* Kraken $40/yr subscription win/mac  As of August 2019 its about to become subscription based. It was free for individual use prior to this.  Its like $40 per year.  Its great though I used it for like a year.
+* SmartGit $60/yr subscription.
+* Tower $70/yr Like Kraken its also subscription based.
+* Sublime Merge  $99 one time for individuals, subscription for businesses.  No technical penalty at this point for using free evaluation version indefinitely though thats not ok per the license
+
+At [Git-scm](https://git-scm.com/downloads/guis) theres a semi official list of clients (sortable by platform) (which lists their prices too) in case these dont meet your needs.
 
 # Renaming files on MacOSX #
 Its no problem to do this in general but there is a specific issue with case.

@@ -1,4 +1,29 @@
 
+# BBSing #
+I have fond memories of playing LORD on BBSs as a kid.  I remember never being able to get ANSI graphics working on my Amiga and always thought that it was because the Amiga was inferior. I found out recently that the Amiga had the best ANSI color support of any computer but I dont know why I didn't figure this out back then or how I could do it today.  
+
+Clients
+
+* [SyncTerm](https://syncterm.bbsdev.net) real clumsy but works really well with beautiful ANSI (rumored to be the best ansi support possible) interesting that I dont know how to paste into this program.  One nice feature is it will store your bbs passwords so assuming they aren't of great security importance to you (since they are sent unencrypted) this is convenient.
+* [FTelnet](http://my.ftelnet.ca/#) This is a close second for best telnet support.  Its easier to setup too although syncterm is lightweight and not hard at all.  OMG When there are graphics bigger than one screen the scrolling is incredibly slow!
+* Mac Terminal See near the end of [Pacbillys video](https://www.youtube.com/watch?v=Omets00iLWw) to see how to configure mac terminal.  It worked for me however some of the graphics at stab.net were pretty clunky and like showing many wrong characters so they only slightly resembled graphics.  The game functions were minimally playable (Like I did as a kid on my Amiga) but the graphics were not functional
+
+Some BBSs
+ 
+* bbs.Lunduke.com [See Pacbillys video on this LORD game](https://www.youtube.com/watch?v=Omets00iLWw) temporarily down as of May 16 2020
+* lord.stabs.org [Stabs](https://lord.stabs.org) This one you can play at that website [on this page](https://lord.stabs.org/playlord.html) but you have to create your character using telnet.  It doesnt take ^H for delete.  It doesnt 'know' the terminal type of syncterm so its not showing me any graphics and wont actually run the game atm.
+* towel.blinkenlights.nl Full star wars movie in simple ascii art.  Unbelievable
+* [Mewbies](http://mewbies.com/acute_terminal_fun_telnet_public_servers_watch_star_wars_play_games_etc.htm) A bunch of BBSs MUDs and MUCKs 
+* [telnetbbsguide](https://www.telnetbbsguide.com/bbs/vikis-bbs/) this is a really slow website with a bunch of telnet BBSs listed
+
+LOTGD
+
+Of course if you want to play LORD without the telnet and with a frankly better snappier and more reliable interface see The Legend of the Green Dragon
+* [Original Legend of the Green Dragon Server](http://lotgd.net/home.php?)
+* Many more are out there and its easy for servers to configure the game with more turns and many other interesting features
+
+
+
 
 # Emulating old systems #
 
