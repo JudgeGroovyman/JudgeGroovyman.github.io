@@ -457,9 +457,8 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
   - Splash wave!
   - It seems to have an upgrade system of some sort which compels you to play it and beat it even at the easier levels
   - Today 3-5-2020 I beat it on Two star difficulty and got the second ending where the car falls apart 
-* Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic! 2-28-2020  - Not only is the 3D fantastic but the quality of life features are top notch.  Adjustable lives and difficulty, level select, save and load, replay save, saved high scores.  It’s really great!
-  - It’s also got music playback in the menus which is great because the music is great
-
+* Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic! 2-28-2020  - Not only is the 3D fantastic but the quality of life features are top notch.  Adjustable lives and difficulty, level select, save and load, replay save, saved high scores.  It’s really great! - It’s also got music playback in the menus which is great because the music is great  Update: 6/1/2020 I got it working on Citra and boy is it amazing in VR. I love it so much.  its pure fun!  Caveats: Theres no level select in this version.  the controls are good because using my xbox I can use the dpad and stay exactly where I left it instead of pulling back to center every time.  the scaling is amazing and the depth is so damn cool.  I love being able to see such clear detail on teh sprites.  I got to level 7 or 8 before I probably left autofire down too long and cancelled out of putting in another quarter (or maybe I ran out of continues!?!)  I've been playing on Easy and would like to experience the whole game on this VR sometime soon.  Its just great.  I tried playing it on the japanese 3ds rom and that one was slow as hell and wasn't close to playable.  I was nervous about the USA one but it works great.  
+  
 # 2020 Games #
 * Mickey Mouse Land of Illusion Game Gear 1/8/2020 - I got to the second or third level, its cool that theres an overworld map and its got a good continue structure with apparently unlimited continues.  On tihs level theres a bunch of clunky underwater controls and its prety unforgiving and makes it not too much fun.  I was hopingto have more fun with it and its not too hard and I know I could beat it I'm just not motivated.  I think it would have been great bitd.  
 * Devilish GG 1/8/2020 - This is a weird game with breakout controls.  I dont like it but I did have a game on DS called Class Action Devilish I think and I made some decent progress in that one.
@@ -545,6 +544,7 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
   - Sometimes like on 2-2 the checkpoint can be behind you or out of the normal path which I don’t feel like Mario does to you
   - Also the bricks in the second world aren’t as beautiful of a sexy checkerboard they aren’t as clean or modern as the bricks on the first level
   - As of 4-20 I’ve had this cart for about 4 yrs (since 2016 at the latest) and first played this game in 1990 but right now learning it and getting really good at it level by level with its beautiful sexy Ultra modern in 90s Graphics plus the incredible 3D parallax thay I love so much is one of the funnest and most satisfying gaming experiences of my life.  I’m loving it
+  - Update 6/2/2020 I got this working in Emulation and gods is it amazing!  It pulls me into the green hill zone like I've never been able to be there with so much depth and I can see every pixel huge and its like Sonic is the size of a dog which is so damn cool.  I made it so deep it gave me a bit of motion sickness haha.  I love it.
 * New Super Mario 2
   - I love this!
   - One thing I don’t love is how it blurs when the 3D is deeper.  I understand why they did that and it’s a cool enough feature but I wish you could just turn it off.  I like to be able to focus on whatever i want at any depth and this doesn’t let me.  Yeah it’s more realistic but it’s less interesting to my eyes and brain and heart
@@ -658,6 +658,7 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
   - Had to do some controller configurations and while it wasn’t hard it wasn’t particularly user friendly
   - I beat level one without dying!  I never did that before!
   - Beat level 2 but died like 3 times
+  - Very hard, its silly that continues dont restore your life.  you can't see enough of the screen to get anywhere without knowing whats coming in advance.  I still love it and wish I had bought it when I was a kid above and beyond most other Amiga games I should have bought this because I knew I would love it.  I think I felt some guilt that I hadn't caught up with all of the Amiga classics (at that point) I really didnt know what other games were out there.
 * VROOM Galleon VR 4-18-2020
   - Expecting a game? You’ll be disappointed
   - Expecting a pretty cool VR experience you’ll have fun.
@@ -674,6 +675,44 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
   - I liked it a lot and had a memorable experience
 * Dungeon Warfare 5-10-2020 I bought this on iphone the other day for like $2.99 on Matei's recommendation (though he implied it would be no good on iphone) but damn this is an amazing game!  I think I will be able to beat it!  5-13-2020 I just got 1.5mil XP on one endless mode.  Its great fun even though I dont typically love strategy games I have really enjoyed tower defense games in the past and this one really hit home for me.
 * Volgarr the Viking 5-22-2020 I beat the first checkpoint of Volgarr the Viking today!.  its stupid hard and you know what ... it DOESNT LET YOU SAVE!?!?!?!  Apparently since I looked at the forums you can skip levels you've beaten before at least.  The checkpoints are really far away from one another.  But strangely since you have unlimited continues at checkpoints I really didnt feel cheated or frustrated.  It is super satisfying to play and they justify it by saying that the satisfaction you will get is enormous by beating it.  Now They also say this game you will remember the layout of the levels more than most any other game and I think they are right, but there is a fine line because some games like 3d games with huge sprawling levels I may remember them sometimes but only because they were simple shapes or because the level was incredibly too hard.  Otherwise though you just speed through games like that and people dont appreciate the work that went into your levels.  I like the idea of making it satisfyingly hard but also like the idea of letting people progress and not holding them back.  I think they should have documented the level skip in the tutorial and if so I think I would have given a thumbs up to this being a great example of a super difficult game with a great continue structure.  If it had limited lives I absolutely would have returned it. Update: Later today I beat the first level!  So proud!  So Satisfying!  And believe it or not they actually did document that level skip int he tutorial!  They just put it at the end of the level so you would only know about the trick once you beat the first level.  Its a magical game actually.  I'm very happy about it.  oh and you have to beat the first boss after beating the second harder half of the whole level (there are like 3 parts that I still dont have down to a science yet) the first boss is huge and incredible looking and the designers intentionally made the bosses and the screen after you beat the
+* Nano Assault 3DS - 6/1/2020
+	- Holy shit this is amazing.  Dual stick shooter levels punctuated by occasional space harrier style levels.  The 3d is amazing on both since on the dual stick ones its around the outside of a bean like in mario galaxy and in the space harrier levels its some of the coolest on rails gliding through scary alien or nano passages and fighting huge beasts all along the way.  Its so cool.  Its tough as nails though so I have to try several times to beat each level.  The continue structure is forgiving: 3 lives (or so) and then you start the level again unlimited continues on each level.  The levels are arranged like neurons so you follow one to the next to attack the virus.  Its a cool story.  Great low-ish poly but clearly rendered graphics with great textures.  Its SO Immersive!  Oh did I mention I'm playing in VR on BigScreen?  It works so perfectly.  I mapped the abxy buttons to the right stick to get stick controls but I mights witch it back since its clumsy using analog for digital and see what its like.  Anyway I found a BIG Winner!  Oh wow its pretty expensive on Amazon: $40-50! Damn!
+* Starfox 64 3DS Citra - 6/1/2020  
+	- I own this but never threw it in my 3DS, but its really cool! The tutorial is a bit long winded but I guess its good to know all the moves you can do.  This actually has some pretty deep space combat believe it or not.  Its fun through the tutorial but I haven't been able to play because its super slow.  Underclocking to 50%-80% crashed, 90% doesnt crash but also doesnt speed up (maybe 5%).  The 3D is really cool though.  
+	- Older Citra works perfectly with this!  1499 and 1599 releases of canary work perfectly.  in Fact Canary 1688 works but 1690 doesnt (both on April 22) and then May 11-12 Nightly 1543 works but 1544 doesnt. 
+	- Starfox 64 runs at 100% speed in older builds and 60% speed in newer builds.  I've tried underclocking to 80% CPU and it sped up to 70% of game speed, underclocking to 75% CPU crashed.  Immediately after booting (during intro/title screen/main menu) you can tell whether its running slow or not. I had the same problem with it running slow but I saw some youtube videos from 2017 and 2018 where people had this game running full speed so I tried multiple releases and found the following: Nightly 1543: 100% speed.  Nightly 1544: 60% speed. (that was around May 11-12)  Canary 1688: 100% speed. Canary 1690: 60% speed.  (that was around April 22)  
+* Time Crisis PSX in EmuVR with Light Guns! 6/2/2020
+	- Wow this was amazing (although my arm is now sore haha) It took a while to get setup and even after I did everything apparently right I still was confused because my hands werent turning into guns but eventually they did.  I dont know what changed but I had to have the BeetlePSXHW core selected with the light gun box checked and 260 ID which I know I had at one point before.  Then when I trigger and down on the pad then it started working.  I got to the boss battle with sherudo and I think I was one to two hits away from knocking him out of that portal he was jumping back and forth in the hallway.  Thats with 8 continues.  My palms were sweaty.  I have to say there arent many other games that make you feel like such a one man army as that one.  You feel like a total bad ass.  I love the theatrics too.  I love the gameplay too since its about memorizing certain possible patterns as well as shooting correctly.  The enemies are interesting too they will like shuffle back and forth right when you shoot at them and stuff.   
+* Alien Chaos 3D - 6/2/2020 this is a cool platform run n gun single screen based where you shoot aliens and clean up after yourself which is an interesting mechanic and really does add some distinction to the core gameplay.   Its pretty fun and works great in citra.  It seems though like you have to restart your computer if it crashes maybe it never closes the save file or something?
+* Compound 6/2/2020
+	- I played this for a few hours enough to beat it a year or two ago and it was fantastic back then.  I loved being in this low resolution low poly world and it was so interesting just looking around.  Also its scary seeing whats around each corner.  I just beat a boss ( A business man behind a shield) and got pretty darn far ... R&D 2 perhaps?   This is fantastic.  I played it and felt sick earlier then played something else and wanted to play this again :)  6/3/2020 I got to the executive suite twice and the final battle twice (maybe thrice).  This is such a fantastic game. 
+
+# With Cristi #
+* Temtem
+* Portal 2
+* Rocksmith
+* Orbus VR
+* Spyro
+* Serious Sam 3
+* Crash Bandicute
+* Carnival Games VR
+* Jurassic World Evolution
+* No Mans Sky
+* Try Serious Sam 5 times every so often
+* Cloudlands
+* Seeking Dawn
+* Arizona Sunshine
+* Any other cool Looting game (google for the best ones and see which she likes best)(Skyrim, Monster Hunter, Destiny 2, etc)
+
+
+
+# With Tom #
+* Rocket League
+* Skyrim
+* Rec Room
+* Bridge Crew
+* That Strategy Board Game
+
 
 # Lists of Games #
 
@@ -704,6 +743,339 @@ Interesting Lesser Known Games
 1. Rygar, Amagon, Wizards & Warriors (quirky and tough) (Amagon is kind of buggy)
 2. Dragon Warrior 1 & 4 are cool
 3. Castlevania & Contra & Teenage Mutant Ninja Turtles
+
+
+
+
+
+
+
+-----------------------------------
+## Most Exciting Games May 28 2020 ##
+Track these on one of those websites (the backloggery, rf generation, HLTB)
+Look at Wishlist(DONE) and Humble Bundle (List above in this very file) and Games on Desktop (DONE)
+
+These are the games that get my blood pumping
+* Volgarr the Viking
+* Doom Eternal
+
+Want to start and then finish
+* Psychonauts
+* Shovel Knight 3DS
+* Warhammer: Vermintide 2
+* Spelunky
+
+Stories
+* Bastion
+* Bioshock Infinite
+
+VR Stories
+* Half Life Alyx
+* Half Life VR
+
+Wheel
+* Burnout Paradise
+
+Future
+* Shantae and the Seven Sirens (Released Today May 28 2020!)
+* Monster Boy and the Cursed Kingdom
+* Serious Sam 4
+* Tesla vs Lovecraft
+* Serious Sam Tormental
+
+
+
+
+
+
+-----------------------------------
+### Working On ###
+
+Working on regularly
+* Sonic the Hedgehog 3DS
+* Mario 3D Land 3DS
+* Dungeon Warfare iOS
+* Wonder Boy: The Dragon's Trap Mac
+
+Would like to work on regularly (not a chore)
+* Lone Echo
+* Redout: Enhanced Edition
+
+Less of a chore - just a hard part or not motivated atm
+* Blasters of the Universe
+* Serious Sam 2 VR (with online)
+* Doom VFR
+* Professor Layton 3DS
+* Kid Icarus 3DS
+* Red Faction
+* Xion VR
+* Portal
+* Master Spy
+
+Games that are a bit of a chore to beat at the moment but will be satisfying to beat so play a bit every day or two
+* Mutant Storm Reloaded
+* Hamsterball
+* Crypt of the Necro Dancer
+* Space Channel 5: Part 2
+* Superhot VR
+* Doom VFR
+* Ultrawings
+* Chaos Engine
+
+
+
+
+
+
+
+-----------------------------------
+### Less Exciting ###
+Update: several days later: pretty much all of these are now exciting :)
+
+
+Less Exciting
+* Bit Trip Saga 3DS
+* Sonic Generations 3DS
+* Luigi's Mansion 3DS
+* Starfox 64 3DS
+
+Very Promising
+* Zone of the Enders the 2nd Runner VR
+* Sonic Mania
+* VR Kanojo
+* Before We Leave
+* Hellbound
+* Serious Sam Double D XXL
+* <See list of VR Platform Games>
+* Cuphead
+* Enter the Gungeon
+* Road Redemption
+
+
+Promising
+* Worms Revolution (Matt Berry)
+* Flatout 2 (Wheel)
+* Sonic Generations PC
+* Super Crate Box
+* Deep Space Waifu (Series)
+* Rise of the Tomb Raider
+* Castle of Illusion
+* Metal Gear Rising: Revengeance
+* Hard Reset Redux
+* Metro 2033
+* Portal
+* Vanquish
+* Doom 2016
+* Yooka Laylee VR (use walkthroughs)
+* Metal Gear Solid V: The Phantom Pain
+* Half Life 2 VR
+* Doom 3 VR
+* GTA V VR
+* Quake 1 VR
+* BioShock
+* BioShock 2
+* Flatout 4
+* F.E.A.R 2: Project Origin
+* Castlevania: Lords of Shadow - Mirror of Fate HD
+* NiGHTS into Dreams
+
+Wishlist Most Promising
+* Pistol Whip
+* Islanders
+* Hypnospace Outlaw
+* Space Dragon
+* Gris
+* Blazing Chrome
+* Boiling Bolt
+* Sprint Vector VR
+* Jet Island
+* Katana Zero
+* Distance
+* Streets of Rogue
+* Climbey
+
+Big and dont own but promising
+* Amid Evil
+* Dusk
+* Ion Fury
+* Wolfenstein II: The New Colossus
+* Styx
+
+New but also promising
+* Valiant Hearts
+* Planet Alpha
+* Dangerous Golf
+* Lethal VR
+* Run of Mydan
+* Owlboy
+* Little Nightmares
+* Scanner Sombre
+* A Plague Tale: Innocence
+* The Blu
+* Neverbound
+* Block Smashers
+* To The Top
+* The Town of Light
+* AER Memories of Old
+* Girlfriend Rescue
+* Raging Justice
+* <Everything in Noobs Unknown on Steam>
+
+
+
+
+
+
+-----------------------------------
+### Specifics ###
+
+Entire Categories of their own
+* Dolphin VR
+* VorpX
+* Doom Mods VR and non
+* Quake Mods VR and non
+* Nvidia 3D Vision
+* Logitech G920
+* All of the games in Games To Consider bookmark
+
+Games that will take some practice and study to learn
+* Asseto Corsa (Shifting and racing like that)
+* DiRT Rally VR
+* Project CARS 2 
+* Hostile Waters: Anateus Rising
+* Skyrim VR with Mods
+
+Games that could go on forever
+* Diablo 3
+* Star Trek: Bridge Crew
+* Destiny 2
+* Aven Colony
+* ----------
+* Space Engine
+* Cities Skylines
+* Rec Room Quests
+* Subnautica
+* Ark: Survival Evolved
+* Lord of the Rings Online
+* World of Warcraft
+
+Would like to make a game in
+* Clickteam Fusion
+* Francois new Tool
+* Smile Game builder (own)
+* Unreal
+* Javascript
+* Pygame
+* Defold
+* App Game Kit (own)
+* 001 Game creator (own)
+* RPG Maker (own)
+* Game guru (own)
+* Leadwerks Game Engine (own)
+
+
+WiiU games that might be able to be Stereoscopic
+* Nano Assault Neo (Wii-U) Possibly in Dolphin could get stereoscopic working and this would be an amazing twin stick shooter in 3d!
+* Kirby Rainbow Curse WiiU Would be SO MUCH FUN (although would need a stylus somehow - wouldnt really work with mouse)
+* Super Mario 3D World WiiU I loved 3D Land so much I would love this one
+* Wind Waker HD WiiU Could get stereoscopic working in Dolphin perhaps?
+* Rayman Legends WIiU
+* New Super Mario Bros U
+* Xenoblade Chronicles X
+* Bayonetta
+* Shovel Knight
+* Captain Toad Treasure Tracker
+* Mario Galaxy 1 & 2 (Wiimote problems perhaps?)
+* Zelda Twilight Princess HD WiiU
+* Starfox Zero
+* Yoshis Wooly World
+* Yoshis Crafted World
+* Sonic Lost World
+* New Super Luigi U
+
+
+
+
+
+
+-----------------------------------
+### Again ###
+
+Might like to play again
+* Alien Breed series
+* Bloodstained Curse of the Moon
+* Bloody Zombies
+* Bloodstained Ritual of the Night
+
+
+Great VR that I can play a bit every day
+* Compound
+* Viral EX
+* -----
+* Duo
+* VR Table Tennis
+* Thumper
+* Rez Infinite
+* Trackmania Turbo
+* Everspace
+* AirMech Command
+* Talos Principle VR
+* Transpose
+
+
+Great Active VR that I can play over and over
+* Beat Saber
+* In Death
+* -----
+* Echo Arena
+* Space Pirate Trainer
+* Knockout League
+* Serious Sam The Last Hope (100%)
+* Holopoint VR
+* QuiVR
+* Vanishing Realms
+
+
+Great pancake that I can play over and over
+* Spheres of Chaos
+* Mortal Kombat X
+* Refunct
+* Floating Point
+* Nex Machina
+* Bad Ass Babes
+* Dead or Alive V
+* Street Fighter IV
+* Street Fighter V
+* Quake Champions
+* Quake Live with 
+* Quake Dark Places online
+
+Stories that I can play again
+* Red Faction 2
+* The Signal from Tolva
+* Hellblade: Senua's Sacrifice VR
+
+Would like to play with VorpX or Nvidia 3D
+* Grow Up
+* Bad Ass Babes
+* Refunct
+
+
+### Games I could sell ###
+* Kirby 3DS
+* Zelda 3DS
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Some of the best games ever ##
