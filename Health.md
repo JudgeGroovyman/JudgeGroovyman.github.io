@@ -126,6 +126,40 @@ Doesnt require treatment except to the degree that it causes problems
 - [Best DIY Remedies for heavy flow](https://www.bloodandmilk.com/the-best-diy-remedies-to-manage-a-heavy-flow/)
 - [Endometriosis and Ademyosis](https://www.webmd.com/women/endometriosis/women-endometriosis-vs-adenomyosis#1)
 
+# Detox #
+
+## Heavy Metal Detox ##
+https://www.youtube.com/watch?v=d2szUwSYAKo&t=3s
+Heavy Metals are shaken loose by PEMF
+
+From the video:
+Detox Phase 1
+Convert heavy metals into water soluble elements in preparation for detox phase 2
+Detox Phase 1.5 
+Chelate and bind those metals so they can be disposed of properly and dont reattach to cells (take binders)
+Detox Phase 2
+Eliminate heavy metals through
+kidney / urine or liver / stool / skin
+
+If Herxheimer is too strong either slowing down phase 1, or increase phase 1.5 (theres no problem with sort of overdoing this part).  
+
+https://www.sophianutrition.com/blogs/sophia-life-blog/are-you-detoxing-with-the-correct-binders
+
+1. Magnetic Clay / Edible Clay
+2. Zeolite / ACZ Spray
+3. Modified Citrus Pectin
+4. Chlorella
+5. Activated Charcoal
+
+Detoxing through the skin
+1. Fine Infrared Sauna dome
+2. Clay bath
+3. Hyperthermia
+4. Oil Pulling
+5. Poultice
+6. Exercise
+7. Skin Brushing
+
 # Inbox #
 Health Research 
 
