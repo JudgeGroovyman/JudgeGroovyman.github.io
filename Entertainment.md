@@ -266,6 +266,8 @@ Preacher on dead zone 5x4 37:00
 * Funny: Somehow I found [this classic sell of a ref getting hit and bouncing down the ropes brilliantly](https://www.barstoolsports.com/blog/1425344/this-referees-sell-of-a-rowdy-roddy-piper-punch-is-my-favorite-thing-ive-ever-seen) lol 
 
 # Quotes from TV & Movies #
+* Crossing Swords
+	1x9 9:30 "Old?  I dare you to find one graying pube on this body"
 * Travelers
 	Travelers s2x2 on a pier the doctor from the future uses tapping to try to treat ptsd, later she uses eye movement therapy and uses it with tapping
 	Travelers 2x9 said “historians, when you run out call this number to ask for more” and flashed the number on the screen for a fraction of a second and all of them instantly read it and memorized it. Haha so cool

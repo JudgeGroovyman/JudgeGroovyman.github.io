@@ -253,7 +253,7 @@ Tools
 - $7 [Really nice Low Poly looking Terrain Textures](https://assetstore.unity.com/packages/2d/textures-materials/floors/low-poly-terrain-texture-pack-140922)
 
 Premium Tools
-
+- $30 [Clayxels](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Voxel system that lets you design whole levels and characters and everything in editor with simple shapes and great performance and even change things in game (destructible environments???)s
 - $75 [Polaris V2 low Poly Terrain Generator](https://assetstore.unity.com/packages/tools/terrain/low-poly-terrain-polaris-v2-144645)
 
 Water
@@ -691,7 +691,7 @@ Infinite City
 Why did I find out about this? I was transfixed by this [Infinite City](https://www.reddit.com/r/proceduralgeneration/comments/f2psa1/infinite_procedurally_generated_city/) technically it was [this video](https://youtu.be/-W7zt8181Zo) and then here is the [source code](https://github.com/marian42/wavefunctioncollapse).  Here's a [playable build](https://marian42.itch.io/wfc) and [an article about it](https://marian42.de/article/wfc/) and [a second version with trees](https://www.youtube.com/watch?v=7ffT_8wViBA)
 
 To get this original bitmap based algorithm working on Mac I had to do kind of a lot.  Heres [the original version of the function](https://github.com/mxgmn/WaveFunctionCollapse) Its in dotnet so I needed to download the runtime even though I already had a runtime.  I had to install [dotnetcore](https://dotnet.microsoft.com/download/dotnet-core/3.1) You have to be able to type 'dotnet'.  I had to brew install mono-libgdi or something like that (it suggested the right package).  I had to install several versions of [system.drawing](https://www.nuget.org/packages/runtime.osx.10.10-x64.CoreCompat.System.Drawing)
-[and this system.drawing] https://www.nuget.org/packages/System.Drawing.Common/5.0.0-preview.4.20251.6) finally I had to run `dotnet run WaveFunctionCollapse.csproj` and then it worked really well.  
+[and this system.drawing] https://www.nuget.org/packages/System.Drawing.Common/5.0.0-preview.4.20251.6) finally I had to run `dotnet run WaveFunctionCollapse.csproj` and then it worked really well.  You have to change samples.xml to point to the images you want to run.  Some of them like "summer" have their own folder and their own special XML which defines the compatibility for each tile (N S E W)
 
 I had [tried it in python](https://github.com/ikarth/wfc_python) but I couldn't get any of those running [even the one from 2019](https://github.com/ikarth/wfc_2019f).  Probably user error but neither of them ran and they seemed to have simple problems I tried it in virtualenv and python 2 and 3 and nothing worked.  
 
