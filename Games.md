@@ -457,7 +457,7 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
   - Splash wave!
   - It seems to have an upgrade system of some sort which compels you to play it and beat it even at the easier levels
   - Today 3-5-2020 I beat it on Two star difficulty and got the second ending where the car falls apart 
-* Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic! 2-28-2020  - Not only is the 3D fantastic but the quality of life features are top notch.  Adjustable lives and difficulty, level select, save and load, replay save, saved high scores.  It’s really great! - It’s also got music playback in the menus which is great because the music is great  Update: 6/1/2020 I got it working on Citra and boy is it amazing in VR. I love it so much.  its pure fun!  Caveats: Theres no level select in this version.  the controls are good because using my xbox I can use the dpad and stay exactly where I left it instead of pulling back to center every time.  the scaling is amazing and the depth is so damn cool.  I love being able to see such clear detail on teh sprites.  I got to level 7 or 8 before I probably left autofire down too long and cancelled out of putting in another quarter (or maybe I ran out of continues!?!)  I've been playing on Easy and would like to experience the whole game on this VR sometime soon.  Its just great.  I tried playing it on the japanese 3ds rom and that one was slow as hell and wasn't close to playable.  I was nervous about the USA one but it works great.  
+* Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic! 2-28-2020  - Not only is the 3D fantastic but the quality of life features are top notch.  Adjustable lives and difficulty, level select, save and load, replay save, saved high scores.  It’s really great! - It’s also got music playback in the menus which is great because the music is great  Update: 6/1/2020 I got it working on Citra and boy is it amazing in VR. I love it so much.  its pure fun!  Caveats: Theres no level select in this version.  the controls are good because using my xbox I can use the dpad and stay exactly where I left it instead of pulling back to center every time.  the scaling is amazing and the depth is so damn cool.  I love being able to see such clear detail on teh sprites.  I got to level 7 or 8 before I probably left autofire down too long and cancelled out of putting in another quarter (or maybe I ran out of continues!?!)  I've been playing on Easy and would like to experience the whole game on this VR sometime soon.  Its just great.  I tried playing it on the japanese 3ds rom and that one was slow as hell and wasn't close to playable.  I was nervous about the USA one but it works great.  7/17/2020 - I beat it in VR and it is so cool and so much fun.  Why do I like it so much? I think I'll describe that in the Virtual Reality note
   
 # 2020 Games #
 * Mickey Mouse Land of Illusion Game Gear 1/8/2020 - I got to the second or third level, its cool that theres an overworld map and its got a good continue structure with apparently unlimited continues.  On tihs level theres a bunch of clunky underwater controls and its prety unforgiving and makes it not too much fun.  I was hopingto have more fun with it and its not too hard and I know I could beat it I'm just not motivated.  I think it would have been great bitd.  
@@ -544,7 +544,7 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
   - Sometimes like on 2-2 the checkpoint can be behind you or out of the normal path which I don’t feel like Mario does to you
   - Also the bricks in the second world aren’t as beautiful of a sexy checkerboard they aren’t as clean or modern as the bricks on the first level
   - As of 4-20 I’ve had this cart for about 4 yrs (since 2016 at the latest) and first played this game in 1990 but right now learning it and getting really good at it level by level with its beautiful sexy Ultra modern in 90s Graphics plus the incredible 3D parallax thay I love so much is one of the funnest and most satisfying gaming experiences of my life.  I’m loving it
-  - Update 6/2/2020 I got this working in Emulation and gods is it amazing!  It pulls me into the green hill zone like I've never been able to be there with so much depth and I can see every pixel huge and its like Sonic is the size of a dog which is so damn cool.  I made it so deep it gave me a bit of motion sickness haha.  I love it.
+  - Update 6/2/2020 I got this working in Emulation and gods is it amazing!  It pulls me into the green hill zone like I've never been able to be there with so much depth and I can see every pixel huge and its like Sonic is the size of a dog which is so damn cool.  I made it so deep it gave me a bit of motion sickness haha.  I love it.  Update 6/14 have to have new 3DS emulation on and no graphical filters or anything.  The sound isnt absolutely perfect frankly just almost imperceptibly skippy.  citra nightly 1554
 * New Super Mario 2
   - I love this!
   - One thing I don’t love is how it blurs when the 3D is deeper.  I understand why they did that and it’s a cool enough feature but I wish you could just turn it off.  I like to be able to focus on whatever i want at any depth and this doesn’t let me.  Yeah it’s more realistic but it’s less interesting to my eyes and brain and heart
@@ -674,22 +674,28 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
   - The dining room was cool
   - I liked it a lot and had a memorable experience
 * Dungeon Warfare 5-10-2020 I bought this on iphone the other day for like $2.99 on Matei's recommendation (though he implied it would be no good on iphone) but damn this is an amazing game!  I think I will be able to beat it!  5-13-2020 I just got 1.5mil XP on one endless mode.  Its great fun even though I dont typically love strategy games I have really enjoyed tower defense games in the past and this one really hit home for me.
-* Volgarr the Viking 5-22-2020 I beat the first checkpoint of Volgarr the Viking today!.  its stupid hard and you know what ... it DOESNT LET YOU SAVE!?!?!?!  Apparently since I looked at the forums you can skip levels you've beaten before at least.  The checkpoints are really far away from one another.  But strangely since you have unlimited continues at checkpoints I really didnt feel cheated or frustrated.  It is super satisfying to play and they justify it by saying that the satisfaction you will get is enormous by beating it.  Now They also say this game you will remember the layout of the levels more than most any other game and I think they are right, but there is a fine line because some games like 3d games with huge sprawling levels I may remember them sometimes but only because they were simple shapes or because the level was incredibly too hard.  Otherwise though you just speed through games like that and people dont appreciate the work that went into your levels.  I like the idea of making it satisfyingly hard but also like the idea of letting people progress and not holding them back.  I think they should have documented the level skip in the tutorial and if so I think I would have given a thumbs up to this being a great example of a super difficult game with a great continue structure.  If it had limited lives I absolutely would have returned it. Update: Later today I beat the first level!  So proud!  So Satisfying!  And believe it or not they actually did document that level skip int he tutorial!  They just put it at the end of the level so you would only know about the trick once you beat the first level.  Its a magical game actually.  I'm very happy about it.  oh and you have to beat the first boss after beating the second harder half of the whole level (there are like 3 parts that I still dont have down to a science yet) the first boss is huge and incredible looking and the designers intentionally made the bosses and the screen after you beat the
-* Nano Assault 3DS - 6/1/2020
-	- Holy shit this is amazing.  Dual stick shooter levels punctuated by occasional space harrier style levels.  The 3d is amazing on both since on the dual stick ones its around the outside of a bean like in mario galaxy and in the space harrier levels its some of the coolest on rails gliding through scary alien or nano passages and fighting huge beasts all along the way.  Its so cool.  Its tough as nails though so I have to try several times to beat each level.  The continue structure is forgiving: 3 lives (or so) and then you start the level again unlimited continues on each level.  The levels are arranged like neurons so you follow one to the next to attack the virus.  Its a cool story.  Great low-ish poly but clearly rendered graphics with great textures.  Its SO Immersive!  Oh did I mention I'm playing in VR on BigScreen?  It works so perfectly.  I mapped the abxy buttons to the right stick to get stick controls but I mights witch it back since its clumsy using analog for digital and see what its like.  Anyway I found a BIG Winner!  Oh wow its pretty expensive on Amazon: $40-50! Damn!
-* Starfox 64 3DS Citra - 6/1/2020  
-	- I own this but never threw it in my 3DS, but its really cool! The tutorial is a bit long winded but I guess its good to know all the moves you can do.  This actually has some pretty deep space combat believe it or not.  Its fun through the tutorial but I haven't been able to play because its super slow.  Underclocking to 50%-80% crashed, 90% doesnt crash but also doesnt speed up (maybe 5%).  The 3D is really cool though.  
-	- Older Citra works perfectly with this!  1499 and 1599 releases of canary work perfectly.  in Fact Canary 1688 works but 1690 doesnt (both on April 22) and then May 11-12 Nightly 1543 works but 1544 doesnt. 
-	- Starfox 64 runs at 100% speed in older builds and 60% speed in newer builds.  I've tried underclocking to 80% CPU and it sped up to 70% of game speed, underclocking to 75% CPU crashed.  Immediately after booting (during intro/title screen/main menu) you can tell whether its running slow or not. I had the same problem with it running slow but I saw some youtube videos from 2017 and 2018 where people had this game running full speed so I tried multiple releases and found the following: Nightly 1543: 100% speed.  Nightly 1544: 60% speed. (that was around May 11-12)  Canary 1688: 100% speed. Canary 1690: 60% speed.  (that was around April 22)  Update: After the citra mod provided some information about it working for him I tried some other stuff and found out that it runs well even with the latest builds if I underclock a bit and turn off new 3ds mode thats what really made the big difference.
-* Time Crisis PSX in EmuVR with Light Guns! 6/2/2020
-	- Wow this was amazing (although my arm is now sore haha) It took a while to get setup and even after I did everything apparently right I still was confused because my hands werent turning into guns but eventually they did.  I dont know what changed but I had to have the BeetlePSXHW core selected with the light gun box checked and 260 ID which I know I had at one point before.  Then when I trigger and down on the pad then it started working.  I got to the boss battle with sherudo and I think I was one to two hits away from knocking him out of that portal he was jumping back and forth in the hallway.  Thats with 8 continues.  My palms were sweaty.  I have to say there arent many other games that make you feel like such a one man army as that one.  You feel like a total bad ass.  I love the theatrics too.  I love the gameplay too since its about memorizing certain possible patterns as well as shooting correctly.  The enemies are interesting too they will like shuffle back and forth right when you shoot at them and stuff.   
-* Alien Chaos 3D - 6/2/2020 this is a cool platform run n gun single screen based where you shoot aliens and clean up after yourself which is an interesting mechanic and really does add some distinction to the core gameplay.   Its pretty fun and works great in citra.  It seems though like you have to restart your computer if it crashes maybe it never closes the save file or something?
-* Compound 6/2/2020
-	- I played this for a few hours enough to beat it a year or two ago and it was fantastic back then.  I loved being in this low resolution low poly world and it was so interesting just looking around.  Also its scary seeing whats around each corner.  I just beat a boss ( A business man behind a shield) and got pretty darn far ... R&D 2 perhaps?   This is fantastic.  I played it and felt sick earlier then played something else and wanted to play this again :)  6/3/2020 I got to the executive suite twice and the final battle twice (maybe thrice).  This is such a fantastic game. 
-* Pac-Man & Galaga Dimensions
-	- Runs great in Citra.  There are like 6 games in this game and Pac Man, Galaga, Pac Man Championship and Galaga Legends work really well and are super fun.  This is the best most fun version of pac man CE I've played cool replays too.  The depth of the screen is just really cool.  Its not high res but it looks good.  Galaga Legends is a really cool interesting shooter with tons of enemies on screen almost bullet hell like certainly bullet hell quantity.  there are a few other original games in here which dont really work because they expect tilt controls so I couldnt get anywhere with the Galaga 3D Impact.  This is really good and fun and it has a cheesy silly but cool 3d movie animatedly dramatizing pac mans origin story :)  This is great fun.
-* Harmoknight 3DS 6/7/2020
-	- Well this is cool its kind of like space channel 5 but its a platform game.  the timing seems just slightly 'off' like you have to click just slightly early but when you get used to it then it works well.  I wonder if thats an emulation thing?  Maybe I'll buy it on 3DS and find out.  In this kind of game the timing might be more noticeable than in other circumstances.  Its cutesy fun.  I admit I dont love the style or the setting or the story.  I like cute stuff but not particularly this one but I liked the gameplay quite a bit.
+* Volgarr the Viking 5-22-2020 
+	- I beat the first checkpoint of Volgarr the Viking today!.  its stupid hard and you know what ... it DOESNT LET YOU SAVE!?!?!?!  Apparently since I looked at the forums you can skip levels you've beaten before at least.  The checkpoints are really far away from one another.  But strangely since you have unlimited continues at checkpoints I really didnt feel cheated or frustrated.  It is super satisfying to play and they justify it by saying that the satisfaction you will get is enormous by beating it.  Now They also say this game you will remember the layout of the levels more than most any other game and I think they are right, but there is a fine line because some games like 3d games with huge sprawling levels I may remember them sometimes but only because they were simple shapes or because the level was incredibly too hard.  Otherwise though you just speed through games like that and people dont appreciate the work that went into your levels.  I like the idea of making it satisfyingly hard but also like the idea of letting people progress and not holding them back.  I think they should have documented the level skip in the tutorial and if so I think I would have given a thumbs up to this being a great example of a super difficult game with a great continue structure.  If it had limited lives I absolutely would have returned it. Update: Later today I beat the first level!  So proud!  So Satisfying!  And believe it or not they actually did document that level skip int he tutorial!  They just put it at the end of the level so you would only know about the trick once you beat the first level.  Its a magical game actually.  I'm very happy about it.  oh and you have to beat the first boss after beating the second harder half of the whole level (there are like 3 parts that I still dont have down to a science yet) the first boss is huge and incredible looking and the designers intentionally made the bosses and the screen after you beat the
+* Lord of the Rings: War in the North - PC 7/25/2020
+	- This is one of the coolest games I've ever played.  Elladan, Adriel and Farin.  I was thinking about ROTK on GBA which was a diablo clone and found out that this existed.  I wish I had known about this 10 years ago because I would have loved it.  But I love it now.  The lore is deep and the game is so well crafted.   the combat is fun and great.  I loved baldurs gate dark alliance 1 so much and that return of the king for GBA so this feels like a perfect followon.  the eagle looks freaking amazing.  The troll looks freaking amazing too.  And eladans armor and cloak.  Parts of this game look 5-10yrs ahead of when they were made.  I played for probably 5 hours today and its one of the best games I've ever played in a lot of ways.  
+	- To get this working I had to switch my desktop to 1920x1200.  I have had virtually no crashes or problems since I did that.  At higher res it only ran for a few minutes.  Later I considered adding a patch someone made for disabling controller vibration because it is pronounced and not in the options of the game.
+	- Parts of the game that I liked: This is an awesome epic tale which sets up the fellowship, takes you to Imladris, Barrow Downs, Radagast, meeting dragons, several dungeons we've never seen before, has you assaulting huge strongholds with thousands of warriors and flying nazgul, includes the eagles in the story and personifies some of them as heroes, has awesome huge spiders.  I love the assault on Mount Gundabad in the snow because it makes you feel like its really dangerous and like you must avoid getting caught.  This snow level would be so damn cool to look around in VR.  I'm glad theres no having to think about falling off ledges.  the game protects you from that.  The inside of Gundabad is so bad ass.  What a thrill it would be to go there or live there.  Wow the inside of Nordinbad is amazing too for totally differnet reasons.  I love the spider boss who is really scary and the cinematography there is excellent and makes the boss seem scary and the wizard seem dead and in terrible shape.  The huge dragon is really cool.  Radagast has poop in his beard but at least this time theres a possible explanation for it.  Its cute what Radagast says about badgers when Farin is confused :) Carn-dum is an awesome castle.  The ending is epic and I love how it aligns with the Lord of the Rings story and the dragon. I love how epic the story is how when you start it over it brings you back to the beginning and you feel like you've really been all over the world and you remember how when you first started, Bree felt big and new and the center of the world and when you had done your first quest it all felt so big at that time, and yet now given all you've been through Bree feels quaint and the first quest feels small compared to what you've done.
+	- The continue structure is perfect. In each dungeon its totally fair where you get to a point and it lets you buy and sell in the middle and then you can even teleport back to your last town, and then teleport from there right back to where you left off in that dungeon.  Then you can play each level several times because there are many secrets to find.  There are also some side quests which encourage you to go to each place and look carefully, but the cool thing is they are also fair because if you're supposed to find 3 herbs they aren't hardcoded to a specific location they are randomly picked from all the herbs that you come across so as long as you keep finding herbs you will eventually find enough, it never becomes a chore where you can't find what you need.  I wonder if the dungeons are randomly generated?  I think maybe so and if so that adds to the replay value and you can go back to any dungeon you've already beat at any time.  Since there are 3 characters there is also reason to switch between them to keep it interesting and you can switch at many checkpoints or teleporters, probably when you start the game too.  Theres some shared inventory but I dont think equipment is shared which is good because they will each want their own collection for their own purposes.  Apparently theres also a hard mode.  I like that it gives you clues "there must be a lever to open this gate" and then when you get near the lever "There is a lever here" so you know to look for it.  When you beat the game it increases the difficulty and you can start over from the beginning and level up further and this way it lets you unlock the other roughly half of the powers in your skill tree (if you haven't replayed a bunch of dungeons already) becoming superpowered, and it lets you explore the world with all of  the three powerful characters, and it lets you find all of the secrets (which can only all be found by playing each level with the three characters (or at least the dwarf and the lore-master).
+	- The voice acting and dialogue is great and like a movie. The voice acting sounds 90% like Gandalf, 70% like Aragorn, 70% like Gimli, 80% like Elrond, and 100% like Frodo.  It looks 99% like Frodo too, 85% like Gandalf and 65% like many of the rest.  Another detail is the freckles on the skin of the woman in the first side quest in bree were pretty striking and made her look incredibly realistic.    This game should have been huge for all LOTR fans.  I'm not only surprised I hardly heard of it, but I'm surprised it wasn't a really big deal.  I feel like I have heard of it but if you asked me what it was I would have said it was an RTS.  I think I remember hearing about this game and how it was a parallel story with an elf a man and a dwarf and I thought it was a cheap rip off or something.  Boy was I wrong.  Actually I think I just wanted it to be the exact story of lotr that I loved so much and wanted to live that tale.  I kind of think they should have made this game but with that exact story and this should have been some DLC for later.  Belaram the eagle looks freaking amazing and his voice acting is fantastic too and his mouth movements and animations are great in fact he might be my favorite character and the best voice actor in the game.  Baranthor the eagle in Imladris has an American accent which feels out of place although his acting is still top notch.  After starting it over when I was done I realized how well written this all is.  I understood all big picture ideas from the get go and never got lost in the story and it all seemed relevant and even important to do and like they were taking seriously the saving of the North of middle earth.  Most games and stories and books I have to read or experience several times to get it.  I guess I have an advantage since this is all based on something I know very very well so I've got a place in my mind for all of the new details, still for someone like me familiar with the existing lore this fits perfectly and strongly the first time which is impressive.
+	- A few words were mis pronounced: Westernesse (westerneese)by the blacksmith in Imladris when you offer him those things you found.  I think Arwen or somebody said Athelas wrong.  I feel like the return of the king game (even on GBA) which had the movie music in it, was a really sweet touch that made me feel like I was in the movie.  Clearly this isn't the movie, but had the music woven more of the themes from the score into these original tracks I think I would feel more a part of Arda.  I'm intellectually ok with their choice though and it generally makes sense.  
+	- Lore: I love the little details they added, like if you ask the blacksmith at Imladris what he is making he talks about how he is about to reforge Narsil!  Thats so cool that they thought to add that in here from this different perspective. I love how theyve woven this tale in with the lord of the rings saga letting it weave inand out and augment but not disrupt exactly what happened in the books.  I also love that when Gimli interviews Gandalf they talk about why not have the eagles fly the ring to mount doom!  they're actually addressing that possible plot hole in this.  Thats so cool.  Its cute how enamored Farin becomes with Arwen instantly and starts stumbling on his words.  Its like Gimli and Galadriel haha.  I love how respectful they are to the eagles, and how cool the eagles are in return for their help.  I love that this game deals with what happened in the north which isn't really detailed at all in the books. Also they say lots of little quips from the movies and books like "the warg that one hears is worse than the orc that one fears" and something about underestimating dragons in nordinbad.  little things like that are riddled throughout.
+	- Beat it at 1:10pm on 7/27/2020 This is one of the coolest and best games I've ever played.  I kept playing and got through part of the first dungeon and was getting blown up so much by the energy bolts (instant death) and since I'd already seen virtually all of the content it lost much of its shine for me.  I was getting some super powerful weapons though which was really cool.
+* Micro Mages 7/27/2020 PC
+	- I love this.  I was able to beat the first level (2869 is the password for level 2) without using any continues.  Its a fantastic game. the controls are so solid and I bet it would be a blast with multiple players.  When y ou eventually continue it starts you at the first level of the world.  when I beat level 2 the password was 3645.  ok!  7/28/2020 After about 30 min I beat level 3 password 7641
+* Shitty Quest 7/27/2020 PC
+	- "Here's my knob" haha.  After solving some puzzles (which made us feel smart) we just now met someone special who announced who he is in an epic voice :slight_smile: That was tonight's session and my dad and me loved it so far.  
+* Xenon Racer 7/27/2020 PC
+	- This game got some bad reviews for being too silly difficult or actually just really unfair (as in opponents get suddenly way faster than you) at least on hard mode. I'm playing on easy and on the third race I had to try it several times to pass, the first two races I didnt do great but passed, but the third one you have to get 1st place in a time trial and the first leg is super hard and you have to take the corners just so fast, after htat you get more and more bonus time and its better.  So its weird imho that they made it so hard instead of making more races against easier opponents but with a softer difficulty curve.   Still the racing and drifting is great fun and the graphics are awesome.  I've spent a good half hour with it and have had fun the whole time so its worth the money for sure even if its not the most value for money ever.  By the 4th race I am in 8th place and 40 seconds behind and that was racing at my best.  I'll try a few more times and give up.  Interesting that it doesnt let you pick a car and get used to how that car handles which I think is a little bit insane.  Itmakes you try different cars and on this last one with tons of twisties it doesnt drift anything like the previous car and doesnt drift well at all imho.  lets hope I can pick another car somehow for this race. Now the car models are totally bad ass all of them.  I can pick a car on this 4th race but its not one of the ones I've raced with before.  Maybe one of the ones I can pick will be decent for this task.  Nope the 4th race in the easy mode of the game is so unfair hard it should be perhaps the last race in the hard mode.   I'm probably done with this but the racing was great and the graphics were great and controls and presentation was through the roof the AI's fairness balance and difficulty curve were pretty far off though.  The presentaiton is awesome because its like your car is lifted from a garage up into your livingroom on a circular fancy lift directly.  pretty awesome.
+* Titanfall 2 7/27/2020 PC
+	- Setting: Wow The intro video is amazing.   Anyway I'm in and the intro is so bad ass like the best scenes from an action movie.  The graphics in the intro level are so beautiful its a peaceful serene scene with amazing dramatic sun lit hall.  ITS COOL that they have a gauntlet which then sets the difficulty of the game based on how you do in that gauntlet.  thats really smart imho. This has a great lore which although entirely new to me is starting to make sense and doesn't need too terribly much background.  They are doing a great job of making it feel like being in a movie.  Wow the opening scene where you're falling and everything that happens on that planet is intense and exciting and really really cool and sad and scary too.  Now that I have a titan I love having it as my friend and companion.  This could wind up being a legendarily great game in fact its on course for that.  
+	- Levels  The graphics and environments on this first level are spooky and also fresh kind of like a brighter predator.  I'm deeply into this story. I think its really cool that they tried to teach you about driving the titans but ran out of time and make clear that only a well trained pilot is supposed to get a titan, but then you get thrust into one out of necessity and you have to figure the shit out!  I think its cool how some abilities are only not active at first because the suit and helmet are calibrating to your movements and natural abilities and so you have to maneuver around to teach it  There are some awesome alien beasties on this planet too.  oMG that cute bot regarding a new weapon "I think you're in love" "Human love requires affection devotion respect and admiration ... conclusion I am 50% in love"
+	- Gameplay: I love the wall-jump (always have in prince of persia too) and this one plays and controls great.  It looks like you can have two weapons and grenades it looks like if you have weapon f201(example) and you see another f201 on the ground you can't pickup ammo from the one on the ground, you swap them out to see which has more ammo in it which seems somewhat weird. Update I was mistaken about that. my bad.  The medium range rifling is really fun kind of like sniping and I'm doing great at headshots.  Theres lots of cover and places to hide so I can take my time and sneak and I like doing that.  This gameplay would be amazing for speedruns even in game, like a level could be about finding the best path of escape from an exploding time bomb and you can go generally straight or if you are skilled you can get a bunch of out of the way pickups.  When you die a checkpoint wasn't far behind which is awesome. I think its cool that you have to figure out how to platform and wall and double jump around to get through the levels to your goal.  It think its cool that it gives you the option to see where your target is in 3d space, and optionally with tab key which way to go next and also for each tricky platforming section you can optionally see a ghost do it before you do and its conceivable that your suit would do those calculations and use AR to show you through your mask.  I think thats pretty bad ass.  
+	- Specifics: I had to get an Origin EA Account but apparently I already had one, but apparently they also timed out my login info so I had to reset password.   Pretty regularly the steam overlay pops up but I don't really know why ... shift tab?  thats not what I'm pressing is it?  No its not.  its popping up when I switch to windows (alt tab) switch back, push forward and hit shift to run.  I got to a place where I turned off a sludge pump and the game changed a lot, it went from a sneaking game to instantly have to run and jump in a clumsy area with tons of obstacles and enemies everywhere but also exploding mines that run at you. They introduced the exploding mines by sending 4 at you at once in close quarters where there is no where to run from them.  I think this part is cheap and should have worked up to this.  I think its a boss battle but its too steep of a change and less fun as a result.
 
 # With Cristi #
 * Temtem
@@ -707,7 +713,7 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 * Seeking Dawn
 * Arizona Sunshine
 * Any other cool Looting game (google for the best ones and see which she likes best)(Skyrim, Monster Hunter, Destiny 2, etc)
-
+* WoW Retail (so easy to level up - classic is 4-8x slower to make progress)
 
 
 # With Tom #
@@ -750,14 +756,232 @@ Interesting Lesser Known Games
 
 
 
+## Amiga Games ##
+1. The Killing Game Show
+2. Turrican
+3. Superfrog
 
 
 
+
+
+### PS3 ###
+
+PS3 games that I would like to play in 3D
+-----------------------------------------------
+
+PS3 On the 3D list
+---------------
+https://en.wikipedia.org/wiki/List_of_PlayStation_3_games_with_3D_support
+Update: Anaglyph only and only a few games so ... no
+Crysis 1 2 3
+Enslaved: Odyssey to the West
+Epic Mickey 2
+Dungeon Defenders
+(Want to play heavenly sword in 3D!)
+Killzone 3
+Motorstorm Apocalypse
+Motorstorm 3D Rift
+Motorstorm RC
+NBA2k12
+Pinball Arcade
+Prince of Persia Trilogy
+Ratchet and Clank Collection
+Ratchet and Clank
+Ridge Racer 7 3D License version
+Resistance 3
+Sly Cooper Thieves in Time
+Sly Collection
+Sonic Generations
+Star Trek 
+Super Stardust HD (Beat it?)
+Uncharted 3
+Wipeout HD
+Zen Pinball 2
+Renegade Ops (Can confirm it was 3d and its awesome)
+
+
+PS3 Not on the 3D list
+-----------------
+Burnout Paradise 3D?  (PC might work too)
+Alien Breed Descent
+Assault Heroes looks GREAT!
+Astro Tripper!!!
+Beyond Good & Evil HD
+Bionic COmmando Rearmed 2
+Castlevania Lords of Shadow
+Elevator Action Deluxe
+Geometry Wars 3 Dimensions
+Karateka
+Nights Into Dreams
+Resogun
+LittleBigPlanet
+Sky Force Anniversary
+Sonic 4 episodes 1 and 2
+Soulcalibur 2 HD
+Strider (Beat)
+Superfrog HD
+TMNT Turtles in Time Reshelled
+Tekken 5
+Unfinished Swan
+Virtua Fighter 5
+Voltron: Defender of the Universe
+Need for Speed - The Run
+
+
+PS3 Arcade Retro Awesome
+--------------------------
+Karateka
+Assault Heroes looks GREAT!
+Astro Tripper!!!
+Bionic COmmando Rearmed 2
+Castlevania Lords of Shadow
+Super Stardust HD (Beat it?)
+Sonic Generations
+Pinball Arcade
+Epic Mickey 2
+Dungeon Defenders
+Nights Into Dreams
+Sky Force Anniversary
+
+PS3 Owned
+-----------------
+Geometry Wars 3 Dimensions
+Karateka
+Super Stardust HD (Beat it?)
+Astro Tripper!!!
+Burnout Paradise 3D?  (PC might work too)
+Beyond Good & Evil HD
+Castlevania Lords of Shadow
+Enslaved: Odyssey to the West
+Crysis 1
+Prince of Persia Trilogy
+Ratchet and Clank
+Renegade Ops
+Sky Force Anniversary
+Unfinished Swan
+
+
+
+
+
+
+
+
+
+## Master System ##
+
+I love these games from Master System:
+1. Wonder Boy 3
+2. Carmen Sandiego
+3. Double Dragon
+4. Phantasy Star
+5. Hang On/Jungle Hunt (built in)
+6. Castle of Illusion starting Mickey Mouse
+
+
+## PSX Games ##
+I loved these games from the PSX:
+1. Final Fantasy VII (this was so epic and I felt like a serious gamer playing this.  Beat this summer 1998)
+2. Metal Gear Solid (Same as FF7) (rented and beat this fall 1998/spring 1999)
+3. Resident Evil 2 (Same as FF7) (rented and beat this fall 1998/spring 1999)
+4. Castlevania Symphony of the Night
+5. Jet Moto 2 (Beat this Spring 1999 - really hard to beat this)
+6. Gex (Beat this Spring 1999 - It was some work to do it - really hard)
+7. Ridge Racer Type 4 (Great memories of renting this and thinking how much like GT it was but how it was slightly more edgy or something)
+8. Gran Turismo (This was so cool when I rented it a few times, maybe I even rented the second one)
+9. Suikoden (Beat this Summer 2000 when I was playing DWIV at the same time with the other hand)
+10. Tomba (I think I rented it and loved it in part but didnt buy it until much later - In like 2010 I played about half of this - I owned the 2nd game for a while too)
+11. Time Crisis (I beat it in 2000)
+12. Klonoa (I beat this in the 2000s but I dont know whether it was the one on the Wii? I played through half of Klonoa 2 on PS2 as well but never finished it.)
+14. Xenogears (I played through about half of this and was loving it so much playing it every night as I was going to sleep, but unfortunately my memory card died and I lost all of my progress :( it was one of those fancy high capacity memory cards) its a 60 hr game and I feel like I want to play it again and finally finish it 
+15. I played a ton of Brave Fencer Mushashi and loved it but I got stuck and gave up and never came back to it.  
+16. Um Jammer Lammy was amazing but it was very hard so I never beat it unfortunately
+17. Soul Blade probably my favorite on the system I unlocked all of the characters even the secrets.  
+18. Wipeout XL I played the hell out of this and I feel like I beat it but I dont remember when or what that would have really meant
+19. Spyro the Dragon - Betsy got me hooked on this but I beat it on my own it was very fun exploring this awesome 3d world.  I loved it so much and remember the final boss. I owned the 2nd and 3rd game at one point but never played either except enough to fly around a bit I remember that. 
+20. Final Fantasy 8 (Got about halfway through this actually)
+21. Twisted Metal 2 - I played about half of this in the 2000s but never beat it and certainly didnt play it enough bitd, but what a great game in every sense.  Multiplayer was epic.  
+22. Legacy of Kain: Soul Reaver - I played this for a bit on PSX, but then decided the DC version was the one to play and beat the whole game on Dreamcast.  It seemed like it took an eternity and it probably did but it was a really cool game.
+23. Blood Omen: Legacy of Kain - I remember playing this at Lyndie's house and it was so damn cool, I remember the load times being really annoying and not knowing where to go after a while and getting stuck, but I got many hours in proabably half way through it and it was really really cool and I loved the lore.  I think there were problems with it loading or something. 
+
+I Always wanted to play or master these from the PSX:
+1. Parasite Eve (Don't really know why I didnt play and beat this because I wanted it so bad) (Had a demo of it which I loved very much)
+2. Vagrant Story - I owned this at one point in the 2000s without a case but never really played it
+3. Chrono Cross
+5. Final Fantasy 9 - I owned this but never played it more than for just a few minutes.  
+6. Wing Commander 3 (or 4?) (I bought it at Hastings hoping Betsy and I could play it together but it didnt load :( 
+7. Everything in me said I should get Lunar: The Silver Star Complete collection for PSX but for some reason I never jumped on it.  I bet I would have freaking loved it.  It came with a map too!
+8. Suikoden 2 - never bought this one
+9. Time Crisis Project Titan - I owned this but only played it for a few minutes.  It was cool although it didnt draw me in quite like the first . there wanst anything wrong but the first one was so damn cool and immersive as a bad ass and this one didnt make me feel the same way.
+10. All other Guncon games - I owned most of them in the 2000s but hardly played any of them.  
+11. Tenchu Stealth Assassins - I had this for a while and it was so cool
+12. Einhander - Same It was really cool but I didnt spend much time with it unfortunately
+13. Gradius V - Dust had this and I played it at his work and it was just so cool with that awesome 3D (Wasnt there a darius game?  Wasnt there a space fish?)
+14. Ergheiz - I loved this for a few days and thought it was so cool
+15. Parappa the Rapper was pretty fun for a while.
+16. Frequency - Dust said it was great
+17. Tekken 2 I played a bit of and it was really cool.  I hardly played 3 at all.
+18. Alundra - Dust or Chuck had this and showed it to me and MAN I loved it so much just seeing the pictures of it. 
+19. Bushido Blade - I had some real fun with this for a few days because it was so cool it seemed like a strategy fighting game to me at the time, but I didnt get very far. 
+
+
+I'm interested in these FMV Games from the PSX:
+1. X Files (both recommended on a cannot be tamed video comment)
+
+## WiiU ##
+WiiU games that might be able to be Stereoscopic
+Update: not dolphin: CEMU wiht Reshade 3.0
+* Nano Assault Neo (Wii-U) Possibly in Dolphin could get stereoscopic working and this would be an amazing twin stick shooter in 3d!
+* Kirby Rainbow Curse WiiU Would be SO MUCH FUN (although would need a stylus somehow - wouldnt really work with mouse)
+* Super Mario 3D World WiiU I loved 3D Land so much I would love this one
+* Wind Waker HD WiiU Could get stereoscopic working in Dolphin perhaps?
+* Rayman Legends WIiU
+* New Super Mario Bros U
+* Xenoblade Chronicles X
+* Bayonetta
+* Shovel Knight
+* Captain Toad Treasure Tracker
+* Mario Galaxy 1 & 2 (Wiimote problems perhaps?)
+* Zelda Twilight Princess HD WiiU
+* Starfox Zero
+* Yoshis Wooly World
+* Yoshis Crafted World
+* Sonic Lost World
+* New Super Luigi U
+
+
+
+## Game Gear games to consider trying ##
+1. GG Aleste Game Gear / Powerstrike 2 Game Gear
+2. Streets of Rage 1 & 2 on Game Gear
+3. Panzer Dragoon Mini
+
+## RPGs ##
+
+### Classic RPGs ###
+1. Xenogears
+2. Vampire Bloodlines (See cannot be tamed video).  30-40h according to Pam and I bet it would take me that long too, maybe ther are cheats?   Apparently there are a bunch of unofficial patches even in 2019.  
+3. The Witcher 3
+
+
+## Light Gun Games ##
+http://www.arcadeguns.com/index.php?main_page=product_info&cPath=48&products_id=314&zenid=a6og89k4nbaq2cv0eed11ol7k2
+
+I love playing light gun games in VR by far best.  Its by far the best light gun like experience I've ever had.  
+But I wonder if it would be fun to play emulated games with actual modern light guns as if they were mice.  That would be compatible with almost any emulated game.  Arcadeguns.com has them.  about $125 each
+
+
+
+
+# Top List #
 
 -----------------------------------
 ## Most Exciting Games May 28 2020 ##
+Updated Jul 22 2020
 Track these on one of those websites (the backloggery, rf generation, HLTB)
 Look at Wishlist(DONE) and Humble Bundle (List above in this very file) and Games on Desktop (DONE)
+Look at GameCube, Wii, and 3DS, games below and Amiga games in the other note and above, and latest steam games Q2 and 3
 
 These are the games that get my blood pumping
 * Volgarr the Viking
@@ -775,7 +999,7 @@ Stories
 
 VR Stories
 * Half Life Alyx
-* Half Life VR
+* Serious Sam 2
 
 Wheel
 * Burnout Paradise
@@ -811,10 +1035,11 @@ Less of a chore - just a hard part or not motivated atm
 * Doom VFR
 * Professor Layton 3DS
 * Kid Icarus 3DS
-* Red Faction
+* Red Faction (Modern Engine)
 * Xion VR
 * Portal
 * Master Spy
+
 
 Games that are a bit of a chore to beat at the moment but will be satisfying to beat so play a bit every day or two
 * Mutant Storm Reloaded
@@ -848,40 +1073,55 @@ Very Promising
 * Sonic Mania
 * VR Kanojo
 * Before We Leave
-* Hellbound
 * Serious Sam Double D XXL
 * <See list of VR Platform Games>
 * Cuphead
 * Enter the Gungeon
 * Road Redemption
+* Deathspank
 
+Very Promising Stories
+* Hellbound
+* Metro 2033
+* Far Cry 3: Blood Dragon
+* F.E.A.R 2: Project Origin (FEAR)
+* Metal Gear Solid V: The Phantom Pain
+* Rise of the Tomb Raider
+* Hard Reset Redux
+* Vanquish
+* Quake 1 VR
+* Brutal Legend
 
 Promising
 * Worms Revolution (Matt Berry)
 * Flatout 2 (Wheel)
 * Sonic Generations PC
-* Super Crate Box
 * Deep Space Waifu (Series)
-* Rise of the Tomb Raider
 * Castle of Illusion
 * Metal Gear Rising: Revengeance
-* Hard Reset Redux
-* Metro 2033
-* Portal
-* Vanquish
-* Doom 2016
 * Yooka Laylee VR (use walkthroughs)
-* Metal Gear Solid V: The Phantom Pain
+* Flatout 4
+* Castlevania: Lords of Shadow - Mirror of Fate HD
+* NiGHTS into Dreams
+* Starwhal
+* Castle Crashers
+* Super Meat Boy
+* Superfrog HD
+
+
+Promising Stories
+* Half Life 1 VR
+* Portal
+* Doom 2016
 * Half Life 2 VR
 * Doom 3 VR
 * GTA V VR
-* Quake 1 VR
 * BioShock
 * BioShock 2
-* Flatout 4
-* F.E.A.R 2: Project Origin
-* Castlevania: Lords of Shadow - Mirror of Fate HD
-* NiGHTS into Dreams
+* Batman Arkham Asylum
+* Batman Arkham Origins
+* Batman Arkham City
+
 
 Wishlist Most Promising
 * Pistol Whip
@@ -892,11 +1132,12 @@ Wishlist Most Promising
 * Blazing Chrome
 * Boiling Bolt
 * Sprint Vector VR
-* Jet Island
+* Jet Island VR
 * Katana Zero
 * Distance
 * Streets of Rogue
 * Climbey
+
 
 Big and dont own but promising
 * Amid Evil
@@ -904,6 +1145,7 @@ Big and dont own but promising
 * Ion Fury
 * Wolfenstein II: The New Colossus
 * Styx
+
 
 New but also promising
 * Valiant Hearts
@@ -954,6 +1196,7 @@ Games that could go on forever
 * Star Trek: Bridge Crew
 * Destiny 2
 * Aven Colony
+* Skyrim VR
 * ----------
 * Space Engine
 * Cities Skylines
@@ -962,6 +1205,7 @@ Games that could go on forever
 * Ark: Survival Evolved
 * Lord of the Rings Online
 * World of Warcraft
+
 
 Would like to make a game in
 * Clickteam Fusion
@@ -978,27 +1222,6 @@ Would like to make a game in
 * Leadwerks Game Engine (own)
 
 
-WiiU games that might be able to be Stereoscopic
-* Nano Assault Neo (Wii-U) Possibly in Dolphin could get stereoscopic working and this would be an amazing twin stick shooter in 3d!
-* Kirby Rainbow Curse WiiU Would be SO MUCH FUN (although would need a stylus somehow - wouldnt really work with mouse)
-* Super Mario 3D World WiiU I loved 3D Land so much I would love this one
-* Wind Waker HD WiiU Could get stereoscopic working in Dolphin perhaps?
-* Rayman Legends WIiU
-* New Super Mario Bros U
-* Xenoblade Chronicles X
-* Bayonetta
-* Shovel Knight
-* Captain Toad Treasure Tracker
-* Mario Galaxy 1 & 2 (Wiimote problems perhaps?)
-* Zelda Twilight Princess HD WiiU
-* Starfox Zero
-* Yoshis Wooly World
-* Yoshis Crafted World
-* Sonic Lost World
-* New Super Luigi U
-
-
-
 
 
 
@@ -1011,10 +1234,14 @@ Might like to play again
 * Bloody Zombies
 * Bloodstained Ritual of the Night
 
+Might like to play again in 3D
+* Shantae 3DS
+
 
 Great VR that I can play a bit every day
 * Compound
 * Viral EX
+* Time Carnage
 * -----
 * Duo
 * VR Table Tennis
@@ -1030,6 +1257,8 @@ Great VR that I can play a bit every day
 Great Active VR that I can play over and over
 * Beat Saber
 * In Death
+* Until You Fall
+* Compound
 * -----
 * Echo Arena
 * Space Pirate Trainer
@@ -1038,7 +1267,6 @@ Great Active VR that I can play over and over
 * Holopoint VR
 * QuiVR
 * Vanishing Realms
-
 
 Great pancake that I can play over and over
 * Spheres of Chaos
@@ -1051,13 +1279,14 @@ Great pancake that I can play over and over
 * Street Fighter IV
 * Street Fighter V
 * Quake Champions
-* Quake Live with 
+* Quake Live  
 * Quake Dark Places online
 
 Stories that I can play again
 * Red Faction 2
 * The Signal from Tolva
 * Hellblade: Senua's Sacrifice VR
+* Portal 2 VR
 
 Would like to play with VorpX or Nvidia 3D
 * Grow Up
@@ -1065,100 +1294,199 @@ Would like to play with VorpX or Nvidia 3D
 * Refunct
 
 
-### Games I could sell ###
-* Kirby 3DS
-* Zelda 3DS
+
+
+## Stereoscopic Games on my mind 7-19-2020 ##
+Games which might be cool in Stereoscopic 3D
 
 
 
 
 
+## Gamecube ##
+Games which might be cool in Stereoscopic 3D or VR
+
+Proven to be great
+O Burnout 2
+O Lord of the Rings - Return of the King
+
+
+
+----------
+O Viewtiful Joe
+O Luigis Mansion (3DS?)
+D Super Mario Sunshine
+O Zelda Twilight Princess
+O Metal Gear Solid: The Twin Snakes (MGS on MGS2 Engine)
+O Beyond Good and Evil
+O F-Zero GX (The racing experience in stereoscopic!)
+O Skies of Arcadia Legends
+O Zelda Wind Waker
+O Hobbit in 3D!!!!  OMG!!!
+O Metroid Prime (never beat this - maybe I could now in High Resolution 3D?  or in VR?) 
+O Peter Jacksons King Kong
+O Tak and the Power of Juju
+O Timesplitters Future Perfect
+O Star Fox Adventures
+O Gauntlet Dark Legacy
+O Lord of the Rings - The Two Towers
+----------------
+N Prince of Persia 1
+N Prince of Persia 2
+N Prince of Persia 3
+O Rayman 3
+O Red Faction II
+N Alien Hominid
 
 
 
 
+## Wii ##
+
+Games which might be cool in Stereoscopic 3D or VR
 
 
+Wiiners games with Traditional Controls
+------------------------------------
+C Klonoa
+O Sin and Punishment: Star Successor
+C MLB Power Pros
+C Nights: Journey of Dreams
+-------
+C Muramasa: The Demon Blade
+C Rayman Origins
+C Geometry Wars: Galaxies (High Resolution, 3D, Could be awesome!)
+C Pinball Hall of Fame - The Williams Collection
+C Pinball Hall of Fame - The Gottlieb Collection
+C Pirates Plundarr
+C Conduit 2
+C Blast Works
+-------
+C Kirbys return to dreamland
+C Lord of the Rings Aragorns Quest
+C Mushroom Men
+C NBA 2k13 (with 3D and traditional Controls and replays!!!)
+C Resident Evil 4 (Gamecube if no remote attached)(Or mouse for wiimote might be epic?)
+C Sonic Colors
+C Sonic Unleashed
+C Super Mario Galaxy 1
+C Super Mario Galaxy 2
+C TrackMania: Build to Race
+-------
+N Okami (ookami)
+N Boy and His Blob
+N Kirbys Dream Collection (Kirby 64 3D?)
+N Wario Land Shake It
+N Dragons Lair Trilogy
+N N Namco Museum Remix
+N Pitfall: The Big Adventure
+N Mortal Kombat: Armageddon
+N The legend of Spyro: The Eternal Night
+N Rodea: The Sky Soldier
 
 
+Wii games that I already probably have on 3DS with traditional controls
+------------------------------------
+C Centipede: Infestation(3DS)
+C Bit Trip Complete (3DS)
 
-## Some of the best games ever ##
+Wii that use limited motion controls
+------------------------------------
+(trivial map analog to wiimote pointer and another button to shake, or mouse and keyboard)
+C Donkey Kong Country Returns
+O New Super Mario Bros Wii
+D Super Mario Galaxy 1
+C Super Mario Galaxy 2
+N Metroid: Other M
 
-I love these games from Master System:
-1. Wonder Boy 3
-2. Carmen Sandiego
-3. Double Dragon
-4. Phantasy Star
-5. Hang On/Jungle Hunt (built in)
-6. Castle of Illusion starting Mickey Mouse
+Wii that use motion controls
+------------------------------------
+N Punch Out
+N Zelda Skyward Sword (google for how to emulate motion controls?)
+N Kirbys epic yarn? (pointing to zippers)
 
-I loved these games from the PSX:
-1. Final Fantasy VII (this was so epic and I felt like a serious gamer playing this.  Beat this summer 1998)
-2. Metal Gear Solid (Same as FF7) (rented and beat this fall 1998/spring 1999)
-3. Resident Evil 2 (Same as FF7) (rented and beat this fall 1998/spring 1999)
-4. Castlevania Symphony of the Night
-5. Jet Moto 2 (Beat this Spring 1999 - really hard to beat this)
-6. Gex (Beat this Spring 1999 - It was some work to do it - really hard)
-7. Ridge Racer Type 4 (Great memories of renting this and thinking how much like GT it was but how it was slightly more edgy or something)
-8. Gran Turismo (This was so cool when I rented it a few times, maybe I even rented the second one)
-9. Suikoden (Beat this Summer 2000 when I was playing DWIV at the same time with the other hand)
-10. Tomba (I think I rented it and loved it in part but didnt buy it until much later - In like 2010 I played about half of this - I owned the 2nd game for a while too)
-11. Time Crisis (I beat it in 2000)
-12. Klonoa (I beat this in the 2000s but I dont know whether it was the one on the Wii? I played through half of Klonoa 2 on PS2 as well but never finished it.)
-14. Xenogears (I played through about half of this and was loving it so much playing it every night as I was going to sleep, but unfortunately my memory card died and I lost all of my progress :( it was one of those fancy high capacity memory cards) its a 60 hr game and I feel like I want to play it again and finally finish it 
-15. I played a ton of Brave Fencer Mushashi and loved it but I got stuck and gave up and never came back to it.  
-16. Um Jammer Lammy was amazing but it was very hard so I never beat it unfortunately
-17. Soul Blade probably my favorite on the system I unlocked all of the characters even the secrets.  
-18. Wipeout XL I played the hell out of this and I feel like I beat it but I dont remember when or what that would have really meant
-19. Spyro the Dragon - Betsy got me hooked on this but I beat it on my own it was very fun exploring this awesome 3d world.  I loved it so much and remember the final boss. I owned the 2nd and 3rd game at one point but never played either except enough to fly around a bit I remember that. 
-20. Final Fantasy 8 (Got about halfway through this actually)
-21. Twisted Metal 2 - I played about half of this in the 2000s but never beat it and certainly didnt play it enough bitd, but what a great game in every sense.  Multiplayer was epic.  
-22. Legacy of Kain: Soul Reaver - I played this for a bit on PSX, but then decided the DC version was the one to play and beat the whole game on Dreamcast.  It seemed like it took an eternity and it probably did but it was a really cool game.
-23. Blood Omen: Legacy of Kain - I remember playing this at Lyndie's house and it was so damn cool, I remember the load times being really annoying and not knowing where to go after a while and getting stuck, but I got many hours in proabably half way through it and it was really really cool and I loved the lore.  I think there were problems with it loading or something. 
-
-I Always wanted to play or master these from the PSX:
-1. Parasite Eve (Don't really know why I didnt play and beat this because I wanted it so bad) (Had a demo of it which I loved very much)
-2. Vagrant Story - I owned this at one point in the 2000s without a case but never really played it
-3. Chrono Cross
-5. Final Fantasy 9 - I owned this but never played it more than for just a few minutes.  
-6. Wing Commander 3 (or 4?) (I bought it at Hastings hoping Betsy and I could play it together but it didnt load :( 
-7. Everything in me said I should get Lunar: The Silver Star Complete collection for PSX but for some reason I never jumped on it.  I bet I would have freaking loved it.  It came with a map too!
-8. Suikoden 2 - never bought this one
-9. Time Crisis Project Titan - I owned this but only played it for a few minutes.  It was cool although it didnt draw me in quite like the first . there wanst anything wrong but the first one was so damn cool and immersive as a bad ass and this one didnt make me feel the same way.
-10. All other Guncon games - I owned most of them in the 2000s but hardly played any of them.  
-11. Tenchu Stealth Assassins - I had this for a while and it was so cool
-12. Einhander - Same It was really cool but I didnt spend much time with it unfortunately
-13. Gradius V - Dust had this and I played it at his work and it was just so cool with that awesome 3D (Wasnt there a darius game?  Wasnt there a space fish?)
-14. Ergheiz - I loved this for a few days and thought it was so cool
-15. Parappa the Rapper was pretty fun for a while.
-16. Frequency - Dust said it was great
-17. Tekken 2 I played a bit of and it was really cool.  I hardly played 3 at all.
-18. Alundra - Dust or Chuck had this and showed it to me and MAN I loved it so much just seeing the pictures of it. 
-19. Bushido Blade - I had some real fun with this for a few days because it was so cool it seemed like a strategy fighting game to me at the time, but I didnt get very far. 
+Wii that uses pointy controls
+------------------------------------
+These would be awesome with VR Shooting Controls 
+Remember if VR Shooting isnt great: try playing them with mouse and keyboard controls
+O Sin and Punishment: Star Successor
+C Dead Space: Extraction
+C Medal of Honor: Heroes 2
+C Conduit 2
+C Ghost Squad
+C Gunblade NY and LA Machine Guns
+C Metroid Prime 3
+C Resident Evil 4 (Gamecube if no remote attached)(Or mouse for wiimote might be epic?)
+------------------
+N Resident Evil: Umbrella Chronicles
+N Transformers: Cybertron Adventures
+N N Resident Evil: Darkside Chronicles
 
 
-I'm interested in these FMV Games from the PSX:
-1. X Files (both recommended on a cannot be tamed video comment)
-
-Games ( for markdown)
-
-- 3DS Favs
-  - Zelda Link Between Worlds (DONE AMAZING)
-  - Out Run - eshop
-  - Fantasy Zone II
-  - Sonic
-  - Space Harrier eshop 
-  - Shantae and the Pirates Curse! (DONE AMAZING)
+Wii games Less Interesting with Traditional Controls
+-----------------------------------------------------
+Do any of these work in stereoscopic? 
 
 
-## Game Gear games to consider trying ##
-1. GG Aleste Game Gear / Powerstrike 2 Game Gear
-2. Streets of Rage 1 & 2 on Game Gear
-3. Panzer Dragoon Mini
+New 
+------------------
+O Disney Epic Mickey 1
+C Disney Epic Mickey 2
+C De Blob 2
+C Driver San Francisco
+C Excite Truck
+C Excite Bots
+O Odama (GC)
 
-## RPGs ##
 
-### Classic RPGs ###
-1. Xenogears
-2. Vampire Bloodlines (See cannot be tamed video).  30-40h according to Pam and I bet it would take me that long too, maybe ther are cheats?   Apparently there are a bunch of unofficial patches even in 2019.  
-3. The Witcher 3
+On my mind atm
+----------------
+Co Op Games:
+1. Kirby Wii
+2. DKC Wii?
+3. Lotr ROTK gamecube/wii
+4. Dead Space Extraction Wii
+
+
+Lotr games
+-------------
+ROTK GC
+TTT GC
+ROTK GBA
+War in the North - like Diablo - hardly available anymore
+
+2D 3D SBS Platformers
+---------------------
+Shinobi III 3DS
+Kirby Wii
+Kirby 3DS
+New Sup 2 3DS
+New Sup Wii
+Donkey Kong Wii
+Donkey Kong Frozen 3DS
+Klonoa
+
+
+3D Action Adventures
+------------------------
+Lego Lord of the Rings Wii/3DS
+Lego Hobbit 3DS
+Luigis Mansion
+Starfox 64 3D
+Wario World
+Mario 3D Land
+
+
+On my mind atm 7/27/2020
+----------------------------
+
+Games on iOS with MFi gamepad
+1. Castlevania Symphony of the Night
+2. Dust: An Elysian Tail
+3. VVVVVV (Own)
+4. Wonder Boy the Dragons Trap
+5. Shantae (Own)
+
+Others
+1. Saving Princess - I love the look of this game, it looks like a cool modern metroid game
+2. Never Stop Sneaking - by the Dust developer and like Metal Gear Solid but a parody with a sense of humor
