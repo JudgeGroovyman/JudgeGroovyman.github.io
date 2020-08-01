@@ -723,6 +723,55 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 * Bridge Crew
 * That Strategy Board Game
 
+# For RetroAchievements #
+
+Most of these I dont want to badge.
+
+Ones to consider badging
+
+Have beat before
+1. Wonderboy The Dragons Trap
+2. Kid Icarus
+4. Castle of Illusion SMS
+5. Super Mario Bros 1,2
+6. Double Dragon SMS
+7. Golden Axe SMS
+8. Mario World
+
+
+
+Always wanted to
+1. Castlevania
+4. Contra
+7. Faxanadu
+8. Sonic
+9. Golden Axe GEN
+10. Zelda LTTP
+11. Zelda Gameboy
+12. Wario Land VB
+17. Alex Kidd GEN
+18. Castle Of Illusion GEN
+
+Want to now
+10. Shinobi SMS
+11. Vampire Master of Darkness SMS
+12. Professor Layton NDS
+13. Shantae
+14. Dragon Curse TG16
+15. Gradius TG16
+16. Alisia Dragoon GEN
+
+
+
+Beat with save states
+3. Zelda 2
+4. Alex Kidd SMS
+5. Rygar
+
+Some of these might be too hard to be entertaining for me
+1. Wizards and Warriors
+6. Ghosts and Goblins
+8. Ninja Gaiden
 
 # Lists of Games #
 
