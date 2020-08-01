@@ -751,6 +751,9 @@ Always wanted to
 12. Wario Land VB
 17. Alex Kidd GEN
 18. Castle Of Illusion GEN
+19. Lotus Turbo Challenge GEN (same as Lotus 2)
+20. Strider GEN
+21. TMNT Hyperstone Heist
 
 Want to now
 10. Shinobi SMS
@@ -760,6 +763,9 @@ Want to now
 14. Dragon Curse TG16
 15. Gradius TG16
 16. Alisia Dragoon GEN
+17. Double Dragon GEN
+18. Gauntlet IV GEN
+
 
 
 
