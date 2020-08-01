@@ -10,7 +10,7 @@
 4. Make a tetris game in C with SMFL (then in pure C# in Visual Studio)
 5. Make a synthesizer using the simple fluid synth API in C
 6. Write a game directly for [linux framebuffer](http://betteros.org/tut/graphics1.php)
-7. Write a game direclty on video hardware for [raspberry pi] (http://raspberrycompote.blogspot.com/2012/12/low-level-graphics-on-raspberry-pi-part_9509.html)
+7. Write a game direclty on video hardware for [raspberry pi](http://raspberrycompote.blogspot.com/2012/12/low-level-graphics-on-raspberry-pi-part_9509.html)
 8. Write a [game for DOS in C](https://nullprogram.com/blog/2014/12/09/)
 9. [Invent your own computer games with Python](http://inventwithpython.com/invent4thed/)
 10. [Cracking Codes with Python](https://inventwithpython.com/cracking/)
@@ -26,13 +26,13 @@ I met Alan Kay once.  It changed my life.
 1. [Pharo](https://github.com/pharo-project/pharo) Modern Smalltalk.  Updated 17hrs ago.
 2. [Amber.js](https://amber-lang.net) A language and live environment built for the javascript runtime.  Updated in the last few weeks.
 3. [Seaside](http://www.seaside.st) For sophisticated Web applications in Smalltalk.  Updated in the last few months.  
-
+4. Heres a [huge list of smalltalk projects](http://smalltalkhub.com/list) on a github like site for smalltalk.  Its the wild west though so theres no guarantee any of them will work with your version of pharo.
 
 # Assembly #
 ## Assembly onModern Mac ##
 This is actually pretty tricky to do assembly on modern systems unless you really know what you're doing.  
 
-* I got a hello world going from [James Fishers tutorial])
+* I got a hello world going from [James Fishers tutorial](
 https://jameshfisher.com/2017/02/20/macos-assembly-hello-world/) but then I saw this [nasm tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/) and was intrigued by the slight differences in the hello world code.  
 * I think you could get a lot of information from these commands and operands lower down a bit in [this nasm tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/) it focuses on the details of the hardware and the most basic assembly commands and also has some mac specific details and a mac specific averaging program at the bottom that takes input and makes output.
 * I heard earlier today that really assembly is about the details of the hardware as much as the language.  

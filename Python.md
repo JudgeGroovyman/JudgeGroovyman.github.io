@@ -12,19 +12,28 @@ just change the name of python.exe in python3.8 to python3.exe
 ## Simple Server ##
 
 
+## penv ##
+For managing python versions on one system
+
+[heres how to use it](https://opensource.com/article/19/5/python-3-default-mac#what-to-do)
+
 
 ## Virtual Environments ##
 
 1. pip install virtualenv
-2. virtualenv any_name_you_want
-3. virtualenv <that name>
+2. virtualenv venv
+3. virtualenv venv
 4. source venv/bin/activate
-5. deactivate
+
+(later)
+5. deactivate 
+
+(instead of venv use any name you want)
 
 or to use python 3 or 2 you can use this as step 4
 
-1. virtualenv -p /usr/bin/python2 venv
-1. virtualenv -p /usr/bin/python3 venv
+5. virtualenv -p /usr/bin/python2 venv
+5. virtualenv -p /usr/bin/python3 venv
 
 https://www.alexkras.com/how-to-use-virtualenv-in-python-to-install-packages-locally/
 

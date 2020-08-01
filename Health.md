@@ -1,3 +1,69 @@
+# ADHD #
+
+Making Adderall last longer: 
+Making it last longer and stronger is called potentiation and can of course be dangerous.  
+
+[Potentiating Adderall](https://summithelps.com/adderall/potentiation/)
+1. Eating breakfast prior
+2. Avoiding Citrus and vitamin C
+3. Baking soda to increase PH in stomach can lead to faster absorption, TUMS can too.  This can take the extended release and more closely mirror the rapid-onset.
+4. Caffeine adds more of its own stimulation
+5. L-Tyrosine is a dopamine building block and an Amino Acid precursor and can contribute to the stimulation
+6. Nicotine - apparently this can cross-potentiate with Adderall
+
+
+Positive results from this article: [Natural Alternatives to Adderall](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4757677/)
+
+1. Panax quinquefolium (200 mg) (a type of Ginseng see below), and Ginkgo biloba extracts (50 mg)
+2. Ritalin with Yizhi mixture (a combination of 10 herbs designed to affect Yin/Yang liver functions) - More improvement and less side effects Ritalin alone.
+3. zinc sulfate 
+4. acetyl-L-carnitine (ALC) - significantly helps with Hyper and Poor social behaviour by increasing acetylcholine and stimulating it and dopamine
+4. Magnesium and B6
+5. a 36 ingredient micronutrient titration up to max dose of 15 capsules a day showed significant improvements (EMPowerplus1).  Table one is a list but its nothing weird just the standard vits lots of B and the standard minerals.
+6. Rhodiola stimulates CNS Activity and is antifatigue and antianxiety and seratonin.  Few if any side effects.
+7. YY162 (processed from ginko biloba and ginseng) comparable to the results from Ritalin.  Dont see how to get this though anywhere
+8. BEST Bacopa 93% reduction of restlessness!  Learning, memory, concentration too.  Significant improvmeent. 225mg/day for 6 months.
+9. Ningdong granule (NDG) widely used Chinese - as effective as Ritalin!
+10. Valerian helps with GABA which helps with anxiety and restlessness
+11. Ginkgo biloba, 240mg of Ginko 
+12. Ginkgo with Ginseng (50mg/200mg) significant improvement, also lasted for up to 4 weeks after.  Some emotional side effects possible, with tired and sweating possible ()
+14. Pycnogenol - lasted for 1 month after, minimal side effects.  Antioxidant levels lasted 
+15. Antioxidants of all varieties (see Pycnogenol in the article) Oxidative stress is believed to be a contributing factor.
+
+
+me and her:
+L-Tyrosine, Bacopa, Valerian, GABA, Ginkgo biloba(50-250mg), Ginseng(200mg), Pycnogenol, CoQ10, AlphaLipolic Acid (<600mg/day) 
+
+Treat Wart every day for the rest of 2020, Castor Oil
+
+(Pull or lower the ginkgo and giseng if side effects)
+
+Best Antioxidants: 
+https://www.uspharmacist.com/article/natural-powerful-antioxidants
+
+1. Vitamin C?  (Water soluble so take it with water)
+2. Vitamin E (Fat soluble so take it with fats)
+2. Oregano Oil, 
+3. Hydroxytyrosol, 
+4. CoQ10, (50-1200mg/day - best with 1200) (fat soluable so take it with meals containing a little bit of fat) 
+5. Lycopene & other Carotenoids
+6. Alpha Lipoic Acid - 600mg/day is normal in Europe for therapys.  speeds the removal of glucose from the bloodstream(partly by inhancing insulin function) and reduces insulin resistance.  Natural in Red Meat.  
+7. Green Tea
+
+
+
+# Brain Muscle/Connective Tissue relationship #
+1. Work out my back to make it very strong
+
+
+
+# Digestion, leaky gut, and healing the gut lining #
+1. Castor Oil (easiest & best)
+2. GAPS diet with bone broth and meat with a specific difficult diet for several months
+3. 
+
+
+
 # High Blood Pressure #
 
 ## Familiar advice ##
