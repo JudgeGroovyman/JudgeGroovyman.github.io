@@ -1,3 +1,56 @@
+# Twitch Notes #
+
+This is just a small portion of notes that I happened to make from my twitch watching.
+
+GutenPrank3n
+Fri Jul 31 2020
+Beat levels 1-4 in under 55 minutes, and Level 5 took 70 more minutes.
+Aug 4 2020
+Beat levels 1-4 in just under 23minutes which is amazing imho.  Then level 5 only took another 30min with no substantial sticking points, and by the beginning of the stage 6 run he was proud of what he had done!
+Before Ninja Gaiden - Loves the Game
+https://clips.twitch.tv/CrispyRamshackleChickpeaTebowing
+https://clips.twitch.tv/UnusualGenerousKaleUnSane
+After Ninja Gaiden - Hates the game
+https://clips.twitch.tv/AttractiveObliviousTroutBabyRage
+Yayayayaya Poppa Cheevos
+https://clips.twitch.tv/FaithfulWanderingSoybeanCharlieBitMe
+Striker1's PB
+https://www.youtube.com/watch?v=LFKOb2M6FEA
+Striker1's how to beat 6-3
+https://www.youtube.com/watch?v=TI0lVIYXUPo
+Hey! Oh man I didnt reply the other day.  yeah  James and Mike are a lot of fun and have been inspiring to me too and thats cool that they inspired you to dig into the awesomeness of retro games!
+So I went back and watched the previous stream and figured out how much progress you made from day 1 to day 2 of Ninja Gaiden and its pretty amazing tbh:  Levels 1-4: Day 1 took about an hour.  Day 2 only about 23 min!  Level 5: Day 1: 70 minutes,  Day 2: only 30 minutes!!!  Thats amazing progress imho and I wanted to let you know early so you could start off your day on the right foot.  Party on!
+
+At some point when you are in a good mood, check out the three clips from last night called like "Before Ninja Gaiden" and "After Ninja Gaiden" because they show how much you love the game before level 6 and how much that level 6 destroys a mans soul and watching them back to back is pretty funny imho :)
+
+
+
+Dr Orochi
+
+Farewell Ramus. I will now tell you what you meant to me ..
+https://clips.twitch.tv/BillowingAmazingNoodleKeyboardCat
+I'll make you an offer you wont refuse!  Take it all ok?  Please forgive me!
+https://clips.twitch.tv/ReliableLittleMacaroniDansGame
+
+Gutens DKC his last DKC was one of my favorite streams ever it was so much fun for me
+GutenPrank3n iframing through bomb on boss
+https://clips.twitch.tv/PreciousTriangularTapirPeteZaroll
+Rush sounds like DKC - similar chord progressions
+https://youtu.be/w5jwxrTqoEA?t=88
+DKC
+https://youtu.be/41J02KoKEVE?t=88
+
+
+Middle Aged Stream Aug 3 2020
+11:54pm funny snake humping rap
+
+
+
+Dawn solves puzzle
+https://clips.twitch.tv/ScrumptiousBelovedGazelleGOWSkull
+
+
+
 # Music #
 
 ## Albums From My Past ##
@@ -72,6 +125,7 @@ Cool Movies you might not know about:
 2. Freaks
 3. Mr. Right (hilarious hitman movie)
 4. The Accountant (cool hitman movie about autism)
+
 
 
 

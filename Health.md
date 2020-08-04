@@ -149,6 +149,9 @@ Menopause is 12 consecutive months of no period.  Symptoms start up to 4 years b
 - Placing a cold pack on abdomen causes constriction of blood vessels
 - Avoid Sugar (since that stimulates insulin) 
 
+If its really heavy and not directly related to monthly then it may be uterine fibroids or polyps.
+1. https://www.healthline.com/health/fibroids-natural-treatment "Guizhi fuling or Gui Zhi Fu Ling Tang. This formula contains several herbs that act to shrink uterine fibroids, balance hormone levels, and keep your uterus healthy""
+
 
 
 

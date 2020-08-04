@@ -53,6 +53,9 @@ Back in the day they thought that making home games should be like making games 
 	* Or it may mean that competitive players won’t find much to keep them occupied 
 	* It also may mean that for some people the games are not very interesting 
 	
+	
+	
+
 # Continue Structures #
 
 Much of the problems with games is about the continue structure of the game.  One simple way to do it is separate into shortish levels and let you try that level as many times as you want until you beat it with no passwords or anything.  its tragic to me that so many games could have done something simple like this back then but made the game so hard that half of the people didnt play it.  An important part of the reason that people pirated games in the 80s was to fix their difficulty.
@@ -145,6 +148,32 @@ I actually already made this exact game in coppercube.
 ### Hoi
 
 ### Wonderboy III: The Dragon's Trap
+
+### Ninja Gaiden NES 
+This game as-is is fundamentally a fantastic game, however the game as-is should have been the hard mode of the game, and there should have been a normal mode (and ideally an easy mode) and there are a few simple ways they could have made normal mode more fair for almost everyone than hard mode:
+
+
+1. Don't make dying on boss on level 6-4 take you back to level 6-1.  it should let you retry from 6-3 and it still would have been a great challenge to get through 6-3 and all of the bosses.
+2. More available Ninpo throughout the game but especially levels 5 and 6 (3x per pickup perhaps at least on 5-6?) and some opportunity to pump up quite a bit right before the boss. 
+3. More life powerups, once in the middle of each level and of course at the end or beginning. Absolutely offer a life refill everytime you enter the boss room instead of just the first time you ever enter the boss room.
+4. double iframes on knockback
+5. remove 2-4 of the most obviously annoying birds and 2-4 other obviously annoying enemies from levels 5-6.  Just a few fewer key enemies would make a big difference between fair and cheap/unfair (cheap is where if you play casually you get juggled, reserve all of the situations where you get juggled to death for playing casually for hard mode)
+6. 5-6 lives could be the only difference between easy and normal mode
+7. For everything that shoots (especially those fish) make them shoot just a little slower ... maybe 20% slower?
+8. All level times that are tight at all should be doubled.  At least the final bosses times should be doubled.  (easy mode - no timer)
+9. The manual should have a few tips in the back: 1. Weapon selection and ninpo collection is critical 2. Spin slash is far more powerful than any other weapon.  as its written it implies that the windmill throwingstar is the super powerful one and that spin slash is most useful only in specific circumstances above the enemy.  3.  Try all weapons against the bosses to see which is most powerful.  4. When you have the spin slash but don't want to use it press down when slashing.  5. 
+10. You shouldn't lose your ninpo or special weapon when you die in normal mode.  Even if it resets at the beginning of each Act.  
+11. Ideally close off a few of the death pits below ladders in level 6 to the degree that while jumps can kill you, tricky wall jumps can't because those are a skill unto themselves and you shouldn't be punished for not having perfected the most advanced use of those when theres not large areas of training for just that technique (which there isn't).  for most of the game using the wall jump is relatively forgiving but then just when things get hardest, and when the practice of those skills are hardest to get to, you have to magically know a skill you haven't been forced to practice before in more forgiving circumstances.  
+
+Something interesting about this game is how picky it was about what is a wall and can therefore be wall jumped and what cant.  I am a pretty good gamer but I wasnt when I was a kid and I remember getting this game and getting not too far, well one reason might be that the first sign that you have to wall jump off of well it really doesnt attach accurately.  It does if you knwo what to do and that it can be jumped off which everyone knows by now, and if you know how to wall jump and all of the possible button combinations that might make it work, but as a kid with no one to bounce ideas off of I suspect I didn't have much command of that wall jump at all especially on this imprecise first sign. 
+
+Most of the complaint is about levels 5 and 6 honestly. 1-4 are difficult but generally clumsily fair. 
+
+If they had done nothing more than make more levels like 1-4 they could have had a whole even longer game that would have been difficult and satisfying
+
+, possibly hardmode should have been unlockable by beating the normal mode.  The normal mode should have been very similar but had an ending which encouraged you to beat the game on hard mode.
+
+P.S. accidentally sticking to random pillars or walls on knock back sucks 
 
 ## Thoughts
 ### Combinations
