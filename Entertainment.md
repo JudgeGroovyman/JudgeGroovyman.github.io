@@ -2,7 +2,22 @@
 
 This is just a small portion of notes that I happened to make from my twitch watching.
 
+ThatFamilyGames
+at 8:40 on Wed Aug 5 she beat level 1-3 of Kid Icarus!
+https://clips.twitch.tv/BumblingWiseDumplings4Head
+
 GutenPrank3n
+Aug 8 2020
+A few of my favorites:  At least:
+Smashing Pumpkins Disarm
+https://clips.twitch.tv/InquisitiveSquareAlbatrossBibleThump
+And NEw York NEw York
+https://clips.twitch.tv/AwkwardBillowingTitanTheThing
+and Green Day Basket Case 
+https://clips.twitch.tv/PiliableLachrymoseDragonfruitSuperVinlin
+And Disturbed The Light was cool too!
+
+
 Fri Jul 31 2020
 Beat levels 1-4 in under 55 minutes, and Level 5 took 70 more minutes.
 Aug 4 2020
@@ -20,9 +35,23 @@ Striker1's how to beat 6-3
 https://www.youtube.com/watch?v=TI0lVIYXUPo
 Hey! Oh man I didnt reply the other day.  yeah  James and Mike are a lot of fun and have been inspiring to me too and thats cool that they inspired you to dig into the awesomeness of retro games!
 So I went back and watched the previous stream and figured out how much progress you made from day 1 to day 2 of Ninja Gaiden and its pretty amazing tbh:  Levels 1-4: Day 1 took about an hour.  Day 2 only about 23 min!  Level 5: Day 1: 70 minutes,  Day 2: only 30 minutes!!!  Thats amazing progress imho and I wanted to let you know early so you could start off your day on the right foot.  Party on!
+Day 3: levels 1-4 in 21 min level 5 in 17 min (with 7 life left too) 
+
+To get to level 6:
+Day 1: 130min
+Day 2: 53min
+Day 3: 38min
+
+Day 3 approx 1h57m  
+Dramatic Lead up to the Final Boss  https://clips.twitch.tv/ColdbloodedAliveDoveBatChest
+Win! and Celebration!  https://clips.twitch.tv/SneakyKawaiiBaguetteSaltBae
+
 
 At some point when you are in a good mood, check out the three clips from last night called like "Before Ninja Gaiden" and "After Ninja Gaiden" because they show how much you love the game before level 6 and how much that level 6 destroys a mans soul and watching them back to back is pretty funny imho :)
 
+8-4-2020
+Calling Dr O? I might have gotten the right clip maybe?  If not it was right before this
+https://clips.twitch.tv/RenownedCarefulChipmunkDBstyle
 
 
 Dr Orochi
