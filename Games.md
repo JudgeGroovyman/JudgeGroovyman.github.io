@@ -1559,3 +1559,42 @@ Games on iOS with MFi gamepad
 Others
 1. Saving Princess - I love the look of this game, it looks like a cool modern metroid game
 2. Never Stop Sneaking - by the Dust developer and like Metal Gear Solid but a parody with a sense of humor
+
+
+
+Metroidvania 8/8/2020
+---------------------------
+
+I loved watching qwerty playing Castlevania Circle of the Moon
+I love the look of some GBA games
+ROTK for GBA
+Circle of the Moon, Aria of Sorrow, Harmony of Dissonance
+Order of Ecclesia, Dawn of Sorrow, (already beat portrait of ruin)
+The look is freaking fantastic
+And I love the 
+
+I want to play something like a metroidvania in 3d
+1. Shantae 3DS
+2. Xeodrifter 3DS Stereo Dont know about citra
+3. TMNT Danger of the Ooze 3DS (by Shantae devs) (rumored to work on citra)
+4. VVVVVV (steresocopic) (rumored to work on citra)
+5. Cave Story (stereoscopic) (Citra works)
+6. Metroid Samus Returns 3DS (stereoscopic) 
+7. Steamworld Dig 1 & 2 3DS Stereoscopic (Citra)
+8. Batman Blackgate 3DS Stereoscopic (Citra)
+9. Shovel Knight Stereo Citra (not really a metroidvania)
+
+
+Other games on my mind:
+1. Volgarr (practice regularly)
+2. Ninja Gaiden (practice regularly)
+3. Hellbound
+4. Code of Princess
+5. Blaster Master Zero (PC) (no stereo)
+6. Axiom Verge (Excellent Metroidvania)
+Other 3DS and GC and Wii games that I'm excited about?
+7. LOTR War in the North
+8. GC ROTK in VR
+9. RA for Wonder Boy 3
+10. RA for Castlevania Circle of the Moon
+
