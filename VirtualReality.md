@@ -3,10 +3,17 @@
 	- Many people have it to some degree (some dont even notice, like I used to get an apparently random headache and later realized that it was probably some level of VR motion sickness) but 
 	- Solving it: for most of those people playing something that makes them sick for 1-5 minutes per day every day will feel much less motion sick in a week or two.  In my wifes case this worked in about 1 week where at first she couldn't even watch me play Snake Pass on a monitor from 6ft away but a week later she was sliding around quickly for literally hours on end in VR.  this would likely work for people who get motion sickness on boats but in that case once you're experiencing the motionsickness on a boat its too late to get off any time soona nd you are subject to that same motion for the next 20min while you get back to land. In VR you can just pull the helmet off, which brings me to my next point, 
 	- How not to solve it: Playing through your sickness isn't a good way to solve motion sickness.  During this training phase don't overdo it, pull off the helmet at the first sign of any discomfort or sickness or headache or after 5 minutes is up for the first few days.  After the first few days experiment with more than 5 min.  If you stop playing VR and then come back to it a month later you may have to break yourself back in over the course of a few days to get used to it again.
-	2. Gatekeeping VR is small minded.  Motion Controls and roomscale are required to experience 'true VR' and if you arent doing 'true VR' then VR is a waste of money.  "VR isn't primarily about the motion controls, it's about feeling like you exist in a fictional game world." - Stereo3DProductions https://www.youtube.com/watch?v=1pf7T9txKsM
+2. Gatekeeping VR.  Motion Controls and roomscale are required to experience 'true VR' and if you arent doing 'true VR' then VR is a waste of money.  "VR isn't primarily about the motion controls, it's about feeling like you exist in a fictional game world." - Stereo3DProductions https://www.youtube.com/watch?v=1pf7T9txKsM
+	Gatekeeping VR is small minded
 	Virtual Reality devices aren't perfect Ready Player One level immersion yet and it will be a long time before we see anything like that mainstream.  Virtual Reality devices today are amazing tools that give you options for an enormous variety of immersive and entertaining and thrilling and chill experiences.  If you gatekeep yourself by deciding in advance what is and isn't true VR before you try things then you are hampering your experiences.  If what you want is motion controls, thats great, and I love them, but I dont always love them, sometimes I love the relaxing compact and unobtrusive nature of using a keyboard and mouse or gamepad control scheme and there are tons of VR experiences for which this is a great option if not the best option.  Gatekeeping someone elses experiences by saying its not true VR if it doesn't have motion controls gets under my skin because is limiting the breadth interested members in our community and attempting to limit the enjoyment and degree to which those in the community can leverage their devices to have peak experiences.  Besides gatekeeping VR based on motion controls isnt accurate since even with motion controls what we have today is not true VR (think the Matrix).  Motion controls are more VR than a gamepad, but they are not always more immersive and they are not always the most applicable or best control scheme.  Its only immersive if it doesn't get in your way so for someone used to a gamepad or keyboard and mouse who wants to have that experience but feel like they are in a 3d world then even a little bit of 6dof head tracking is instantly and deeply immersive, and if the control scheme is second nature then theres nothing to take you out of that immersive world.  If you're not used to using keyboard and mouse or gamepad then motion controls are a great place to start since you already know how to move your arms around so many in game motions are instantly second nature.  You can't replace motion controls with a gamepad, nor can you entirely replace the benefits of a gamepad (small size, long play comfort, ease, posture posture required, precision for some games), or a keyboard and mouse (many of the same advantages as the gamepad but with even more precision and more options (keys)), with motion controls.   I love motion controls. I also love keyboard and mouse.  I also love gamepads.  They're different and they're all great.  
-	3. Gatekeeping VR based on locomotion technique.  Many of the same arguments about gatekeeping from the other answer apply here, but this one is even smaller minded.  If you prefer natural locomotion thats fine.  I agree that most expereinces should have natural and teleportation options and I completely understand if you dont want to use teleportation.  Perhaps it makes it less immersive, or for whatever reason you dont like it, but its vain (and inaccurate) to imagine that what you think is right is anything more than your personal preference even if you have asked around and the people around you seem to agree.  Its not helping welcome new people into our community to have great experiences and its dulling the experiences of some people within the community by making them second guess whether their preference is really best and none of this is helpful.  
-	
+3. Gatekeeping VR based on locomotion technique.  Many of the same arguments about gatekeeping from the other answer apply here, but this one is even smaller minded.  If you prefer natural locomotion thats fine.  I agree that most expereinces should have natural and teleportation options and I completely understand if you dont want to use teleportation.  Perhaps it makes it less immersive, or for whatever reason you dont like it, but its vain (and inaccurate) to imagine that what you think is right is anything more than your personal preference even if you have asked around and the people around you seem to agree.  Its not helping welcome new people into our community to have great experiences and its dulling the experiences of some people within the community by making them second guess whether their preference is really best and none of this is helpful.  
+
+
+# 3D #
+Why Stereoscopic 3D is cool.  3D SBS is amazing for making your games more immersive and interesting.  
+	(Thoughts on 3D Parallax like Shovel Knight 3DS.)  If your eye and brain get the instant advantage of never having to pick out what is in the foreground and the background the game becomes something new.  You get to enjoy the background as being BACKGROUND and effectively never interfering with your foreground gameplay.  You get to observe the backgrounds and they draw you into the game world, they make a 2D game have depth and therefore become more real and more like a reality.  They make the 2D worlds of your childhood or your past become more real. All of a sudden you have a portal into the depth of a world instead of a bunch of pictures of a world.  You feel like you could reach inside that world, you feel like you could manipulate things inside of that world, and with your controller in hand, as it becomes second nature (which for many retro players it already will be) it becomes possible to manipulate things in the foreground of that 3D world using your character as a proxy.  If you've played the game before it adds a feeling of depth and novelty to each screen as you traverse the world. It makes it into a remix of the content you have experience before and lets you experience it again with the addition of a new dimension.  
+	- Map: Believe it or not the extra depth and understanding of where you are in a 3D space instead of just a 2D space helps my brain and imagination more easily map out where I am and construct a 3D imaginative map out of the world (even if the only action is on the 2D plane).  
+	- Focus: It takes extraneous information about the setting and the world (the background layers) away from the world leaving only what is important (the foreground platforms, enemies, powerups, etc.  This comfort with the world comes with time even in a 2D setting but comes instantly in a 3D parallax setting.  It lets you relax in a subtle subliminal way you can't imagine until you try it and search for it with your feelings, knowing that you dont have to worry about 90% of the visual information entering your eyes. but you don't have to think about it or mentally filter it out, your brain knows: its not on the player layer so it can't hurt me. Then if something shoots from the background to the foreground its a fun surprise
 	
 	
 # History of Virtual Reality #
@@ -184,7 +191,29 @@ the art is beautiful at such a big size.  It plays perfectly with emulated class
 buttons kind of like the gamecube buttons.  Its a super fun game and I am glad that it has up to jump.  I didnt realize but 
 I think this game is why now playing amiga games up to jump isnt so foreign to me.  when I was playing them I wondered why all of a sudden it didnt seem weird and I remember that for the last few years it hasnt felt weird (and I havent played amiga in many years before that).  This game has a cool deep supernatural story, tons of amazing enormous boss battles (I beat the cyclops ogre on my second try) and difficult and interesting combat and tons of cool secrets (including some nearly naked hot tub scenes) I beat this in 2009 or so and loved every second.  I remember cool cityscapes and amazing boss battles in the clouds. This is a fantastic game and one of the best metroidvanias around and its highly recommended in SBS or regular (even regular on a big screen would be bad ass, or you could just add a touch of depth and it would be really cool too.  Its not shiny for me right now but I had fun spending a half hour slashing through it.  Note: I played it on the harder combat mode and I thin its really cool that they have the options to do super sophisticated combat or simpler combat.  I don't remember which I picked back in the day but this was pretty interesting combat for sure and would be fun to learn and master and get really good at again.  Since its not shiny for me personally I dont think I will.  
 	- Graphics: Polygons upscale but hand drawn pixel art doesnt.  its a nice resolution and everything is clear but its not super crisp and I heard there might be a ps3 remake or something that might be better for the high res graphics reason.  
-	
+* Pinball Hall of Fame Williams 8/9/2020 Dolphin
+	- It works perfectly and is really cool.  I played the hell out of this on Wii so I dont know if I'll play this here but it worsk great. 
+	- Upscaled it loosk super crisp the only complaint might be it seems like its only 30fps.  The stereoscopic is fantastic it looks deep and the tables look super realistic.  
+	- Control work perfect (better than wii) map motion x of nunchuk to right stick left and wiimote to the right stick right and youve got it.  Map triggers to the B button and the Z button and youve got the flippers.  A button is used for menus so I mapped that to the A button on the controller.
+* Pinball Hall of Fame Gottlieb 8/9/2020 Dolphin
+	- Same as Williams except maybe a little clunkier?  Nudge only works with the wiimote shaking, the graphics arent as crisp.  But its fun.  it also requires that you unlock most of the tables there are only a few in free play and so you have to master the free play tables to play any of the others, there dont seem to be unlimited credits so you had better put some other tables into free play quickly or you will run out and have to reset the data?
+* Shantae 3DS 8/9/2020 Citra
+	- I kind of love the 2d with deep parallax that we have here. I have it set to 30% depth and now its at 40 lets see ifthats better or worse.  I love the game and beat it on 3ds proper (one of my favorites ever after zelda between worlds).  Right now I'm playing it with the sound coming from my speakers and in a huge theater room and theres something funny because for some reason its a little bit less taxing and tiring than playing the whole thing in VR.  Cant really explain that but there it is.  It gives me warm fuzzy feelings like virtual boy did back in the day, but for anyone reading this I'm not comparing them just see hints of what I loved about VB in the graphics presentation.  I moved it up to 60% depth and its great. 
+	- on the first level there is one thing disconcerting: the screen shake due to explosions and earthquakes at full screen theater level is disconcerting.  the scrolling is just slightly jerky in the background which is in turn slightly disconverting, but any scene standing still it looks so damn cool and is a joy to just observe the things in the background and foreground bouncing and moving and swaying.  Its all so beautiful.  
+* Tomba PSX 8/9/2020 Retroarch
+	- This is such a cool game.  Once I got it working in Retroarch in 3D it drew me in quick.  
+	- Complaints about the gameplay?  Not many.  The jumping is odd, there is a tough swinging jump in the second part of the first level that I think its way too demanding on your platforming and aiming from swinging.  If it didn't hurt you when you missed I would mostly forgive it but this has just run through 2 lives for me one hit at a time and I'm just now figuring out that you have to precisely hold up right to jump off and then let go of it when you hit the other pole.  Its difficult control-scheme-specific platforming on the first level and I think thats kind of silly.  Update: nope even that doesnt work.  I've tried this 12 times and dont know exactly how to make this jump.  I'm starting to think you cant even do it.  That they expect you to go in the foreground instead.  
+* Shovel Knight 8/9/2020 Citra
+	- This is so damn cool.  the controls are amazing, the continue structure is perfect (a penalty for dying, or replay to recover it!) 
+	- I've got the depth set to 90 and the parallax depth looks amazing!  I think I'll lower it so I dont have to refocus so much. There its at 50 and nice.  Even lower looks really cool.  I love how the waterfall textures are much deeper in the cave than the regular textures.
+	- I've got the audio set to my speaker not the headphones and it make sme feel less isolated, which at the moment I prefer.  Wonderful soundtrack.  So catchy! Theres knockback but not too much. 
+	-   Maybe the 2nd main level is a little too hard platforming wise imho.  This is not a game for beginners by any stretch.  You have to train your platforming skills elsewhere to make any real progress in thsi game.  Theres one part where you have to shovel jump on books and then get a limited time to jump across temporary small platforms with pits underneath or you die finally having to grab a ladder.   Thats on the second level.  I made it fine but recognized its difficulty.
+	- 8/14 I havent played in a few days and I got to the metal whale or whatever and the floaty underwater controls and the instant death spikes rubbed off a lot of shine tonight.  I dont feel so much like playing this anymore but its clearly a great game and maybe some day I'll want to come back to it.
+
+Artichokes
+Capers
+Olives (full large cylindrical olives)
+Anchovies (a long stringy looking fish on each piece)
 
 
 # Motion Sickness #
@@ -234,6 +263,44 @@ Some PSX games with 3D Shader
 Maybe Some N64 games with 3D shader (didnt work right away)
 Maybe Some PS2 games with SBS Emulator patch
 
+# Retroarch #
+See WarioWare above for more on getting it working with Virtual Boy
+For PSX I've sort of got it working but boy is it configured clunky.  It cuts off the sides of the screen so I can't actually double the size of the screen to get side by side.  theres got to be a setting to fix that.  I thought it would be Crop Horizontal Overscan butthat didnt work by itself.
+
+1. Get your PSX Game going and Hit F1 -> Quick Menu -> Shaders
+3. Set Shader Passes to 1
+4. under Shader #0 select shaders/glsl/Stereoscopic3D/Side-By-Side-Simple.glsl or something like that
+5. hit apply changes (maybe restart)
+6. Save the current shader preset
+
+Then as you need to change the presets
+7. go in to a text editor and change the options
+8. hit F1 ->Shaders->LoadShaderPreset and load the one you just edited.  Thats a quick iterative process
+
+Some starting point:  this works a little but really not well but its not toally broken
+eye_sep = "0.16000"
+y_loc = "0.00000"
+BOTH = "0.17000"
+ana_zoom = "1.00000"
+WIDTH = "2.00000"
+HEIGHT = "1.00000"
+warpX = "0.100000"
+warpY = "0.000000"
+pulfrich = "0.000000"
+
+These settings work pretty well now!:
+eye_sep = "0.20000"
+y_loc = "0.00000"
+BOTH = "0.17000"
+ana_zoom = "1.00000"
+WIDTH = "2.00000"
+HEIGHT = "1.00000"
+warpX = "0.000000"
+warpY = "0.000000"
+pulfrich = "0.000000"
+
+
+Update: I may have success by changing the retroarch aspect ratio to 21:10.  No that didnt fix it.  I want to stretch the whole image to the edges of the window.  The eye separation matters a lot.  If its wrong then I look at the theater in BigScreen and its clear and then I look at the screen and have to cross my eyes to see the 3d.  its not in any known units but just a mathematical number.  .16 seems to get them apart but not apart enough.  BUT Incredibly Frustratingly: making it much bigger cuts off part of the image!
 
 # Dolphin VR #
 
