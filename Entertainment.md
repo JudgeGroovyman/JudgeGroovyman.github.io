@@ -116,6 +116,14 @@ Masterpieces
 2. Tegan and Sara
 
 
+# Books #
+## Transformers More than Meets the Eye ##
+Graphic novel. 
+Vol 1: a transformer transforming spontaneously after death: Rigor Morphis  lol
+Its pretty cool that they sometimes say something and then asterisk off to another series "that time I attacked the entire decepticon forces * see volume 7"
+- "Preliminary Damage Report: You're an idiot.  If I believed in Rungian analysis I'd say that my self-loathing has finally spread to my internal readouts." haha
+
+
 # TV #
 
 Some great shows you might not know about:
@@ -156,7 +164,10 @@ Cool Movies you might not know about:
 4. The Accountant (cool hitman movie about autism)
 
 
-
+## Star Trek: Enterprise ##
+* 2x7 The Seventh: at 15min they have a funny lunch where acting captain Trip is trying to eat but is repeatedly interrupted with critical decisions to make and its actually a great example of what leadership is like.
+* 2x8 The Communicator: Its funny how dramatic Malcolm always is.   On their way back down, and then when in prison,  a few episodes ago when he hurt his leg, and before that when he was locked in that shuttle with trip.  His acting is perfect in that role.  Hes cold and distant and bad ass, but also deeply vulnerable and probably has issues with self worth.  Its all deeply believable
+* 2x12 The Catwalk: at 23:00 captain is watching tv on his tablet pc out loud and asks "is this bothering you".  Today everyone does that.  Do they ask?  It depends. but this was before this problem was ubiquitous.
 
 ## X Files ##
 * 1x2 Super Young Seth Green!  
