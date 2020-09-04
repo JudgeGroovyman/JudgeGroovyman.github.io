@@ -1,3 +1,57 @@
+# Roguelikes #
+What I want
+
+Possible Games
+
+not that excited about
+* ClaDun (use PSP Emulator)
+* Elona +
+* Maybe I just want an RPG with Procedural Dungeons (like Diablo but thats a bit played out for me, Id love something in Middle Earth)
+* Diablo 3 might just work actually
+
+roguelikes
+* Quickband is just to get to level 12 to kill saruman it can be beat in just a few hours.  This might be great for me regardless of whether it scratches the itch above.
+* UMoria might work well.  Angband is too complicated.  both are much more hack and slash compared to nethack (thats a good thing) 
+
+Other Possible Options
+* I could make my own game that meets my particular needs using the TE4 engine here: https://te4.org/wiki/T4_Modules_Howto_Guide/Getting_Started It immediately lets you use your own custom module and character, I dont know if the custom module will let you use the same seed every time, or if it will let you keep inventory like resurrect the character or something ... maybe when the character dies they just go to the top of the dungeon?
+* Someone at angband says "sharing the randart file has exactly the same effect" does that mean I can just replace the randart file every time?  
+- I guess I could save scum from the beginning of the map?  sure and that might be fun but I would like to be able to go back up to the top to do some business at the store and then go back down into the dungeons.  This is not really what I want.
+- Apparently pre 2018 there was a "use same randart set as last game" but it was removed.
+- sometimes they call it permalevels
+- Someone was saying they want an angband creator mode so they can make maps for competitions.
+
+
+Cool Roguelikes or Lites
+* Kingsway (the game is an OS)
+* Omega
+* Angband
+
+
+Some possible games
+
+- hero rogue
+- Heroes of hammerwatch (looks like nuclear throne)
+- 
+- Look for short roguelikes aka Coffee break roguelike
+- TGGW
+- Drakefire Chasm
+- Hyperrogue
+- Rogue Fable iii
+- Brogue
+- 
+- Investigate
+- Streets of Rogue
+- Jupiter Hell
+- The Pit Infinity
+- GKH
+- Booru
+- Harmonist
+- Spriggiwood
+- Powder
+- Golden Fall (not procedural)
+- 
+
 
 # Games I thought were just the coolest games ever #
 1. Street Fighter 2
@@ -5,65 +59,9 @@
 3. Bionic Commando
 4. Space Harrier
 
-# Steam games #
-
-## Games I would probably want to play again ##
-1. Viral EX
-2. Wonderboy III the dragons trap.
-3. Refunct
-4. Trackmania
-5. Portal 2 Single Player
-6. Hatchick
-
-## Games I haven't played but am really looking forward to ##
-1. Burnout Revenge with Wheel
-2. Portal 1
-3. SoulCalibur VI
-4. Rise of the Tomb Raider
-
-
-### Runners Up ###
-1. Spelunky
-5. Street Fighter V
-6. Far Cry 3: Blood Dragon
-3. Bioshock Infinite
-4. FEAR 2: Project Origin
-5. Doom 2016
-6. Half Life 1
-5. Metro 2033
-6. Vanquish
-
 
 # Games on Steam Wishlist #
 
-## Really looking forward to ##
-1. Hellbound
-2. The Chaos Engine
-3. Yoku's Island Express (Wow the demo was so magical!)
-3. Monster Boy and the Cursed Kingdom
-4. Jet Island
-
-## Other Retro games I will probably enjoy ##
-1. Shantae: Half-Genie Hero
-2. Enger the Gungeon (Dual Stick Dungeon Crawl)
-3. Super Galaxy Squadron Turbo (Forgiving vertical shooter)
-4. Cuphead (Like Contra or Metal Slug)
-5. Katana Zero (Awesome stylish)
-6. Hostile Waters: Antaeus Rising (A 2001 Carrier Command clone which is very highly regarded and looks like it has a great continue structure)
-7. Castle Crashers
-
-## More modern games I will probably enjoy ##
-1. Halo: The Master Chief Collection
-2. Zone of the Enders the 2nd Runner VR
-3. Serious Sam 4: Planet Badass
-4. Distance (VR Awesome Futuristic Trackmania style Racing)
-
-## Fun ones ##
-1. Starwhal
-
-## Games I should like but dont know if I will ##
-1. Hostile Water: Antaeus Rising (Carrier Command Clone)
-2. Skyrim
 
 # VR Wave Shooters #
 1. Serious Sam the Last Hope
@@ -703,6 +701,7 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 	- Levels  The graphics and environments on this first level are spooky and also fresh kind of like a brighter predator.  I'm deeply into this story. I think its really cool that they tried to teach you about driving the titans but ran out of time and make clear that only a well trained pilot is supposed to get a titan, but then you get thrust into one out of necessity and you have to figure the shit out!  I think its cool how some abilities are only not active at first because the suit and helmet are calibrating to your movements and natural abilities and so you have to maneuver around to teach it  There are some awesome alien beasties on this planet too.  oMG that cute bot regarding a new weapon "I think you're in love" "Human love requires affection devotion respect and admiration ... conclusion I am 50% in love"
 	- Gameplay: I love the wall-jump (always have in prince of persia too) and this one plays and controls great.  It looks like you can have two weapons and grenades it looks like if you have weapon f201(example) and you see another f201 on the ground you can't pickup ammo from the one on the ground, you swap them out to see which has more ammo in it which seems somewhat weird. Update I was mistaken about that. my bad.  The medium range rifling is really fun kind of like sniping and I'm doing great at headshots.  Theres lots of cover and places to hide so I can take my time and sneak and I like doing that.  This gameplay would be amazing for speedruns even in game, like a level could be about finding the best path of escape from an exploding time bomb and you can go generally straight or if you are skilled you can get a bunch of out of the way pickups.  When you die a checkpoint wasn't far behind which is awesome. I think its cool that you have to figure out how to platform and wall and double jump around to get through the levels to your goal.  It think its cool that it gives you the option to see where your target is in 3d space, and optionally with tab key which way to go next and also for each tricky platforming section you can optionally see a ghost do it before you do and its conceivable that your suit would do those calculations and use AR to show you through your mask.  I think thats pretty bad ass.  
 	- Specifics: I had to get an Origin EA Account but apparently I already had one, but apparently they also timed out my login info so I had to reset password.   Pretty regularly the steam overlay pops up but I don't really know why ... shift tab?  thats not what I'm pressing is it?  No its not.  its popping up when I switch to windows (alt tab) switch back, push forward and hit shift to run.  I got to a place where I turned off a sludge pump and the game changed a lot, it went from a sneaking game to instantly have to run and jump in a clumsy area with tons of obstacles and enemies everywhere but also exploding mines that run at you. They introduced the exploding mines by sending 4 at you at once in close quarters where there is no where to run from them.  I think this part is cheap and should have worked up to this.  I think its a boss battle but its too steep of a change and less fun as a result.
+	- Update 8/22/2020 Well I had for some reason forgotten about this game!  Its so good.  I fired it up again today.  Some new cool stuff: 1. the ziplines. 2. the wrist device they get off of anderson is so bad ass.  It makes for some amazing puzzles and could be a primary mechanic for a new game.  The puzzles are so great.  I didnt figure them out without seeing the runner do it because I didnt understand quite what the possibilities were which is a really cool puzzle when you get it and you think "How cool!"  And a few hours later after some really intense shit I beat it!  That was one of the most thrilling cinematic and high budget productions I've ever played or seen.  I loved it so much.  I noticed that now I can play in some kind of multiplayer matches, and I also noticed I can like play any chapter of the campaign and try to find all of the helmets, and it looks like I beat it on normal mode I can probably do a hard mode. 
 * Ninja Gaiden 8/4/2020
 	- Well after watching Guten play this game I've been itching to play it and finally beat it.  
 	- History: Back in the day I rented this and played it in the bedroom next to the computer room probably 1990-91 and I was trash but I still thought it was cool.  All my friends said it was great so I felt inferior when I really couldn't get anywhere.  I didnt know any platforming control tropes except some mario (and not much) nor did I know anyone to talk about the game with or call to talk about it, nor did I have any magazines, nor did I know that I could possibly go get a mag for this game (which wasnt really possible during any given month, you had to get kind of lucky to find the guide for the game you were playing on the newsstands or at a bookstore) nor was there any internet, nor did I even consider calling a 900 number even if I knew it existed, so I was on my own.  If there was a manual I dont remember it, and sometimes back then they were abbreviated copies of the manuals for rentals.  Further I probably felt inferior because I had an image in my mind that games were supposed to allow you to make progress, thats what I had seen in arcades (albeit with unlimited quarters) and it never really occurred to me that games would be made intentionally hard such that a new player would have lots of trouble even on stage 1 or 2, but thats what a lot of games were really like for new gamers, and since I felt like I was an expereinced gamer (having had an atari for years and having played NES at a friends house before most others even though I had never really put in any serious time with any game) I felt like I should be better than I was at this game.  It wasn't a hard game in my mind since all my friends loved it and games didnt come that hard, and I was good at games so logically I should be good at this game.  Illogical and unfounded beliefs of a 12yo aside this game and others at the time made me feel inferior, not good, less than my friends and everyone else who played games, and unworthy.  All of this is bizarre in hindsight but that is what was in my head and heart at the time.  
@@ -720,16 +719,64 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 	- Today I played this for 5 hrs.  Thats a great triumph.  I wanted to save the last level for tomorrow, and then I can try my hand at a harder difficulty.  I love this game so much.  This is one of my top most satisfying purchases for my money.
 	- Beat it this morning 8/19/2020 got 6 hrs in so far but its really fun so I'm going to play it again.  Sometimes incertain circumstances with special games I feel drawn to play them again immediately.  Other times I dont.  But for a really long game its rare that I want to play it again.  I love to experience things from different perspectives and even if its just a second time I always notice things I didnt before.  The final boss took me probably 25 min to figure out and beat maybe 30.  
 	- I am glad that they added the save anywhere feature that wasnt in the demo, although I had a good time not using that feature.  Never did I play a section too many times at least on normal mode (difficulty 2/4).  Now I'm playing on difficulty 3/4 and its the same way - I'm not using the save feature and I'm not having to replay too much.  Some games in my past have made me replay 30-45 minutes of a slog of a level just to die on the boss and have to start over, and for me that sucks the fun right out of it (especially when thats par for the course for that given game), well this game the levels as slow and deliberately as I'm playing them are 10min max, and with a checkpoint even less so at most I'm trying a 5 minute part 3-4 times before I get it.  I suspect if I had used that feature the game would have been far less memorable, shorter, and less fun tbh.  Still its an important feature so players can practice parts whenever they need to and so things they cant figure out dont permanently hinder progress or set them back further than the fun threshold. 
+	- Update 8/21/2020 Beat it on Old School, yesterday I beat it on Normal, I haven't beat it on noob or on Hellmare.  I dont know if I will try hellmare, maybe I'll try noob and see if I want to try hellmare.   Each time i beat it I didnt use any saves, I used checkpoints but didnt save and load myself at all. (proud of that).  Update: a few hours later early morning 8/22/2020 Beat it on Hellmare!  It didnt take that much longer than on the other modes, it didnt even take that muchlonger than on noob.  I'm proud of this!  
+	- I've got 15hrs in this game according to steam.  This was a great purchase and one of my favorite games.  I wouldnt want more but look forward to some extra levels or dlc in the future.
+	- Nightmare mode is stupid imho.  I spent about 20 min with it and have no interest in playing it since for me it completely changes how I can and like to play this game.  It takes life off constnatly which I actually am fine with them having this level in the game because it will make the game interesting for some players.  I think it making the taking hit sound and slightly blinking red is super annoying though.  it should just drain health or soemthing.
 
 	- Balance Suggestions or bugs: 
+		- Bug: I've gottens tuck in elevators 4 times.  I cant move or do anything.  Its usually when I jump or walk onto the elevator when it decides to start movign or wasnt stopped yet.
+		- Time only seems to measure from your last checkpoint to the end, so I got like 2:17 with a par of 3:08 even though I died a few times.
+		- Give an achievement for beating the game without loading
 		- Balance Suggestion: Update: use shotgun alt fire and they die quick and most of this complaint is moot.  Original: Now I'm not liking the 3rd level as much specifically because of the demons who jump from 20ft at you and take 1/3 of your life and take 8 hits to kill.  You cant hit them with the shotgun because they jump too fast.  You can't swat at them with melee because they jump too fast, you can't shoot them from far off because they take too much ammo for you to beat the level you cant strafe to the side because the corridor is tiny.  And they jump around corners facing to the right they slide around the corner and take 1/3 of your life.  theres probably a good strat but it changes the gameplay so much I dont like it atm.  I like the gameplay of sneaking around and triggering events and then figuring out how to take out all of those enemies without losing too much life.  If you're at a safe distance then its 4 shotgun rounds.  if you're unsafe but lucky or take a hit then its only 2.  I've partially figured out the strat.  Lure them around the corner and blast and back up as fast as you can.  Its clumsy but it seems to work.  Also sneak around and get a shot off first if you know where they will be and can sneak back around the corner.  Update: I came to like it just fine after a few minutes.  Knowing when they are coming because you've died and theyre not too bad although they would be more fun if they jumped a little less and took off 10-15% of health instead of 30-40, at least on the normal level of difficulty.  I dont think anyone should be able to fly around corners when they are jumpers.  its not realistic, or expected.  it doesnt make sense, and it feels cheap.  There should be a little less of a chance for them to graze you and still take off 30-40%.  They should have more of a slight pause after their attack for you to escape and they should have 15-25% less life.  Trickier to implement would be to make their attack when they hit you clearer and give you an instant of time after they get to you before they slash.  As is its like they tap you and you lose 30%.  These are less fun because on normal mode you plan for a normal amount of care as you are going through the level and with these you can't have a normal amount of care.  Instead you have to know they are there or plan for them to be around every corner or turn and as a result they completely disrupt the pace of the game.  Sure you can learn their positions and beat them, but they're the only enemy where you HAVE to do that, but now you HAVE to do that for every step for the rest of the game or expect to die.  Previous to these enemies you can be more cavalier and run more and have more fun and be more playful and then back off if you get in over your head, and its your fault if you mess up by getting in too deep but it could really only happen a few times per level, and if it happens you will have time to recover and heal.  Now all of a sudden, because these enemies are overpowered, every step could mean you got in too deep.  On level 4 I was having lots of fun, and as a result happened to take a corner too fast and two of those guys were there and because they are overpowered I lost more than half my life in an instant.    Now the machine gun on later level 4 changes this and makes them easier to kill so a. I wonder if I shouldnt have been using the shotgun on them, and b. now that I have it, these guys aren't such a big deal anymore.  update: Except then in level 5 several times it spawns them IMMEDIATELY in front of you like you can't not touch them if you are moving foward when you hit the trigger.  for most enemies thats ok but for these guys its cheap.  Update: the second function of the shotgun is pretty bad ass and takes them out in one hit.  thats probably the right strat with these guys, shoot right as they jump at you with the alt fire (right click).  Update: One of these guys shows up on level 5 in the cave after you get the green key as you walk through a door it shows up behind you.  thats cheap imho.  You have to know its there by taking huge damage, figuring out where it is coming from and turning around before it hits you a 2nd or 3rd time to kill while its right up against you.  Thats a bit of a troll.
-		- Is this a racing game?  On level 4 theres a race where you have to hit a lever, know exactly where to go and run full speed and probably theres less than 1s of grace period for you to mess up.  I think it would be more fun if there was a second or two more at least in normal mode.  I ran hard and well and failed it 3 times and made it the fourth by the skin of my teeth.  Level 5 the switch on the left opens a platform on the right.  Same story.  it needs a few more seconds on normal mode.  Probably even just 1 more second would make it feel more fair on this mode.  make it as tight and challenging as you want on harder modes.  I haven't played easy mode but I suspect these problems are there too.  Maybe I'll go find out?
-		- Platforming: I really like the platforming in this game.  Its fair, and has good collisions and good platform design (up against walls if its skinny platform, relatively clear where to go and they're just far apart enough that its tricky but not so far its frustrating) and the jumping and platform catching is just the right amount of forgiving.  I would be ok with more (not any more precise platforming but platforming with tolerance and forgiveness is super fun)  
-		- Balance Suggestion:   on level 4 the platform just after you get the green key is unforgiving and too small, its actually not but there are big blocks sticking up on the left.  They shouldn't be that big and push you off the platform so easily.  The precision for that particular platform is unwieldy with these controls.
+		- Is this a racing game?  On level 4 theres a race where you have to hit a lever, know exactly where to go and run full speed and probably theres less than 1s of grace period for you to mess up.  I think it would be more fun if there was a second or two more at least in normal mode.  I ran hard and well and failed it 3 times and made it the fourth by the skin of my teeth.  Level 5 the switch on the left opens a platform on the right.  Same story.  it needs a few more seconds on normal mode.  Probably even just 1 more second would make it feel more fair on this mode.  make it as tight and challenging as you want on harder modes.  I haven't played easy mode but I suspect these problems are there too.  Maybe I'll go find out?  Update: even on easy mode the race in level 3 where you run around a corner and through a door and right before you get to the gate that has lowered theres a red demon.  even on Noob mode you can barely make it through that gate.  A noon would not be able to make that.
+		- Platforming: I really like the platforming in this game.  Its fair, and has good collisions and good platform design (up against walls if its skinny platform, relatively clear where to go and they're just far apart enough that its tricky but not so far its frustrating) and the jumping and platform catching is just the right amount of forgiving.  I would be ok with more (not any more precise platforming but platforming with tolerance and forgiveness is super fun) 
+		- Balance Suggestion:   on level 4 the platform just after you get the green key is unforgiving and too small, its actually not but there are big blocks sticking up on the left.  Those blocks to the left shouldn't be that big and push you off the platform so easily.   The precision for that particular platform is unwieldy with these controls.
+		- Balance: Theres a part of Noob mode that is harder than normal mode: the trap when you get the red key in the second to last level where you're sort of in a cage that exits out to some lava: There seem to be a lot more enemies that come out at that point on noob mode than normal mode.  Update No its different after you continue.  if you continue from that checkpoint you get way fewer enemies than if you come up on the checkpoint the first time.  thats noob or normal mode.
 		- Probable Bug in the credits text?  The credits seem to cut out in the middle of a list of names?  maybe backers or patrons?  It stops at the letter N ... maybe I'm reading it wrong but if I'm not that can't be random. Kickstarter backers pending name approval - Sure enough the credits end with a list of "Kickstarter backers pending name approval" and then it lists a bunch of names alphabetically A,B,C...N and then stops. Theres no names after N and considering the statistical unlikeliness of there randomly being no kickstarter backers with names after the letter N I suspect a bug.   I'm sure theres another possible explanation for this too but wanted to bring it up.
 		- Probable but in rankings: Suggestion: I would like to see players top 10 (if not more) as well as world top 10.  I would like to see players numeric rank in world rankings (even if estimated).  A common flaw in modern games though is it doesnt save any record of how you did previously.  I mean it does if you get on the leaderboard, in this case only the top 10 are visible but that is pretty absurd.  Top 10 in the world or ... you will never know what your score was in the past, whetehr you beat your previous best, how close you were to your previous best, whether you were above your previous median, or even what your personal top 10 are so you can try to get somewhere in there.  
 		- Video Settings Bug: Changing resolution doesnt apply until you quit.  If it said that when you hit apply or in the notes on that screen it would go a long way to making it ok that it doesnt do it immediately.
 		- Cool improvement: When weapon is fists when hes running he makes a cool motion, when he jumps he shouldnt tuck in his fists he should spread them out just a bit kind of like wings.  That would feel more natural to see someone do that when they jump.  or maybe since the FOV isnt big enough to see arms spread, just flatten both hands and put one off to the side and the other out in front like they're doing a slight superman move.
+* Spelunky 8/22/2020
+	- I simultaneously thought I would like this game a lot and wanted to not like it.  I spent 30 min with it and didnt end up liking it.  Its not a fun game for me to PLAY in.  I just died too easily and I didnt feel flow to the levels.  I couldn't just goof around for even a few seconds or I would die.  I didnt get very far because I don't have the attention or care to plan each step very carefully.  I'm sure if I spent more time with it I would improve and get further and it would become easier to get further, but this just isn't the kind of game I like to play.
+* TOME4 8/23/2020
+	- Wow I love this (for now) i recognize that this is likely to be too hard, but I donated so I should get infinite lives mode, and I presume thats really what I'm looking for, persistent levels and infinite lives?  Its forgiving at the beginning and you can play for quite a while before getting even close to dead.  
+	- I watched some guys youtube about it first SplatterCatGaming which helped with my confidence(since I've been burned by roguelikes before -spent a long time and found them to be interesting but just a depth and difficulty I dont care for).  Actually what I think it helped with was giving me a starting point that I understood.  I didnt have to interpret for myself all of the overwhelming options and descriptions, I could start with some idea of what these actions do and how to activate them and what matters and what doesnt.  In particular they explained quickly and showed in action the actions that the character can do from the beginning and that has helped me a ton with figuring it out from near zero.  Some games have conventions but i'm not familiar enough with rl or rpg conventions to have understood enough of this to be comfortable and watching the video helped with giving me an anchor point for understanding what is going on.  I think I would like this more if I had more storage or encumberance, but I'm sure that will come with time.  OMG Like 30 min after I wrote that I got it!!!  Hooray!  that actually really encourages me to keep playing actually.  getting valuable improvements that legitimately make the game better is really motivating.
+	- I am really enjoying looking around pretty casually and finding cool loot and equipping it.  Its super fun!  I just found a cool mace of massacre and it made me happy!  I feel like I would love a whole game like this which didnt get even that much more intense than this, but certain battles could be intense and that is fine.  Keeping the intensity high the whole game is certainly not what I am looking for.  I just realized something.  I donated but that wasnt applied to my account yet so this game I will die after like 7 lives at most (probably after 1 or 2) and that will be sad, but I will have made lots of progress.  
+	- I noticed that I also like that it gives you just a few abilities at first and lets you get used to them through combat and then introduces more.  Some games take too long to introduce new abilities, some introduce them too often.  This one feels just right.
+	- Hunger - annoying
+	- (Update: turns out this [Zone Order](https://te4.org/wiki/Recommended_Zone_Order_Progression ) website seems to be expected that you know about it.  If you don't but you do know some simple rules of how the game works and labels things and where you are expected to go and where you aren't then you can figure this stuff out but for the first few runs ... anyway its not as bad as I thought at first when I wrote the following) Original Huge balance problem for me: This has stolen a bunch of the fun for me of playing this.  I know that I only have a certain number of lives (then again I have unlimited lives in explorer mode since Iam a donator so maybe its ok) but with just a few lives or just one, I was in the old forest which is listed in the quest log as the first place to go, and all of the enemies were totally manageable, but then i entered this one room and BOOM 2 turns and I'm dead (even after I teleported).  Then i get resurrected and buff myself and go to try to take that guy out again and 3-4 turns and I'm dead.  I barely even touched the guy.  As a matter of fact it might have been that there was an invisible guy killing me but in this game theres no room for error or mistakes and theres no room for being unprepared, so imho this shouldn't have been presented to the player until later.  Everyone else was like 70 life, then all of a sudden I'm up against 2 guys who have 800 life, one is hidden, and their attacks take 1/3-1/2 of my health.  And you dont get a re-do.  It was fun and somewhat casual until that moment and hit me from out of nowhere and I dont enjoy that kind of surprise pacing and intensity.  Update: Well I didn't realize that it had a minimum level of 7 I actually could have sworn it said no min level and it said range 1 which I thought was level.  I think as a result this is something that could totally be avoided.  I could build up my player if I had unlimited lives and come back, or something.  I wonder if I get to keep my gear? Yes I do.  Woudl have felt clever if I had grabbed some of the loot that was there with my dying moves haha.  It was first in the list which might be a bit misleading, but I think with what I have learned I wouldn't have even gone in there.  It still is weird that the leap was so enormous.  no one was hitting me for anything and then wham, bam, dead.  Update: When I went to the appropriately levelled dungeon the enemy was just hard enough to make me think and work to win, it was perfectly levelled, and required that I use strategy and tactics but as long as I used some decent level of that I was sure to win eventually.  It took me a while.  But there was no hit, hit, dead,  nor was it easy by any stretch.  Perfect. Update: I found out now that at the wiki page "Recommended Zone Order Progression" it suggests an order for your race/class, but one tricky part is in the trollmire zone it offers for you to go to a bloody area floor 4 and I figured why not.  I survived, but it turns out I was a bit lucky.  Thats recommended doing after you've done all of the 7 tier one zones.  I had done only 1 at that time.  I think its ok, and it doesn't just let you go in there unwarned, but you kind of have to know that this is the kind of game that isn't leading you through to come out alive.  I like when you are in an easy dungeon for your level it lets you skip ahead to the end of the dungeon and fight the boss.  Thats classy.  Note: when you do that you can still absolutely get overwhelmed and die! I didnt get close to death per se, but I got far more beat up than I expected in far shorter of a time than I planned, because I rushed in too quickly after it sent me down to the boss level. Update: As a matter of fact they give you a quest right away to go visit the old forest.  That makes the new player think that is something they should do now since they are given a quest to do it.  If they were give a quest to go to the level 1 dungeons that would make a TON of sense and wouldnt mislead.  It also says to go places in the quest but in the recommended zone order it repeatedly says "go two levels down dont go to the guartdian or the third level" and stuff like that.  This means that its sort of intended that you figure out which bosses you can take on and which you cant by dying and starting the game over from scratch and playing through the same dungeons (differnet layouts and technicalilties) again.
+	- Wait is there no way to grind in this game?  when I went back to the first trollmire I didnt find any enemies except 1 that I had apparently missed.  Do they never respawn?  Does it just take longer?  I dont know about this, but I have found (via the wiki recommended zone order progression) that there are many more level 1 dungeons, and I had tried a mid tier 2 dungeon earlier thats why I died.  Now I will know and after today it will feel like my fault if I do that again.
+	- I like that you can compare what you're looking at against what is already equipped.  I like that it tells you its going to ditch things before you leave.  
+	- Update in the Derth city storm I died once but it was after a bunch of tactical success and then I got cocky and careless and ran in and got surrounded thinking I could handle the lower enemies, but they surprised me with their power and I couldn't escape.  Totally my fault.  It was very hard for my level though I will say that.  I dont even see it on the recommended zone order progression.  also the dark cave in the Daikara should be listed as "dont enter".  I learned my lesson the hard way to not let the bad boys step on the stairs.
+	- Cool Places: Sandworm Lair was a really interesting level. I'm impressed they pulled that off. The heart of gloom is beautiful!
+	- Update: Pathetic difficulty problem.  I'm up to level 17 and I still just nearly died and then died full on from that worm that walks asshole in the old forest, I did almost no damage to him.  According to the guide I'm supposed to go to the old forest but dont descend to the lake, well I'm only in the first area of the old forest and this is the guy who two shotted me before, and its no different now.  maybe 3 shots but he can hit me for 1/4 of my damage from the furthest sight distance, I otoh can only barely hit him unless I'm close and zooming in and bashing him doesnt kill him in time.   He is far far harder than any of the other enemies I've come up against and I don't stand a chance without a new strat.  Hopefully this reflect rune will work perfectly and he can kill himself.  If it doesnt' work I'm not sure whether I could beat him even with unlimited lives!?! I'm down to only a few lives left.   He is elite level 25.  Nope he killed me for the last time.  I rushed into him, shield bashed him both ways and then kept hitting him and then tried to escape by teleporting but he teleported between me and the exit right after I teleported.  I got him down to right around 50% and thought it was promising, but he was healing so much I never got him lower and he just kept smashing me worse and worse.
+* Avadon 8-26-2020 
+	Boy this game is cool. Theres so much polish, almost as much as TOME, maybe just as much it just works a bit different thats all.  I bought this in a humble bundle a really long time ago.  maybe as long as ... 8-10yrs ago?  I had played some spiderweb and had high admiration for their software, primarily I spent time with Blades of Avernum which was somewhat of an RPG creator system, and either played part of the campaign of that game or one of the other games, but this was back like 2007 on my mac laptop since they were one of the few software houses making mac games (also escape velocity nova (and everything from ambrosia software), and the pinball games by littlewing).  I'm playing in casual mode.  
+	- I like so much about this game: 
+		- "Jerkin: Like pants for your chest" lol.  
+		- I love how fleshed out avadon castle is.  They really went above and beyond and I remember this from their other games.  In the dungeons they even put in empty cells and some locked.  They didn't have to make barred doors for us to know that this was a row of cells.  They put in a huge torture chamber and described in words any details that weren't clear in the graphics.  it covers a lot of area with enough tilesets to make it interesting and the rooms distinct.  And there is stuff everywhere and its ok that a lot of it is decoration its just cool that its there and there are people everywhere and its ok that a lot of them have the same things to not say to you because they are intimidated, its cool that they are there and it makes it all alive and feel lived in.  Its not all just visual but you can pick up cups and ropes and broken swords all over and they dont help or hurt you they are just decoration and they go a long way to making it feel real.  
+		- I like how you can pick party members when you go on quests (to some degree anyway) I am meeting people throughout the castle who can adventure with me when I go.
+		- The quartermaster explains why they dont just give me all of my supplies and among other explanations "Would you rather hand everything you find back to me and then settle for what I give back?  I thought not" Thats a great and convincing rationale actually and its cool they explored that since thats what you would think in that situation.
+		- I like that when the people are told that the cave is clear you actually see them all walk out of the room.  I think thats a nice touch.  
+		- Its cool that when theres a window into a room or bars you can see through it from that angle, but when theres not you can't see anything in that room.
+		- Most of these maps are a work of art and larger and more carefully placed than some entire games.  
+		- "What did you say about his wizard?" "Only that he is a craven servile toady with far more power than wisdom or sense.  Other than that nothing" lol
+		- on just ONe stalagmite in the bat cave there is a turtle balanced on top lol
+	- Quality of life: 
+		- Junk Bag A really nice quality of life feature is the junk bag.  Cmd-click it and then you can sell all that off with one click
+		- Accessing party inventories I can access their inventories from anywhere in the castle (so I dont have to go walk to them to swap weapons or something)
+		- And when selling and transferring equipment its great to just press 123 to switch between characters and send equipment from one to the other.  This whole inventory management is great.
+		- And when you interrupt the leader he seems to be rambling but ends up telling you some background.  he even answers why he is telling you that information.
+	- Questions: Will I be able to grind for gear in this game or is there a set amount of gear?  By grinding I dont mean that killing 1000 enemies might yield one piece of random armor, but that you could really deck out your party by grinding for a few hours.  I kind of hope that is the case.  Or at least that you could deck out your party by grinding to earn dosh and buy the gear you wanted.  Current Guess: No there isn't grinding here.  You just get to explore whats available and kill what is there.
+	- Possible Improvements:
+		- Funny, it said to pick up a cloak from the table, but it hadn't told me how to do that.  I expected when I went near the table it would give me an icon or indication that I could pick it up or if I clicked on it I was sure it would bring up the inventory or just put it in my inventory but none of that happened.  I had to google but since other people had the same problem (even as far back as 2011) they said I just have to look at my inventory when i'm near the cloak and it will let me take it (sort of off the ground).  Its a little weird because you click on containers like cabinets to open them and then it brings you to your inventory, but you dont click on items to bring them into your inventory.  I'm ok with it but it is a hair counterintuitive.
+		- Quality of life: simple and effective: Whenever you are in a menu, clicking outside of the menu window should be the same as ok ... maybe not though because you might think cancel ... How about this: if there is an ok and a cancel then you have to click one or hit enter.  if there is just a checkmark or an ok then clicking outside the window clicks that ok and closes the window
+		- Quality of life: when buying things from the multipage list page up and down and the arrows should scroll.  Ideally the scroll wheel should scroll too.
+		- In quest log there should be a way to ask it where to go to return the quest.  As is I am going to start writing them down.
+		- When you are next to an opponent and you click on it to attack, if you ahve bow and arrow equipped you cant.  You have to switch weapons and then it will let you attack.  Until then you are interrupted.  I feel like it could just switch for you in that case. 
+		
+* The Ground Gives Way 8-26-2020
+	This is a good simple short roguelike, but I dont like it because it doesn't have what I'm looking for.  In particular I dont want hunger, or the complexity of identification, nor do I want to be scared to make every move.  Still kudos to the authors.
 	
 # Top notable purchases #
 (in no particular order)
@@ -737,7 +784,10 @@ These are ones that I loved so much and am so happy I picked up.
 
 * Hellbound
 * Signal from Tolva
+* Titanfall 2
 
+From the past
+* Killzone 2
 
 # With Cristi #
 * Biped (two player puzzle game where you have to work together)
@@ -765,6 +815,8 @@ These are ones that I loved so much and am so happy I picked up.
 * Rec Room
 * Bridge Crew
 * That Strategy Board Game
+* Now No Mans Sky!
+
 
 # For RetroAchievements #
 
@@ -1027,6 +1079,18 @@ I Always wanted to play or master these from the PSX:
 I'm interested in these FMV Games from the PSX:
 1. X Files (both recommended on a cannot be tamed video comment)
 
+## PSP ##
+
+(Might be able to get these working on Stereoscopic!)
+
+1. Ultimate Ghosts n Goblins
+2. Killzone Liberation (2006 Dual Stick Shooter Dungeon Crawl)
+
+## PS2 ##
+pcsx2 apparently has 3d sbs!
+
+1. 
+
 ## WiiU ##
 WiiU games that might be able to be Stereoscopic
 Update: not dolphin: CEMU wiht Reshade 3.0
@@ -1076,18 +1140,18 @@ But I wonder if it would be fun to play emulated games with actual modern light 
 
 -----------------------------------
 ## Most Exciting Games May 28 2020 ##
+Updated Aug 22 2020
 Updated Jul 22 2020
 Track these on one of those websites (the backloggery, rf generation, HLTB)
 Look at Wishlist(DONE) and Humble Bundle (List above in this very file) and Games on Desktop (DONE)
 Look at GameCube, Wii, and 3DS, games below and Amiga games in the other note and above, and latest steam games Q2 and 3
 
 These are the games that get my blood pumping
-* Volgarr the Viking
 * Doom Eternal
 
-Want to start and then finish
+Want to start and finish
 * Psychonauts
-* Shovel Knight 3DS
+* Nope: Shovel Knight 3DS
 * Warhammer: Vermintide 2
 * Spelunky
 
@@ -1153,9 +1217,6 @@ Games that are a bit of a chore to beat at the moment but will be satisfying to 
 
 
 
-
-
-
 -----------------------------------
 ### Less Exciting ###
 Update: several days later: pretty much all of these are now exciting :)
@@ -1179,8 +1240,7 @@ Very Promising
 * Road Redemption
 * Deathspank
 
-Very Promising Stories
-* Hellbound
+Very Promising Stories (basically FPSs)
 * Metro 2033
 * Far Cry 3: Blood Dragon
 * F.E.A.R 2: Project Origin (FEAR)
@@ -1190,6 +1250,9 @@ Very Promising Stories
 * Vanquish
 * Quake 1 VR
 * Brutal Legend
+* Crysis
+* Crysis 2
+* Crysis 3
 
 Promising
 * Worms Revolution (Matt Berry)
@@ -1223,7 +1286,8 @@ Promising Stories
 
 
 Wishlist Most Promising
-* Pistol Whip
+* Jet Island VR
+* Pistol Whip VR
 * Islanders
 * Hypnospace Outlaw
 * Space Dragon
@@ -1231,11 +1295,12 @@ Wishlist Most Promising
 * Blazing Chrome
 * Boiling Bolt
 * Sprint Vector VR
-* Jet Island VR
 * Katana Zero
 * Distance
 * Streets of Rogue
 * Climbey
+* Starwhal
+* Super Galaxy Squadron Turbo (Forgiving vertical shooter)
 
 
 Big and dont own but promising
@@ -1291,6 +1356,7 @@ Games that will take some practice and study to learn
 * Skyrim VR with Mods
 
 Games that could go on forever
+* TOME4 (current fav)
 * Diablo 3
 * Star Trek: Bridge Crew
 * Destiny 2
@@ -1326,6 +1392,9 @@ Would like to make a game in
 
 -----------------------------------
 ### Again ###
+
+Would like to master
+* Volgarr the Viking (Try to beat this in one sitting)
 
 Might like to play again
 * Alien Breed series
@@ -1367,23 +1436,20 @@ Great Active VR that I can play over and over
 * QuiVR
 * Vanishing Realms
 
+
 Great pancake that I can play over and over
+* Nex Machina
 * Spheres of Chaos
-* Mortal Kombat X
 * Refunct
 * Floating Point
-* Nex Machina
 * Bad Ass Babes
 * Dead or Alive V
-* Street Fighter IV
 * Street Fighter V
 * Quake Champions
-* Quake Live  
 * Quake Dark Places online
 
-Stories that I can play again
-* Red Faction 2
-* The Signal from Tolva
+
+Stories that I could play again
 * Hellblade: Senua's Sacrifice VR
 * Portal 2 VR
 

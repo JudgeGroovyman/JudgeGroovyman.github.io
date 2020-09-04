@@ -474,12 +474,31 @@ Custom Models
 ### Level Optimizers ##
 For lots of meshes (like especially for modular levels) there are some assets which optimize these levels
 [Free Github Mesh Combiner](https://github.com/dawid-t/Mesh-Combiner/blob/master/README.md) Recent Updates.  Reduces batch calls significantly.  Might not cull unseen faces.
+[$10 Easy Mesh Combiner MT](https://assetstore.unity.com/packages/templates/systems/easy-mesh-combiner-mt-138805) this one seems to do the job and is updated recently with great reviews.
 [$15 Mesh Face Optimization](https://assetstore.unity.com/packages/tools/modeling/mesh-face-optimization-99412?q=mesh%20face%20optimization&orderBy=0) Recent Updates Almost no reviews. Not automatic like the other two, but i think it would do a good job in some circumstances.
 This is for when you have combined primatives or other meshes to make bigger more interesting meshes and want to optimize them.  If you combine  meshes then they sit on top of and inside one another and this looks at that combined mesh and removes the invisible faces.
 [$45 Super Level Optimizer](https://assetstore.unity.com/packages/tools/utilities/super-level-optimizer-25370) Recent updates Good reviews
 [$45 Mesh Combine Studio](https://assetstore.unity.com/packages/tools/modeling/mesh-combine-studio-2-101956) My notes say its flaky, recent updates, good reviews
 
 Different is this [$20 tool that doesnt lower tris but makes everything look low poly](https://assetstore.unity.com/packages/tools/level-design/low-poly-mesh-generator-59295) I wonder if it could take shitty realistic meshes and make them look so cool like low poly
+
+## Blasting Meshes ##
+(See below for more)
+
+1. Mesh Explosion
+2. Mesh Baker
+3. Mesh Slicer
+4. Alternatives
+5. Mesh Animator
+6. Mesh Creation and Decimation
+7. Mesh Kit
+8. Mesh Deformer
+9. Fracturing & Destruction
+10. Megapack
+
+New Ones:
+1. [$10 Fragmented Object Unity 3D](https://assetstore.unity.com/packages/3d/props/fragmented-objects-25699)
+
 
 ### Mesh Explosion ###
 $20 Blast apart a mesh into its triangles
@@ -594,6 +613,8 @@ A common theme in the reviews is that the developer isn't providing support. Tha
 They have a [website](http://www.ultimategametools.com/products/advanced_tools_mega_pack)
 
 The Concave Collider looks pretty awesome actually.  It allows for complex colliders instead of having convex colliders which provide a really rough and imprecise solution.  The [video on this](https://www.youtube.com/watch?time_continue=6&v=mu__FxT8Gzk) explains it pretty well. 
+
+
 
 ## Investigate ##
 - Concave Collider (in advanced tools mega pack)

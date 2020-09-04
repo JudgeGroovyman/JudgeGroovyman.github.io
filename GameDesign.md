@@ -54,7 +54,7 @@ Back in the day they thought that making home games should be like making games 
 	* It also may mean that for some people the games are not very interesting 
 	
 	
-	
+I'm playing the RPG Avadon and I chose casual mode, and all of the battles so far have been very very easy.  I like that for me for now, while I simultaneously recognize that the battles aren't very interesting this way since they are so easy, there is some balance of difficulty and interest that is a hard line to walk, however even on casual mode, if you were to do things wrong you would still die.  There are still loss conditions.  There is also the play of figuring out where to go, who to fight, who to talk to, what to pick up, what to equip, what to buy and sell, and puzzles to solve (how to enter the secret lair near the dragon - I Looked everywhere, didnt see it, went there several times and didnt see it, finally saw it.  Soemtimes its about looking at the right thing from teh right perspective and clicking on everything.  There was even a red herring that I tried to open for a long time), etc.  If you want more in game time spent then casual isnt the best option for you, but I would prefer a shorter funner game than a long one personally.    The boss battles can still be lost pretty easily without much trouble even on casual.
 
 # Continue Structures #
 
@@ -329,6 +329,84 @@ Here are some of the elements that the doom engine and its surrounding ecosystem
 ### Super Mario Bros
 * 36 Linear Levels
 * No stage select
+
+
+### Roguelike ###
+Roguelike
+
+- I like the idea of playing Omega from back in the day but using a non-random seed.  Playing the same seed many times to try to beat it.  I like that idea a lot actually.  Maybe it wasn't Omega maybe it was Moria?  yes it was Moria
+- Really I want the player to be able to try again forgivingly.  Try the same seed with the same
+- I also want to roll my own character in Omega, and I want to use magic or an item to teleport back to the town on the ground level to save
+- if I'm being perfectly honest I also want it to be easier, have fewer enemy attack patterns, or introduce them slower, or only if you choose on that run.
+- I want to explore and
+- And I don't want to constantly be confronted with new unfamiliar things.  I want to be able to get familiar with almost everything after a while except the maps, enemy placement, attack patterns, and what cool loot to find.  I dont want traps or tricks in my loot.  I dont want to worry all the time about traps or tricks or whether I know the potion.  I'm ok with not knowing things when the seed starts, in fact that sounds like fun, but for your given character (who should be resurrectable) (a shaman could be watching over your journeys and resurrect you back at the city when you die)  Proper punishment?  Leave all loot where you died?  bring back only what you are wearing and whats in your pockets?
+- I dont want to have to learn a lot so I dont want a ton of spells or classes or at least that can suffer at first
+- I definitely do not want forced descent.
+- The original Rogue was nearly simple enough, but I would like to explore a whole Middle Earth sized world and somehow find my way through a quest.
+- I've been playing TOME4 and its chill and so cool and interesting because I love picking up the new loot.  There IS a chance you can die, if you just stood there, but its not too hard to beat the enemies, if you were surrounded and just used buffs for like 4 turns without attacking I feel like you would die.  So there is pressure to pay attention, but at the same time, you are powerful so it doesnt take too much to overpower your foes and I like that feeling.  I like getting more and more powerful and I like getting better weapons and higher levels and that allowing me to face off against a mighty foe.  
+  -   I feel like I would love a whole game like this which didnt get even that much more intense than this, but certain battles could be intense and that is fine.  Keeping the intensity high the whole game is certainly not what I am looking for 
+  - If pretty much the whole game was like this and then you fight a boss and you have to survive those levels that would be fun.
+  - IT could even have parts where you have to beat a boss and if you dont you start several screens back at the beginning of that level, with respawned enemies?
+  - Some games have enemies that will kill you with one blast if you arent levelled properly.  I dont want my game to do that.  I want it to make clear that you will die on this level if you dont grind more ... perhaps a door key which requires you to hit the door with a certain amount of damage, and then in the hallway you have to take a hit of a certain amount and if you can take it then you get healed and move on, but if you can't you can't progress.  Have something like that every 1/4 through the game.
+- Like Chrono Trigger well it could have interesting story with events and things happening and people hanging around.
+- I just figured something out: I prefer single character RPGs, especially tactical ones.  Maybe I dont feel like I can keep track of everything going on otherwise.  
+- Features I dont like in RPGs or Roguelikes (Nothing against them just not fun for me)
+  - equipment degradation
+  - Steep difficulty (progress difficult)
+  - Constant battle and intensity (no peace)
+  - Long time between saves
+- Every 5 levels or so There is a hole in the outer wall where if you save enough cash you can hire the tube smith to install a tube that takes you right down to this level when you die
+- All levels above the tube are once again populated with scaled difficulty demons so you can grind later if you just go back up a few levels
+
+
+- Roguelike features I want
+  - Definitely
+  - Random dungeons
+  - Infinite life (optional permadeath ok)
+  - Nothing but you can end progress
+  - A way to build up your skills if you take on a boss or level you aren't powerful enough for
+  - A run that doesnt take 40-100 hrs. 
+  - Simple mechanics somewhat like rogue
+    - stats
+    - melee
+    - Ranged
+    - aoe
+    - dragon breath
+    - potions (like in rogue) or runes (like in tome4)
+    - not much more complexity
+  - Life regeneration auto (like tome 4) or life from exploring or enemies or potions or items.
+  - 
+  - Ideally
+  - Somewhere safe to retreat (an overworld like tome4 or town like moria perhaps)
+  - Teleporting back to town to retreat like tome4 (but can invest in making the retreat faster)
+  - Turn based
+  - Character Stat Rolling (with one level undo) similar to moria
+  - A limited size of dungeon like in tome4
+  - Loads of loot
+  - Movement like tome4
+  - Auto explore like in tome 4
+  - 1-6hrs is good
+  - Lots of good features in tggw
+  - 
+  - 
+  - Ambivalent
+  - Perma levels (as long as theres another way to build up your skills - respawning monsters)
+  - Story or Lore
+  - Whether the lives are the same character as long as you keep progress
+  - Skill trees
+  - visibility like in tome 4 (I dont care if you can see behind trees or stones or not)
+  - classes
+  - races
+  - progress via levelling (like tome4) vs equipment (like tome4 or tggw) vs training (like in tggw) vs quests (like tome4)
+  - 
+  - 
+  - Definitely No
+  - Permadeath (optional is fine, optional infinite lives required)
+  - Potion or item identification
+  - elements or different types of blights like TOME4 or any complex mechanics like that
+  - food
+  - 
+
 
 
 # My Structural Designs
