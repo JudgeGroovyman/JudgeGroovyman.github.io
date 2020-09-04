@@ -229,6 +229,7 @@ Cristi got through it.  The simplest way is to play something that makes you sic
 7. EMUVR (80s bedroom with a bunch of TVs, most precise way to experience 80s/90s light gun games)
 8. Virtual Boy Emulation 
 9. PS3 emulator RPCS3 gets playstation 3d support
+10. PCSX2 ps2 emulation
 
 List of emulators that support 3d or VR https://emulation.gametechwiki.com/index.php/Virtual_Reality
 
@@ -262,6 +263,7 @@ Some PC games with VorpX in VR
 Some PSX games with 3D Shader
 Maybe Some N64 games with 3D shader (didnt work right away)
 Maybe Some PS2 games with SBS Emulator patch
+PSP?
 
 # Retroarch #
 See WarioWare above for more on getting it working with Virtual Boy
