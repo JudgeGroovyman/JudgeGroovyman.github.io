@@ -5,7 +5,75 @@ I had certain magazines in my collection for 10+ years and I read them all many 
 I can trace back the moment we got the Amiga, or the moment I fell in love with it at Computerwise (this would have been after having read about it in commodore magazine for a few years) to the first Amiga World that I recognize: December 1991 so I suspect we started shopping that December and bought our Amiga in early 1992.  A conflicting piece of information: Lemmings was by all accounts brand new when we bought our Amiga and apparently it had come out in February of 1991.  When we bought it no one had heard of it and the computer store were clearly featuring it and it was really fresh and we paid full price.  A year is an eternity in computers so if it had been a year old when we bought it I don't think some of those things would have been true.  Amiga Format I remember the Nov 1991 vaugely and the Oct 1992 CU Amiga, but those were european mags so its possible that I just didnt get into computerwise that much until then.  My best guess is fall 1991.
 
 
-# AMOS Pro #
+# Amiga Programming #
+
+## AMOSPro ##
+
+From the Marc365 page: This repository is 68k Assembly and unique in design. It is powerful and runs like an operating system. Games and multimedia become exciting to program again, relying on your own skills instead of libraries.
+
+Cool Facebook Group
+https://www.facebook.com/groups/AmosPro
+There you can get info about the latest source, find the AGA version, and ask questions from a supportive community.
+
+Programming the Amiga installing AMOS the easy way
+https://www.youtube.com/watch?v=coOdEs4lJZ0
+Here he shows how to get AMOS Pro running from the marc365 repo, also from amosforwindows, and then shows how to change startup sequence to fix paths so the amosforwindows can access the disks
+
+Officially maintained Open Source Repo
+https://github.com/marc365/AMOS-Professional-365
+This is the official repo now for AMOS Pro Sources.  There are instructions on how to rebuild the whole program in the readme and there is an entire built verison in the /AMOS folder. I've had problems with line endings but once I converted line endings it worked.  If everything fails miserably thats probably the problem.  Someone said using the compiler that when the "Open default screen" in the Compiler Options is set to "No" (which is default) then even simple compiled programs crash. 
+I hestitate to even mention this but I have heard of animosity between mark365 and other members of the AMOSPro community as of 2018 but I see no evidence of that at this point.
+The compiler is here too but I dont think the examples disk is here
+
+AMIDark - Fork with AGA and HAM8 support
+https://github.com/AmiDARK/Amos-Professional-AGA-Releases
+Here is the binary only AGA release which is hot and regularly updated.  Its also got HAM8 support recently.  Lots of support from the wizard author Frederic Cordier on the facebook group.
+Heres the developer diary and official page of this fork http://amos-professional-aga.frederic-cordier.fr/?developer-diary
+
+Offical Francois Lionet Version
+This one is getting no maintenance but is forked from MARc365 and has official MIT license information.  This is important because it is from the original author and sets in stone the license terms which were for a time in 2019 in question and causing a huge political problem with the AGA release and any further substantial development.  I would say this will remain important but only for historical reasons.
+https://github.com/AOZ-Studio/AMOS-Professional-Official
+This is being maintained however as noted at the [top of this page](http://amos-professional-aga.frederic-cordier.fr)
+
+Francois lionet's new project
+https://www.aoz.studio
+This is an AMOSPro compatible modern language which can then run in the browser which is pretty damn cool imho.  I believe it generates javascript.  It is supposed to retain compatiblity with old AMOS or AMOSPro programs.  Imho it wont be perfect but will be really good and there will be a certain skillset required to know what needs to change from old commands to the new language.  I hope I'm wrong.  certainly there are new superset commands making it easier to load modern graphics and sound resources.
+
+
+Amos for Windows 2011
+Heres an old 2011 version of AMOSPro running in an old pre-configured version of UAE which just boots quickly into AMOSPro.  Thats pretty cool and requires no setup.  If you want to setup an Amiga see Preconfigured Environments below.
+http://eab.abime.net/showthread.php?t=60144&fbclid=IwAR17q7fj3e6PhPT-MTU339anBeq1Fqj5uvjlm7U82Qp6JmSsvmFphq_xvks
+It has all of the disks included including the examples disk and productivity disks
+Also has some patches to get AMOS3D programs working which is unique and cool.  And there are some 3d examples. 
+Also has the AMCAF extension which has faster math, adds and speeds up some graphics routines, adds fancy font support, and fixed protracker.
+
+
+Resources:
+
+- Aminet/amos
+- [AMOS PD CDRom](https://archive.org/details/cdrom-amospdcd) - this is an interesting thing because there are thousands of programs on there, but in my experience virtually none of them work.  I'm sure they work using the right version of amos on the right OS, but I dont have that so it was frustrating to play with them.  OTOH since the source is there, a lot of learning could take place in just reading the source or trying to get them working and changing some things.  
+- [Writing RPGs in AMOS](https://archive.org/details/WritingRPGsInAMOSByD.PeekeImageOnlyA4Size)
+- [AMOS In Action](https://archive.org/details/AmosInActionByAnnAndLennTucker)
+- [AMOS In Education](https://archive.org/details/AmosInEducation)
+- [AMOS Pro Manual](https://archive.org/details/AmosProfessionalManual)
+- [Amiga Game Makers Manual](https://archive.org/details/amiga-game-makers-manual)
+- [AMOS3D Users Guide](https://archive.org/details/amos-3d-manual)
+
+
+Investigate:
+How to get 3d extensions (like in 2011 amos for windows), AMCAF, and Easylife working in the open source marc365 and AMIDark versions
+
+
+
+## Blitz ##
+
+Facebook Group Amiga Blitzbasic and Amiblitz
+https://www.facebook.com/groups/342460143062811
+
+Ultimate Blitz Basic Plus
+http://ubb.plus/
+
+Look for blitz books on ARchive.org
 
 # Preconfigured Environments #
 

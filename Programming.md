@@ -1,5 +1,16 @@
 
 
+# Simplest Starting Points #
+1. AOZ.studio (see my [Amiga Page](Amiga.md) under AMOSPro for more)
+2. OLCConsoleGameEngine [The intro video](https://youtu.be/u5BhrA8ED0o) all of the videos surrounding this video on his page use this engine and a windows console application to make games from nothing using just visual studio and this one dependency (well and iostream)  ALso he has a pixelgameengine that he uses later.
+
+# Amiga #
+See my [Amiga Page](Amiga.md)
+
+
+
+
+
 # Apps #
 - [Making an event app ](https://apptooltester.com/how-to-create-an-event-app/)
 
