@@ -130,100 +130,100 @@ Always wanted to make a game in PyGame
 
 Game Makers
 
-Name, 		Lanugage, 	Platforms,		Developer, 	Community, 	Size,		Install	Accessible,	Cost,		Notes
-										Activity   	Activity       Community		 Ease
-AppGameKit, 	BASIC or C++, 	Win Mac Lin, 		9,			8, 			6 ,			10			10, 		Paid Only,	High polish and amazing fast
-Leadworks,	Lua cpp,		Win Only,			8,			5,			4,			8,			8,		100-500,		VR, 
-Unity, 		C#, 			Win Mac Lin, 		10+, 		10+, 		10+,			10			5(6),	Free,		Accessibility bonus due to the great community
-Unreal, 		C++, 		Win Mac Lin, 		10+, 		10, 			10,			10			3(4),	Free,		Accessibility bonus due to the good community
-Godot,		C# C++ GDS,	Win Mac Lin,		10,			10,			9,			10,			4,		Free,
-PlayCanvas,	JS,			Win Mac Lin,		10,			10,			9,			10,			8,		Free-30/mo,	Realtime Collaboration
-Urho3D,		C++,			Win Mac Lin,		9,			7,			7,			8,			5,		Free,		
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-GBStudio,		Drag Drop,	Win Mac Lin,		9,			8,			8,			10,			10,		Free,		Discord subreddit
-GDevelop,		JS,			Win Mac Lin,		9,			8,			8,			8,			9,		Free,		Discord forum
-PythonArcade,	Python,		Win Mac Lin,		10,			4,			4,			4,			9,		Free,		Doesnt work on Raspy
-Love,		Lua,			Win Mac Lin,		9,			9,			8,			9,			9,		Free,		Solid Simple 2D Game Engine
-Phaser,		JS TS,		Win Mac Lin,		10,			8,			7,			5,			9,		Free,		2D with lots of great options			
-Construct,	Visual,		Win Mac ios,		10,			9,			9,			9,			9,		Free,		Develop on ios even
-Torque2D,		C-Like,		Win Mac,			9,			2,			6,			5,			5,		Free,		Mature and Long Standing
-ENTT,		C++,			?				9,			7,			7,			7,			7,		Free,		ECS Example is Kerndog73/EnTT-Pacman
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Corona/Solar,	Lua,			Win Mac Lin,		9,			8,			5,			4,			8,		Free,		
-RPGMaker,		Ruby JS,		Win Mac Lin,		8,			9,			8,			8,			9,		80,						
-Allegro5,		C++,			Win Mac Lin,		9,			8,			8,			7			6,		Free,
-SDL,			C/C#/Python,	Win Mac Lin,		9,			9,			9,			7			7,		Free,		
-GameMaker,	GMScript,		Win Mac,			9,			10,			10,			9,			10,		40/yr,		Toxic Community
-Pygame, 		Python,		Win Mac Lin,		10,			3,			6,			6,			7,		Free,	
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Pyglet, 		Python,		Win Mac Lin,		10,			2,			1,			4,			5,		Free,		LL more for making frameworks than games
-Stride,		C#,			Win Only,			10,			2,			4,			7,			5,		Free,			
-CryEngine, 	C++,			Win,				7,			3,			3,			3			2,		Unknown,		
-Lumberyard,	Lua Cpp,		Win,				8,			3,			4,			5			3,		Unknown,					
-AOZStudio,	BASIC,		Win Mac Lin, 		9,			4,			2,			6			7,		Free,		Still in work
-Shiva,		Lua,			Win Mac Lin,		9,			2,			2,			7,			4,		Free-1000,	Free is only web.  Full Unity Features
-Heroengine,	Heroscript,	Win Only,			3,			4,			2,			6,			6,		100/yr,		Multiuser Edits in the cloud, not recent
-Panda3D, 		Python,		Win Mac Lin,		8,			3,			2,			5			7,		Free,		Looks cool and easy to start with.  Small Community.
-WinterPharo,	Smalltalk,	Win Mac Lin,		9,			1,			1,			7,			1,		Free,	
-LionEngine, 	Java,		Win,				8,			0,			0,			7,			6,		Free,		No breadth or depth to support	
+Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
+				                 Activity    Activity  Size	Ease	    -ability,			
+AppGameKit, 	BAS C++,	Win Mac Lin, 	9,		8, 		6 ,	10		10, 		?,		High polish and amazing fast
+Leadworks,	Lua cpp,	Win Only,		8,		5,		4,	8,		8,		100-500,	VR, 
+Unity, 		C#, 		Win Mac Lin, 	10+, 	10+, 	10+,	10		5(6),	Free,	Accessibility bonus due to the great community
+Unreal, 		C++, 	Win Mac Lin, 	10+, 	10, 		10,	10		3(4),	Free,	Accessibility bonus due to the good community
+Godot,		C#C++GDS,	Win Mac Lin,	10,		10,		9,	10,		4,		Free,	
+PlayCanvas,	JS,		Win Mac Lin,	10,		10,		9,	10,		8,		0-30pm,	Realtime Collaboration
+Urho3D,		C++,		Win Mac Lin,	9,		7,		7,	8,		5,		Free,	
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GBStudio,		DragDrop,	Win Mac Lin,	9,		8,		8,	10,		10,		Free,	Discord subreddit
+GDevelop,		JS,		Win Mac Lin,	9,		8,		8,	8,		9,		Free,	Discord forum
+PythonArcade,	Python,	Win Mac Lin,	10,		4,		4,	4,		9,		Free,	Doesnt work on Raspy
+Love,		Lua,		Win Mac Lin,	9,		9,		8,	9,		9,		Free,	Solid Simple 2D Game Engine
+Phaser,		JS TS,	Win Mac Lin,	10,		8,		7,	5,		9,		Free,	2D with lots of great options			
+Construct,	Visual,	Win Mac ios,	10,		9,		9,	9,		9,		Free,	Develop on ios even
+Torque2D,		C-Like,	Win Mac,		9,		2,		6,	5,		5,		Free,	Mature and Long Standing
+ENTT,		C++,		?			9,		7,		7,	7,		7,		Free,	ECS Example is Kerndog73/EnTT-Pacman
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Corona/Solar,	Lua,		Win Mac Lin,	9,		8,		5,	4,		8,		Free,	
+RPGMaker,		Ruby JS,	Win Mac Lin,	8,		9,		8,	8,		9,		80,					
+Allegro5,		C++,		Win Mac Lin,	9,		8,		8,	7		6,		Free,	
+SDL,			C/C#/Pyt,	Win Mac Lin,	9,		9,		9,	7		7,		Free,	
+GameMaker,	GMScript,	Win Mac,		9,		10,		10,	9,		10,		40/yr,	Toxic Community
+Pygame, 		Python,	Win Mac Lin,	10,		3,		6,	6,		7,		Free,	
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pyglet, 		Python,	Win Mac Lin,	10,		2,		1,	4,		5,		Free,	LL more for making frameworks than games
+Stride,		C#,		Win Only,		10,		2,		4,	7,		5,		Free,		
+CryEngine, 	C++,		Win,			7,		3,		3,	3		2,		Unknown,	
+Lumberyard,	Lua Cpp,	Win,			8,		3,		4,	5		3,		Unknown,				
+AOZStudio,	BASIC,	Win Mac Lin, 	9,		4,		2,	6		7,		Free,	Still in work
+Shiva,		Lua,		Win Mac Lin,	9,		2,		2,	7,		4,		0-1000,	Free is only web.  Full Unity Features
+Heroengine,	Heroscr,	Win Only,		3,		4,		2,	6,		6,		100/yr,	Multiuser Edits in the cloud, not recent
+Panda3D, 		Python,	Win Mac Lin,	8,		3,		2,	5		7,		Free,	Looks cool and easy to start with.  Small Community.
+WinterPharo,	Smaltalk,	Win Mac Lin,	9,		1,		1,	7,		1,		Free,	
+LionEngine, 	Java,	Win,			8,		0,		0,	7,		6,		Free,	No breadth or depth to support	
 
 App Makers with GUI Builders
 
-Name, 		Lanugage, 	Platforms,   Developer,	Community, 	Size,	Install	Accessible,	Cost,		Notes
-								   Activity    Activity     Community	Ease
-PureBasic, 	BASIC,		Win Mac Lin,		7,			8,			7,			10			10,		$80, 		Also an Amiga Port!
-LiveCode,		LC,		 	Win Mac Lin,		10,			9,			8,			7,			9,		Free-$2k/mo,	Hot Code No profiler or remote debug for lt2k/mo
-CodeTyphon,	Pascal,		Win Mac Lin,		10,			5,			2,			8,			9,		Free,		Fork of Lazarus with lots of extra packages
-B4x,			BASIC,		Win Only,			9,			10,			9,			6,			8,		Free,		Power Like VB Export to many targets& mobile
-Crossui,		Drag,		Win Mac Lin,		8,			1,			1,			10,			10,		0-1000,		
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-XOJO,		xojo,		Win Mac Lin,		10,			8,			8,			9,			10,		$0-2k,		Free for learning, $99/yr minimum otherwise
-LibertyBasic,	BASIC,		Win   Only,		10,			3,			2,			10			10,		$60,			Lots of activity on the basic group
-Lazarus, 		Pascal,		Win Mac Lin, 		9,			8,			8,			10			8,		Free,		This looks amazing for making GUI apps		
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Gambas,		BASIC,		Linux Only,		9,			8,			4,			1			5,		Free,		Like VB Dependency hell install otherwise great÷
-PascalABC,	Pascal,		Win Only,			10,			1,			1,			7,			6,		Free,		Not Highly Regarded
+Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
+				                 Activity    Activity  Size	Ease	    -ability,			
+PureBasic, 	BASIC,	Win Mac Lin,	7,		8,		7,	10		10,		$80, 	Also an Amiga Port!
+LiveCode,		LC,		Win Mac Lin,	10,		9,		8,	7,		9,		$0-2kpm,	Hot Code No profiler or remote debug for lt2k/mo
+CodeTyphon,	Pascal,	Win Mac Lin,	10,		5,		2,	8,		9,		Free,	Fork of Lazarus with lots of extra packages
+B4x,			BASIC,	Win Only,		9,		10,		9,	6,		8,		Free,	Power Like VB Export to many targets& mobile
+Crossui,		Drag,	Win Mac Lin,	8,		1,		1,	10,		10,		0-1000,	
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+XOJO,		xojo,	Win Mac Lin,	10,		8,		8,	9,		10,		$0-2k,	Free for learning, $99/yr minimum otherwise
+LibertyBasic,	BASIC,	Win   Only,	10,		3,		2,	10		10,		$60,		Lots of activity on the basic group
+Lazarus, 		Pascal,	Win Mac Lin, 	9,		8,		8,	10		8,		Free,	This looks amazing for making GUI apps		
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gambas,		BASIC,	Linux Only,	9,		8,		4,	1		5,		Free,	Like VB Dependency hell install otherwise great÷
+PascalABC,	Pascal,	Win Only,		10,		1,		1,	7,		6,		Free,	Not Highly Regarded
 
 App Makers with Code GUIs
 
-Name, 		Lanugage, 	Platforms,   Developer,	Community, 	Size,	Install	Accessible,	Cost,		Notes
-								   Activity    Activity     Community	Ease
-Pharo,		Smalltalk,	Win Mac Lin,		6,			2,			2,			9			3,		Free,		So powerful and awesome
-Ultimate++,	C++,			Win Mac Lin,		8,			8,			6,			7,			8,		Free,		Much shorter code than swing or qt
-Haxe,		Haxe,		Win Mac Lin,		9,			10,			8,			4			8,		Free,		Can develop games or desktop apps, or cross compile
-FreeBasic, 	BASIC,		Win Dos Lin,		10,			5,			4,			8			8,		Free,		
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-FYNE,		Go,			Win Mac Lin,		8,			?,			?,			4			6,		Free,		Requires you to setup the environment
-JustBasic,	BASIC,		Win Only,			6,			6,			4,			9,			10,		Free,		Simpler Liberty Basic
-Rebol,		Rebol,		Win Mac Lin, 		5,			3,			1,			10			8,		Free,		
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-FutureBasic,	BASIC,		Mac Only,			9,			1,			1,			9,			8,		Free,		Graphical GUIs with XCode Tricks
-GNAVI,		Ada,			Win Only,			8,			?			1,			3			6,		Free,		So Interesting!
+Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
+				                 Activity    Activity  Size	Ease	    -ability,			
+Pharo,		Smltalk,	Win Mac Lin,	6,		2,		2,	9		3,		Free,	So powerful and awesome
+Ultimate++,	C++,		Win Mac Lin,	8,		8,		6,	7,		8,		Free,	Much shorter code than swing or qt
+Haxe,		Haxe,	Win Mac Lin,	9,		10,		8,	4		8,		Free,	Can develop games or desktop apps, or cross compile
+FreeBasic, 	BASIC,	Win Dos Lin,	10,		5,		4,	8		8,		Free,	
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FYNE,		Go,		Win Mac Lin,	8,		?,		?,	4		6,		Free,	Requires you to setup the environment
+JustBasic,	BASIC,	Win Only,		6,		6,		4,	9,		10,		Free,	Simpler Liberty Basic
+Rebol,		Rebol,	Win Mac Lin, 	5,		3,		1,	10		10,		Free,	
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FutureBasic,	BASIC,	Mac Only,		9,		1,		1,	9,		8,		Free,	Graphical GUIs with XCode Tricks
+GNAVI,		Ada,		Win Only,		8,		?		1,	3		6,		Free,	So Interesting!
 
 
 
 
 Both Games and Apps
 
-Name, 		Lanugage, 	Platforms,   Developer,	Community, 	Size,	Install	Accessible,	Cost,		Notes
-								   Activity    Activity     Community	Ease
-PureBasic, 	BASIC,		Win Mac Lin,		7,			8,			7,			10			10,		$80, 		Also an Amiga Port!
-Haxe,		Haxe,		Win Mac Lin,		9,			10,			8,			4			8,		Free,		Can develop games or desktop, or crosscompile
-LiveCode,		LC,		 	Win Mac Lin,		10,			9,			8,			7,			9,		Free-$2k/mo,	Hot Code No profiler or remote for lt2k/mo
-LibertyBasic,	BASIC,		Win   Only,		10,			3,			2,			10,			10,		$60,			Lots of activity on the basic group
+Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
+				                 Activity    Activity  Size	Ease	    -ability,			
+PureBasic, 	BASIC,	Win Mac Lin,	7,		8,		7,	10		10,		$80, 	Also an Amiga Port!
+Haxe,		Haxe,	Win Mac Lin,	9,		10,		8,	4		8,		Free,	Can develop games or desktop, or crosscompile
+LiveCode,		LC,		Win Mac Lin,	10,		9,		8,	7,		9,		0-$2kpm,	Hot Code No profiler or remote for lt2k/mo
+LibertyBasic,	BASIC,	Win   Only,	10,		3,		2,	10,		10,		$60,		Lots of activity on the basic group
 
 
 
 Programming in a simpler world
 
-Name, 		Lanugage, 	Platforms,   Developer,	Community, 	Size,	Install	Accessible,	Cost,		Notes
-								   Activity    Activity     Community	Ease
-Chipmunk Basic, BASIC, 		Mac Only, 		7,			1,			1,			10,			9,		Free,		So much fun!
-OLCConsoleGameEngine, C++, 	Win,				9,			3,			3,			10,			10,		Free,		Intentionally limited but so cool
-OLCPixelEngine		
-QB64, BASIC, Win Mac Lin, 					8,			5,			3,			8,			7,		Free,		This is a pretty damn cool QBasic environment
-JustBasic,	BASIC,		Win Only,			6,			6,			4,			9,			10,		Free,		Simpler Liberty Basic
-Rebol,		Rebol,		Win Mac Lin, 		5,			3,			1,			10			8,		Free,		
+Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
+				                 Activity    Activity  Size	Ease	    -ability,				
+Chipmunk Basic,BASIC, 	Mac Only, 	7,		1,		1,	10,		9,		Free,	So much fun!
+OLCConsoleEng,	C++, 	Win,			9,		3,		3,	10,		10,		Free,	Intentionally limited but so cool
+OLCPixelEngn,	C++,		Win,			9,		3,		3,	10,		9,		Free,	
+QB64, 		BASIC, 	Win Mac Lin, 	8,		5,		3,	8,		7,		Free,	This is a pretty damn cool QBasic environment
+JustBasic,	BASIC,	Win Only,		6,		6,		4,	9,		10,		Free,	Simpler Liberty Basic
+Rebol,		Rebol,	Win Mac Lin, 	5,		3,		1,	10		8,		Free,	
 
 
 
@@ -238,6 +238,9 @@ LiveCode
 Defold
 pysdl2 Updated this year!
 What do I have in my humble bundle and steam accounts?
+AGKPython
+AGKSharp
+AGKJava
 
 
 Most Expensive Ones:
@@ -251,6 +254,7 @@ Most Expensive Ones:
 - CrossUI $1000 (free forever before release)
 - Purebasic $80
 - LibertyBasic $60
+- AppGameKit ($50 to start $100 for the studio (Drag and drop 3d scenes), $10-30 for add ons like VR, Assets, Shaders)
 
 
 
@@ -377,10 +381,10 @@ Comments on the expensive ones: https://forum.bubble.io/t/other-no-code-alternat
 
 # Programming on Mobile #
 
+- AppGameKit literally RUNS on mobile.  Huge ding on what could be so great: it doesnt support BT Keyboards at least on IOS
 - SmartBasic is my favorite.  It is really cool and can do a lot I spent a long time with it in bed as I fell asleep making cool graphics programs.  Its even got buttons and UI and stuff and its all documented in app.  It can send programs out to email I think so you can get them out of the app and you can always copy and paste them in and there may even be a better way to get them in.  Then you can even make your OWN APP on your phone from this using some kind of shortcut trick. its pretty awesome.  PLUS you can get a smart basic sdk for xcode and publish your iphone apps in the app store!  Thats pretty damn awesome if you ask me.   GPS, Multitouch, Networking, Music and Video, etc.  This is the one app that reminds me the most of AMOS for Amiga.  It says theres dropbox support and a forum to get answers.  thats awesome.  
 - Codea 
 - Construct 3
-- AppGameKit literally RUNS on mobile.  Huge ding on what could be so great: it doesnt support BT Keyboards at least on IOS
 - Basic by miSoft - its a cool throwback, people say its best to dropbox your file and copy and paste it in
 - Hotpaw basic like Chipmunk basic interpreter on iphone - not recently updated
 
