@@ -23,6 +23,9 @@ For Some of these engines the showcases they have so far its a stretch to say th
 # Programming Books #
 for books more than a few years old archive.org holy crap
 
+The ultimate starting point for 3D
+http://graphicscodex.com
+
 https://books.pharo.org
 https://github.com/SquareBracketAssociates
 
@@ -30,17 +33,38 @@ https://github.com/SquareBracketAssociates
 
 Creative Commons Books
 
-
+Attribution
+- -------------------------------------
+- [Purebasic A Beginners Guide to Computer Programming](https://freecomputerbooks.com/PureBasic-A-Beginners-Guide.html)
 
 Attribution Share Alike
-https://books.pharo.org/updated-pharo-by-example/
+
+- -------------------------------------
+- [Pharo By Example](https://books.pharo.org/updated-pharo-by-example/)
 - [Blender Game Engine Maze Game](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/An_aMAZEing_game_engine_tutorial)
 - [A Byte of Python](https://python.swaroopch.com)
 - [Roblox Game Making](https://en.wikibooks.org/wiki/Roblox_Game_Development)
-
+- [Blender Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)
+- [3D Game Development with LWJGL](https://freecomputerbooks.com/3D-Game-Development-with-LWJGL.html)
+- [QBasic](https://en.wikibooks.org/wiki/QBasic)
 
 Attribution Share Alike Noncommercial
+
+- -------------------------------------
 - [Making Games with Python and Pygame Vol 1](http://inventwithpython.com/pygame/) this is related to inventing games with python but is CC
+- [Game essentials with Raspberry Pi](https://www.raspberrypi.org/magpi-issues/Essentials_Games_v1.pdf)
+- [97 Things every Programmer should know](https://freecomputerbooks.com/97-Things-Every-Programmer-Should-Know.html)
+- [Introduction to Programming Using Java](https://freecomputerbooks.com/Introduction-to-Programming-Using-JAVA.html) 2020
+- [PC Assembly Language](https://freecomputerbooks.com/PC-Assembly-Language.html) 2019
+- [Blender Basics](https://freecomputerbooks.com/Blender-Basics-A-Classroom-Tutorial-Book.html) 2017 (Its not the new Blender 2.8 its the 'new' blender 2.6 interface - have to preface it with that, or perhaps bring all of the tutorials to Blender 2.8 - maybe even work with people on stream or on Youtube live to get it working the right way.
+- [HTML5 Shmup in an afternoon](https://freecomputerbooks.com/HTML-5-Shoot-them-Up-in-an-Afternoon.html) from 2015 so ... kinda old but could still be a good tutorial - uses Phaser!
+- [Many more Here](https://freecomputerbooks.com/search.html?ie=UTF-8&q=game+cc-by-nc-sa&sitesearch=freecomputerbooks.com&x=0&y=0&keywords=game+cc-by-nc-sa)
+- [So you want to program? Program with BASIC-256](https://freecomputerbooks.com/So-You-Want-to-Learn-to-Program-Programming-With-BASIC-256.html) 
+- [Street Fighting Mathematics](https://freecomputerbooks.com/Street-Fighting-Mathematics.html)
+
+
+CC-BY-ND No Distributing remix
+- [What I have learned from failure](https://freecomputerbooks.com/What-I-have-Learned-From-Failure.html) This is from a software engineer
 
 
 
@@ -50,6 +74,12 @@ Attribution Share Alike Noncommercial
 - [Game Design - enough to fill a book](https://sloperama.com/advice.html)
 
 
+Unknown License
+
+- ---------------------------------------
+- [Blunt Axe Basic](https://www.freecomputerbooks.com/Lets-Build-a-Scripting-Engine-Compiler.html) Building a basic compiler and interpreter from scratch
+- [Machine Language for Beginners](https://freecomputerbooks.com/Machine-Language-for-Beginners.html)
+- [Pascal Tutorials](https://freecomputerbooks.com/Pascal-Tutorials.html)
 
 
 # Interesting Programming Options 2020 #
@@ -61,7 +91,45 @@ Attribution Share Alike Noncommercial
 
 Add some more information here:
 
+
+Suitability for its intended purpose
+Desirability to me
+
 Quality of the games or apps showcased by this engine
+VR Power
+aesthetic quality of the games showcased (by year)
+sophistication of the games showcased (by year)
+aesthetic quality of the apps showcased (by year)
+Marketplace
+
+3D List
+2D List
+Specific Game Type Engine
+
+RAD
+UI
+Classic Programming
+Libraries
+
+IDE
+Debugger
+Profiler
+Remote Debugger
+Completion
+GUI Builder
+2D
+Tilemaps
+Sprite Animation
+Physics
+3D
+Models
+Animation
+Graphical Scenes
+Physics
+Particles
+Shaders
+
+
 
 
 Most Exciting
@@ -152,6 +220,7 @@ Always wanted to make a game in PyGame
 -----------------------------------
 Always wanted to make a game in DarkBasic
 Always wanted to make a game in ncurses
+Would be so proud to write a Genesis game in SGDK
 
 
 Game Makers
@@ -178,7 +247,7 @@ Cocos2D-x,	cpp,		Win,			7,		7,		4,	5,		6,		0,
 Monogame,		C####,	Win Mac Lin,	10,		8,		7,	6,		5,		0,		Axiom Verge, XNA-Like
 AGKClassic, 	BAS C++,	Win Mac Lin, 	9,		8, 		6 ,	10		8, 		?,		High polish and amazing fast
 GBStudio,		DragDrop,	Win Mac Lin,	9,		8,		8,	10,		10,		Free,	Discord subreddit
-GDevelop,		JS,		Win Mac Lin,	9,		8,		8,	8,		9,		Free,	Discord forum
+Develop,		JS,		Win Mac Lin,	9,		8,		8,	8,		9,		Free,	Discord forum
 PythonArcade,	Python,	Win Mac Lin,	10,		4,		4,	4,		9,		Free,	Doesnt work on Raspy
 Love,		Lua,		Win Mac Lin,	9,		9,		8,	9,		9,		Free,	Solid Simple 2D Game Engine
 Phaser,		JS TS,	Win Mac Lin,	10,		8,		7,	5,		9,		Free,	2D with lots of great options			
@@ -309,6 +378,8 @@ FPSCreator Classic the Game creators
 Pico 8 , GDevelop, PixelVision 8, VOxatron, Godot Game Engine and many more
 Those are maybe engines but definitely discords
 
+Give another Analysis to Blitzmax, darkbasic, Monkey and Basic 4 gl (notes are below)
+
 
 Most Expensive Ones:
 
@@ -326,20 +397,31 @@ Most Expensive Ones:
 
 Discords
 
+- [Flat Red Ball](https://discord.com/invite/tG5RBgw) 12/34
 - [Platformer Game Engine](https://discord.com/invite/qPBsvMy) 18/52
+- [LITI Engine](https://discord.com/invite/bWfP4E9) 8/61
+- [Orx](https://discord.com/invite/aC84aJJ) 15/66
+- [Blacksmith2D](https://discord.gg/HWzzCcy) 7/67
+- [BYond](https://discord.com/invite/baHMSgZ) 45/70  (Note this is the smaller one)
 - [S2 Engine](https://discord.com/invite/nuqt5Yg) 16/114
+- [Cerberus X](https://discord.com/invite/XzqHcTK) 14/124
 - [NeoAxis Engine](https://discord.com/invite/NdCej26) 17/148
 - [Castle Pascal](https://discord.com/invite/HPQtewa) 9/153
 - [Enigma Discord](https://discord.gg/Kz67atZ)31/159
 - [RPGPaperMaker](https://discord.com/invite/QncEnCE) 57/184
 - [Torque3D](https://discord.com/invite/qdAZxT4) 65/275
 - [AppGameKit](https://discord.com/invite/7ENUvnE) 27/283
+- [Monkey](https://discord.com/invite/ZHpRAFp) 39/296
+- [Smile Game Builder](https://discord.com/invite/EghNtX) 98/329
 - [Duality](https://discord.com/invite/ZgnhPzr) 38/323
 - [RPG In A Box](https://discord.com/invite/zXqqqPj) 56/336
+- [ct.js](https://discord.com/invite/CggbPkb) 102/437
 - [FNA](https://discord.com/invite/2Gg8zju) 157/637
 - [Clickteam](https://discord.com/invite/RfxPYvh) 297/1227
+- [BYOND](https://discord.gg/5MP6uyA) 406/1290
 - [Armory3D](https://discord.com/invite/axq6qWV) 203/1830
 - [Stencyl](https://discord.com/invite/XjawJCW) 105/2072
+- [Haxe](https://discord.com/invite/rqEBAgF) 412/2726
 - [RPGMaker](https://discord.com/invite/uRs5rjA) 1130/3168
 - [CryEngine](https://discord.com/invite/cryengine) 396/3362
 - [/r/GameMaker](https://discord.com/invite/By6u9pC) 2558/8928
@@ -348,17 +430,27 @@ Discords
 - [Unity3D](https://discord.com/invite/unity) 8485/38522
 - [UnrealEngine](https://discord.com/invite/unreal-slackers) 9738/44303
 
-Other places to find support: Subreddits, Forums, Steam, Facebook, Facebook Groups, Slacks
+Other places to find support: Subreddits, Forums, Steam, Facebook, Facebook Groups, Slacks, Whatsapp chats, Skype chats.
 
 
+Asset Stores
+BYOND
+Unity
+Unreal
+Copper Cube?
 
+
+Arcades
+Gamesalad
+Byond
+PlayBasic?
 
 
 Notes
 
 - Enigma - Game Maker compatible.  Speeds up game maker games.  They are hardcore about preventing SPAM.   [Enigma Wiki](https://enigma-dev.org/docs/Wiki/Main_Page), [Enigma Discord](https://discord.gg/Kz67atZ)31/159, they have an IRC Channel (but thats off limits to me for an unexplained or broken reason) The [Enigma forum](https://enigma-dev.org/forums/) is pretty active too.  If you ask me this is a good thing to have in your pocket if you are doing game maker stuff.  If there is enough stability and support that you can use it instead of game maker then I think its even better.  Game maker is apparently great though but last time I checked (a few months ago) their community is toxic and I'm not interested in that crap (although I might like to go watch the shit show sometime).
 - Game Maker - Rumor has it that there are some trolls in the community but perhaps they were left behind at the skype chat group they had?  Apparently the subreddits discord is surprisingly 'un-reddit'
-- The Game Creators [The Game Creators Forum - AppGameKit GameGuru FPS Creator](https://forum.thegamecreators.com) + Steam + Facebook - Strange that people on their forum were resistant to them even having a discord.  They thought it would hurt the community to split the spread of information.  that seems old fashioned or conservative, and certainly they dont understand the role that discord (or any live chat) serves in the communication space.  The forum for FPS creator is most hopping strangely, maybe because [FPS Creator is open source](https://github.com/TheGameCreators/FPS-Creator-Classic)?  Well all of the assetpacks are there too which is awesome!   Wow all the art packs are here too!  Vague not legally worded license but it clearly says you can sell. 
+- The Game Creators [The Game Creators Forum - AppGameKit GameGuru FPS Creator](https://forum.thegamecreators.com) + Steam + Facebook - Strange that people on their forum were resistant to them even having a discord.  They thought it would hurt the community to split the spread of information.  that seems old fashioned or conservative, and certainly they dont understand the role that discord (or any live chat) serves in the communication space.  The forum for FPS creator is most hopping strangely, maybe because [FPS Creator is open source](https://github.com/TheGameCreators/FPS-Creator-Classic)?  The forum for FPS creator is pretty active.  Well all of the assetpacks are there too which is awesome!   Wow all the art packs are here too!  Vague not legally worded license but it clearly says you can sell. 
 - I got a weird vibe about clickteam theres a [whole article about how bizarre they are](https://iwantabro.com/kimmoa/The_bizarre_world_of_Clickteam) and one dude claims they banned him from discord for wanting to get his images out of the game binary.  I'll choose to take that story with a grain of salt but it makes me scratch my head.  They've got a huge discord though thats impressive.  5 times bigger than appgamekit.  I love Francois Lionet though but I got a weird vibe from him too about licensing for AMOSPro, now thats been resolved at this point but it was tense there for about a year on the facebook group.  
 - Cryengine there is a forum and answers group which are decidedly not dead but neither hopping.  Theres a large discord though.
 - FNA.  XNA is how people would make games for Xbox 360 Live Arcade back in the day.  Well now for people who have that code they can use the instructions on the wiki and get it working again with modern open source technology.  Their code isnt dead.  In addition it looks like a real straightforward C# game engine in code according to one of the tutorials and I like that very much.  Looks like no matter what though using this would tie you to the XNA legacy and that doesn't seem ideal for example shipping requires some pack ins , not a big deal but ... The discord is hopping though, the tutorial is great, and they have more modern tech than their sister MonoGame which is XNA-Like.  FNA uses just one assembly and as a result its more likely to run identically on every platform.  Tons of games: Bastion, Axiom Verge, Celeste, Escape Goat, Dust, Fez, Owlboy, Rogue Legacy, Terraria, Transistor, even Streets of Rage 4!  I dont see any tutorials about like importing 3d assets, and theres no IDE associated.  Monogame tutorials should be similar and there should be a way to port things to FNA from Monogame if that would be valuable.  Apparently there used to be something called XNA Game Studio.   It was a fork of Monogame at one point.  
@@ -370,6 +462,13 @@ Notes
 - [NeoAxis Engine](https://www.neoaxis.com/neoaxis/downloads) Open Source WIndows Only, has all of the major features of the major players.  Its brand new, lots of action on github.  Small discord, some forum activity.  Are they going to make money with this?  If not how will it survive?  Perhaps by making custom projects for people which is right in the top level menu of their products. 
 - [GLBasic](http://glbasic.com) Weird that their website has a mobile menu even at the largest desktop resolutions.  Not a show stopper. Only community is a forum afaik.  They need way more showcases to show off what it can do.  And more tutorials and stuff.  However I love this one imho.  Nevermind they have tons of examples and showcases.  I love this one.  I wonder if these will still be compatible with newer versions of the software and if not thats a big problem that they need to offer all previous version clearly and easily to purchasers.  It has some 3d Engine Commands in the $80 upgrade
 - [Platformer Game Engine](https://wohlsoft.ru) shitty slow website but it covers most bases.  It looks like this was based on a SMB related fan game.  I caught the git hub having been changed just 3 minutes ago.  Thats a good sign.  18/52 Discord. Its been going strong on github since 2014 with many contributors!  1000 members in the forum.  
+- Gamesalad has no free option, I dont know if the author supports, forums are active, no discord, Interestingly there is a large arcade on their site since thats built into their business model and the games look good.  
+- Blitzmax,	BASIC	Win Mac Lin,	1,		4,		2,	9,		10,		0,		I bought a license for this probably 15yrs ago and I still think very highly of it.  I can only find a tiny discord community where about 20 people hang out.  Thats not bad for something virtually unsupported.  Still its open source now and thats nice.  I have such good feelings about it that I want to love it and make games in it but I just wonder where I will hit my head against a glass ceiling and at that point its not worth it.   I think though that I would feel good making a game in this even if it took me a while since its something I've always wanted to do.  Same with AMOSPro. Syntaxbomb forums for blitz are still active
+- Monkey, BASIC, This is cross platform and compiles down to HTML5 so it seems like it would be great but it has no traction.  I dont really know why they ditched blitz and call it monkey but it doesnt seem like it worked imho.  Theres 0.1 community activity and no updates for 2 years.  The Blitz Basic Guy Mark Sibley is a genius though and I bet this is a really good system.  AOZStudio is trying almost the same thing right now but I hope it gets more traction.  Cerberus has a bit more traction.  Monkey still has a decent community though.
+- Darkbasic Pro, BASIC, this one is on github and it looks reasonably well organized and for that reason may be supportable in the future but it looks like there is no community activity around it.
+- Basic4GL,	BASIC,	Win,			1,		1,		2,	8,		9		0,		Love the simplicity of OpenGL with this.  Could compile to mobile too?
+
+
 
 
 Interesting Ones:
@@ -381,16 +480,12 @@ Interesting Ones:
 
 
 
-Basically Dead:
+Saying No to:
 ----------------
 
 Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
 				                 Activity    Activity  Size	Ease	    -ability,			
 
-- Blitzmax,	BASIC	Win Mac Lin,	1,		4,		2,	9,		10,		0,		I bought a license for this probably 15yrs ago and I still think very highly of it.  I can only find a tiny discord community where about 20 people hang out.  Thats not bad for something virtually unsupported.  Still its open source now and thats nice.  I have such good feelings about it that I want to love it and make games in it but I just wonder where I will hit my head against a glass ceiling and at that point its not worth it.   I think though that I would feel good making a game in this even if it took me a while since its something I've always wanted to do.  Same with AMOSPro. Syntaxbomb forums for blitz are still active
-- Monkey, BASIC, This is cross platform and compiles down to HTML5 so it seems like it would be great but it has no traction.  I dont really know why they ditched blitz and call it monkey but it doesnt seem like it worked imho.  Theres 0.1 community activity and no updates for 2 years.  The Blitz Basic Guy Mark Sibley is a genius though and I bet this is a really good system.  AOZStudio is trying almost the same thing right now but I hope it gets more traction.
-- Darkbasic Pro, BASIC, this one is on github and it looks reasonably well organized and for that reason may be supportable in the future but it looks like there is no community activity around it.
-- Basic4GL,	BASIC,	Win,			1,		1,		2,	8,		9		0,		Love the simplicity of OpenGL with this.  Could compile to mobile too?
 - ---------------------------------------------------------------------------------------------
 - GameEditor,	C,		Win Mac,		6,		3,		1,	5,		8,		0,		This C is intriguing. Constraints are nice. 2013 last update
 - RapidQ,		BASIC,	Win Lin,		2,		2,		2,	7,		9,		0,		
@@ -409,7 +504,20 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 - [Silent Walk FPS Creator](http://www.silentworks.hu/sw/editor.php) Maybe not technically dead still not appealing.  A doom or wolf editor would be better.  
 - [Silent Walk Renaissance](http://www.silentworks.hu/swr/features.php) requires xp or 7 so its pretty ancient.    I suspect it was cool what they pulled off at the time though,  
 - [Megakerma Maker](http://www.silentworks.hu/mk/features.php) a whole game engine by the same people.  Sort of amazing there was a small team in hungary doing this but its xp so ancient. 
-
+- [Maratis](http://www.maratis3d.org/?page_id=57) died in 2013
+- [Platinum Arts Sandbox](https://www.sandboxgamemaker.com/make-a-game-sandbox-faq/) Author still around but project is discontinued
+- [Game Builder by Google](https://github.com/googlearchive/gamebuilder) looks like an experimental teaching tool with absolutely zero traction
+- Mokoi - Dead in 2015.  Was probably great
+- Reality Factory - Dead in 2015
+- [Flixel](http://flixel.org/help.html) - This is powerful with lots of games made for it (Canabalt and the best of flash games from 2009 or so), however since its flash its just too old, there are apparently some other projects built on top of it that might be good.  Its got some unique features like moving thousands of objects and also debugging, and recording and replaying information (which is totally bad ass).  Tilemaps, Particles, Physics collisions.  Good thing I saw some little comment on slant that there are also ports, C# is dead, C is dead, Monkey X is dead, HaxeFlixel is ALIVE and Kicking!!
+- Wave Engine (deets in spreadsheet)
+- Polycode (details in spreadsheet)
+- Loom SDK (Purchased and dead in 2017)
+- GDevApp (Site Gone)
+- Crafty.js - Github not updated since 2018.  Forums still talking every few months.
+- Haxepunk - last release 2018, they have touched it since but theres no momentum or community
+- Spritekit - probably not actually dead but being an Apple product this is very different. Its not the same evaluation as the rest, nor would I believe for a second that it will be more accessible.  Obviously not cross platform either.  OTOH its probably fine for some since it might be the most battery efficient way to make an ios app.
+- Flat Red Ball - Activity not actually dead, and there is a small discord so its def not dead, but the website doesn't funnel me in so I dont know why I would pick it in fact it seems based on old stuff and it seems confusing.  There are some demos and tuts on there though so its not terrible and I have nothing against it, but its not fresh enough for me.
 
 # RAD GUIs #
 
@@ -516,6 +624,7 @@ Comments on the expensive ones: https://forum.bubble.io/t/other-no-code-alternat
 - Construct 3
 - Basic by miSoft - its a cool throwback, people say its best to dropbox your file and copy and paste it in
 - Hotpaw basic like Chipmunk basic interpreter on iphone - not recently updated
+- A few others on my old ipad
 
 Programming on Mobile by typing in code and uploading it to a server
 - Buffereditor
@@ -581,7 +690,11 @@ Engines To Make Specific Games or based off of games
 - [Gamecraft](https://store.steampowered.com/app/1078000/Gamecraft/) Like Roblox but you build anything and then add physics and make games.  Great reviews.
 - [FPS Creator Classic](https://github.com/TheGameCreators/FPS-Creator-Classic) Wow all the art packs are here too!  Vague not legally worded license but it clearly says you can sell
 - [PGE](https://wohlsoft.ru/) Platformer Game Engine based on SMB 
-
+- [Black Ice Mod of FPS Creator Classic](http://www.blackicemod.org/) looks so damn cool and explains how to run FPS Creator Classic
+- [ARPG or MMORPG](https://arianne-project.org) Arianne has been around for 15+ years and is still going!
+- [Clonk](https://www.openclonk.org) Like worms and settlers and engine allows for mods
+- [Soldat](https://github.com/Soldat/soldat) Like Worms and a Platformer.  Made in Pascal.
+- [Teeworlds](https://github.com/teeworlds/teeworlds/) like worms but frantic.  I like the idea of making this into a full platform game.
 
 Platformers
 - [SuperTux](https://www.supertux.org/contact.html) Make some levels or enemies or tweak the code for Super Tux. Updated 1 hr ago
@@ -595,19 +708,26 @@ Platformers
 - [Megaman](https://github.com/protoman/rockbot) Rockbot
 - [Megaman](https://github.com/CamHenlin/ExecutiveMan) Executive Man
 - [Gods](https://jotd.pagesperso-orange.fr/gods/index.html) The Amiga game by Bitmap Bros.  Not active but looks complete.
+- [Amiga Peters Quest](https://github.com/riksweeney/edgar) Looks primative but complete and recently updated
+- [Soldat](https://github.com/Soldat/soldat) Like Worms and a Platformer.  Made in Pascal.
+- [Teeworlds](https://github.com/teeworlds/teeworlds/) like worms but frantic.  I like the idea of making this into a full platform game.
 
 
 A bunch from [OSGameClones](https://osgameclones.com) and more - with a few exceptions these are actively maintained projects
+
 - [SuperTux](https://www.supertux.org/contact.html) Make some levels or enemies or tweak the code for Super Tux. Updated 1 hr ago
 - [2D Platformer Frogatto](https://frogatto.com) Engine page seems to have disappeared
 - [JLud 2d Tile Engine](https://github.com/rafael-esper/JLud2D) Try making a game in the JLud 2D Tile Based Platformer or RPG Engine
 - [Asteroids](https://github.com/slx7R4GDZM/Sine) Unfinished Version of Asteroids in C++
+- [AdvanceWars](https://w84death.itch.io/tanks-of-freedom) Looks so cool.  Died in 2018 but probably still works.
 - [Barony](https://github.com/TurningWheel/Barony) 3D Wolfenstein looking RPG engine for the original game
 - [Bards Tale Construction Set](https://github.com/dulsi/btbuilder) Make a level or two or a little side quest in BT Builder - Bards Tale Construction Set
 - [BZFlag](https://www.bzflag.org) a near 20yr old ctf game still going strong.  Create maps in Blender.
+- [Breakout](https://github.com/city41/breakouts) A bunch of implementations of exactly the same game in many different Javascript Game Engines
 - [Cannon Fodder](https://github.com/OpenFodder/openfodder) Open Fodder Cannon Fodder with a level and campaign editor
 - [Commander Keen](https://gitlab.com/Dringgstein/Commander-Genius)
 - [Cube2](https://github.com/inexorgame/vulkan-renderer) Apparently this is a new port of Cube2 Sauerbraten the Open Source fPS
+- [Clonk](https://www.openclonk.org) Like worms and settlers!
 - [Defender](https://github.com/smcameron/wordwarvi) Defender clone called World War vi
 - [Delver](https://github.com/Interrupt/delverengine) Delver Engine for the game Delver
 - [Double Dragon or Final Fight](https://github.com/DCurrent/openbor) Double Dragon or Final Fight
@@ -636,6 +756,8 @@ A bunch from [OSGameClones](https://osgameclones.com) and more - with a few exce
 - [Megaman](https://github.com/CamHenlin/ExecutiveMan) Executive Man
 - [Minecraft + Dwarf Fortress](https://github.com/Blecki/dwarfcorp)  Dwarf Corp
 - [Minetest](https://github.com/minetest/minetest) Make your own game or mod their game.  Dont worry about networking or voxels just some lua for the game logic
+- [Minecraft](https://github.com/fogleman/Craft) Craft - Multiplayer and complete example code.  
+- [Minecraft](https://github.com/BrunoS3D/I-made-minecraft-in-unity)
 - [Terasology](https://github.com/MovingBlocks/Terasology) A voxel engine where you can make your own game.  
 - [Minesweeper](https://github.com/Bit-Sahil04/Isometric-Minesweeper) Python Isometric Minesweeper
 - [Minesweeper](https://github.com/reed-jones/minesweeper_js) Javascript Minesweeper
@@ -650,9 +772,16 @@ A bunch from [OSGameClones](https://osgameclones.com) and more - with a few exce
 - [Quake](https://github.com/ezQuake/ezquake-source) ezquake More Modern Quakeworld Engine
 - [TOME4](https://te4.org) has an engine and game maker built in that I couldnt figure out at first glance
 - [Scorched Earth](http://www.scorched3d.co.uk) Scorched3D is really cool and fun
+- [Snake](https://en.wikipedia.org/wiki/Armagetron_Advanced) This is so cool!
 - [Gods](https://jotd.pagesperso-orange.fr/gods/index.html) The Amiga game by Bitmap Bros.  Not active but looks complete.
 - [Robotron](https://github.com/Ernir/robotron) its actually really good and more fair than the original.  Very impressive. not active.
 - [uMoria](https://github.com/dungeons-of-moria/umoria) It can be compiled in VS2019 so I could cut things out and make it simpler, disable some rng and complexity and add seeds
+- [WarSong](https://en.wikipedia.org/wiki/The_Battle_for_Wesnoth) Awesome Strategy game I got pretty far once upon a time.
+- [Rogue](https://github.com/zenorogue/hyperrogue) Hyper Rogue on non euclidean world. Updated Yesterday
+- [Mechforce Hex Game](https://github.com/MegaMek/megamek) I loved the game Mechforce so much on amiga
+- [Soldat](https://github.com/Soldat/soldat) Like Worms and a Platformer.  Made in Pascal.
+- [Teeworlds](https://github.com/teeworlds/teeworlds/) like worms but frantic.  I like the idea of making this into a full platform game.
+- [Trials](https://en.wikipedia.org/wiki/X-Moto) This motorcycle game even has a level editor in inkscape
 
 Other Possibilities
 - [If you can compile these](https://github.com/leereilly/games/) games will compile and you can get them working
