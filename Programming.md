@@ -84,6 +84,23 @@ Unknown License
 
 # Interesting Programming Options 2020 #
 
+
+This is what I want to find and for you to be able to find:
+"We make no claim that ______ is the best game engine out there for any game, but we dare to say that ______ is the best game engine for some games."
+For the type of game or games you are making: what is the best engine for that?
+
+Each type of game has its own ocean and the different game engines live at different depths of the ocean.
+How deep do you have to go to do something with this language? = That HTML 3D language 0 Leagues Puzzlescript 1 League (only 20 Leagues Deep)
+How deep can you go and still do things with this language?  Unity Unreal = 20,000 Leagues
+Some engines are located at the area near "Hot Reload" Island.  Feature Island.
+
+
+
+Prediction: One or two of these engines or libraries will be very old so I will dismiss it, but in fact it will have a thriving non-obviouscommunity who is super happy with its feature complete stable situation and how well it works even on all modern computers, and I will miss out on that one.  Most of the old things are just dead though. 
+Favorite Features:
+
+
+
 1. All in ones
 2. IDEs
 3. Engines that are from or based on other games
@@ -228,7 +245,7 @@ Game Makers
 Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
 				                 Activity    Activity  Size	Ease	    -ability,			
 AppGameKit, 	BAS C++,	Win Mac Lin, 	9,		5, 		6 ,	10		10, 		100,		High polish and amazing fast.  Studio. $20-40 extras
-Leadworks,	Lua cpp,	Win Only,		8,		5,		4,	8,		8,		100-500,	VR, 
+Leadworks,	Lua cpp,	Win Only,		8,		5,		4,	8,		8,		100-500,	VR, "some of the best tutorials for an engine I've ever seen"
 Unity, 		C#, 		Win Mac Lin, 	10+, 	10+, 	10+,	10		5(6),	Free,	Accessibility bonus due to the great community
 Unreal, 		C++, 	Win Mac Lin, 	10+, 	10, 		10,	10		3(4),	Free,	Accessibility bonus due to the good community
 Godot,		C#C++GDS,	Win Mac Lin,	10,		10,		9,	10,		4,		Free,	
@@ -292,7 +309,7 @@ CodeTyphon,	Pascal,	Win Mac Lin,	10,		5,		2,	8,		9,		Free,	Fork of Lazarus with 
 B4x,			BASIC,	Win Only,		9,		10,		9,	6,		8,		Free,	Power Like VB Export to many targets& mobile
 Crossui,		Drag,	Win Mac Lin,	8,		1,		1,	10,		10,		0-1000,	
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-XOJO,		xojo,	Win Mac Lin,	10,		8,		8,	9,		10,		$0-2k,	Free for learning, $99/yr minimum otherwise
+XOJO,		xojo,	Win Mac Lin,	10,		8,		8,	9,		10,		$0-2k,	Free for learning, $99/yr minimum otherwise, was REALBasic
 LibertyBasic,	BASIC,	Win   Only,	10,		3,		2,	10		10,		$60,		Lots of activity on the basic group
 Lazarus, 		Pascal,	Win Mac Lin, 	9,		8,		8,	10		8,		Free,	This looks amazing for making GUI apps		
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -329,7 +346,7 @@ OLCConsoleEng,	C++, 	Win,			9,		3,		3,	10,		10,		Free,	Intentionally limited but
 OLCPixelEngn,	C++,		Win,			9,		3,		3,	10,		9,		Free,	
 TTY-Box,		Ruby,	Ruby,		7,		0,		0,	7,		10,		Free,		
 ENTT,		C++,		?			9,		7,		7,	7,		7,		Free,	ECS Example is Kerndog73/EnTT-Pacman
-Babylonjs,	js,		Web,			10,		9,		6,	5,		7,		0,		Code updated 2h ago
+Babylonjs,	js,		Web,			10,		10,		7,	5,		7,		0,		Code updated 2h ago
 
 
 Both Games and Apps
@@ -347,11 +364,16 @@ Programming in a simpler world
 
 Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
 				                 Activity    Activity  Size	Ease	    -ability,				
-Chipmunk Basic,BASIC, 	Mac Only, 	7,		1,		1,	10,		9,		Free,	So much fun!
+Chipmunk Basic,BASIC, 	Mac Only, 	9,		1,		1,	10,		9,		Free,	So much fun!
 QB64, 		BASIC, 	Win Mac Lin, 	8,		5,		3,	8,		7,		Free,	This is a pretty damn cool QBasic environment
 JustBasic,	BASIC,	Win Only,		6,		6,		4,	9,		10,		Free,	Simpler Liberty Basic
 Rebol,		Rebol,	Win Mac Lin, 	5,		3,		1,	10		8,		Free,	
-
+Brandy,		BASIC,	Win Mac Lin,	3,		1,		1,	8,		9,		Free,	BBC Basic V Interpreter
+bwBasic,		BASIC,	Lin, 		8,		2,		2,	4,		8,		Free,	Old Basic Compatible (Notes Below)
+PCBasic, 		BASIC,	Win Mac Lin,	10,		8,		8,	8,		9,		Free,	Looks awesome with graphics!
+Freebasic,	BASIC,	Win Mac Lin,	10,		9,		9,	10,		10,		Free,	Cool because its got a qb mode which is compatible with quickbasic
+Bcx,			BASIC,	Win,			10,		8,		8,	8,		8,		Free,	Basic compiler seems lively
+Yabasic,		BASIC,	Win Lin,		9,		1,		1,	9,		10,		Free,	Graphics and call DLLs and Compile.
 
 
 Notably Slow Websites:
@@ -361,39 +383,41 @@ Some of these have lightning fast websites which makes a big impression on me.  
 
 Investigate:
 ----------------
-QuickBASIC, PowerBASIC, XBasic, Turbo Basic, Visual Basic, FutureBASIC, REALbasic, FreeBASIC. R,
-
-Defold
-pysdl2 Updated this year!
-What do I have in my humble bundle and steam accounts?
-AGKJava
-Delphi for DOS perhaps?
-Which situations can I best directly access OpenGL or Vulkan calls and still have some surrounding game engine niceties?
-Command Line Graphics LIbraries
-Command Line GUI Libraries
-All other GUI Libraries
-All C++/Java/C# Gaming Libraries that aren't a whole environment or IDE
-GameGuru
-FPSCreator Classic the Game creators
-Pico 8 , GDevelop, PixelVision 8, VOxatron, Godot Game Engine and many more
-Those are maybe engines but definitely discords
-
+Move all of these over to my spreadsheets
 Give another Analysis to Blitzmax, darkbasic, Monkey and Basic 4 gl (notes are below)
+
+
+
+
+
+
 
 
 Most Expensive Ones:
 
 - Hero Cloud ($100/yr to $5000 lifetime)
-- Leadwerks ($100-$500 one time)
+- Leadwerks (OWN) ($100-$500 one time)
 - Shiva (Free to 1000)
 - Livecode (Free is open source, $500/yr to make html5, $79/yr to get App store (Only if you make your code MIT and dont make any money) autocomplete, and extensions, 500/yr to make money from your app, add better autocompletion, to 2000 for support, profiling, advanced networking, remote debugging, pdf viewer,)
 - Xojo (Free for learning, 99/yr for one desktop platform, 299/yr for ios or web deploy, 299 total for all desktop platforms, 599 total for that plus ios and web, 2k for support)
-- GameMaker $40/yr
+- GameMaker2 $40/yr (OWN GameMakerSudioPro1 with export packs)
 - CrossUI $1000 (free forever before release)
 - Purebasic $80
 - LibertyBasic $60
-- AppGameKit ($50 to start $100 for the studio (Drag and drop 3d scenes), $10-30 for add ons like VR, Assets, Shaders) (Huge pack free for schools!)
 - GLBasic $90
+- AppGameKit (OWN Classic) ($50 to start $100 for the studio (Drag and drop 3d scenes), $10-30 for add ons like VR, Assets, Shaders) (Huge pack free for schools!)
+- Smile Game Builder $70 (OWN)
+- 001 Game Creator (OWN)
+- Game Guru (OWN)
+- Clickteam Fusion 2.5 (OWN MultiMediaFusion 2)
+- RPGMaker MV (OWN VXAce and XP and TONS of assets for them)
+
+
+
+Assets
+Humble Bundle is FULL of them
+
+
 
 Discords
 
@@ -403,32 +427,65 @@ Discords
 - [Orx](https://discord.com/invite/aC84aJJ) 15/66
 - [Blacksmith2D](https://discord.gg/HWzzCcy) 7/67
 - [BYond](https://discord.com/invite/baHMSgZ) 45/70  (Note this is the smaller one)
+- [LWJGL](https://discord.com/invite/6CywMCs) 29/112
 - [S2 Engine](https://discord.com/invite/nuqt5Yg) 16/114
 - [Cerberus X](https://discord.com/invite/XzqHcTK) 14/124
 - [NeoAxis Engine](https://discord.com/invite/NdCej26) 17/148
 - [Castle Pascal](https://discord.com/invite/HPQtewa) 9/153
 - [Enigma Discord](https://discord.gg/Kz67atZ)31/159
 - [RPGPaperMaker](https://discord.com/invite/QncEnCE) 57/184
+- [GOSU](https://discord.com/invite/gTaHxdm) 40/221
+- [Defold](https://discord.com/invite/9rn7UkQ) 36/261
+- [Cube 2 mapping community](https://discord.com/invite/YvzTed3) 73/262
 - [Torque3D](https://discord.com/invite/qdAZxT4) 65/275
 - [AppGameKit](https://discord.com/invite/7ENUvnE) 27/283
 - [Monkey](https://discord.com/invite/ZHpRAFp) 39/296
+- [The Forge](https://discord.com/invite/hJS54bz) 96/306
 - [Smile Game Builder](https://discord.com/invite/EghNtX) 98/329
 - [Duality](https://discord.com/invite/ZgnhPzr) 38/323
 - [RPG In A Box](https://discord.com/invite/zXqqqPj) 56/336
+- [R](https://discord.gg/wmkCdwK) 103/386
 - [ct.js](https://discord.com/invite/CggbPkb) 102/437
+- [JMonkeyEngine](https://discord.com/invite/JhefT9s) 68/469
 - [FNA](https://discord.com/invite/2Gg8zju) 157/637
+- [PixelVision8](https://discord.com/invite/pixelvision8) 137/716
+- [Trenchboom](https://discord.com/invite/n7K8Cps) 270/871
+- [Panda3D](https://discord.com/invite/UyepRMm) 141//888
+- [Creative Coders](https://discord.com/invite/pMzD6Ya) 206/1018
+- [Cube 2 Sauerbraten Sauerworld](https://discord.com/invite/012c19bkwljlWsh3y) 223/1076
 - [Clickteam](https://discord.com/invite/RfxPYvh) 297/1227
 - [BYOND](https://discord.gg/5MP6uyA) 406/1290
+- [Three.js](https://discord.com/invite/HF4UdyF) 448/1472
+- [AFrame Supermedium](https://discord.com/invite/tGYjkYr) 257/1683
+- [SFML](https://discord.com/invite/nr4X7Fh) 274/1777
 - [Armory3D](https://discord.com/invite/axq6qWV) 203/1830
 - [Stencyl](https://discord.com/invite/XjawJCW) 105/2072
+- [Pico-8](https://discord.com/invite/EwQ86eq) 691/2351
+- [GBADev](https://discord.com/invite/gpBxq85) 575/2408
+- [TIGForums Independent Gaming Discussion](https://discord.com/invite/m9fBD8V) 531/2571
+- [Fantasy Consoles like Pico 8 and Tic 80](https://discord.com/invite/DkD73dP) 431/2715
 - [Haxe](https://discord.com/invite/rqEBAgF) 412/2726
 - [RPGMaker](https://discord.com/invite/uRs5rjA) 1130/3168
 - [CryEngine](https://discord.com/invite/cryengine) 396/3362
+- [LibGDX](https://discord.com/invite/6pgDK9F) 469/3781
+- [GDevelop](https://discord.com/invite/rjdYHvj) 312/3861
+- [RenPy](https://discord.com/invite/6ckxWYm) 1857/7756
 - [/r/GameMaker](https://discord.com/invite/By6u9pC) 2558/8928
 - [BuildBox](https://discord.com/invite/buildbox) 410/8983
+- [Quasar GUI Framework](https://discord.com/invite/5TDhbDg) 510/11800
+- [Godot](https://discord.com/invite/4JBkykG) 5929/26307
 - [GameDevelopersLeague](https://discord.com/invite/gamedev)9961/36754
 - [Unity3D](https://discord.com/invite/unity) 8485/38522
 - [UnrealEngine](https://discord.com/invite/unreal-slackers) 9738/44303
+- [VueLand](https://discord.com/invite/HBherRA) 3031/88245
+
+Discords not directly related to a language
+
+- [Creative Coders](https://discord.com/invite/pMzD6Ya) 206/1018
+- [TIGForums Independent Gaming Discussion](https://discord.com/invite/m9fBD8V) 531/2571
+- [GameDevelopersLeague](https://discord.com/invite/gamedev)9961/36754
+- [20 great new ones](https://towardsdatascience.com/top-20-data-science-discord-servers-to-join-in-2020-567b45738e9d)
+
 
 Other places to find support: Subreddits, Forums, Steam, Facebook, Facebook Groups, Slacks, Whatsapp chats, Skype chats.
 
@@ -438,12 +495,20 @@ BYOND
 Unity
 Unreal
 Copper Cube?
+GameGuru
+AGK The Game Creators
+Pico8 and Voxatron 
 
 
 Arcades
 Gamesalad
 Byond
 PlayBasic?
+http://giderosmobile.com/apps
+https://threejs.org
+https://www.lexaloffle.com/bbs/?cat=7 thousands of games
+https://tic80.com
+https://gdevelop-app.com/poki/
 
 
 Notes
@@ -466,10 +531,15 @@ Notes
 - Blitzmax,	BASIC	Win Mac Lin,	1,		4,		2,	9,		10,		0,		I bought a license for this probably 15yrs ago and I still think very highly of it.  I can only find a tiny discord community where about 20 people hang out.  Thats not bad for something virtually unsupported.  Still its open source now and thats nice.  I have such good feelings about it that I want to love it and make games in it but I just wonder where I will hit my head against a glass ceiling and at that point its not worth it.   I think though that I would feel good making a game in this even if it took me a while since its something I've always wanted to do.  Same with AMOSPro. Syntaxbomb forums for blitz are still active
 - Monkey, BASIC, This is cross platform and compiles down to HTML5 so it seems like it would be great but it has no traction.  I dont really know why they ditched blitz and call it monkey but it doesnt seem like it worked imho.  Theres 0.1 community activity and no updates for 2 years.  The Blitz Basic Guy Mark Sibley is a genius though and I bet this is a really good system.  AOZStudio is trying almost the same thing right now but I hope it gets more traction.  Cerberus has a bit more traction.  Monkey still has a decent community though.
 - Darkbasic Pro, BASIC, this one is on github and it looks reasonably well organized and for that reason may be supportable in the future but it looks like there is no community activity around it.
-- Basic4GL,	BASIC,	Win,			1,		1,		2,	8,		9		0,		Love the simplicity of OpenGL with this.  Could compile to mobile too?
-
-
-
+- Basic4GL,	BASIC,	Win,			1,		1,		2,	8,		9		0,		Love the simplicity of OpenGL with this.  Run programs on on mobile too?  Not updated since 2017, community sparse but there is a forum with thousands of demo programs.  
+- Brandy Basic, there are a few ports, napoleon, and Matrix that add things or make them more up to date.  This is a BBC Basic implementation at its core but of course it cant do graphics without system specific changes.  Its very old and unsupported for like 20yrs, but the thing is it has been working for that whole time.  There is still lots of info about [BBC Micro Basic](http://www.bbcbasic.co.uk/bbcbasic.html) people still care about it even in 2020
+- bwBasic Old and sort of unsupported for like 30 years but its been working for that whole time and update: there is activity on the sourceforge from a month ago!  There is unfortunately no community at all to speak of.  No one talks about it except as something archaic.  Thats too bad imho.  Its probably compatible with microsoft basic and gw basic.  But its cool because it could be used as a shell since it passes commands right through to the underlying shell.  You could [boot linux into this!](https://unix.stackexchange.com/questions/359314/how-can-i-run-basic-code-in-a-terminal) and those people suggest switching out agetty for bwbasic, or init for bwbasic.
+- pc-basic.io this one was updated on Thursday!  Its got graphics and is compatible with GWBasic.  Theres actually discussion in the community (sourceforge discussion forums) and encouragement to show what basic programs work with it even online ones.
+- batari basic last released in 2007 but lets you develop homebrew for the 2600 http://bataribasic.com
+- Babylon.js (in the table above) is really good and updated and the forum is HOPPING.  I can see some arguments but am not impressed by the standoffishness about creating a discord.  That does not impress me at all.  It shows me the community is too conservative in some ways even if I can see some validity to their arguments they are dismissing or ignoring the huge benefits.   It gets under my skin when they dismiss new ideas because they dont want things to change.  "Thats been tried before and wasnt successful" is a deeply limiting attitude.  grr.
+- [Tons of C Libraries](https://notabug.org/koz.ross/awesome-c#frameworks)
+- [Tons of C++ Libraries](https://en.cppreference.com/w/cpp/links/libs)
+- [Tons of C/C++ Libraries for Gamedev](https://github.com/raizam/gamedev_libraries)
 
 Interesting Ones:
 ----------------
@@ -518,8 +588,44 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 - Haxepunk - last release 2018, they have touched it since but theres no momentum or community
 - Spritekit - probably not actually dead but being an Apple product this is very different. Its not the same evaluation as the rest, nor would I believe for a second that it will be more accessible.  Obviously not cross platform either.  OTOH its probably fine for some since it might be the most battery efficient way to make an ios app.
 - Flat Red Ball - Activity not actually dead, and there is a small discord so its def not dead, but the website doesn't funnel me in so I dont know why I would pick it in fact it seems based on old stuff and it seems confusing.  There are some demos and tuts on there though so its not terrible and I have nothing against it, but its not fresh enough for me.
+- [Chiliworks](https://github.com/ChilliWorks/ChilliSource) its MIT and rumored to be mature but hasnt been touched in 3-4 years and the site is down
+- [EasyRPG](https://easyrpg.org) Aiming for the RPGMaker 2000/2003 set of features theyre not close on the maker side.  Probably it will play those old games though. 
+- [Fife](http://www.fifengine.net)	C++ Python			Late 90s PC games	Some work in Github	Forum dead  No community unfortunately
+- Flare is a diablo engine dead since 2018
+- [Fluxus](http://www.pawfal.org/fluxus/documentation/) is an interesting livecoding video and audio language from 2010 where you run streams into it and they come out with AR on them.  Its too old and dead to use and too complicated to build, but I like where they are going and the pdf docs from 2010 have description of how really cool it was to use.
+- Oxygine	C++	Win Mac	Win Mac Linux iOS Android	Modern Shiny 2D like 2007 iphone 	Mostly dead since 2019	Forum dead since 2019	Suspect super buggy.  No support.	Makes Modern Shiny 2D 2020 iOS Style games, UI and Dialog builder, embedded profiling	Free	1
+- HaxePunk	Haxe	Win Mac Lin	Win Lin Mac HTML5 iOS Android	Amiga Level games with a bit of 90s effects	Not too active on github, a few updates every 6 months or so.	Forum not hopping, Gitter over 1yr old chat, Discord points to the haxe one	Install Instructions seem out of date, 6 demos, 1 tutorial	Tilemaps particles mask collision, Tweens debug console	Free	1	Too Dead					
+- Wave Engine	C#	Win Mac Lin	VR iOS Xbox Android WMR Oculus SteamVR Leap Wasm More 	Like 2005 3D Games	7 not abandoned, site sparse	Zero Community	4 probably ok, but you're totally on your own	Full Featured 3D Models Animation Particles	All Free	1						
+- Polycode	Lua C++	Win Mac Lin	Win Mac Lin	Dreamcast Looking Games	Bummer.  Nothing since 2015	None on the site	IDE uses Lua	Scenes, Lua for game logic, Materials, Shaders, Meshes, Skeletal Animation, Gamepads, Networking, In Game GUIs, 2D and 3D Collision & Physics	Free	1						
+- Alice	http://www.alice.org/get-alice/#why	2	Make 3D Worlds c. 1999, Teach analytical programming thinking. Not for Production	Site unclear, Software Fresh, Forum Alive but slow, Lots of youtube 
+- [Heritage](https://notabug.org/SylvieLorxu/HERITAGE) Text Adventure language, 2015 old, but I actually love the syntax.  Too bad.
+- Inform - totally mature, heavily used, Problem: this is something people dont really talk about: There isn't anywhere to learn about this.  Nothing really works like you would expect it to work as a programmer so I bet it would be easier to use inform6 or tads, or for a non programmer to learn inform, I love the toolset and the ideas behind it, but if I want to make a relatively simple game I cant do it because there is so much that doesnt make sense and there are no examples.  The ones that are out there are either too complex or dont wokr anymore (thats common).  I'm probalby complaining too much but it has so much potential and has really pissed me off and made me feel stupid and frustrated.  Its really easy to read fortunately and makes for some beautiful code. a lso the maintainers care a lot about it.  I wonder what would happen if I tried again.
+- Irrlicht - An old 2012 3d graphics engine that looks great and has lots of features and is mature but doesnt seem maintained.  I heard a lot about this in the past and thought about using it back in the 2000s.
+- Horde3D - A dead graphics engine died 7 yrs ago
+- [Jabaco](https://www.jabaco.org/board/) not 100% dead since theres a post on the forum from this year, but its a really cool idea: Visual Basic with GUIs in the JVM. Its very old so it probably wont work anymore though.  It looks really nice and the GUIS look really good
+- [PowerBasic](https://www.powerbasic.com/Which-compiler) Windows only Several hundred for a basic compiler with drag and drop GUI BUilder, macros, debugger, Debugging, make your own DLLs, The forums are quite active.  
+- [SDLBasic](http://www.sdlbasic.altervista.org/main/) Big mess of a website but could be a cool implementation.  Forums are active. 
+- [TrueBasic](http://www.truebasic.com/) Forums are alive, website is c2020, software is not free. Windows only. Site is sparse.  Pay with paypal or check, but I cant even see how much.
+- [wxBasic](https://www.wxbasic.net/home) perfect for making quick GUIs with basic and wxwidgets.		BASIC,	Win Mac Lin,	website is too basic theres no github, no forums, no community, but the software looks SO COOL. site is c2020  It could be worth trying to download and get running but theres no support.  Update; no its dead on mac and wont run.  Says needs an update.
+- [SGe](https://python-sge.github.io/download.html) No because there is no community unfortunately.  The website has no mention of community at all.  Its got GUI LIghting Particles Physics tiles and was updated just a few days ago!
+- [OpenSludge](https://opensludge.github.io) Adventure Game language and kit but not updated in 2yrs even with a long history.  Also unfortunately their old forums shut down which is a great sad loss of information :( )  Looks like space quest with tons of graphics and art.  Pretty awesome!  Pity because it looks like it had some real momentum.  Now theres no community
+- [Superpowers](http://superpowers-html5.com/index.en.html)		Win Mac Lin	HTML5	Amiga 1985 games not 1987	Monthly activity on github	Monthly activity on forums its only been around for a year or more tutorials on the forum
+- [Chipmunk](https://chipmunk-physics.net/aboutChipmunk.php) this one is sad.  The forum and updates are dead since 2019 but this has a lot of background and was probably some of the fastest tech in the world.  Its on github so its not dead forever but atm no community at all.  it says hundreds of shippign games and has benchmarks to show its speed.  It has some autogeometry to generate physics geometry from images for collisions which is pretty bad ass.  Also [Chipmunk in C#](https://github.com/netonjm/ChipmunkSharp) which also died in 2019
+- [Cinder](https://libcinder.org/gallery) for creative coding (like art installations or something)  Up to date recently.  Not what I need afaik.
+- [bgfx](https://github.com/bkaradzic/bgfx) bring your own engine rendering library.  Probably really cool but not what I need at all.
+- [libepoxy](https://github.com/anholt/libepoxy) this is for obscuring some of the complexities of opengl and letting you call the functions directly
+- PixiJS	JS	Win Mac Lin	Mobile Win Mac Lin HTML5	2020 Indie iOS Looking games and apps	Github Fresh, 	6 Forum nonspecific to this product is hopping	11 demos come with it	WebGL, Fastest Canvas anywhere, Scenegraph, simple API, Mouse and touch controls, 	Free	5	Rendering Library not a game engine.  You build apps on top of this.					
+- [Voxel.js](http://www.voxeljs.com) looks way too old				Not too easy or hard to start. It will make worlds for you.  Modular with tons of modules.  Theres a Voxel Builder for building 3d Models.  Not a great website.  Lots of modules.  Github looks ancient
+- [UGUI](https://ugui.io) - Quickly add a GUI to a command line program - Dead since 2018 - Says its got the "Best Documented Source Code In Existance" and this is an amazing idea honestly for making a GUI for a command line program.  I kind of want to do this myself!  Put all my business logic in a command line program, test the hell out of it, make a GUI to interface with it transparently.
+- [Shopify CLI_UI](https://github.com/Shopify/cli-ui)	I havent tried this but it looks like you have to get involved in Shopify first and I would only want something that made menus like this for my own lightweight command line apps.  6	Possibly simple way to add interactivity to the CLI and I find myself wanting to make lots of programs with this or something this simple and smooth.  Give it a few minutes to see if it is as easy as it seems	5 Ok documentation, and support, no community.  Ruby but there might be other unofficial bindings like Python.  Made by Shopify.  													)
+- Vue.js - I bet this is great but I just got spoiled to Quasar which is much preferable imho.  This isn't enough.  Cool thouhg that the community is so huge (88k on discord alone!)  Just watching the intro video gave me the willies because it seemed so unnecessary. 
+- [Antiryad Gx](http://pyro.akm.free.fr) Sourceforge has some updates but theres no community at all, and a confusing website.  
+- [Clanlib](https://github.com/sphair/ClanLib) website dead
+- [Gamebryo](http://www.gamebryo.com/index.php) dozens or hundreds of popular boxed and indie commercial games that Ive seen before.  Terrible website with virtually no information. Commercial but you have to request a free trial. not impressive so I'm out
+- [Wintermute Adventur Game Engine](http://dead-code.org/home/) The forum is still alive but the software is from 2010
+- [Rust Console GBA](https://github.com/rust-console/gba)	GBA			GBA Level Homebrew with very few disadvantages	7 Github updated, no website, no other activity	1 No Community at all	4 Very difficult to start but laid out step by step			[Much more GBA Homebrew Clues](https://github.com/gbdev/awesome-gbadev)
 
-# RAD GUIs #
+# GUIs #
 
 
 Visual tools for developing traditional desktop GUIs
@@ -543,14 +649,18 @@ Unusual Desktop GUIs
 
 - FreePascal comes with FreeVision which is a dos looking GUI builder
 - Rebol makes little 
+- [GTKServer](http://www.gtk-server.org/intro.html) This lets you use GTK as a stream from any programming language
+
+
 
 GUIs from Code
 
+- [Kivy](https://kivy.org/#home) Python and Cython Super Easy GUIs Hello world is a few lines and there are a lot of examples
 - Pharo Smalltalk - This seems like a good option although Smalltalk is so foreign to me at this point
 - Ultimate++
 - Fyne with Go (tiny amounts of code to get simple apps running)
 - GTK with C# with Stetic (included with MonoDevelop)
-- wxWidgets with C++ - well documented with a pretty big community and probably not too hard to get working.  regularly updated
+- wxWidgets with C++ - well documented with a pretty big community and probably not too hard to get working.  regularly updated.  See Javid9x s series on this for a starter.  IMHO Hello World is way too complicated, but at least its well documented   
 - Python with TkInter and Komodo (For graphically building the GUI - Totally Pro - Now Free)
 - ----- 2nd Tier
 - React like Adam is doing is great
@@ -577,7 +687,6 @@ A future of new GUIs (most accessible to current web developers)
 - UNO - Pixel perfect multi platform (including web assembly) C# development UI Library.  This looks totally awesome and polished and well supported
 - Nuklear - IM Mode Library in one file real easy to use in C or C++
 - Sciter - Embeddable HTML/CSS/script engine for modern UI Development
-- GLFW - Gives you a window and opengl context with just two lines. high tech graphical potential, c# bindings just released 2 wks ago, open source.  Very appealings
 - DearImGUI (with a game engine or SDL or Conan) (tutorials lacking, community can be shitty, there is a discord and github forum, the apparent simplicity is appealing, the wild west nature of the environment gives me the runs)
 - Lots of options with CEF - its about making your web app into a desktop app
 - JUCE for really interesting UIs (particularly for music) - Free
@@ -662,41 +771,61 @@ Huge Momentum or Lastability
 - [TOME4](https://te4.org) has an engine and game maker built in that I couldnt figure out at first glance
 
 
-Engines To Make Specific Games or based off of games
+Engines To Make Specific Games or based off of games (#TODO Probably put most of these in the limited scope in my spreadsheet)
+
+- ------2D Classic------------------------
+- [Puzzlescript](https://www.puzzlescript.net/Documentation/rules101.html) this looks so cool
+- [2D Platformer Frogatto](https://frogatto.com/developer-info/) Anura Engine recently updated.  There is an in game level editor!  You can't use frogatto assets. 
 - [Mario](https://github.com/secretchronicles/TSC) Secret Chronicles of Dr M. is like mario but with a level editor that can take scripting
-- [Zelda](https://www.solarus-games.org/en/development/resource-packs/mit-starter-quest) MIT asset pack for making Zelda Games
+- [Zelda](https://www.solarus-games.org/en/development/resource-packs/mit-starter-quest) get the MIT asset pack for making Zelda Games
 - [Double Dragon or Final Fight](https://github.com/DCurrent/openbor) Double Dragon or Final Fight
-- [Bards Tale Construction Set](https://github.com/dulsi/btbuilder) Make a level or two or a little side quest in BT Builder - Bards Tale Construction Set
-- [Forgotten Realms Unlimited Adventures](http://uaf.sourceforge.net) Dungeon Craft is for making your own Goldbox Games
-- [Minetest](https://github.com/minetest/minetest) Make your own game or mod their game.  Dont worry about networking or voxels just some lua for the game logic
-- [Terasology](https://github.com/MovingBlocks/Terasology) A voxel engine where you can make your own game.  
-- [TOME4](https://te4.org) has an engine and game maker built in that I couldnt figure out at first glance
+- [OHRRPGCE](https://rpg.hamsterrepublic.com/ohrrpgce/About) Hamster Role Playing Engine! 43/151 people talking about it on Discord 
 - [Gameboy Studio](https://www.gbstudio.dev) this lets you make gameboy looking games easily and with constraints (JRPG Adventures primarily, platformers and shmup in beta)
+- [Forgotten Realms Unlimited Adventures](http://uaf.sourceforge.net) Dungeon Craft is for making your own Goldbox Games
+- [TOME4](https://te4.org) has an engine and game maker built in that I couldnt figure out at first glance. Virtually no community
 - [RPGMaker](https://www.rpgmakerweb.com)
-- [MaxGunner](https://maxgunner.itch.io/max-gunner) A Wolfenstein like FPS in Blitz3D with a level editor $10
-- [RPG In a Box](https://www.rpginabox.com) One of the best I've seen.  $25 Voxel graphics, map maker, items, sound generator.  Good discord.   Monthly updated for years.  Awesome!
-- ------------------------------
-- [Doom](https://zdoom.org/downloads) GZDoom and many more (and for VR too!)
-- [Quake](https://github.com/Novum/vkQuake) vkQuake Vulkan Quake port based on Spasm
-- [uMoria](https://github.com/dungeons-of-moria/umoria) It can be compiled in VS2019 so I could cut things out and make it simpler, disable some rng and complexity and add seeds
-- ------------------------------
+- [LambdaHack](https://lambdahack.github.io) a console Ascii Roguelike Engine!  The best one I've seen!  Totally up to date too!
+- [Bards Tale Construction Set](https://github.com/dulsi/btbuilder) Make a level or two or a little side quest in BT Builder - Bards Tale Construction Set
 - [Adventure Game Studio](https://www.adventuregamestudio.co.uk) easily make adventure games
-- [SuperTux](https://www.supertux.org/contact.html) Make some levels or enemies or tweak the code for Super Tux. Updated 1 hr ago
-- [2D Platformer Frogatto](https://frogatto.com) Engine page seems to have disappeared
-- [JLud 2d Tile Engine](https://github.com/rafael-esper/JLud2D) Try making a game in the JLud 2D Tile Based Platformer or RPG Engine
-- [Lionheart Amiga Platformer](https://github.com/b3dgs/lionheart-remake) Thats one of the coolest games on Amiga.  Lionengine is made for this game and vice versa.
-- [Cube2](https://github.com/inexorgame/vulkan-renderer) Apparently this is a new port of Cube2 Sauerbraten the Open Source fPS
-- [Final Fantasy 3](https://rpgplayground.com)
-- [Gamecraft](https://store.steampowered.com/app/1078000/Gamecraft/) Like Roblox but you build anything and then add physics and make games.  Great reviews.
-- [FPS Creator Classic](https://github.com/TheGameCreators/FPS-Creator-Classic) Wow all the art packs are here too!  Vague not legally worded license but it clearly says you can sell
-- [PGE](https://wohlsoft.ru/) Platformer Game Engine based on SMB 
-- [Black Ice Mod of FPS Creator Classic](http://www.blackicemod.org/) looks so damn cool and explains how to run FPS Creator Classic
-- [ARPG or MMORPG](https://arianne-project.org) Arianne has been around for 15+ years and is still going!
 - [Clonk](https://www.openclonk.org) Like worms and settlers and engine allows for mods
 - [Soldat](https://github.com/Soldat/soldat) Like Worms and a Platformer.  Made in Pascal.
 - [Teeworlds](https://github.com/teeworlds/teeworlds/) like worms but frantic.  I like the idea of making this into a full platform game.
+- [Mario](https://github.com/jazzyjester/Mario-Game) This looks like mario all stars and has a level editor
+- [JLud 2d Tile Engine](https://github.com/rafael-esper/JLud2D) Try making a game in the JLud 2D Tile Based Platformer or RPG Engine
+- [ARPG or MMORPG](https://arianne-project.org) Arianne has been around for 15+ years and is still going!
+- [Toho Bullet Hell](https://taisei-project.org) This looks freaking amazing!  Is there a level editor?
+- [Final Fantasy 3](https://rpgplayground.com)
+- [Worms](http://hedgewars.org) This is a really cool worms clone.  I wonder if you can make your own levels?  Yeah you can make your own Missions in LUA!
+- [Ultima but for PICO-8](https://github.com/Feneric/Minima) I wonder if you can edit the campaign easily?
+- -------3D Classic-----------------------
+- [Warsow](https://github.com/Qfusion/qfusion) Idtech, examples you can use in your own game, Updated Recently, Great feature list.  Warsow Discord and Reddit - unfortunately forum knowledge base was deleted.
+
+- [Ultima Online or Everquest](https://www.worldforge.org/index.php/about/faq/) Hopping Github with a mailing list and other community "We provide the technology you provide the world"
+- [Gamecraft](https://store.steampowered.com/app/1078000/Gamecraft/) Like Roblox but you build anything and then add physics and make games.  Great reviews.
+- [RPG In a Box](https://www.rpginabox.com) One of the best I've seen.  $25 Voxel graphics, map maker, items, sound generator.  Good discord.   Monthly updated for years.  Awesome!
+- [MaxGunner](https://maxgunner.itch.io/max-gunner) A Wolfenstein like FPS in Blitz3D with a level editor $10
+- [Minetest](https://github.com/minetest/minetest) Make your own game or mod their game.  Dont worry about networking or voxels just some lua for the game logic
+- [Terasology](https://github.com/MovingBlocks/Terasology) A voxel engine where you can make your own game.  
+- [Doom](https://zdoom.org/downloads) GZDoom and many more (and for VR too!)
+- [Quake](https://github.com/Novum/vkQuake) vkQuake Vulkan Quake port based on Spasm
+- [Quake](https://github.com/ioquake/ioq3) ioquake3 active forum, map editor is great.
+- [uMoria](https://github.com/dungeons-of-moria/umoria) It can be compiled in VS2019 so I could cut things out and make it simpler, disable some rng and complexity and add seeds
+- [Cube2](https://github.com/inexorgame/vulkan-renderer) Apparently this is a new port of Cube2 Sauerbraten the Open Source fPS
+- [Cube2](https://github.com/kripken/BananaBread#readme) Heres a port of cube to html
+- [Black Ice Mod of FPS Creator Classic](http://www.blackicemod.org/) looks so damn cool and explains how to run FPS Creator Classic
+- [Thief](https://www.thedarkmod.com/main/) THis is a cool mod to the Thief Engine.  Is there a level editor?
+- [PGE](https://wohlsoft.ru/) Platformer Game Engine based on SMB 
+- [Trackmania](http://stuntrally.tuxfamily.org) I bet this is tons of fun.  Ther is a track editor!
+- --------Could Probably make My own game but they dont explicitly advertise that ----------------------
+- [Lionheart Amiga Platformer](https://github.com/b3dgs/lionheart-remake) Thats one of the coolest games on Amiga.  Lionengine is made for this game and vice versa.
+- --------Levels can be edited yes, but they dont advertise actually making your own games ----------------------
+- [SuperTux](https://www.supertux.org/contact.html) Make some levels or enemies or tweak the code for Super Tux. Updated 1 hr ago
+- [Half Life SDK] a group of tools used to create levels for Half Life
+- -------- Investigate - Alive? Community? Intended as an engine? ----------------------
+- --------Other ----------------------
 
 Platformers
+
 - [SuperTux](https://www.supertux.org/contact.html) Make some levels or enemies or tweak the code for Super Tux. Updated 1 hr ago
 - [2D Platformer Frogatto](https://frogatto.com) Engine page seems to have disappeared
 - [JLud 2d Tile Engine](https://github.com/rafael-esper/JLud2D) Try making a game in the JLud 2D Tile Based Platformer or RPG Engine
@@ -711,6 +840,9 @@ Platformers
 - [Amiga Peters Quest](https://github.com/riksweeney/edgar) Looks primative but complete and recently updated
 - [Soldat](https://github.com/Soldat/soldat) Like Worms and a Platformer.  Made in Pascal.
 - [Teeworlds](https://github.com/teeworlds/teeworlds/) like worms but frantic.  I like the idea of making this into a full platform game.
+- [Mario](https://github.com/jazzyjester/Mario-Game) This looks like mario all stars and has a level editor
+- [Worms](http://hedgewars.org) This is a really cool worms clone.  I wonder if you can make your own levels?  Yeah you can make your own Missions in LUA!
+- [Super Bombinas](https://github.com/victords/super-bombinhas) Like simple Mario and real up to date and in ruby
 
 
 A bunch from [OSGameClones](https://osgameclones.com) and more - with a few exceptions these are actively maintained projects
@@ -727,6 +859,7 @@ A bunch from [OSGameClones](https://osgameclones.com) and more - with a few exce
 - [Cannon Fodder](https://github.com/OpenFodder/openfodder) Open Fodder Cannon Fodder with a level and campaign editor
 - [Commander Keen](https://gitlab.com/Dringgstein/Commander-Genius)
 - [Cube2](https://github.com/inexorgame/vulkan-renderer) Apparently this is a new port of Cube2 Sauerbraten the Open Source fPS
+- [Cube2](https://github.com/kripken/BananaBread#readme) Heres a port of cube to html
 - [Clonk](https://www.openclonk.org) Like worms and settlers!
 - [Defender](https://github.com/smcameron/wordwarvi) Defender clone called World War vi
 - [Delver](https://github.com/Interrupt/delverengine) Delver Engine for the game Delver
@@ -770,6 +903,7 @@ A bunch from [OSGameClones](https://osgameclones.com) and more - with a few exce
 - [Pacman](https://github.com/platzhersh/pacman-canvas) An awesome HTML5 Canvas version of PacMan
 - [Quake](https://github.com/Novum/vkQuake) vkQuake Vulkan Quake port based on Spasm
 - [Quake](https://github.com/ezQuake/ezquake-source) ezquake More Modern Quakeworld Engine
+- [Quake](https://icculus.org/twilight/darkplaces/readme.html) Dark Places is 6yrs dead but still really cool
 - [TOME4](https://te4.org) has an engine and game maker built in that I couldnt figure out at first glance
 - [Scorched Earth](http://www.scorched3d.co.uk) Scorched3D is really cool and fun
 - [Snake](https://en.wikipedia.org/wiki/Armagetron_Advanced) This is so cool!
@@ -782,6 +916,23 @@ A bunch from [OSGameClones](https://osgameclones.com) and more - with a few exce
 - [Soldat](https://github.com/Soldat/soldat) Like Worms and a Platformer.  Made in Pascal.
 - [Teeworlds](https://github.com/teeworlds/teeworlds/) like worms but frantic.  I like the idea of making this into a full platform game.
 - [Trials](https://en.wikipedia.org/wiki/X-Moto) This motorcycle game even has a level editor in inkscape
+- [Star Trek Elite Force](https://github.com/UberGames/rpgxEF) This is a modern update to the engine!
+- [Mario](https://github.com/jazzyjester/Mario-Game) This looks like mario all stars and has a level editor
+- [System Shock](https://github.com/Interrupt/systemshock) Looks like a great System Shock Engine that preserves the feel of the original
+- [Tetris](https://gitlab.gnome.org/GNOME/quadrapassel) Looks like a good updated Tetris
+- [Tetris](https://github.com/brenns10/tetris) Tetris in C and Curses
+- [Tetris](https://github.com/vicgeralds/vitetris) Multiplayer Command Line Tetris
+- [Tetris](https://github.com/Hextris/Hextris) This is a cool HTML5 rotational tetris
+- [Tetris Attack](https://github.com/blockattack/blockattack-game) Looks like really good multiplayer ish tetris
+- [Thief](https://www.thedarkmod.com/main/) THis is a cool mod to the Thief Engine.  Is there a level editor?
+- [Toho Bullet Hell](https://taisei-project.org) This looks freaking amazing!  Is there a level editor?
+- [Trackmania](http://stuntrally.tuxfamily.org) I bet this is tons of fun.  Ther is a track editor!
+- [Ultima but for PICO-8](https://github.com/Feneric/Minima) I wonder if you can edit the campaign easily?
+- [VVVVVV](https://github.com/TerryCavanagh/vvvvvv) Its so cool that the authors put this out there to be looked at and built.  Its old like 2010 code though and I dont think it will be easy to get running. 
+- [Ultima](https://www.scummvm.org) That apparently has included the code from [another ultima](http://nuvie.sourceforge.net/?page=docs) 
+- [Worms](http://hedgewars.org) This is a really cool worms clone.  I wonder if you can make your own levels?  Yeah you can make your own Missions in LUA!
+- [Command And Conquer](https://springrts.com) RTS Engine active and up to date
+- [Ultima Online or Everquest](https://www.worldforge.org/index.php/about/faq/) HOpping Github with a mailing list and other community "We provide the technology you provide the world"
 
 Other Possibilities
 - [If you can compile these](https://github.com/leereilly/games/) games will compile and you can get them working
