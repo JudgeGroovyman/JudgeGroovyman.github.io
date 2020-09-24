@@ -4,7 +4,7 @@ Learn everything I can about Alan Kay
 
 "One of the great leaps in OO is to be able to answer the question “How does this work?” with ”I don’t care”." - Pharo By Example 5
 
-
+Dont know where to put this: TO figure out what behaviors might be needed for a game engines scripts or nodes or whatever see the Construct 3 docs 'behavior reference'
 
 # Games And Apps #
 
@@ -84,6 +84,7 @@ Unknown License
 
 # Interesting Programming Options 2020 #
 
+## Sorting these Game Engines ##
 
 This is what I want to find and for you to be able to find:
 "We make no claim that ______ is the best game engine out there for any game, but we dare to say that ______ is the best game engine for some games."
@@ -94,17 +95,57 @@ How deep do you have to go to do something with this language? = That HTML 3D la
 How deep can you go and still do things with this language?  Unity Unreal = 20,000 Leagues
 Some engines are located at the area near "Hot Reload" Island.  Feature Island.
 
+What is a game engine? [Allegro](https://liballeg.org/index.html) says it "Allegro is not a game engine: you are free to design and structure your program as you like" which makes me think of the game loop and opinionated things like that are what make the difference between a game engine and a multimedia or game library or resource. 
+For this reason a game engine could be with or without an IDE or any kind of scene manager.
 
 
 Prediction: One or two of these engines or libraries will be very old so I will dismiss it, but in fact it will have a thriving non-obviouscommunity who is super happy with its feature complete stable situation and how well it works even on all modern computers, and I will miss out on that one.  Most of the old things are just dead though. 
 Favorite Features:
 
 
+1. Modern 3D
+2. Gamecube 3D
+3. Modern 2D
+4. Sloppy 2D
+5. Pixel Perfect 2D
+6. Classic Programming
+7. Modern GUI
+8. GUI Builders
+9. Code GUI
+
+
+Discriminators
+IDE: AIO or OTS or EXTEditor or None
+Cost: one time, monthly, royalties,
+Can you integrate other libraries?
+Monetization Capabilities Built in?
+See other desirable features in my spreadsheet.
+Web Based IDE
+
+License: 
+Free forever
+Free functional version forever
+Free limited version forever
+Freemium with convenience paywall
+Freemium with publishing paywall
+Freemium with functional or advanced feature paywall
+Pay once for use 
+Pay once for extra features
+Pay periodically for use
+Pay periodically for publish
+
+
+Royalties (independently specified from License)
+None Ever
+Percent of all profits
+Percent past a certain point
+
 
 1. All in ones
 2. IDEs
 3. Engines that are from or based on other games
 4. Libraries
+
 
 Add some more information here:
 
@@ -146,7 +187,10 @@ Physics
 Particles
 Shaders
 
+Which ones can make a DLL?
 
+
+## Lists of Game Engines ##
 
 
 Most Exciting
@@ -240,140 +284,8 @@ Always wanted to make a game in ncurses
 Would be so proud to write a Genesis game in SGDK
 
 
-Game Makers
-
-Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
-				                 Activity    Activity  Size	Ease	    -ability,			
-AppGameKit, 	BAS C++,	Win Mac Lin, 	9,		5, 		6 ,	10		10, 		100,		High polish and amazing fast.  Studio. $20-40 extras
-Leadworks,	Lua cpp,	Win Only,		8,		5,		4,	8,		8,		100-500,	VR, "some of the best tutorials for an engine I've ever seen"
-Unity, 		C#, 		Win Mac Lin, 	10+, 	10+, 	10+,	10		5(6),	Free,	Accessibility bonus due to the great community
-Unreal, 		C++, 	Win Mac Lin, 	10+, 	10, 		10,	10		3(4),	Free,	Accessibility bonus due to the good community
-Godot,		C#C++GDS,	Win Mac Lin,	10,		10,		9,	10,		4,		Free,	
-PlayCanvas,	JS,		Win Mac Lin,	10,		10,		9,	10,		8,		0-30pm,	Realtime Collaboration
-Urho3D,		C++,		Win Mac Lin,	9,		7,		7,	8,		5,		Free,	
-Armory3D,		Haxe,	Blender,	 	10,		9,		9,	6,		3,		0,		203/1830 Updated 3hrs ago
-Castle,		Pascal,	Win Mac Lin,	9,		4,		4,	7,		8,		0,		Freepascal and can do native guis
-NeoAxis,		C# Drag,	Win,			9,		3,		3,	8,		7,		0,
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-GLBasic,		BASIC,	Win,			9		2,		2,	10,		10,		0-80,	90 for 3d and selling commercially
-RPGPaperMaker, js,		Win Mac Lin,	10,		4,		4	9,		10		0-70,	57/184 70 if commercial game
-Stencyl,		Drag,	Mac Win Lin,	8,		6,		10,	10,		10		0-199	$99 for desktop publish 
-Duality,		C#,		Win,			9,		3,		3,	9,		8,		0,		39/323 Hot Reload Cool Terrains
-Cocos2D,		Python,	Win Mac Lin,	9,		7,		4,	6,		7,		0,		
-Cocos2D-x,	cpp,		Win,			7,		7,		4,	5,		6,		0,		
-Monogame,		C####,	Win Mac Lin,	10,		8,		7,	6,		5,		0,		Axiom Verge, XNA-Like
-AGKClassic, 	BAS C++,	Win Mac Lin, 	9,		8, 		6 ,	10		8, 		?,		High polish and amazing fast
-GBStudio,		DragDrop,	Win Mac Lin,	9,		8,		8,	10,		10,		Free,	Discord subreddit
-Develop,		JS,		Win Mac Lin,	9,		8,		8,	8,		9,		Free,	Discord forum
-PythonArcade,	Python,	Win Mac Lin,	10,		4,		4,	4,		9,		Free,	Doesnt work on Raspy
-Love,		Lua,		Win Mac Lin,	9,		9,		8,	9,		9,		Free,	Solid Simple 2D Game Engine
-Phaser,		JS TS,	Win Mac Lin,	10,		8,		7,	5,		9,		Free,	2D with lots of great options			
-Construct,	Visual,	Win Mac ios,	10,		9,		9,	9,		9,		Free,	Develop on ios even
-Torque2D,		C-Like,	Win Mac,		9,		2,		6,	5,		5,		Free,	Mature and Long Standing
-WickEdit,		DragDrop,	Web,			9,		1,		2,	10+,		10,		0,		Limited but easy
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Enigma,		Escript,	Win Mac Lin,	9,		3,		3,	4,		5,		Free,	GameMaker but faster Great hub activity
-Corona/Solar,	Lua,		Win Mac Lin,	9,		8,		5,	4,		8,		Free,	
-RPGMaker,		Ruby JS,	Win Mac Lin,	8,		9,		8,	8,		9,		80,					
-Allegro5,		C++,		Win Mac Lin,	9,		8,		8,	7		6,		Free,	
-SDL,			C/C#/Pyt,	Win Mac Lin,	9,		9,		9,	7		7,		Free,	
-GameMaker,	GMScript,	Win Mac,		9,		10,		10,	9,		10,		40/yr,	Toxic Community
-Pygame, 		Python,	Win Mac Lin,	10,		3,		6,	6,		7,		Free,	
-AGKPython,	Python,	Win Lin,		7,		1,		1,	4,		9,		Free,	Unknown great way to make games in Python	
-AGKSharp,		C#,		Win,			6,		1,		1,	4,		6,		Free,	
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-S2 Engine,	?		Win,			9,		1,		1,	8,		7,		$20,		Building Generator for just $35 more
-BuildBox, 	Drag,	Win Mac,		6,		9,		10,	10,		10,		0/50pm, 	0 for desktop, 20/mo for apps, 50/mo for iap
-FNA,			C#		Win,			9,		8,		8,	7,		8,		Free,	157/637 Terraria! Great tutorial to start.
-Fusion2.5,	Drag,	Win,			6,		9,		8,	10,		10,		0-99,	308/1227Discord 0-99-299 FNAF weird support 100/exporter
-CocosCreat	js ts,	Win Mac Lin,	5,		9,		9,	6,		5,		0,		Disorganized Ecosystem
-Pyglet, 		Python,	Win Mac Lin,	10,		2,		1,	4,		5,		Free,	LL more for making frameworks than games
-Stride,		C#,		Win Only,		10,		2,		4,	7,		5,		Free,		
-CryEngine, 	C++,		Win,			7,		2,		2,	3		2,		Unknown,	
-Lumberyard,	Lua Cpp,	Win,			8,		3,		4,	5		3,		Unknown,				
-AOZStudio,	BASIC,	Win Mac Lin, 	9,		4,		2,	6		7,		Free,	Still in work
-Shiva,		Lua,		Win Mac Lin,	9,		2,		2,	7,		4,		0-1000,	Free is only web.  Full Unity Features
-Heroengine,	Heroscr,	Win Only,		3,		4,		2,	6,		6,		100/yr,	Multiuser Edits in the cloud, not recent
-Panda3D, 		Python,	Win Mac Lin,	8,		3,		2,	5		7,		Free,	Looks cool and easy to start with.  Small Community.
-WinterPharo,	Smaltalk,	Win Mac Lin,	9,		1,		1,	7,		1,		Free,	
-LionEngine, 	Java,	Win,			8,		0,		0,	7,		6,		Free,	No breadth or depth to support	
-Torque3D,		Torque,	Win Mac,		3,		4,		4,	4,		5,		0,		63/275	
-
-App Makers with GUI Builders
-
-Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
-				                 Activity    Activity  Size	Ease	    -ability,			
-PureBasic, 	BASIC,	Win Mac Lin,	7,		8,		7,	10		10,		$80, 	Also an Amiga Port!
-LiveCode,		LC,		Win Mac Lin,	10,		9,		8,	7,		9,		$0-2kpm,	Hot Code No profiler or remote debug for lt2k/mo
-CodeTyphon,	Pascal,	Win Mac Lin,	10,		5,		2,	8,		9,		Free,	Fork of Lazarus with lots of extra packages
-B4x,			BASIC,	Win Only,		9,		10,		9,	6,		8,		Free,	Power Like VB Export to many targets& mobile
-Crossui,		Drag,	Win Mac Lin,	8,		1,		1,	10,		10,		0-1000,	
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-XOJO,		xojo,	Win Mac Lin,	10,		8,		8,	9,		10,		$0-2k,	Free for learning, $99/yr minimum otherwise, was REALBasic
-LibertyBasic,	BASIC,	Win   Only,	10,		3,		2,	10		10,		$60,		Lots of activity on the basic group
-Lazarus, 		Pascal,	Win Mac Lin, 	9,		8,		8,	10		8,		Free,	This looks amazing for making GUI apps		
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Gambas,		BASIC,	Linux Only,	9,		8,		4,	1		5,		Free,	Like VB Dependency hell install otherwise great÷
-PascalABC,	Pascal,	Win Only,		10,		1,		1,	7,		6,		Free,	Not Highly Regarded
-
-App Makers with Code GUIs
-
-Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
-				                 Activity    Activity  Size	Ease	    -ability,			
-Pharo,		Smltalk,	Win Mac Lin,	6,		2,		2,	9		3,		Free,	So powerful and awesome
-Ultimate++,	C++,		Win Mac Lin,	8,		8,		6,	7,		8,		Free,	Much shorter code than swing or qt
-Haxe,		Haxe,	Win Mac Lin,	9,		10,		8,	4		8,		Free,	Can develop games or desktop apps, or cross compile
-FreeBasic, 	BASIC,	Win Dos Lin,	10,		5,		4,	8		8,		Free,	
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Castle,		Pascal,	Win Mac Lin,	9,		4,		4,	7,		8,		0,		Freepascal and can do native guis
-FYNE,		Go,		Win Mac Lin,	8,		?,		?,	4		6,		Free,	Requires you to setup the environment
-JustBasic,	BASIC,	Win Only,		6,		6,		4,	9,		10,		Free,	Simpler Liberty Basic
-Rebol,		Rebol,	Win Mac Lin, 	5,		3,		1,	10		10,		Free,	
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-FutureBasic,	BASIC,	Mac Only,		9,		1,		1,	9,		8,		Free,	Graphical GUIs with XCode Tricks
-GNAVI,		Ada,		Win Only,		8,		?		1,	3		6,		Free,	So Interesting!
 
 
-Libraries
-
-Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
-				                 Activity    Activity  Size	Ease	    -ability,			
-Simple2D,		C		Win Mac Lin,	7,		0,		0,	5,		4,		0,		just 2D  Audio and Controls
-Raylib,		
-ncurses,
-Curses,		Python,	Python,		
-OLCConsoleEng,	C++, 	Win,			9,		3,		3,	10,		10,		Free,	Intentionally limited but so cool
-OLCPixelEngn,	C++,		Win,			9,		3,		3,	10,		9,		Free,	
-TTY-Box,		Ruby,	Ruby,		7,		0,		0,	7,		10,		Free,		
-ENTT,		C++,		?			9,		7,		7,	7,		7,		Free,	ECS Example is Kerndog73/EnTT-Pacman
-Babylonjs,	js,		Web,			10,		10,		7,	5,		7,		0,		Code updated 2h ago
-
-
-Both Games and Apps
-
-Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
-				                 Activity    Activity  Size	Ease	    -ability,			
-PureBasic, 	BASIC,	Win Mac Lin,	7,		8,		7,	10		10,		$80, 	Also an Amiga Port!
-Haxe,		Haxe,	Win Mac Lin,	9,		10,		8,	4		8,		Free,	Can develop games or desktop, or crosscompile
-LiveCode,		LC,		Win Mac Lin,	10,		9,		8,	7,		9,		0-$2kpm,	Hot Code No profiler or remote for lt2k/mo
-LibertyBasic,	BASIC,	Win   Only,	10,		3,		2,	10,		10,		$60,		Lots of activity on the basic group
-
-
-
-Programming in a simpler world
-
-Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,	Notes
-				                 Activity    Activity  Size	Ease	    -ability,				
-Chipmunk Basic,BASIC, 	Mac Only, 	9,		1,		1,	10,		9,		Free,	So much fun!
-QB64, 		BASIC, 	Win Mac Lin, 	8,		5,		3,	8,		7,		Free,	This is a pretty damn cool QBasic environment
-JustBasic,	BASIC,	Win Only,		6,		6,		4,	9,		10,		Free,	Simpler Liberty Basic
-Rebol,		Rebol,	Win Mac Lin, 	5,		3,		1,	10		8,		Free,	
-Brandy,		BASIC,	Win Mac Lin,	3,		1,		1,	8,		9,		Free,	BBC Basic V Interpreter
-bwBasic,		BASIC,	Lin, 		8,		2,		2,	4,		8,		Free,	Old Basic Compatible (Notes Below)
-PCBasic, 		BASIC,	Win Mac Lin,	10,		8,		8,	8,		9,		Free,	Looks awesome with graphics!
-Freebasic,	BASIC,	Win Mac Lin,	10,		9,		9,	10,		10,		Free,	Cool because its got a qb mode which is compatible with quickbasic
-Bcx,			BASIC,	Win,			10,		8,		8,	8,		8,		Free,	Basic compiler seems lively
-Yabasic,		BASIC,	Win Lin,		9,		1,		1,	9,		10,		Free,	Graphics and call DLLs and Compile.
 
 
 Notably Slow Websites:
@@ -381,57 +293,109 @@ Notably Slow Websites:
 Some of these have lightning fast websites which makes a big impression on me.  Others are quite slows
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------
 Investigate:
 ----------------
 Move all of these over to my spreadsheets
 Give another Analysis to Blitzmax, darkbasic, Monkey and Basic 4 gl (notes are below)
+https://heaps.io
+https://linusakesson.net/dialog/
+http://www.vintage-basic.net
+https://wickedengine.net/downloads/
+AMOSPro
+BlitzBasic (see amiga note or below)
+AMIDark AGA version
+http://www.esenthel.com
+https://impactjs.com
+https://developer.valvesoftware.com/wiki/SDK_Installation  Great level editor!  Minimal Support.  Free for noncommercial on PC.  Expensive for commercial or other platforms (probably prohibitively)
+Superpowers (notes below)
 
 
 
-
-
+----------------
+Later Possibly Add to the Classic Programming List
+-------------------
+Pyglet since no dependencies it has a limited API and thats all you can do
+Simple2D C Library
+GLFW 
+LWJGL
+LibSigil (Feature Complete so limited unchanging API)
+Others that dont need or really even want an IDE since they have few to no dependencies
+Pico8
+PixelVision8
+Probably Most BASIC Variants
+SGDK
+ZGameEditor
+What goes here? Whatever makes me feel like I'm programming in the past
+Raylib?
+Allegro?
+SDL?
+Pygame (use from command line and people use it who learned on C64 basic) (This one in particular since actually this one takes me right back to 2003 directly!)
 
 
 
 Most Expensive Ones:
 
-- Hero Cloud ($100/yr to $5000 lifetime)
-- Leadwerks (OWN) ($100-$500 one time)
-- Shiva (Free to 1000)
-- Livecode (Free is open source, $500/yr to make html5, $79/yr to get App store (Only if you make your code MIT and dont make any money) autocomplete, and extensions, 500/yr to make money from your app, add better autocompletion, to 2000 for support, profiling, advanced networking, remote debugging, pdf viewer,)
 - Xojo (Free for learning, 99/yr for one desktop platform, 299/yr for ios or web deploy, 299 total for all desktop platforms, 599 total for that plus ios and web, 2k for support)
-- GameMaker2 $40/yr (OWN GameMakerSudioPro1 with export packs)
+- Livecode (Free is open source, $500/yr to make html5, $79/yr to get App store (Only if you make your code MIT and dont make any money) autocomplete, and extensions, 500/yr to make money from your app, add better autocompletion, to 2000 for support, profiling, advanced networking, remote debugging, pdf viewer,)
+- AppGameKit (OWN Classic) ($50 to start $100 for the studio (Drag and drop 3d scenes), $10-30 for add ons like VR, Assets, Shaders) (Huge pack free for schools!)
+- Clickteam Fusion 2.5 (OWN MultiMediaFusion 2)
 - CrossUI $1000 (free forever before release)
+- 
 - Purebasic $80
 - LibertyBasic $60
 - GLBasic $90
-- AppGameKit (OWN Classic) ($50 to start $100 for the studio (Drag and drop 3d scenes), $10-30 for add ons like VR, Assets, Shaders) (Huge pack free for schools!)
+- 
+- Leadwerks (OWN) ($100-$500 one time)
+- GameMaker2 $40/yr (OWN GameMakerSudioPro1 with export packs)
 - Smile Game Builder $70 (OWN)
 - 001 Game Creator (OWN)
 - Game Guru (OWN)
-- Clickteam Fusion 2.5 (OWN MultiMediaFusion 2)
 - RPGMaker MV (OWN VXAce and XP and TONS of assets for them)
+- 
+- Hero Cloud ($100/yr to $5000 lifetime)
+- Shiva (Free to 1000)
 
+OLCPixelEngn		C++ 	Win	9	3	3	10	9	Free
 
 
 Assets
 Humble Bundle is FULL of them
 
 
-
+----------------
 Discords
 
+- [Urho3D](https://discord.com/invite/yNBhfN7) 13/28
 - [Flat Red Ball](https://discord.com/invite/tG5RBgw) 12/34
 - [Platformer Game Engine](https://discord.com/invite/qPBsvMy) 18/52
 - [LITI Engine](https://discord.com/invite/bWfP4E9) 8/61
 - [Orx](https://discord.com/invite/aC84aJJ) 15/66
 - [Blacksmith2D](https://discord.gg/HWzzCcy) 7/67
 - [BYond](https://discord.com/invite/baHMSgZ) 45/70  (Note this is the smaller one)
+- [Amazon Lumberyard by The Dev Shop](https://discord.com/invite/xduxqJ7) 29/105
 - [LWJGL](https://discord.com/invite/6CywMCs) 29/112
 - [S2 Engine](https://discord.com/invite/nuqt5Yg) 16/114
 - [Cerberus X](https://discord.com/invite/XzqHcTK) 14/124
+- [Unofficial FreePascal](https://discord.com/invite/mKPCyJ8) 46/140
 - [NeoAxis Engine](https://discord.com/invite/NdCej26) 17/148
-- [Castle Pascal](https://discord.com/invite/HPQtewa) 9/153
+- [Castle Pascal](https://discord.com/invite/HPQtewa) 18/153
 - [Enigma Discord](https://discord.gg/Kz67atZ)31/159
 - [RPGPaperMaker](https://discord.com/invite/QncEnCE) 57/184
 - [GOSU](https://discord.com/invite/gTaHxdm) 40/221
@@ -441,10 +405,14 @@ Discords
 - [AppGameKit](https://discord.com/invite/7ENUvnE) 27/283
 - [Monkey](https://discord.com/invite/ZHpRAFp) 39/296
 - [The Forge](https://discord.com/invite/hJS54bz) 96/306
+- [Monogame.Extended](https://discord.com/invite/xPUEkj9) 72/311
+- [Cocos](https://discord.com/invite/pVqab4K) 53/319
 - [Smile Game Builder](https://discord.com/invite/EghNtX) 98/329
-- [Duality](https://discord.com/invite/ZgnhPzr) 38/323
+- [Duality](https://discord.com/invite/ZgnhPzr) 60/330
 - [RPG In A Box](https://discord.com/invite/zXqqqPj) 56/336
+- [Amazon Lumberyard](https://discord.com/invite/5B8xSYj) 23/363
 - [R](https://discord.gg/wmkCdwK) 103/386
+- [Solar2D](https://discord.com/invite/WMtCemc) 68/431
 - [ct.js](https://discord.com/invite/CggbPkb) 102/437
 - [JMonkeyEngine](https://discord.com/invite/JhefT9s) 68/469
 - [FNA](https://discord.com/invite/2Gg8zju) 157/637
@@ -454,17 +422,21 @@ Discords
 - [Creative Coders](https://discord.com/invite/pMzD6Ya) 206/1018
 - [Cube 2 Sauerbraten Sauerworld](https://discord.com/invite/012c19bkwljlWsh3y) 223/1076
 - [Clickteam](https://discord.com/invite/RfxPYvh) 297/1227
+- [Monogame](https://discord.com/invite/wur36gH) 373/1250
 - [BYOND](https://discord.gg/5MP6uyA) 406/1290
 - [Three.js](https://discord.com/invite/HF4UdyF) 448/1472
 - [AFrame Supermedium](https://discord.com/invite/tGYjkYr) 257/1683
 - [SFML](https://discord.com/invite/nr4X7Fh) 274/1777
+- [Construct](https://discord.com/invite/HyvYes8) 406/1803
 - [Armory3D](https://discord.com/invite/axq6qWV) 203/1830
+- [Stride3D](https://discord.com/invite/f6aerfE) 206/1856
 - [Stencyl](https://discord.com/invite/XjawJCW) 105/2072
 - [Pico-8](https://discord.com/invite/EwQ86eq) 691/2351
 - [GBADev](https://discord.com/invite/gpBxq85) 575/2408
 - [TIGForums Independent Gaming Discussion](https://discord.com/invite/m9fBD8V) 531/2571
 - [Fantasy Consoles like Pico 8 and Tic 80](https://discord.com/invite/DkD73dP) 431/2715
 - [Haxe](https://discord.com/invite/rqEBAgF) 412/2726
+- [Pygame](https://discord.com/invite/r8yreB6) 317/3088
 - [RPGMaker](https://discord.com/invite/uRs5rjA) 1130/3168
 - [CryEngine](https://discord.com/invite/cryengine) 396/3362
 - [LibGDX](https://discord.com/invite/6pgDK9F) 469/3781
@@ -482,15 +454,16 @@ Discords
 Discords not directly related to a language
 
 - [Creative Coders](https://discord.com/invite/pMzD6Ya) 206/1018
-- [TIGForums Independent Gaming Discussion](https://discord.com/invite/m9fBD8V) 531/2571
+- [TIGForums Independent Gaming Discussion](https://discord.com/invite/m9fBD8V) 600/2574
+- [Fantasy Consoles like Pico 8 and Tic 80](https://discord.com/invite/DkD73dP) 431/2715
 - [GameDevelopersLeague](https://discord.com/invite/gamedev)9961/36754
 - [20 great new ones](https://towardsdatascience.com/top-20-data-science-discord-servers-to-join-in-2020-567b45738e9d)
 
 
-Other places to find support: Subreddits, Forums, Steam, Facebook, Facebook Groups, Slacks, Whatsapp chats, Skype chats.
+Other places to find support: Subreddits, Forums, Steam Discussions of the software, Facebook, Facebook Groups, Slacks, Whatsapp chats, Skype chats.
 
-
-Asset Stores
+----------------
+Asset Stores / Marketplaces
 BYOND
 Unity
 Unreal
@@ -498,8 +471,19 @@ Copper Cube?
 GameGuru
 AGK The Game Creators
 Pico8 and Voxatron 
+Leadwerks
+https://www.neoaxis.com/store/contents
+https://www.s2powered.com/copiasito/shop/
+https://jmonkeystore.com
+Godot
+https://aurasoft-skyline.co.uk/store (Tiny but there it is anyway)
+http://www.stencyl.com/developers/market/
+https://www.allegro.cc/resource/CodeGallery (Tiny)
+https://marketplace.yoyogames.com GameMaker
+https://blendermarket.com
 
 
+----------------
 Arcades
 Gamesalad
 Byond
@@ -509,6 +493,9 @@ https://threejs.org
 https://www.lexaloffle.com/bbs/?cat=7 thousands of games
 https://tic80.com
 https://gdevelop-app.com/poki/
+https://www.construct.net/en/free-online-games  (6000+ games)
+https://www.allegro.cc/depot/index/pop
+http://www.glbasic.com/main.php?lang=en&site=games
 
 
 Notes
@@ -520,7 +507,6 @@ Notes
 - Cryengine there is a forum and answers group which are decidedly not dead but neither hopping.  Theres a large discord though.
 - FNA.  XNA is how people would make games for Xbox 360 Live Arcade back in the day.  Well now for people who have that code they can use the instructions on the wiki and get it working again with modern open source technology.  Their code isnt dead.  In addition it looks like a real straightforward C# game engine in code according to one of the tutorials and I like that very much.  Looks like no matter what though using this would tie you to the XNA legacy and that doesn't seem ideal for example shipping requires some pack ins , not a big deal but ... The discord is hopping though, the tutorial is great, and they have more modern tech than their sister MonoGame which is XNA-Like.  FNA uses just one assembly and as a result its more likely to run identically on every platform.  Tons of games: Bastion, Axiom Verge, Celeste, Escape Goat, Dust, Fez, Owlboy, Rogue Legacy, Terraria, Transistor, even Streets of Rage 4!  I dont see any tutorials about like importing 3d assets, and theres no IDE associated.  Monogame tutorials should be similar and there should be a way to port things to FNA from Monogame if that would be valuable.  Apparently there used to be something called XNA Game Studio.   It was a fork of Monogame at one point.  
 - Buildbox Huge discord community which is a great triumph I didnt expect.  
-	- Huge website failure: if you want to see whats at thebottom, you cant on the blog page, because it infinitely refreshes with more posts.  You have to chase the bottom bar utnil you give up and figure out that one of the other tabs might work better.  Regardless the website feels sparse and kind of empty.  Thats generally ok but its something they could work on if they feel they want to make a better impression.  Advice?  Clearer Navigation perhaps?  I dont know for sure.  
 	- Probably great software but to do in app purchases its a relatively expensive option at $50/mo with a 1yr committment for a small dev.  Will the game even make that much?  Will you get it out the door at all if you dont use Buildbox?  Interesting conundrum.   
 	- Theres a [Nice Tutorial](https://www.buildbox.com/make-your-own-game/) that walks you through a whole game with videos and a document. 
 - [S2 Engine](https://www.s2powered.com/copiasito/) 16/114 discord.  Generally positive reviews on Steam, but their website is cryptic and so is my impressions from the reviews. its only $20 one time, and importantly it is absolutely getting monthly or several times a month updates from the devs.  I find myself liking this one more and more the more I look and some say they find it a better easier smoother package than unreal or unity.  Theres an awesome $35 procedural building maker too.  Also you can get a free version of their slightly older version 1.4.5 actually thats probably quite a bit older now tbh.  oh 809 people on the FB Group not bad!
@@ -531,9 +517,6 @@ Notes
 - Blitzmax,	BASIC	Win Mac Lin,	1,		4,		2,	9,		10,		0,		I bought a license for this probably 15yrs ago and I still think very highly of it.  I can only find a tiny discord community where about 20 people hang out.  Thats not bad for something virtually unsupported.  Still its open source now and thats nice.  I have such good feelings about it that I want to love it and make games in it but I just wonder where I will hit my head against a glass ceiling and at that point its not worth it.   I think though that I would feel good making a game in this even if it took me a while since its something I've always wanted to do.  Same with AMOSPro. Syntaxbomb forums for blitz are still active
 - Monkey, BASIC, This is cross platform and compiles down to HTML5 so it seems like it would be great but it has no traction.  I dont really know why they ditched blitz and call it monkey but it doesnt seem like it worked imho.  Theres 0.1 community activity and no updates for 2 years.  The Blitz Basic Guy Mark Sibley is a genius though and I bet this is a really good system.  AOZStudio is trying almost the same thing right now but I hope it gets more traction.  Cerberus has a bit more traction.  Monkey still has a decent community though.
 - Darkbasic Pro, BASIC, this one is on github and it looks reasonably well organized and for that reason may be supportable in the future but it looks like there is no community activity around it.
-- Basic4GL,	BASIC,	Win,			1,		1,		2,	8,		9		0,		Love the simplicity of OpenGL with this.  Run programs on on mobile too?  Not updated since 2017, community sparse but there is a forum with thousands of demo programs.  
-- Brandy Basic, there are a few ports, napoleon, and Matrix that add things or make them more up to date.  This is a BBC Basic implementation at its core but of course it cant do graphics without system specific changes.  Its very old and unsupported for like 20yrs, but the thing is it has been working for that whole time.  There is still lots of info about [BBC Micro Basic](http://www.bbcbasic.co.uk/bbcbasic.html) people still care about it even in 2020
-- bwBasic Old and sort of unsupported for like 30 years but its been working for that whole time and update: there is activity on the sourceforge from a month ago!  There is unfortunately no community at all to speak of.  No one talks about it except as something archaic.  Thats too bad imho.  Its probably compatible with microsoft basic and gw basic.  But its cool because it could be used as a shell since it passes commands right through to the underlying shell.  You could [boot linux into this!](https://unix.stackexchange.com/questions/359314/how-can-i-run-basic-code-in-a-terminal) and those people suggest switching out agetty for bwbasic, or init for bwbasic.
 - pc-basic.io this one was updated on Thursday!  Its got graphics and is compatible with GWBasic.  Theres actually discussion in the community (sourceforge discussion forums) and encouragement to show what basic programs work with it even online ones.
 - batari basic last released in 2007 but lets you develop homebrew for the 2600 http://bataribasic.com
 - Babylon.js (in the table above) is really good and updated and the forum is HOPPING.  I can see some arguments but am not impressed by the standoffishness about creating a discord.  That does not impress me at all.  It shows me the community is too conservative in some ways even if I can see some validity to their arguments they are dismissing or ignoring the huge benefits.   It gets under my skin when they dismiss new ideas because they dont want things to change.  "Thats been tried before and wasnt successful" is a deeply limiting attitude.  grr.
@@ -624,6 +607,11 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 - [Gamebryo](http://www.gamebryo.com/index.php) dozens or hundreds of popular boxed and indie commercial games that Ive seen before.  Terrible website with virtually no information. Commercial but you have to request a free trial. not impressive so I'm out
 - [Wintermute Adventur Game Engine](http://dead-code.org/home/) The forum is still alive but the software is from 2010
 - [Rust Console GBA](https://github.com/rust-console/gba)	GBA			GBA Level Homebrew with very few disadvantages	7 Github updated, no website, no other activity	1 No Community at all	4 Very difficult to start but laid out step by step			[Much more GBA Homebrew Clues](https://github.com/gbdev/awesome-gbadev)
+- LionEngine, 	Java,	Win,			8,		0,		0,	7,		6,		Free,	No breadth or depth to support	
+
+
+
+
 
 # GUIs #
 
@@ -726,6 +714,8 @@ Expensive ones aka RAD aka No Code Development platforms aka low code developmen
 Comments on the expensive ones: https://forum.bubble.io/t/other-no-code-alternatives/64510
 
 # Programming on Mobile #
+
+- PlayCanvas - This one is barely advertised to run on mobile but it should work really well and its cloud based so no storage required.
 
 - AppGameKit literally RUNS on mobile.  Huge ding on what could be so great: it doesnt support BT Keyboards at least on IOS
 - SmartBasic is my favorite.  It is really cool and can do a lot I spent a long time with it in bed as I fell asleep making cool graphics programs.  Its even got buttons and UI and stuff and its all documented in app.  It can send programs out to email I think so you can get them out of the app and you can always copy and paste them in and there may even be a better way to get them in.  Then you can even make your OWN APP on your phone from this using some kind of shortcut trick. its pretty awesome.  PLUS you can get a smart basic sdk for xcode and publish your iphone apps in the app store!  Thats pretty damn awesome if you ask me.   GPS, Multitouch, Networking, Music and Video, etc.  This is the one app that reminds me the most of AMOS for Amiga.  It says theres dropbox support and a forum to get answers.  thats awesome.  
@@ -874,7 +864,7 @@ A bunch from [OSGameClones](https://osgameclones.com) and more - with a few exce
 - [Jazz Jackrabbit](https://github.com/AlisterT/openjazz)
 - [Jazz Jackrabbit 2](https://github.com/deathkiller/jazz2)
 - [Kick Off 2](https://github.com/ssenegas/kickoff) Classic Amiga Soccer Game
-- [Zelda](https://github.com/ArmageddonGames/ZeldaClassic) Zelda classic has tools to let you make your own quests
+- [Zelda](https://github.com/ArmageddonGames/ZeldaClassic) Zelda classic has tools to let you make your own quests - made in allegro https://www.zeldaclassic.com
 - [Zelda LTTP](http://www.zeldaroth.fr/us/dlnsq.php) There are several open source LTTP style games heres
 - [Lemmings](https://github.com/ericlangedijk/Lemmix) Uses Delphi.  Apparently there are a bunch of user levels
 - [Lemmings](http://www.lixgame.com) This is Lix with 700 levels and an editor and competitive multiplayer
@@ -1050,7 +1040,7 @@ Blitzmax is open source now! along with Blitz3D!  https://github.com/blitz-resea
 8. Write a [game for DOS in C](https://nullprogram.com/blog/2014/12/09/)
 9. [Invent your own computer games with Python](http://inventwithpython.com/invent4thed/)
 10. [Cracking Codes with Python](https://inventwithpython.com/cracking/)
-11. [Making games with Python and Pygame](https://inventwithpython.com/pygame/)
+11. [Making games with Python and g](https://inventwithpython.com/pygame/)
 12. Unity Virtual Reality Projects - humble bundle book
 14. Unity Game Development Blueprints - Humble bundle Book
 15. Discover Unity Game Development - From Zero to 12 Games Humble Bundle Book
