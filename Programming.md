@@ -122,6 +122,14 @@ Monetization Capabilities Built in?
 See other desirable features in my spreadsheet.
 Web Based IDE
 
+Discriminators
+VR
+Multiplayer
+IDE: AIO or OTS or EXTEditor or None
+Team Simultaneous Editing
+
+
+
 License: 
 Free forever
 Free functional version forever
@@ -325,6 +333,11 @@ http://www.esenthel.com
 https://impactjs.com
 https://developer.valvesoftware.com/wiki/SDK_Installation  Great level editor!  Minimal Support.  Free for noncommercial on PC.  Expensive for commercial or other platforms (probably prohibitively)
 Superpowers (notes below)
+https://ncine.github.io
+https://github.com/stetre/moonlibs
+http://www.rapideuphoria.com
+Incorporate my notes and my saying no tos  below into my spreadsheet somehow or at least have another gander at them.  Some will be truly dead.  Others will be working jsut fine but not having updates recently
+http://appinventor.mit.edu/explore/ai2/tutorials.html
 
 
 
@@ -347,32 +360,10 @@ Raylib?
 Allegro?
 SDL?
 Pygame (use from command line and people use it who learned on C64 basic) (This one in particular since actually this one takes me right back to 2003 directly!)
+RunBasic - BASIC for the web.  Notes below perhaps
+Amberlang 
 
 
-
-Most Expensive Ones:
-
-- Xojo (Free for learning, 99/yr for one desktop platform, 299/yr for ios or web deploy, 299 total for all desktop platforms, 599 total for that plus ios and web, 2k for support)
-- Livecode (Free is open source, $500/yr to make html5, $79/yr to get App store (Only if you make your code MIT and dont make any money) autocomplete, and extensions, 500/yr to make money from your app, add better autocompletion, to 2000 for support, profiling, advanced networking, remote debugging, pdf viewer,)
-- AppGameKit (OWN Classic) ($50 to start $100 for the studio (Drag and drop 3d scenes), $10-30 for add ons like VR, Assets, Shaders) (Huge pack free for schools!)
-- Clickteam Fusion 2.5 (OWN MultiMediaFusion 2)
-- CrossUI $1000 (free forever before release)
-- 
-- Purebasic $80
-- LibertyBasic $60
-- GLBasic $90
-- 
-- Leadwerks (OWN) ($100-$500 one time)
-- GameMaker2 $40/yr (OWN GameMakerSudioPro1 with export packs)
-- Smile Game Builder $70 (OWN)
-- 001 Game Creator (OWN)
-- Game Guru (OWN)
-- RPGMaker MV (OWN VXAce and XP and TONS of assets for them)
-- 
-- Hero Cloud ($100/yr to $5000 lifetime)
-- Shiva (Free to 1000)
-
-OLCPixelEngn		C++ 	Win	9	3	3	10	9	Free
 
 
 Assets
@@ -439,6 +430,7 @@ Discords
 - [Pygame](https://discord.com/invite/r8yreB6) 317/3088
 - [RPGMaker](https://discord.com/invite/uRs5rjA) 1130/3168
 - [CryEngine](https://discord.com/invite/cryengine) 396/3362
+- [Graphics Programming](https://discord.com/invite/6mgNGk7) 1557/3683
 - [LibGDX](https://discord.com/invite/6pgDK9F) 469/3781
 - [GDevelop](https://discord.com/invite/rjdYHvj) 312/3861
 - [RenPy](https://discord.com/invite/6ckxWYm) 1857/7756
@@ -496,22 +488,21 @@ https://gdevelop-app.com/poki/
 https://www.construct.net/en/free-online-games  (6000+ games)
 https://www.allegro.cc/depot/index/pop
 http://www.glbasic.com/main.php?lang=en&site=games
+http://games.freebasic.net/dumpbyid.php?input=2
+https://wiki.freepascal.org/Projects_using_Free_Pascal
+
 
 
 Notes
 
-- Enigma - Game Maker compatible.  Speeds up game maker games.  They are hardcore about preventing SPAM.   [Enigma Wiki](https://enigma-dev.org/docs/Wiki/Main_Page), [Enigma Discord](https://discord.gg/Kz67atZ)31/159, they have an IRC Channel (but thats off limits to me for an unexplained or broken reason) The [Enigma forum](https://enigma-dev.org/forums/) is pretty active too.  If you ask me this is a good thing to have in your pocket if you are doing game maker stuff.  If there is enough stability and support that you can use it instead of game maker then I think its even better.  Game maker is apparently great though but last time I checked (a few months ago) their community is toxic and I'm not interested in that crap (although I might like to go watch the shit show sometime).
 - Game Maker - Rumor has it that there are some trolls in the community but perhaps they were left behind at the skype chat group they had?  Apparently the subreddits discord is surprisingly 'un-reddit'
 - The Game Creators [The Game Creators Forum - AppGameKit GameGuru FPS Creator](https://forum.thegamecreators.com) + Steam + Facebook - Strange that people on their forum were resistant to them even having a discord.  They thought it would hurt the community to split the spread of information.  that seems old fashioned or conservative, and certainly they dont understand the role that discord (or any live chat) serves in the communication space.  The forum for FPS creator is most hopping strangely, maybe because [FPS Creator is open source](https://github.com/TheGameCreators/FPS-Creator-Classic)?  The forum for FPS creator is pretty active.  Well all of the assetpacks are there too which is awesome!   Wow all the art packs are here too!  Vague not legally worded license but it clearly says you can sell. 
 - I got a weird vibe about clickteam theres a [whole article about how bizarre they are](https://iwantabro.com/kimmoa/The_bizarre_world_of_Clickteam) and one dude claims they banned him from discord for wanting to get his images out of the game binary.  I'll choose to take that story with a grain of salt but it makes me scratch my head.  They've got a huge discord though thats impressive.  5 times bigger than appgamekit.  I love Francois Lionet though but I got a weird vibe from him too about licensing for AMOSPro, now thats been resolved at this point but it was tense there for about a year on the facebook group.  
 - Cryengine there is a forum and answers group which are decidedly not dead but neither hopping.  Theres a large discord though.
-- FNA.  XNA is how people would make games for Xbox 360 Live Arcade back in the day.  Well now for people who have that code they can use the instructions on the wiki and get it working again with modern open source technology.  Their code isnt dead.  In addition it looks like a real straightforward C# game engine in code according to one of the tutorials and I like that very much.  Looks like no matter what though using this would tie you to the XNA legacy and that doesn't seem ideal for example shipping requires some pack ins , not a big deal but ... The discord is hopping though, the tutorial is great, and they have more modern tech than their sister MonoGame which is XNA-Like.  FNA uses just one assembly and as a result its more likely to run identically on every platform.  Tons of games: Bastion, Axiom Verge, Celeste, Escape Goat, Dust, Fez, Owlboy, Rogue Legacy, Terraria, Transistor, even Streets of Rage 4!  I dont see any tutorials about like importing 3d assets, and theres no IDE associated.  Monogame tutorials should be similar and there should be a way to port things to FNA from Monogame if that would be valuable.  Apparently there used to be something called XNA Game Studio.   It was a fork of Monogame at one point.  
+- FNA.  XNA is how people would make games for Xbox 360 Live Arcade back in the day.  Well now for people who have that code they can use the instructions on the wiki and get it working again with modern open source technology.  Their code isnt dead.  In addition it looks like a real straightforward C# game engine in code according to one of the tutorials and I like that very much.  Looks like no matter what though using this would tie you to the XNA legacy and that doesn't seem ideal for example shipping requires some pack ins  not a big deal but ...  the tutorial is great and they have more modern tech than their sister MonoGame which is XNA-Like.  FNA uses just one assembly and as a result its more likely to run identically on every platform.  Tons of games: Bastion. Axiom Verge. Celeste. Escape Goat. Dust. Fez. Owlboy. Rogue Legacy. Terraria. Transistor. even Streets of Rage 4!  I dont see any tutorials about like importing 3d assets. and theres no IDE associated.  Monogame tutorials should be similar and there should be a way to port things to FNA from Monogame if that would be valuable.  Apparently there used to be something called XNA Game Studio.   It was a fork of Monogame at one point.  
 - Buildbox Huge discord community which is a great triumph I didnt expect.  
 	- Probably great software but to do in app purchases its a relatively expensive option at $50/mo with a 1yr committment for a small dev.  Will the game even make that much?  Will you get it out the door at all if you dont use Buildbox?  Interesting conundrum.   
 	- Theres a [Nice Tutorial](https://www.buildbox.com/make-your-own-game/) that walks you through a whole game with videos and a document. 
-- [S2 Engine](https://www.s2powered.com/copiasito/) 16/114 discord.  Generally positive reviews on Steam, but their website is cryptic and so is my impressions from the reviews. its only $20 one time, and importantly it is absolutely getting monthly or several times a month updates from the devs.  I find myself liking this one more and more the more I look and some say they find it a better easier smoother package than unreal or unity.  Theres an awesome $35 procedural building maker too.  Also you can get a free version of their slightly older version 1.4.5 actually thats probably quite a bit older now tbh.  oh 809 people on the FB Group not bad!
-- [NeoAxis Engine](https://www.neoaxis.com/neoaxis/downloads) Open Source WIndows Only, has all of the major features of the major players.  Its brand new, lots of action on github.  Small discord, some forum activity.  Are they going to make money with this?  If not how will it survive?  Perhaps by making custom projects for people which is right in the top level menu of their products. 
-- [GLBasic](http://glbasic.com) Weird that their website has a mobile menu even at the largest desktop resolutions.  Not a show stopper. Only community is a forum afaik.  They need way more showcases to show off what it can do.  And more tutorials and stuff.  However I love this one imho.  Nevermind they have tons of examples and showcases.  I love this one.  I wonder if these will still be compatible with newer versions of the software and if not thats a big problem that they need to offer all previous version clearly and easily to purchasers.  It has some 3d Engine Commands in the $80 upgrade
 - [Platformer Game Engine](https://wohlsoft.ru) shitty slow website but it covers most bases.  It looks like this was based on a SMB related fan game.  I caught the git hub having been changed just 3 minutes ago.  Thats a good sign.  18/52 Discord. Its been going strong on github since 2014 with many contributors!  1000 members in the forum.  
 - Gamesalad has no free option, I dont know if the author supports, forums are active, no discord, Interestingly there is a large arcade on their site since thats built into their business model and the games look good.  
 - Blitzmax,	BASIC	Win Mac Lin,	1,		4,		2,	9,		10,		0,		I bought a license for this probably 15yrs ago and I still think very highly of it.  I can only find a tiny discord community where about 20 people hang out.  Thats not bad for something virtually unsupported.  Still its open source now and thats nice.  I have such good feelings about it that I want to love it and make games in it but I just wonder where I will hit my head against a glass ceiling and at that point its not worth it.   I think though that I would feel good making a game in this even if it took me a while since its something I've always wanted to do.  Same with AMOSPro. Syntaxbomb forums for blitz are still active
@@ -519,7 +510,6 @@ Notes
 - Darkbasic Pro, BASIC, this one is on github and it looks reasonably well organized and for that reason may be supportable in the future but it looks like there is no community activity around it.
 - pc-basic.io this one was updated on Thursday!  Its got graphics and is compatible with GWBasic.  Theres actually discussion in the community (sourceforge discussion forums) and encouragement to show what basic programs work with it even online ones.
 - batari basic last released in 2007 but lets you develop homebrew for the 2600 http://bataribasic.com
-- Babylon.js (in the table above) is really good and updated and the forum is HOPPING.  I can see some arguments but am not impressed by the standoffishness about creating a discord.  That does not impress me at all.  It shows me the community is too conservative in some ways even if I can see some validity to their arguments they are dismissing or ignoring the huge benefits.   It gets under my skin when they dismiss new ideas because they dont want things to change.  "Thats been tried before and wasnt successful" is a deeply limiting attitude.  grr.
 - [Tons of C Libraries](https://notabug.org/koz.ross/awesome-c#frameworks)
 - [Tons of C++ Libraries](https://en.cppreference.com/w/cpp/links/libs)
 - [Tons of C/C++ Libraries for Gamedev](https://github.com/raizam/gamedev_libraries)
@@ -618,85 +608,120 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 
 Visual tools for developing traditional desktop GUIs
 
-- LibertyBasic $60 Win Only
-- LiveCode - From the Runtime Revolution devs and related to Hypercard
-- Lazarus Pascal
-- PureBasic 
-- Gambas BASIC with Forms in IDE
-- CodeTyphon
-- B4x
-- CrossUI 
-- ---- 2nd tier
-- PascalABC
-- Freebasic with WinFBE
 
 To be fair lots or most of the IDEs and Languages have some level of GUI Builder associated or compatible.  I have mostly only listed the ones which have a sort of official one.  To be fair to the other side of the coin most of the third party or unofficial ones are not great in some way or sparsely supported.  Its kind of like when N64 had four player support built into the system and no one else did, it was the party game console because of it.  Other systems had a few 4+ player games but since you had to buy the extra piece it wasnt supported as well or as widely.  To be fair to those with third party GUI BUilders again, I suspect that for some 10% of the ones I haven't looked into they are really good and supported and even heavily used and Ive missed that.  Let me know if that is the case for your favorite IDE.
 
+## 1. Investigate these for GUIS from code or GUI Builders
 
-Unusual Desktop GUIs
 
-- FreePascal comes with FreeVision which is a dos looking GUI builder
-- Rebol makes little 
+ GUI Builders that I have a good feeling about
+- [NetBeans and Scene Builder for JavaSwing and or JavaFX](https://netbeans.org/features/) GUI Builder is said to be super fast and intuitive.  you can prototype GUIs live in front of your customers.
+- [Glade GTK with Python](https://python-gtk-3-tutorial.readthedocs.io/en/latest/builder.html) comes from docs updated just a few days ago so it looks legit.
+- [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) Licensed until you make $5000 then its $1000 
+- [GTK with Stetic C#](https://www.monodevelop.com/documentation/stetic-gui-designer/) All built into the cross platform Monodevelop.  Should be easy to get and install.
+- [IntelliJ with Java](https://www.jetbrains.com/idea/features/editions_comparison_matrix.html) Free Community Edition free to use for any project.  Ultimate has way more language and tool support plus profiling and UML Diagramming.   Ultimate for Individuals: $15/mo or $149firstyear or $25/mo or $249firstyear for all Jetbrains products. Less for renewal each year.  Individual as long as your company doesnt pay for it or reimburse you in any way then you can use it for commercial purposes.  Otherwise for business: $50/mo (or 64 for all) or 499/649/year.  Less for renewal each year.  Free Ultimate Education license with ID proof or for open source projects.
+- [wxSmith in Code:Blocks](http://wiki.codeblocks.org/index.php/WxSmith_tutorials)	Cpp	Code:Blocks	Desktop	RAD
+
+
+
+ GUI Builders that I dont have a good feeling about - Lots of Unofficial GUI Builder Options (or partially supported high baggage complexity) (I suspect that I will miss out on a few of these being a beautiful perfect marriage. I will miss out because most of these are a hot mess of extra baggage and unsupported complexities)
+- XCode with SwiftUI (not Cross Platform) 
+- Visual Studio with C# or VB.net Probably the best in some ways but I dont have a good feeling about it.  Xamarin apparently works OTOH Visual Studio isnt free for everything you want to do.  $45/mo or $1200 for the first year and 799 afterwards.  Baggage seems extremely high although tutorials and community would also be abundant.
+- Glade/GTK  Claims it can be used with Java C++ Python Rust Perl and cross platform but I have my doubts.
+- [Freebasic with Firefly](https://www.planetsquires.com/protect/forum/index.php?topic=3643.0)
+- [Freebasic with Glade/GTK](http://www.siebke.com/freebasic/howto_glade_freebasic.pdf)
+- [Freebasic with FLTK](https://www.freebasic.net/forum/viewtopic.php?t=24547)
+- Different than everything else
 - [GTKServer](http://www.gtk-server.org/intro.html) This lets you use GTK as a stream from any programming language
+- Eclipse with Window Builder for Java GUI Builder
+
+
+ GUIs from Code that I have a good feeling about
+- [Python with Guietta](https://guietta.readthedocs.io/en/stable/) holy crap this is the simplest way to ever make a gui ever in the history of ever.  Recent updates, doesnt look like theres much of a community though.
+- [Flutter](https://flutter.dev) Free and Open Source Hot Reload GUI looks amazing!
+- [Python with Atlas](https://github.com/epeios-q37/atlas-python) this looks like a 10 with tons of support
+- [Python with DearPyGUI](https://github.com/hoffstadt/DearPyGui#some-features) based on DearImGUI
+- [Python with PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) Best open source documentation ever.  Wraps up other guis nice and neat and pythonic.  Updated just 1h ago.
+- -----------------------
+- [GTK with Python](https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html) comes from docs updated just a few days ago so it looks legit.  Probably baggage is relatively high though
+- [Freebasic with Simple WinAPI GUI Library](https://www.freebasic.net/forum/viewtopic.php?f=8&t=24617)
+- [Python with TkInter](https://wiki.python.org/moin/TkInter) this is the only one with official support so there will be lots of tutorials and problem solving but it just seems to old to be low baggage.  
 
 
 
-GUIs from Code
+GUIs from code that I dont have a good feeling about - including unofficial combinations
 
-- [Kivy](https://kivy.org/#home) Python and Cython Super Easy GUIs Hello world is a few lines and there are a lot of examples
-- Pharo Smalltalk - This seems like a good option although Smalltalk is so foreign to me at this point
-- Ultimate++
-- Fyne with Go (tiny amounts of code to get simple apps running)
-- GTK with C# with Stetic (included with MonoDevelop)
-- wxWidgets with C++ - well documented with a pretty big community and probably not too hard to get working.  regularly updated.  See Javid9x s series on this for a starter.  IMHO Hello World is way too complicated, but at least its well documented   
-- Python with TkInter and Komodo (For graphically building the GUI - Totally Pro - Now Free)
+
+
+
+Investigate These:
+
 - ----- 2nd Tier
 - React like Adam is doing is great
 - CEGUI with CEED (Nice GUI by same people)(old)
 - Python with wxPython and wxGlade
 - IUP - super simple library C, LUA, only Win and Lin
 - FLTK and FLUID with C++ (This library seems really great because of how small and lightweight it is - but looks like accessibility is poor)
+- FLTK with other languages
 - ----- 3rd Tier
 - FOX Toolkit is lightweight and modern, doesnt run on mac but looks unique and apparently runs very fast
 - fpgui is old but super lightweight and multiplatform
 - AGAR cross platform and claims to be easy to get into (I have my doubts)
 - Avalonia - Cross platform dotnet based XML GUI system - Nice tutorial makes it pretty easy to start, otoh it looks way too wordy and complicated to me personally
 - AmberJS Smalltalk for web apps
-- Python with DearPyGUI
-- Python with Guietta
-- Python with PySimpleGUI
-- Python with PySide
-- Python with TkInter
-- (Many More libraries out there in the wild, I bet some of them are miraculous)
+
+
+## 2. Investigate these newer fancier GUI solutions
 
 
 A future of new GUIs (most accessible to current web developers)
 
+- [Azul](https://azul.rs) hardware accelerated Immediate Mode GUI system for desktop with hot reload.
+- [Muon](https://github.com/ImVexed/muon) GPU GUIs with GO (or maybe js) in tiny amount of code - this seems so damn cool. Electron alternative
+- [Revery](https://github.com/revery-ui/revery) another electron alternative hot reload not in yet but this one uses Reason which looks like a super attractive language to me
+- [Graffiti](http://tomsik.cz/graffiti/) Super simple GPU GUI with Hot Reload in tiny amounts of code. lightweight simple electron
 - UNO - Pixel perfect multi platform (including web assembly) C# development UI Library.  This looks totally awesome and polished and well supported
-- Nuklear - IM Mode Library in one file real easy to use in C or C++
+- Nuklear - IM Mode Library in one file real easy to use in C or C++     I like this very much that it is just one file with no dependencies.  Thats great.  It says it doesnt deal with inputs at all so I would have to
 - Sciter - Embeddable HTML/CSS/script engine for modern UI Development
 - DearImGUI (with a game engine or SDL or Conan) (tutorials lacking, community can be shitty, there is a discord and github forum, the apparent simplicity is appealing, the wild west nature of the environment gives me the runs)
 - Lots of options with CEF - its about making your web app into a desktop app
 - JUCE for really interesting UIs (particularly for music) - Free
 - Electron - Twitch WhatsApp VSCode all built in electron - uses lots of resources tho
 
+- 
+- 
+
+https://clips.twitch.tv/FamousKnottySashimiOSsloth
+
+## 3. Investigate these No Code development Platforms
+If I want to that is ... at least try out the free ones and see what gives
+
 
 Expensive ones aka RAD aka No Code Development platforms aka low code development platforms
 
-- -----Reasonably expensive------------
+Note: Do any of these hold your app hostage if you dont pay?  Be careful to the terms on that account
+
+
+
+- -----Reasonably Priced------------
+- [AppSheet](https://www.g2.com/products/appsheet/pricing) $5/user/month or $10/user/month for Geocoding barcode scanning and Scheduled Reports.  Read data from google sheets.  If you stop paying can you keep your app?  Can you keep selling your app? Well Apparently you have to be online to use the app so I presume its always checking to see if you are paid up.  It says you can use free until you are ready to deploy.  You can also use free for personal apps for you forever.  Hopping Forum
+- [Airtable](https://www.g2.com/products/airtable/reviews) Free or $10/20/user/month based on tables or records or sync times or how custom you want your app to be. 
 - Bubble.io (Free for bubble branded app, $25/mo for whitelabel, $115-475 for more server capacity and development versions of your app)
-- CrossUI ($1000 one time) (this looks like some of the most legit SOFTWARE on the list - more like the IDEs Ive listed above)  its totally free for non profit individual use, and looks like it can export to any desktop or web app or mobile ... but do they mean ios app store with iap?  License bound to a computer.  Demo fast loading and free [right here](https://www.crossui.com/RAD/) - they have student discounts and academic institutions.  They will delete projects in online app builder demo thing from time to time.  Update: it says desktop version is [totally free for individual non profit use](https://www.crossui.com/download.html).  Or you can use [this online one](https://www.crossui.com/RADGithub/) for free but the app requires the ability to delete any of your repos to which you have admin rights.  HELLS NO!  Maybe a new account for this would be best or just use the desktop.
-- ----- 2nd tier
+- ----- Expensive but has a free trial
+- CrossUI (free for individual to use for non profit otherwise $1000 one time) (this looks like some of the most legit SOFTWARE on the list - more like the IDEs Ive listed above)  its totally free for non profit individual use, and looks like it can export to any desktop or web app or mobile ... but do they mean ios app store with iap?  License bound to a computer.  Demo fast loading and free [right here](https://www.crossui.com/RAD/) - they have student discounts and academic institutions.  They will delete projects in online app builder demo thing from time to time.  Update: it says desktop version is [totally free for individual non profit use](https://www.crossui.com/download.html).  Or you can use [this online one](https://www.crossui.com/RADGithub/) for free but the app requires the ability to delete any of your repos to which you have admin rights.  HELLS NO!  Maybe a new account for this would be best or just use the desktop.   So as expensive as that is, if it lives up to its promises that could be a reasonable price
+- Webflow (free forever, 12, 16, 35, account based or site based options)
+- UIBakery (0,16,33,67/mo) [Comparison with Bubble and others](https://uibakery.io/bubble-alternatives)
 - Infinible (free,20,50,100/mo) only for web, you can create MIT code plugins, not desktop or mobile
+- Inboldsolutions (Free-25/mo)
+- openbuild.io (0,20,50/mo) Make little apps for bubble with custom UI themes
+- Outsystems (Free forever for limited scale, to scale up just a bit is $6000/month paid annually!)
+- Omnis (Free 90 day trial, 2000 for perpetual license, 250/595/1495/3200/month for different numbers of devs.)
+- ----- Just Expensive
 - Zeroqode ($100-300/app template - choose from 113 templates - $25-35 features to drop into Bubble.io)
 - Wapler for making websites quickly ($20-40/mo for individuals) - this one rumor has it you own the code somewhat which is different with Bubble
 - AppsBuilder.com ($15-60/mo)
-- Inboldsolutions (Free-25/mo)
 - Appery.io ($25-600/mo)
-- openbuild.io (0,20,50/mo) Make little apps for bubble with custom UI themes
-- UIBakery (0,16,33,67/mo) [Comparison with Bubble and others](https://uibakery.io/bubble-alternatives)
 - Configure.it (9,49,79,199/mo) or 799 once with source code
-- Webflow (free forever, 12, 16, 35, account based or site based options)
 - Zoho (10,25,35,40/mo)
 - ------Unreasonably expensive ------------
 - RAD Studio Embarcadero
@@ -706,10 +731,8 @@ Expensive ones aka RAD aka No Code Development platforms aka low code developmen
 - Wavemaker ($500/Month/User)
 - Genexus ($300/month/user)
 - (There are literally dozens of others like this many with a free trial)
-- Outsystems (Free forever for limited scale, to scale up just a bit is $6000/month paid annually!)
 - Tadbase.io (is $60-500/month)
 - Quickbase ($500-1600/mo)
-
 
 Comments on the expensive ones: https://forum.bubble.io/t/other-no-code-alternatives/64510
 
@@ -731,19 +754,22 @@ Programming on Mobile by typing in code and uploading it to a server
 - Koder
 - (there are actually a ton more)
 - something Ive got on my phone for coding directly on my server
-
+- Code Anywhere
+- Anything that can put code on a server or on a 
 
 
 Investigate: The smart basic SDK for xcode, I wonder if you can program in basic using that and run it on your mac easily?  its probably not interpreted so theres that but thats a pretty cool possible feature.
 
 
 
-# Simplest Starting Points #
+# Simple Starting Points #
 1. AOZ.studio (see my [Amiga Page](Amiga.md) under AMOSPro for more)
 2. OLCConsoleGameEngine [The intro video](https://youtu.be/u5BhrA8ED0o) all of the videos surrounding this video on his page use this engine and a windows console application to make games from nothing using just visual studio and this one dependency (well and iostream)  ALso he has a pixelgameengine that he uses later.
 3. SmartBasic
 4. AutoIT (GUI Builder) or AutoHotKey
 
+
+[Replit](https://repl.it) an Online IDE with google docs like capabilities free or $5/mo how to test this: [Atlas Replit Test](https://github.com/epeios-q37/atlas-python)
 
 # Game Starting Points #
 
@@ -1122,25 +1148,12 @@ I wanted a super simple C Library so I'm going to [write one myself](https://www
 * To make SDL style grpahics with C++ (bindings for C and C# and others) use [SFML](https://www.sfml-dev.org/faq.php#grl-whatis)
 
 
-C IDEs
------------------
-Highly Regarded IDEs
-Cevelop - Many powerful unique features including TDD built in.  Based on Eclipse.
-Code:Blocks (Windows and Linux no Mac)
-CodeLite (Win Lin Mac)
-------------------
-VSCode
-Dev-C++ (Windows only) (Dead unfortunately.  I have good memories of that fucker)
-NetBeans C++ (Win Lin Mac) Highly regarded - Also for Java
-Eclipse CDT
-Visual Studio
-XCode
-
-QT Creator
-
-
 # Editors and IDEs #
 Geany is a lightweight programming text editor free win and mac
+
+
+[Replit](https://repl.it) an Online IDE with google docs like capabilities free or $5/mo how to test this: [Atlas Replit Test](https://github.com/epeios-q37/atlas-python)
+
 
 See Java and C IDEs and Python note
 
@@ -1173,16 +1186,50 @@ VSCodium (VSCode low baggage)
 Brackets
 Notepad++ (Win Only)
 
+
+
+C IDEs
+-----------------
+Highly Regarded IDEs
+Cevelop - Many powerful unique features including TDD built in.  Based on Eclipse.
+Code:Blocks (Windows and Linux no Mac)
+CodeLite (Win Lin Mac)
+------------------
+VSCode
+Dev-C++ (Windows only) (Dead unfortunately.  I have good memories of that fucker)
+NetBeans C++ (Win Lin Mac) Highly regarded - Also for Java
+Eclipse CDT
+Visual Studio
+XCode
+
+
+
+
+ Java IDEs
+-----------------
+- JGrasp has advanced code visualization features
+- IntelliJ Idea
+- JDeveloper (With Advanced 2 way Swing Form Builder)
+-------------
+- NetBeans
+- XCode
+- Eclipse
+
+ Python IDEs
+-------------
+- PyCharm No GUI Builder
+- Komodo
+ Small Ones
+-------------
+- Wing multi platform Python Specific IDE - no gui builder but many other features
+- [Thonny](https://thonny.org)  for a lightweight and umm                      low baggage IDE for python  Its so beautiful.
+
+
+
 # Java #
 
-Java IDEs
-JGrasp has advanced code visualization features
-IntelliJ Idea
-JDeveloper (With Advanced 2 way Swing Form Builder)
--------------
-NetBeans
-XCode
-Eclipse
+
+
 
 # Ada #
 GNAT Free, updated 21h ago, Fully featured, GUI Builder, everything.  It would require some work to get it all setup but it would be pretty cool to do and I wonder if I could program some games with it?
@@ -1191,7 +1238,19 @@ GNAVI (see above)
 
 
 # Python #
-See [Python note](python.md)
+See [Python note](python.md) for how to use python
+
+ Game Engines 
+
+* [Pyglet](https://github.com/pyglet/pyglet) looks amazing and has a really  and some [nice documentation](https://pyglet.readthedocs.io/en/stable/programming_guide/examplegame.html) and people have [high praise](https://www.reddit.com/r/Python/comments/5dgp20/if_the_pyglet_community_is_dead_and_pygame_is_not/) for it.
+* [Pygame](https://www.pygame.org/news) is something I played with in like 2004 (iirc) and really wanted to make a tetris game with.  On the main pygame site there are tons of games listed but most of them are unfortunately over 10 years old and dont exist anymore or are unmaintained.
+* More are listed in my 
+
+ IDEs and Environments
+
+ Other cool things about Python
+- [Cython](https://cython.org) is a c wrappper system for python to let the two communicate freely and let python call low level functions.  Pretty awesome
+
 
 
 # Javascript
