@@ -102,6 +102,10 @@ For this reason a game engine could be with or without an IDE or any kind of sce
 Prediction: One or two of these engines or libraries will be very old so I will dismiss it, but in fact it will have a thriving non-obviouscommunity who is super happy with its feature complete stable situation and how well it works even on all modern computers, and I will miss out on that one.  Most of the old things are just dead though. 
 Favorite Features:
 
+AppGyver
+"How can we afford to do this? Why?
+We've been around for ten years, and we've always provided free plans for smaller organizations and indie developers while focusing on large enterprises as our paying customers. With Composer Pro, we're just continuing this tradition. We believe that in order to build a global community of visual programmers, everybody needs to have access to the same platform. That's why."
+
 
 1. Modern 3D
 2. Gamecube 3D
@@ -338,7 +342,7 @@ https://github.com/stetre/moonlibs
 http://www.rapideuphoria.com
 Incorporate my notes and my saying no tos  below into my spreadsheet somehow or at least have another gander at them.  Some will be truly dead.  Others will be working jsut fine but not having updates recently
 http://appinventor.mit.edu/explore/ai2/tutorials.html
-
+[Felgo Game Builder](https://felgo.com/pricing)
 
 
 ----------------
@@ -617,81 +621,83 @@ To be fair lots or most of the IDEs and Languages have some level of GUI Builder
  GUI Builders that I have a good feeling about
 - [NetBeans and Scene Builder for JavaSwing and or JavaFX](https://netbeans.org/features/) GUI Builder is said to be super fast and intuitive.  you can prototype GUIs live in front of your customers.
 - [Glade GTK with Python](https://python-gtk-3-tutorial.readthedocs.io/en/latest/builder.html) comes from docs updated just a few days ago so it looks legit.
-- [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) Licensed until you make $5000 then its $1000 
+- [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) Free license until you make $5000 then its $1000 
+- [C++Builder Community](https://www.embarcadero.com/products/cbuilder/starter) Free license until you make $5000 then its $1000 
 - [GTK with Stetic C#](https://www.monodevelop.com/documentation/stetic-gui-designer/) All built into the cross platform Monodevelop.  Should be easy to get and install.
 - [IntelliJ with Java](https://www.jetbrains.com/idea/features/editions_comparison_matrix.html) Free Community Edition free to use for any project.  Ultimate has way more language and tool support plus profiling and UML Diagramming.   Ultimate for Individuals: $15/mo or $149firstyear or $25/mo or $249firstyear for all Jetbrains products. Less for renewal each year.  Individual as long as your company doesnt pay for it or reimburse you in any way then you can use it for commercial purposes.  Otherwise for business: $50/mo (or 64 for all) or 499/649/year.  Less for renewal each year.  Free Ultimate Education license with ID proof or for open source projects.
 - [wxSmith in Code:Blocks](http://wiki.codeblocks.org/index.php/WxSmith_tutorials)	Cpp	Code:Blocks	Desktop	RAD
-
-
+- [BuilderX](https://builderx.io/pricing) App builder for Nativebase.io or React Native. 30 day free trial then 15/mo.  Apps made during free trial not accessible
+- Python with [wxPython](https://www.wxpython.org) and [wxGlade](https://github.com/wxGlade/wxGlade)
+- [FLTK and FLUID with C++](https://www.fltk.org/doc-1.3/fluid.html) Lightweight and old school so it kind of requires lots of code and in fact may prove impossible to compile and get it all running right (Dependency hell) and I dont like that aspect, but I love the philosophy and history and documentation here
 
  GUI Builders that I dont have a good feeling about - Lots of Unofficial GUI Builder Options (or partially supported high baggage complexity) (I suspect that I will miss out on a few of these being a beautiful perfect marriage. I will miss out because most of these are a hot mess of extra baggage and unsupported complexities)
-- XCode with SwiftUI (not Cross Platform) 
-- Visual Studio with C# or VB.net Probably the best in some ways but I dont have a good feeling about it.  Xamarin apparently works OTOH Visual Studio isnt free for everything you want to do.  $45/mo or $1200 for the first year and 799 afterwards.  Baggage seems extremely high although tutorials and community would also be abundant.
+- [ReactStudio](https://reactstudio.com) Free downloadable app builder for react ... looks awesome ... whats the catch.  2018 copyright on the website.
+- [Deco](https://www.decoide.org/may-2016-update) Free downloadable ide for react ... looks awesom ... whats the catch?  2018 copyright on the website.  2016 code in github
+- XCode with SwiftUI (not Cross Platform) - Need to try this anyway though
+- Visual Studio with C# or VB.net Probably the best in some ways but I dont have a good feeling about it.  Xamarin apparently works OTOH Visual Studio isnt free for everything you want to do.  $45/mo or $1200 for the first year and 799 afterwards.  Baggage seems extremely high although tutorials and community would also be abundant.  - Need to try this anyway though
 - Glade/GTK  Claims it can be used with Java C++ Python Rust Perl and cross platform but I have my doubts.
-- [Freebasic with Firefly](https://www.planetsquires.com/protect/forum/index.php?topic=3643.0)
 - [Freebasic with Glade/GTK](http://www.siebke.com/freebasic/howto_glade_freebasic.pdf)
-- [Freebasic with FLTK](https://www.freebasic.net/forum/viewtopic.php?t=24547)
 - Different than everything else
 - [GTKServer](http://www.gtk-server.org/intro.html) This lets you use GTK as a stream from any programming language
 - Eclipse with Window Builder for Java GUI Builder
+- [CEGUI](http://cegui.org.uk/features) with CEED (Nice GUI and gui builder by same people)(old) 35k posts on the forum. Hard to build
+- [React Native](https://reactnative.dev) especially with bitdev
 
 
- GUIs from Code that I have a good feeling about
+ GUIs from Simple Code that I have a good feeling about
 - [Python with Guietta](https://guietta.readthedocs.io/en/stable/) holy crap this is the simplest way to ever make a gui ever in the history of ever.  Recent updates, doesnt look like theres much of a community though.
-- [Flutter](https://flutter.dev) Free and Open Source Hot Reload GUI looks amazing!
-- [Python with Atlas](https://github.com/epeios-q37/atlas-python) this looks like a 10 with tons of support
 - [Python with DearPyGUI](https://github.com/hoffstadt/DearPyGui#some-features) based on DearImGUI
+- [AmberJS](https://amber-lang.net) Smalltalk for web apps "Amber includes a live development environment" debugger test runner. compiles to js  MIT License thousands of commits as recent as 3 months ago
+- [Azul](https://azul.rs) hardware accelerated Immediate Mode GUI system for desktop with hot reload.
+- [IUP](https://www.tecgraf.puc-rio.br/iup/) - super simple library C, LUA, only Win and Lin
+- [Eclipse with SWT](https://www.eclipse.org/swt/) Latest Eclipse with this cross platform built in toolkit sounds great to me!
+- [fpgui for Freepascal](https://github.com/graemeg/fpgui/) is old (Update nope its updated a few months ago) but super lightweight and multiplatform
+- [Nuklear](https://github.com/vurtun/nuklear) - IM Mode Library in one file real easy to use in C or C++     I like this very much that it is just one file with no dependencies.  Thats great.  It says it doesnt deal with inputs at all so I would have to
+- [JUCE](https://juce.com) for really interesting UIs (particularly for music) - Free
+
+
+
+ GUIs from Web Code that I have a good feeling about
+- [Muon](https://github.com/ImVexed/muon) GPU GUIs with GO (or maybe js) in tiny amount of code - this seems so damn cool. Electron alternative
+- [Flutter](https://flutter.dev) Free and Open Source Hot Reload GUI looks amazing!  Competes with React Native
 - [Python with PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) Best open source documentation ever.  Wraps up other guis nice and neat and pythonic.  Updated just 1h ago.
-- -----------------------
+- [Revery](https://github.com/revery-ui/revery) another electron alternative hot reload not in yet but this one uses Reason which looks like a super attractive language to me
+- [Nativebase.io](https://nativebase.io) React Native Starter Kit open source possible used with [bit](https://github.com/teambit/bit) to collect and store components and put them back in my projects.  Theres a [cloud solution with 36,000 open source components](https://bit.dev) called Bitdev.
+- [Graffiti](http://tomsik.cz/graffiti/) Super simple GPU GUI with Hot Reload in tiny amounts of code. lightweight simple electron
+- [Electron](https://www.electronjs.org) - If you can build a website you can build a desktop app.  Twitch WhatsApp VSCode all built in electron - uses lots of resources tho
+
+
+ GUIs from code that I have a good feeling about but theres probably quite a bit of code and some dependency stuff to contend with
+- [Python with Atlas](https://github.com/epeios-q37/atlas-python) this looks like a 10 with tons of support
+- [FLTK with C++](https://www.fltk.org/doc-1.3/intro.html) win mac lin
+- [Nana](http://nanapro.org/en-us/) Win Lin only C++ very clear hello world on front page.  Updated Recently
 - [GTK with Python](https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html) comes from docs updated just a few days ago so it looks legit.  Probably baggage is relatively high though
+- [FOX Toolkit](http://www.fox-toolkit.org) is lightweight and modern, doesnt run on mac but looks unique and apparently runs very fast.  Updated contstantly
+- [AGAR](https://libagar.org) cross platform and claims to be easy to get into (I have my doubts)
+- [Avalonia](https://avaloniaui.net/) - Cross platform dotnet based XML GUI system - Nice tutorial makes it pretty easy to start, otoh it looks way too wordy and complicated to me personally - recently updated
+- [UNO](https://platform.uno) - Pixel perfect multi platform (including web assembly) C# development UI Library.  This looks totally awesome and polished and well supported
+- [Sciter](https://sciter.com) - Embeddable HTML/CSS/script engine for modern UI Development
+- [DearImGUI](https://github.com/ocornut/imgui) (with a game engine or SDL or Conan) (tutorials lacking, community can be shitty, there is a discord and github forum, the apparent simplicity of the code is appealing, the wild west nature of the environment gives me the runs)
+
+
+ GUIs from code that I dont have a good feeling about - some are unofficial "shoehorn" combinations
 - [Freebasic with Simple WinAPI GUI Library](https://www.freebasic.net/forum/viewtopic.php?f=8&t=24617)
-- [Python with TkInter](https://wiki.python.org/moin/TkInter) this is the only one with official support so there will be lots of tutorials and problem solving but it just seems to old to be low baggage.  
+- [Freebasic with FLTK](https://www.freebasic.net/forum/viewtopic.php?t=24547)
+- [Freebasic with Firefly](https://www.planetsquires.com/protect/forum/index.php?topic=3643.0)
+- [Python with TkInter](https://wiki.python.org/moin/TkInter) this is the only one with official support so there will be lots of tutorials and problem solving but it just seems to old to be low baggage.
+- Lots of options with [CEF](https://bitbucket.org/chromiumembedded/cef/wiki/Home) - Chromium Embedded Framework its about making your web app into a desktop app or something
 
 
-
-GUIs from code that I dont have a good feeling about - including unofficial combinations
-
-
-
-
-Investigate These:
-
-- ----- 2nd Tier
-- React like Adam is doing is great
-- CEGUI with CEED (Nice GUI by same people)(old)
-- Python with wxPython and wxGlade
-- IUP - super simple library C, LUA, only Win and Lin
-- FLTK and FLUID with C++ (This library seems really great because of how small and lightweight it is - but looks like accessibility is poor)
-- FLTK with other languages
-- ----- 3rd Tier
-- FOX Toolkit is lightweight and modern, doesnt run on mac but looks unique and apparently runs very fast
-- fpgui is old but super lightweight and multiplatform
-- AGAR cross platform and claims to be easy to get into (I have my doubts)
-- Avalonia - Cross platform dotnet based XML GUI system - Nice tutorial makes it pretty easy to start, otoh it looks way too wordy and complicated to me personally
-- AmberJS Smalltalk for web apps
 
 
 ## 2. Investigate these newer fancier GUI solutions
 
 
-A future of new GUIs (most accessible to current web developers)
 
-- [Azul](https://azul.rs) hardware accelerated Immediate Mode GUI system for desktop with hot reload.
-- [Muon](https://github.com/ImVexed/muon) GPU GUIs with GO (or maybe js) in tiny amount of code - this seems so damn cool. Electron alternative
-- [Revery](https://github.com/revery-ui/revery) another electron alternative hot reload not in yet but this one uses Reason which looks like a super attractive language to me
-- [Graffiti](http://tomsik.cz/graffiti/) Super simple GPU GUI with Hot Reload in tiny amounts of code. lightweight simple electron
-- UNO - Pixel perfect multi platform (including web assembly) C# development UI Library.  This looks totally awesome and polished and well supported
-- Nuklear - IM Mode Library in one file real easy to use in C or C++     I like this very much that it is just one file with no dependencies.  Thats great.  It says it doesnt deal with inputs at all so I would have to
-- Sciter - Embeddable HTML/CSS/script engine for modern UI Development
-- DearImGUI (with a game engine or SDL or Conan) (tutorials lacking, community can be shitty, there is a discord and github forum, the apparent simplicity is appealing, the wild west nature of the environment gives me the runs)
-- Lots of options with CEF - its about making your web app into a desktop app
-- JUCE for really interesting UIs (particularly for music) - Free
-- Electron - Twitch WhatsApp VSCode all built in electron - uses lots of resources tho
 
 - 
 - 
 
-https://clips.twitch.tv/FamousKnottySashimiOSsloth
 
 ## 3. Investigate these No Code development Platforms
 If I want to that is ... at least try out the free ones and see what gives
@@ -703,38 +709,64 @@ Note: Do any of these hold your app hostage if you dont pay?  Be careful to the 
 
 
 
-- -----Reasonably Priced------------
-- [AppSheet](https://www.g2.com/products/appsheet/pricing) $5/user/month or $10/user/month for Geocoding barcode scanning and Scheduled Reports.  Read data from google sheets.  If you stop paying can you keep your app?  Can you keep selling your app? Well Apparently you have to be online to use the app so I presume its always checking to see if you are paid up.  It says you can use free until you are ready to deploy.  You can also use free for personal apps for you forever.  Hopping Forum
-- [Airtable](https://www.g2.com/products/airtable/reviews) Free or $10/20/user/month based on tables or records or sync times or how custom you want your app to be. 
-- Bubble.io (Free for bubble branded app, $25/mo for whitelabel, $115-475 for more server capacity and development versions of your app)
-- ----- Expensive but has a free trial
-- CrossUI (free for individual to use for non profit otherwise $1000 one time) (this looks like some of the most legit SOFTWARE on the list - more like the IDEs Ive listed above)  its totally free for non profit individual use, and looks like it can export to any desktop or web app or mobile ... but do they mean ios app store with iap?  License bound to a computer.  Demo fast loading and free [right here](https://www.crossui.com/RAD/) - they have student discounts and academic institutions.  They will delete projects in online app builder demo thing from time to time.  Update: it says desktop version is [totally free for individual non profit use](https://www.crossui.com/download.html).  Or you can use [this online one](https://www.crossui.com/RADGithub/) for free but the app requires the ability to delete any of your repos to which you have admin rights.  HELLS NO!  Maybe a new account for this would be best or just use the desktop.   So as expensive as that is, if it lives up to its promises that could be a reasonable price
-- Webflow (free forever, 12, 16, 35, account based or site based options)
-- UIBakery (0,16,33,67/mo) [Comparison with Bubble and others](https://uibakery.io/bubble-alternatives)
-- Infinible (free,20,50,100/mo) only for web, you can create MIT code plugins, not desktop or mobile
-- Inboldsolutions (Free-25/mo)
-- openbuild.io (0,20,50/mo) Make little apps for bubble with custom UI themes
-- Outsystems (Free forever for limited scale, to scale up just a bit is $6000/month paid annually!)
-- Omnis (Free 90 day trial, 2000 for perpetual license, 250/595/1495/3200/month for different numbers of devs.)
-- ----- Just Expensive
-- Zeroqode ($100-300/app template - choose from 113 templates - $25-35 features to drop into Bubble.io)
-- Wapler for making websites quickly ($20-40/mo for individuals) - this one rumor has it you own the code somewhat which is different with Bubble
-- AppsBuilder.com ($15-60/mo)
-- Appery.io ($25-600/mo)
-- Configure.it (9,49,79,199/mo) or 799 once with source code
-- Zoho (10,25,35,40/mo)
-- ------Unreasonably expensive ------------
-- RAD Studio Embarcadero
-- 4D ($400-2900 free trial)
-- MaxBlox (Quote based so no idea)
-- Quixy ($50/Month for 5 users and up from there)
-- Wavemaker ($500/Month/User)
-- Genexus ($300/month/user)
-- (There are literally dozens of others like this many with a free trial)
-- Tadbase.io (is $60-500/month)
-- Quickbase ($500-1600/mo)
+- ----- Pay to let you develop------------
+- [CrossUI](https://www.crossui.com/RAD/) (free for individual to use for non profit otherwise $1000 one time) (this looks like some of the most legit SOFTWARE on the list - more like the IDEs Ive listed above)  its totally free for non profit individual use, and looks like it can export to any desktop or web app or mobile ... but do they mean ios app store with iap?  License bound to a computer.  Demo fast loading and free - they have student discounts and academic institutions.  They will delete projects in online app builder demo thing from time to time.  - Update: it says desktop version is [totally free for individual non profit use](https://www.crossui.com/download.html).  Or you can use [this online one](https://www.crossui.com/RADGithub/) for free but the app requires the ability to delete any of your repos to which you have admin rights.  HELLS NO!  Maybe a new account for this would be best or just use the desktop.   So as expensive as that is, if it lives up to its promises that could be a reasonable.
+- [Wappler](https://wappler.io/pricing/) for making websites quickly (0 $20-40/mo for individuals 30/60 for business 10/20 for students) - 7 day trial.  Downloadable app builder software.  this one rumor has it you own the code somewhat which is different with Bubble.  Apps keep working after your license to use the software expires.
 
+- ----- Other Payment plans
+- [ReactAppBuilder](https://reactappbuilder.com/#pricing) $140 one time for Self Hosting of the app builder (suspicion that they wont be too motivated to help you get it up and running properly "Oh!  Thats been fixed and is definitely working on our $49/mo plan".
+- [Salesforce](https://www.salesforce.com) is apparently a major player here (see [Outsystems](https://www.outsystems.com) comparison chart)  Kind of like Zoho they do everything for your business.  I dont understand what I'm looknig at here though.  
+- ----- Charged per month to build the app or host the app
+- [Bubble.io](https://bubble.io) (Free for bubble branded app, $25/mo for whitelabel, $115-475 for more server capacity and development versions of your app) also   [Zeroqode](https://zeroqode.com/faqs) ($100-300/app template - choose from 113 templates - $25-35 features to drop into Bubble.io)  they actually have a [gallery of apps](https://gallery.zeroqode.com) that have been made     [openbuild.io](https://www.openbuild.io/) (0,20,50/mo) UI Library for Bubble.  Make little apps for bubble with custom UI themes.  Do you have to pay just to get access to them and then you can use them in bubble forever or do you have to keep paying to keep using them?
+- [AppGyver](https://www.appgyver.com) BEST By Far. "You will never go back to coding" Free for life (Only until $10,000,000 though.  when you hit that you have to pay.)
+- [Felgo App Builder](https://felgo.com/pricing) Free Forever commercial publish to desktop and mobile with monetization if lt$50k.  If lt$100k then 948/yr/dev and can also publish to web.  I dont know if you can keep your apps if you get a $948 plan and then go back to free.
+- [DraftBit](https://draftbit.com/why) Free during beta period.  No idea how much after or if I can continue to use the app I develop.  Still it looks like a great app builder and seems worth a shot
+- [Webflow](https://webflow.com) (0,12,16,35,29,74,212/mo/site) I like this one.  free to use for as long as it takes to prepare.  12/16/35/mo to make your site go live.   Cant export your code unless you pay $16.   For an ecommerce site which takes payments and everything: 29/74/212/mo.  Also there are probably 50,000 Forum Posts so youre not alone.  This is a great site or app builder with a totally fair pricing scheme imho.
+- [UIBakery](https://uibakery.io) (0,16,33,67/mo) I like this one. Free to make 1 app and host it on their domain with unlimited pages for as long as you want and work on it all you want and connect it to your database.  Thats pretty cool.  Then to get it on your own domain you pay reasonable amounts above.  Angular Based and this is for making what they call 'web apps' "Like Webflow but for web apps" [Comparison with Bubble and others](https://uibakery.io/bubble-alternatives)
+- [Infinible](https://infinable.io/pricing/) (free,20,50,100/mo/app) only for web, Free has built with infinible branding and limited space or bandwidth.   you can create MIT code plugins, not desktop or mobile
+- [Inboldsolutions](https://www.inboldsolutions.com/pricing.html) (0/12/25/mo) Make any type of web app for free, no workflow, pivot table, or email sending.  claim that you can make an invoice for free with their app and they have a payment service.    
+- [Appery.io](https://appery.io/pricing/) (0/25/99/200/600/mo) Free trial for only 2 weeks.   more money buys more api calls and features and dev seats. 
+- [Configure.it](https://www.configure.it/pricing/) (0,9,49,79,199/mo/1project) or 799 once.    30 day free trial.  No cc required (lots of them dont require cc).  after 30 days if you dont pay they delete your app after 60 more days.  I think thats lame otoh most of these companies are doing this.  Its funny because they say "you keep your account" as if there is any substance behind that statement when all of your data is gone lol.  Oh you mean my password will still let me login to your website and stare at empty space?  gee thanks!  I'm being petty its really not a big deal, I'm just spoiled by the others who dont do that ... otoh probably they do after a certain amount of time they just dont advertise it.  When they say free forever they dont mean forever forever they just mean they have no plans to delete it in any time frame you would notice.  If you leave it there for a year they will have changed their internal policies and "notified you" through the dashboard 30 days in advance.  
+- [AppsBuilder.com](http://www.apps-builder.com/pricing) (0/$16/33/57/68/mo) 2wk free trial. 16 is web only. rest are mobile and web.  68 is a custom branded dashboard for devs to resell this app.  the others let you publish on your own domain with no branding
+- [RAD Studio](https://www.embarcadero.com/app-development-tools-store/rad-studio) first year 2599/4599/6599.  Renewal about 1/4 of that. Free Delphi and C++Builder Community are free until you make 5k
+- [Quickbase](https://www.quickbase.com/plans-and-pricing) ($600/mo and up)  Platform for Citizen Development
+
+
+- ----- Cost per dev per month
+- [Wavemaker](https://www.wavemaker.com/pricing/) ($500/Month) Imagine being a [consultant](https://www.wavemaker.com/new-app-development/) and paying them $500/mo for their platform which (theoretically) lets you make any kind of app for any kind of customer.  Customers pay you $5000 for a simple app and you churn it out in a few days and support it for 90 days.  If you can get one customer every few months then its a bargain.  Open Source Runtime so you can run the apps anywhere.
+- [4D](https://us.4d.com) ($400/2900/30 day free trial) Adam noticed shitty branding, dubious technological claims, but theyve got 10k people on their forums!?!  are thousands of people paying for this?  Maybe its the ok or even good but I smell kludge.
+- [MaxBlox](https://www.maxblox.com) (Quote based so no idea) No free trial.  Stay away.  Examples of [some commission software](https://www.cellarstone.com/maxblox.html) developed in maxblox at least there is some proof that it is real.  I saw some screenshots and it looks shitty and complicated.  Apparently this isnt an app builder but a PaaS platform as a service.  No from their home page: "Low Code App Development Platform" in huge letters.  Big question: What qualities would make you choose to not offer even a 2 week free trial?  If your service is just a few bucks to pay for a month to start thats ... ok I guess but ...
+- [Omnis](https://www.omnis.net/developers/resources/pricing.jsp) (Free 90 day trial, 2000 for perpetual license, 200/595/1495/3200/month 3000/7940/17940/38400/yr) This one is hactual programming and they claim they have a great IDE for you.  It looks like they give you lots of examples, but hey its weird to me that its so expensive for an IDE where you have to be technical and program stuff.  More money buys being able to use it on more desktop systems and more devs
+- [Zoho](https://www.zoho.com) (0,15,30/user/mo or 120,240,420/user/yr) buying more apps records and features.  Cool feature is 50 ready made apps in this one. Not clearly advertised is their free plan.  15 day free trial converts to the free plan.  Limited premium features but you can still work with your app and data forever.  When you want premium features easily upgrade.  I'm cool with this business model
+- [Zoho Creator Plus](https://www.zoho.com/creatorplus/pricing.html) 50/user/mo   Theyve got other apps for every business need
+- [Airtable](https://www.g2.com/products/airtable/reviews) Free or $12/24/user/month based on tables or records or sync times or how custom you want your app to be. 
+- [Quixy](https://quixy.com/pricing/) ($50/Month for 5 users and up from there) free 21 day trial
+- [Tadabase.io](https://tadabase.io/pricing) 74/149/299/649/mo 14 day free trial 10 apps for 74
+- [Genexus](https://www.genexus.com/en/usa-en/plans-prices-buy-usa#FAQ_startups) ($300/month/dev however its an annual contract so $3600/yr is more correct) Free 60 day single user trial.  Students $90/yr!
+- ----- Charged per END user per month
+- [Retool](https://uibakery.io/bubble-alternatives#retool) (0/$10/month/end user?)   in what universe would that be profitable???  I guess if you sold it to the end users for $20/month? hmm ... or what if you know you will only have 1 end user and you can charge them a lot?  $0 and you can only use the app inside the editor interface.  I think theyre trying to push you to upgrade to the enterprise site plan (quote based).  Interesting that you can write javascript in almost any field in the tool.  I suspect that this one is way too technically demanding compared to the rest.  I have a bad feeling about its longevity
+- [Outsystems](https://www.outsystems.com/pricing-and-editions/) (0,48000,120000/yr/100 end users) those prices are only for 100 end users.  [Free forever ](https://www.outsystems.com/free-edition/) is hosted in a shared cloud and useful  .  pay on top of those prices for more end users.  (Free forever option for 100 internal users with a smallish database.  could be quite useful for certain things).  wow INSTANT website very impressive.  They have big names and real case studies.  Its odd to me that they charge the same whether you are hosting it in your cloud, on your premesis, or on their hosted system.  They sell you external users. 
+- [AppSheet](https://www.g2.com/products/appsheet/pricing) Free forever for personal apps.  $5/user/month or $10/user/month for commercial apps and Geocoding barcode scanning and Scheduled Reports.  Read data from google sheets.  If you stop paying can you keep your app?  Can you keep selling your app? Well Apparently you have to be online to use the app so I presume its always checking to see if you are paid up.  It says you can use free until you are ready to deploy.  You can also use free for personal apps for you forever.  Hopping Forum
+- ----- Most attractive free plans
+- Outsystems
+- Appgyver
+- Felgo
+- DraftBit
+- CrossUI
+- AppSheet
+- Inboldsolutions
+- UIBakery
+- Webflow
+- Infinible
+- Wappler
+
+ [Reviews of all of these app builders](https://www.g2.com/products/airtable/reviews)
 Comments on the expensive ones: https://forum.bubble.io/t/other-no-code-alternatives/64510
+
+
+
+- --------------------- Investigate These
+
 
 # Programming on Mobile #
 
@@ -1196,7 +1228,7 @@ Code:Blocks (Windows and Linux no Mac)
 CodeLite (Win Lin Mac)
 ------------------
 VSCode
-Dev-C++ (Windows only) (Dead unfortunately.  I have good memories of that fucker)
+Dev-C++ (Windows only) (Dead unfortunately.  I have good memories of that fucker) (Update: Still alive and free from Delphi [Embarcadero Dev-C++](https://www.embarcadero.com/free-tools/dev-cpp)
 NetBeans C++ (Win Lin Mac) Highly regarded - Also for Java
 Eclipse CDT
 Visual Studio
@@ -1317,3 +1349,7 @@ Learn basic programming by example a 2d game pt 1 is a great intro to purebasic 
 9/15/2020 Ive had fun with it.  Its a great way to learn how things used to work back in the day.  I bought a bt mechanical keyboard so I could type some of these old programs in.
 ACEY DUCEY from 1010 Basic Computer Games works perfectly as downloaded.  I wonder if the others do too?
 
+# LUA #
+
+Heres a way to compile lua into a GUI executable.  You can even possibly make it self modify its own code!
+https://news.ycombinator.com/item?id=12287816
