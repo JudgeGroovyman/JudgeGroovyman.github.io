@@ -553,74 +553,10 @@ To be fair lots or most of the IDEs and Languages have some level of GUI Builder
 ## 1. Investigate these for GUIS from code or GUI Builders
 
 
- GUI Builders that I have a good feeling about
-- [NetBeans and Scene Builder for JavaSwing and or JavaFX](https://netbeans.org/features/) GUI Builder is said to be super fast and intuitive.  you can prototype GUIs live in front of your customers.
-- [Glade GTK with Python](https://python-gtk-3-tutorial.readthedocs.io/en/latest/builder.html) comes from docs updated just a few days ago so it looks legit.
-- [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) Free license until you make $5000 then its $1000 
-- [C++Builder Community](https://www.embarcadero.com/products/cbuilder/starter) Free license until you make $5000 then its $1000 
-- [GTK with Stetic C#](https://www.monodevelop.com/documentation/stetic-gui-designer/) All built into the cross platform Monodevelop.  Should be easy to get and install.
-- [IntelliJ with Java](https://www.jetbrains.com/idea/features/editions_comparison_matrix.html) Free Community Edition free to use for any project.  Ultimate has way more language and tool support plus profiling and UML Diagramming.   Ultimate for Individuals: $15/mo or $149firstyear or $25/mo or $249firstyear for all Jetbrains products. Less for renewal each year.  Individual as long as your company doesnt pay for it or reimburse you in any way then you can use it for commercial purposes.  Otherwise for business: $50/mo (or 64 for all) or 499/649/year.  Less for renewal each year.  Free Ultimate Education license with ID proof or for open source projects.
-- [wxSmith in Code:Blocks](http://wiki.codeblocks.org/index.php/WxSmith_tutorials)	Cpp	Code:Blocks	Desktop	RAD
-- [BuilderX](https://builderx.io/pricing) App builder for Nativebase.io or React Native. 30 day free trial then 15/mo.  Apps made during free trial not accessible
-- Python with [wxPython](https://www.wxpython.org) and [wxGlade](https://github.com/wxGlade/wxGlade)
-- [FLTK and FLUID with C++](https://www.fltk.org/doc-1.3/fluid.html) Lightweight and old school so it kind of requires lots of code and in fact may prove impossible to compile and get it all running right (Dependency hell) and I dont like that aspect, but I love the philosophy and history and documentation here
-
- GUI Builders that I dont have a good feeling about - Lots of Unofficial GUI Builder Options (or partially supported high baggage complexity) (I suspect that I will miss out on a few of these being a beautiful perfect marriage. I will miss out because most of these are a hot mess of extra baggage and unsupported complexities)
-- [ReactStudio](https://reactstudio.com) Free downloadable app builder for react ... looks awesome ... whats the catch.  2018 copyright on the website.
-- [Deco](https://www.decoide.org/may-2016-update) Free downloadable ide for react ... looks awesom ... whats the catch?  2018 copyright on the website.  2016 code in github
-- XCode with SwiftUI (not Cross Platform) - Need to try this anyway though
-- Visual Studio with C# or VB.net Probably the best in some ways but I dont have a good feeling about it.  Xamarin apparently works OTOH Visual Studio isnt free for everything you want to do.  $45/mo or $1200 for the first year and 799 afterwards.  Baggage seems extremely high although tutorials and community would also be abundant.  - Need to try this anyway though
-- Glade/GTK  Claims it can be used with Java C++ Python Rust Perl and cross platform but I have my doubts.
-- [Freebasic with Glade/GTK](http://www.siebke.com/freebasic/howto_glade_freebasic.pdf)
-- Different than everything else
-- [GTKServer](http://www.gtk-server.org/intro.html) This lets you use GTK as a stream from any programming language
-- Eclipse with Window Builder for Java GUI Builder
-- [CEGUI](http://cegui.org.uk/features) with CEED (Nice GUI and gui builder by same people)(old) 35k posts on the forum. Hard to build
-- [React Native](https://reactnative.dev) especially with bitdev
-
-
- GUIs from Simple Code that I have a good feeling about
-- [Python with Guietta](https://guietta.readthedocs.io/en/stable/) holy crap this is the simplest way to ever make a gui ever in the history of ever.  Recent updates, doesnt look like theres much of a community though.
-- [Python with DearPyGUI](https://github.com/hoffstadt/DearPyGui#some-features) based on DearImGUI
-- [AmberJS](https://amber-lang.net) Smalltalk for web apps "Amber includes a live development environment" debugger test runner. compiles to js  MIT License thousands of commits as recent as 3 months ago
-- [Azul](https://azul.rs) hardware accelerated Immediate Mode GUI system for desktop with hot reload.
-- [IUP](https://www.tecgraf.puc-rio.br/iup/) - super simple library C, LUA, only Win and Lin
-- [Eclipse with SWT](https://www.eclipse.org/swt/) Latest Eclipse with this cross platform built in toolkit sounds great to me!
-- [fpgui for Freepascal](https://github.com/graemeg/fpgui/) is old (Update nope its updated a few months ago) but super lightweight and multiplatform
-- [Nuklear](https://github.com/vurtun/nuklear) - IM Mode Library in one file real easy to use in C or C++     I like this very much that it is just one file with no dependencies.  Thats great.  It says it doesnt deal with inputs at all so I would have to
-- [JUCE](https://juce.com) for really interesting UIs (particularly for music) - Free
 
 
 
- GUIs from Web Code that I have a good feeling about
-- [Muon](https://github.com/ImVexed/muon) GPU GUIs with GO (or maybe js) in tiny amount of code - this seems so damn cool. Electron alternative
-- [Flutter](https://flutter.dev) Free and Open Source Hot Reload GUI looks amazing!  Competes with React Native
-- [Python with PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) Best open source documentation ever.  Wraps up other guis nice and neat and pythonic.  Updated just 1h ago.
-- [Revery](https://github.com/revery-ui/revery) another electron alternative hot reload not in yet but this one uses Reason which looks like a super attractive language to me
-- [Nativebase.io](https://nativebase.io) React Native Starter Kit open source possible used with [bit](https://github.com/teambit/bit) to collect and store components and put them back in my projects.  Theres a [cloud solution with 36,000 open source components](https://bit.dev) called Bitdev.
-- [Graffiti](http://tomsik.cz/graffiti/) Super simple GPU GUI with Hot Reload in tiny amounts of code. lightweight simple electron
-- [Electron](https://www.electronjs.org) - If you can build a website you can build a desktop app.  Twitch WhatsApp VSCode all built in electron - uses lots of resources tho
 
-
- GUIs from code that I have a good feeling about but theres probably quite a bit of code and some dependency stuff to contend with
-- [Python with Atlas](https://github.com/epeios-q37/atlas-python) this looks like a 10 with tons of support
-- [FLTK with C++](https://www.fltk.org/doc-1.3/intro.html) win mac lin
-- [Nana](http://nanapro.org/en-us/) Win Lin only C++ very clear hello world on front page.  Updated Recently
-- [GTK with Python](https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html) comes from docs updated just a few days ago so it looks legit.  Probably baggage is relatively high though
-- [FOX Toolkit](http://www.fox-toolkit.org) is lightweight and modern, doesnt run on mac but looks unique and apparently runs very fast.  Updated contstantly
-- [AGAR](https://libagar.org) cross platform and claims to be easy to get into (I have my doubts)
-- [Avalonia](https://avaloniaui.net/) - Cross platform dotnet based XML GUI system - Nice tutorial makes it pretty easy to start, otoh it looks way too wordy and complicated to me personally - recently updated
-- [UNO](https://platform.uno) - Pixel perfect multi platform (including web assembly) C# development UI Library.  This looks totally awesome and polished and well supported
-- [Sciter](https://sciter.com) - Embeddable HTML/CSS/script engine for modern UI Development
-- [DearImGUI](https://github.com/ocornut/imgui) (with a game engine or SDL or Conan) (tutorials lacking, community can be shitty, there is a discord and github forum, the apparent simplicity of the code is appealing, the wild west nature of the environment gives me the runs)
-
-
- GUIs from code that I dont have a good feeling about - some are unofficial "shoehorn" combinations
-- [Freebasic with Simple WinAPI GUI Library](https://www.freebasic.net/forum/viewtopic.php?f=8&t=24617)
-- [Freebasic with FLTK](https://www.freebasic.net/forum/viewtopic.php?t=24547)
-- [Freebasic with Firefly](https://www.planetsquires.com/protect/forum/index.php?topic=3643.0)
-- [Python with TkInter](https://wiki.python.org/moin/TkInter) this is the only one with official support so there will be lots of tutorials and problem solving but it just seems to old to be low baggage.
-- Lots of options with [CEF](https://bitbucket.org/chromiumembedded/cef/wiki/Home) - Chromium Embedded Framework its about making your web app into a desktop app or something
 
 
 
@@ -628,9 +564,6 @@ To be fair lots or most of the IDEs and Languages have some level of GUI Builder
 ## 2. Investigate these newer fancier GUI solutions
 
 
-
-
-- 
 - 
 
 
