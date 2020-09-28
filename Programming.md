@@ -313,7 +313,10 @@ Some of these have lightning fast websites which makes a big impression on me.  
 
 
 
-
+Incorporate my notes and my saying no tos  below into my spreadsheet somehow or at least have another gander at them.  Some will be truly dead.  Others will be working just fine but not having updates recently
+Also incorporate the game based engines below, 
+and then on teh creative tab put all of those into the correct format
+And then on the tlos and libraries tab put those into the correct format too ... maybe
 
 
 
@@ -325,48 +328,10 @@ Some of these have lightning fast websites which makes a big impression on me.  
 Investigate:
 ----------------
 Move all of these over to my spreadsheets
-Give another Analysis to Blitzmax, darkbasic, Monkey and Basic 4 gl (notes are below)
-https://heaps.io
-https://linusakesson.net/dialog/
-http://www.vintage-basic.net
-https://wickedengine.net/downloads/
-AMOSPro
-BlitzBasic (see amiga note or below)
-AMIDark AGA version
-http://www.esenthel.com
-https://impactjs.com
-https://developer.valvesoftware.com/wiki/SDK_Installation  Great level editor!  Minimal Support.  Free for noncommercial on PC.  Expensive for commercial or other platforms (probably prohibitively)
-Superpowers (notes below)
-https://ncine.github.io
-https://github.com/stetre/moonlibs
-http://www.rapideuphoria.com
-Incorporate my notes and my saying no tos  below into my spreadsheet somehow or at least have another gander at them.  Some will be truly dead.  Others will be working jsut fine but not having updates recently
-http://appinventor.mit.edu/explore/ai2/tutorials.html
-[Felgo Game Builder](https://felgo.com/pricing)
 
 
-----------------
-Later Possibly Add to the Classic Programming List
--------------------
-Pyglet since no dependencies it has a limited API and thats all you can do
-Simple2D C Library
-GLFW 
-LWJGL
-LibSigil (Feature Complete so limited unchanging API)
-Others that dont need or really even want an IDE since they have few to no dependencies
-Pico8
-PixelVision8
-Probably Most BASIC Variants
-SGDK
-ZGameEditor
-What goes here? Whatever makes me feel like I'm programming in the past
-Raylib?
-Allegro?
-SDL?
-Pygame (use from command line and people use it who learned on C64 basic) (This one in particular since actually this one takes me right back to 2003 directly!)
-RunBasic - BASIC for the web.  Notes below perhaps
-Amberlang 
 
+Give another analysis to everythign in the notes list below and most things in the no list below
 
 
 
@@ -384,6 +349,7 @@ Discords
 - [Orx](https://discord.com/invite/aC84aJJ) 15/66
 - [Blacksmith2D](https://discord.gg/HWzzCcy) 7/67
 - [BYond](https://discord.com/invite/baHMSgZ) 45/70  (Note this is the smaller one)
+- [nCine](https://discord.com/invite/495ab6Y) 27/77
 - [Amazon Lumberyard by The Dev Shop](https://discord.com/invite/xduxqJ7) 29/105
 - [LWJGL](https://discord.com/invite/6CywMCs) 29/112
 - [S2 Engine](https://discord.com/invite/nuqt5Yg) 16/114
@@ -477,7 +443,8 @@ http://www.stencyl.com/developers/market/
 https://www.allegro.cc/resource/CodeGallery (Tiny)
 https://marketplace.yoyogames.com GameMaker
 https://blendermarket.com
-
+https://www.esenthel.com/?id=store
+https://clickstore.clickteam.com
 
 ----------------
 Arcades
@@ -494,36 +461,15 @@ https://www.allegro.cc/depot/index/pop
 http://www.glbasic.com/main.php?lang=en&site=games
 http://games.freebasic.net/dumpbyid.php?input=2
 https://wiki.freepascal.org/Projects_using_Free_Pascal
-
+https://clickstore.clickteam.com
 
 
 Notes
 
-- Game Maker - Rumor has it that there are some trolls in the community but perhaps they were left behind at the skype chat group they had?  Apparently the subreddits discord is surprisingly 'un-reddit'
-- The Game Creators [The Game Creators Forum - AppGameKit GameGuru FPS Creator](https://forum.thegamecreators.com) + Steam + Facebook - Strange that people on their forum were resistant to them even having a discord.  They thought it would hurt the community to split the spread of information.  that seems old fashioned or conservative, and certainly they dont understand the role that discord (or any live chat) serves in the communication space.  The forum for FPS creator is most hopping strangely, maybe because [FPS Creator is open source](https://github.com/TheGameCreators/FPS-Creator-Classic)?  The forum for FPS creator is pretty active.  Well all of the assetpacks are there too which is awesome!   Wow all the art packs are here too!  Vague not legally worded license but it clearly says you can sell. 
-- I got a weird vibe about clickteam theres a [whole article about how bizarre they are](https://iwantabro.com/kimmoa/The_bizarre_world_of_Clickteam) and one dude claims they banned him from discord for wanting to get his images out of the game binary.  I'll choose to take that story with a grain of salt but it makes me scratch my head.  They've got a huge discord though thats impressive.  5 times bigger than appgamekit.  I love Francois Lionet though but I got a weird vibe from him too about licensing for AMOSPro, now thats been resolved at this point but it was tense there for about a year on the facebook group.  
-- Cryengine there is a forum and answers group which are decidedly not dead but neither hopping.  Theres a large discord though.
-- FNA.  XNA is how people would make games for Xbox 360 Live Arcade back in the day.  Well now for people who have that code they can use the instructions on the wiki and get it working again with modern open source technology.  Their code isnt dead.  In addition it looks like a real straightforward C# game engine in code according to one of the tutorials and I like that very much.  Looks like no matter what though using this would tie you to the XNA legacy and that doesn't seem ideal for example shipping requires some pack ins  not a big deal but ...  the tutorial is great and they have more modern tech than their sister MonoGame which is XNA-Like.  FNA uses just one assembly and as a result its more likely to run identically on every platform.  Tons of games: Bastion. Axiom Verge. Celeste. Escape Goat. Dust. Fez. Owlboy. Rogue Legacy. Terraria. Transistor. even Streets of Rage 4!  I dont see any tutorials about like importing 3d assets. and theres no IDE associated.  Monogame tutorials should be similar and there should be a way to port things to FNA from Monogame if that would be valuable.  Apparently there used to be something called XNA Game Studio.   It was a fork of Monogame at one point.  
-- Buildbox Huge discord community which is a great triumph I didnt expect.  
-	- Probably great software but to do in app purchases its a relatively expensive option at $50/mo with a 1yr committment for a small dev.  Will the game even make that much?  Will you get it out the door at all if you dont use Buildbox?  Interesting conundrum.   
-	- Theres a [Nice Tutorial](https://www.buildbox.com/make-your-own-game/) that walks you through a whole game with videos and a document. 
-- [Platformer Game Engine](https://wohlsoft.ru) shitty slow website but it covers most bases.  It looks like this was based on a SMB related fan game.  I caught the git hub having been changed just 3 minutes ago.  Thats a good sign.  18/52 Discord. Its been going strong on github since 2014 with many contributors!  1000 members in the forum.  
-- Gamesalad has no free option, I dont know if the author supports, forums are active, no discord, Interestingly there is a large arcade on their site since thats built into their business model and the games look good.  
-- Blitzmax,	BASIC	Win Mac Lin,	1,		4,		2,	9,		10,		0,		I bought a license for this probably 15yrs ago and I still think very highly of it.  I can only find a tiny discord community where about 20 people hang out.  Thats not bad for something virtually unsupported.  Still its open source now and thats nice.  I have such good feelings about it that I want to love it and make games in it but I just wonder where I will hit my head against a glass ceiling and at that point its not worth it.   I think though that I would feel good making a game in this even if it took me a while since its something I've always wanted to do.  Same with AMOSPro. Syntaxbomb forums for blitz are still active
-- Monkey, BASIC, This is cross platform and compiles down to HTML5 so it seems like it would be great but it has no traction.  I dont really know why they ditched blitz and call it monkey but it doesnt seem like it worked imho.  Theres 0.1 community activity and no updates for 2 years.  The Blitz Basic Guy Mark Sibley is a genius though and I bet this is a really good system.  AOZStudio is trying almost the same thing right now but I hope it gets more traction.  Cerberus has a bit more traction.  Monkey still has a decent community though.
-- Darkbasic Pro, BASIC, this one is on github and it looks reasonably well organized and for that reason may be supportable in the future but it looks like there is no community activity around it.
-- pc-basic.io this one was updated on Thursday!  Its got graphics and is compatible with GWBasic.  Theres actually discussion in the community (sourceforge discussion forums) and encouragement to show what basic programs work with it even online ones.
-- batari basic last released in 2007 but lets you develop homebrew for the 2600 http://bataribasic.com
-- [Tons of C Libraries](https://notabug.org/koz.ross/awesome-c#frameworks)
-- [Tons of C++ Libraries](https://en.cppreference.com/w/cpp/links/libs)
-- [Tons of C/C++ Libraries for Gamedev](https://github.com/raizam/gamedev_libraries)
-
+ 
 Interesting Ones:
 ----------------
 
-- RenPy is a super simple python visual novel engine
-- Vassal Engine for making online board games even play by email! very recently udpated, 
-- RunBASIC is Liberty Basic but for a server and does the serving for you so you can easily make web applications hosted on server or pc.  $60 with a free demo
 
 
 
@@ -537,7 +483,7 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 - GameEditor,	C,		Win Mac,		6,		3,		1,	5,		8,		0,		This C is intriguing. Constraints are nice. 2013 last update
 - RapidQ,		BASIC,	Win Lin,		2,		2,		2,	7,		9,		0,		
 - Multimedia Fusion - Replaced by Clickteam Fusion
-- ScriptBasic Cool because you could run it lightning fast on a certain web server without CGI overhead.  That is a really clever idea.  
+- ScriptBasic Cool because you could run it lightning fast on a certain web server without CGI overhead.  That is a really clever idea.  2010 update :( You know whats cute? Their tutorials are all in real audio format!  Its fast and has tons of features
 - HBasic GPL and linux with forms for GUIs and using KDE Libraries.  Looks good
 - Turbulenz, Looks polished and promising but theres no activity for 5 yrs
 - Blender Game Engine
@@ -557,7 +503,6 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 - Mokoi - Dead in 2015.  Was probably great
 - Reality Factory - Dead in 2015
 - [Flixel](http://flixel.org/help.html) - This is powerful with lots of games made for it (Canabalt and the best of flash games from 2009 or so), however since its flash its just too old, there are apparently some other projects built on top of it that might be good.  Its got some unique features like moving thousands of objects and also debugging, and recording and replaying information (which is totally bad ass).  Tilemaps, Particles, Physics collisions.  Good thing I saw some little comment on slant that there are also ports, C# is dead, C is dead, Monkey X is dead, HaxeFlixel is ALIVE and Kicking!!
-- Wave Engine (deets in spreadsheet)
 - Polycode (details in spreadsheet)
 - Loom SDK (Purchased and dead in 2017)
 - GDevApp (Site Gone)
@@ -570,15 +515,15 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 - [Fife](http://www.fifengine.net)	C++ Python			Late 90s PC games	Some work in Github	Forum dead  No community unfortunately
 - Flare is a diablo engine dead since 2018
 - [Fluxus](http://www.pawfal.org/fluxus/documentation/) is an interesting livecoding video and audio language from 2010 where you run streams into it and they come out with AR on them.  Its too old and dead to use and too complicated to build, but I like where they are going and the pdf docs from 2010 have description of how really cool it was to use.
-- Oxygine	C++	Win Mac	Win Mac Linux iOS Android	Modern Shiny 2D like 2007 iphone 	Mostly dead since 2019	Forum dead since 2019	Suspect super buggy.  No support.	Makes Modern Shiny 2D 2020 iOS Style games, UI and Dialog builder, embedded profiling	Free	1
 - HaxePunk	Haxe	Win Mac Lin	Win Lin Mac HTML5 iOS Android	Amiga Level games with a bit of 90s effects	Not too active on github, a few updates every 6 months or so.	Forum not hopping, Gitter over 1yr old chat, Discord points to the haxe one	Install Instructions seem out of date, 6 demos, 1 tutorial	Tilemaps particles mask collision, Tweens debug console	Free	1	Too Dead					
-- Wave Engine	C#	Win Mac Lin	VR iOS Xbox Android WMR Oculus SteamVR Leap Wasm More 	Like 2005 3D Games	7 not abandoned, site sparse	Zero Community	4 probably ok, but you're totally on your own	Full Featured 3D Models Animation Particles	All Free	1						
 - Polycode	Lua C++	Win Mac Lin	Win Mac Lin	Dreamcast Looking Games	Bummer.  Nothing since 2015	None on the site	IDE uses Lua	Scenes, Lua for game logic, Materials, Shaders, Meshes, Skeletal Animation, Gamepads, Networking, In Game GUIs, 2D and 3D Collision & Physics	Free	1						
 - Alice	http://www.alice.org/get-alice/#why	2	Make 3D Worlds c. 1999, Teach analytical programming thinking. Not for Production	Site unclear, Software Fresh, Forum Alive but slow, Lots of youtube 
 - [Heritage](https://notabug.org/SylvieLorxu/HERITAGE) Text Adventure language, 2015 old, but I actually love the syntax.  Too bad.
 - Inform - totally mature, heavily used, Problem: this is something people dont really talk about: There isn't anywhere to learn about this.  Nothing really works like you would expect it to work as a programmer so I bet it would be easier to use inform6 or tads, or for a non programmer to learn inform, I love the toolset and the ideas behind it, but if I want to make a relatively simple game I cant do it because there is so much that doesnt make sense and there are no examples.  The ones that are out there are either too complex or dont wokr anymore (thats common).  I'm probalby complaining too much but it has so much potential and has really pissed me off and made me feel stupid and frustrated.  Its really easy to read fortunately and makes for some beautiful code. a lso the maintainers care a lot about it.  I wonder what would happen if I tried again.
 - Irrlicht - An old 2012 3d graphics engine that looks great and has lots of features and is mature but doesnt seem maintained.  I heard a lot about this in the past and thought about using it back in the 2000s.
 - Horde3D - A dead graphics engine died 7 yrs ago
+- Oxygine	C++	Win Mac	Win Mac Linux iOS Android	Modern Shiny 2D like 2007 iphone 	Mostly dead since 2019	Forum dead since 2019	Suspect super buggy.  No support.	Makes Modern Shiny 2D 2020 iOS Style games, UI and Dialog builder, embedded profiling	Free	1
+- Wave Engine	C#	Win Mac Lin	VR iOS Xbox Android WMR Oculus SteamVR Leap Wasm More 	Like 2005 3D Games	7 not abandoned, site sparse	Zero Community	4 probably ok, but you're totally on your own	Full Featured 3D Models Animation Particles	All Free	1						
 - [Jabaco](https://www.jabaco.org/board/) not 100% dead since theres a post on the forum from this year, but its a really cool idea: Visual Basic with GUIs in the JVM. Its very old so it probably wont work anymore though.  It looks really nice and the GUIS look really good
 - [PowerBasic](https://www.powerbasic.com/Which-compiler) Windows only Several hundred for a basic compiler with drag and drop GUI BUilder, macros, debugger, Debugging, make your own DLLs, The forums are quite active.  
 - [SDLBasic](http://www.sdlbasic.altervista.org/main/) Big mess of a website but could be a cool implementation.  Forums are active. 
@@ -586,7 +531,6 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 - [wxBasic](https://www.wxbasic.net/home) perfect for making quick GUIs with basic and wxwidgets.		BASIC,	Win Mac Lin,	website is too basic theres no github, no forums, no community, but the software looks SO COOL. site is c2020  It could be worth trying to download and get running but theres no support.  Update; no its dead on mac and wont run.  Says needs an update.
 - [SGe](https://python-sge.github.io/download.html) No because there is no community unfortunately.  The website has no mention of community at all.  Its got GUI LIghting Particles Physics tiles and was updated just a few days ago!
 - [OpenSludge](https://opensludge.github.io) Adventure Game language and kit but not updated in 2yrs even with a long history.  Also unfortunately their old forums shut down which is a great sad loss of information :( )  Looks like space quest with tons of graphics and art.  Pretty awesome!  Pity because it looks like it had some real momentum.  Now theres no community
-- [Superpowers](http://superpowers-html5.com/index.en.html)		Win Mac Lin	HTML5	Amiga 1985 games not 1987	Monthly activity on github	Monthly activity on forums its only been around for a year or more tutorials on the forum
 - [Chipmunk](https://chipmunk-physics.net/aboutChipmunk.php) this one is sad.  The forum and updates are dead since 2019 but this has a lot of background and was probably some of the fastest tech in the world.  Its on github so its not dead forever but atm no community at all.  it says hundreds of shippign games and has benchmarks to show its speed.  It has some autogeometry to generate physics geometry from images for collisions which is pretty bad ass.  Also [Chipmunk in C#](https://github.com/netonjm/ChipmunkSharp) which also died in 2019
 - [Cinder](https://libcinder.org/gallery) for creative coding (like art installations or something)  Up to date recently.  Not what I need afaik.
 - [bgfx](https://github.com/bkaradzic/bgfx) bring your own engine rendering library.  Probably really cool but not what I need at all.
@@ -707,7 +651,18 @@ Expensive ones aka RAD aka No Code Development platforms aka low code developmen
 
 Note: Do any of these hold your app hostage if you dont pay?  Be careful to the terms on that account
 
-
+- ----- Most attractive free plans (see below)
+- Outsystems
+- Appgyver
+- Felgo
+- DraftBit
+- CrossUI
+- AppSheet
+- Inboldsolutions
+- UIBakery
+- Webflow
+- Infinible
+- Wappler
 
 - ----- Pay to let you develop------------
 - [CrossUI](https://www.crossui.com/RAD/) (free for individual to use for non profit otherwise $1000 one time) (this looks like some of the most legit SOFTWARE on the list - more like the IDEs Ive listed above)  its totally free for non profit individual use, and looks like it can export to any desktop or web app or mobile ... but do they mean ios app store with iap?  License bound to a computer.  Demo fast loading and free - they have student discounts and academic institutions.  They will delete projects in online app builder demo thing from time to time.  - Update: it says desktop version is [totally free for individual non profit use](https://www.crossui.com/download.html).  Or you can use [this online one](https://www.crossui.com/RADGithub/) for free but the app requires the ability to delete any of your repos to which you have admin rights.  HELLS NO!  Maybe a new account for this would be best or just use the desktop.   So as expensive as that is, if it lives up to its promises that could be a reasonable.
@@ -747,18 +702,7 @@ Note: Do any of these hold your app hostage if you dont pay?  Be careful to the 
 - [Retool](https://uibakery.io/bubble-alternatives#retool) (0/$10/month/end user?)   in what universe would that be profitable???  I guess if you sold it to the end users for $20/month? hmm ... or what if you know you will only have 1 end user and you can charge them a lot?  $0 and you can only use the app inside the editor interface.  I think theyre trying to push you to upgrade to the enterprise site plan (quote based).  Interesting that you can write javascript in almost any field in the tool.  I suspect that this one is way too technically demanding compared to the rest.  I have a bad feeling about its longevity
 - [Outsystems](https://www.outsystems.com/pricing-and-editions/) (0,48000,120000/yr/100 end users) those prices are only for 100 end users.  [Free forever ](https://www.outsystems.com/free-edition/) is hosted in a shared cloud and useful  .  pay on top of those prices for more end users.  (Free forever option for 100 internal users with a smallish database.  could be quite useful for certain things).  wow INSTANT website very impressive.  They have big names and real case studies.  Its odd to me that they charge the same whether you are hosting it in your cloud, on your premesis, or on their hosted system.  They sell you external users. 
 - [AppSheet](https://www.g2.com/products/appsheet/pricing) Free forever for personal apps.  $5/user/month or $10/user/month for commercial apps and Geocoding barcode scanning and Scheduled Reports.  Read data from google sheets.  If you stop paying can you keep your app?  Can you keep selling your app? Well Apparently you have to be online to use the app so I presume its always checking to see if you are paid up.  It says you can use free until you are ready to deploy.  You can also use free for personal apps for you forever.  Hopping Forum
-- ----- Most attractive free plans
-- Outsystems
-- Appgyver
-- Felgo
-- DraftBit
-- CrossUI
-- AppSheet
-- Inboldsolutions
-- UIBakery
-- Webflow
-- Infinible
-- Wappler
+
 
  [Reviews of all of these app builders](https://www.g2.com/products/airtable/reviews)
 Comments on the expensive ones: https://forum.bubble.io/t/other-no-code-alternatives/64510
@@ -773,7 +717,7 @@ Comments on the expensive ones: https://forum.bubble.io/t/other-no-code-alternat
 - PlayCanvas - This one is barely advertised to run on mobile but it should work really well and its cloud based so no storage required.
 
 - AppGameKit literally RUNS on mobile.  Huge ding on what could be so great: it doesnt support BT Keyboards at least on IOS
-- SmartBasic is my favorite.  It is really cool and can do a lot I spent a long time with it in bed as I fell asleep making cool graphics programs.  Its even got buttons and UI and stuff and its all documented in app.  It can send programs out to email I think so you can get them out of the app and you can always copy and paste them in and there may even be a better way to get them in.  Then you can even make your OWN APP on your phone from this using some kind of shortcut trick. its pretty awesome.  PLUS you can get a smart basic sdk for xcode and publish your iphone apps in the app store!  Thats pretty damn awesome if you ask me.   GPS, Multitouch, Networking, Music and Video, etc.  This is the one app that reminds me the most of AMOS for Amiga.  It says theres dropbox support and a forum to get answers.  thats awesome.  
+- SmartBasic is my favorite.  It is really cool and can do a lot I spent a long time with it in bed as I fell asleep making cool graphics programs.  Its even got buttons and UI and stuff and its all documented in app.  It can send programs out to email I think so you can get them out of the app and you can always copy and paste them in and there may even be a better way to get them in.  Then you can even make your OWN APP on your phone from this using some kind of shortcut trick. its pretty awesome.  PLUS you can get a smart basic sdk for xcode and publish your iphone apps in the app store!  Thats pretty damn awesome if you ask me.   GPS, Multitouch, Networking, Music and Video, etc.  This is the one app that reminds me the most of AMOS for Amiga.  It says theres dropbox support and a forum to get answers.  thats awesome.  Update: It even works with bluetooth Keyboard!!!  One of the cool things about this and the other AIOs is how consistent everything is that works within the system.  you have to learn new commands and adapt in small ways you dont have to learn entirely new patterns or paradigms and you certainly dont have to add a bunch of boilerplate code.
 - Codea 
 - Construct 3
 - Basic by miSoft - its a cool throwback, people say its best to dropbox your file and copy and paste it in
@@ -1176,8 +1120,14 @@ I wanted a super simple C Library so I'm going to [write one myself](https://www
 # C #
 * [Freestanding C programs](https://nullprogram.com/blog/2016/01/31/) on windows.  this guy wrote some C programs for windows on linux with no external libraries or dependencies except operating System DLLs.  He also wrote some opengl style programs in tiny sizes for DOS (and he wrote those in linux too)
 
+- [Tons of C/C++ Libraries for Gamedev](https://github.com/raizam/gamedev_libraries)
+- [Tons of C Libraries](https://notabug.org/koz.ross/awesome-c#frameworks)
+
 # C++ #
 * To make SDL style grpahics with C++ (bindings for C and C# and others) use [SFML](https://www.sfml-dev.org/faq.php#grl-whatis)
+
+- [Tons of C++ Libraries](https://en.cppreference.com/w/cpp/links/libs)
+- [Tons of C/C++ Libraries for Gamedev](https://github.com/raizam/gamedev_libraries)
 
 
 # Editors and IDEs #

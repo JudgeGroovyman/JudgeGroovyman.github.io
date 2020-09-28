@@ -16,6 +16,7 @@ Voted on the 5 above on 11/12/19 at ifcomp.org
 # Writing Interactive Fiction #
 
 
+Use Inform, TADS or [Dialog](https://linusakesson.net/dialog/)
 
 
 Note to self: Read This Over and Over.  Edit it.  Work with it.
