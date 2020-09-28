@@ -466,11 +466,6 @@ https://clickstore.clickteam.com
 
 Notes
 
- 
-Interesting Ones:
-----------------
-
-
 
 
 Saying No to:
@@ -480,6 +475,9 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 				                 Activity    Activity  Size	Ease	    -ability,			
 
 - ---------------------------------------------------------------------------------------------
+- [Chipmunk](https://chipmunk-physics.net/aboutChipmunk.php) Update: Its just for physics so its not so sad after all.  this one is sad.  The forum and updates are dead since 2019 but this has a lot of background and was probably some of the fastest tech in the world.  Its on github so its not dead forever but atm no community at all.  it says hundreds of shippign games and has benchmarks to show its speed.  It has some autogeometry to generate physics geometry from images for collisions which is pretty bad ass.  Also [Chipmunk in C#](https://github.com/netonjm/ChipmunkSharp) which also died in 2019
+- [Vue.js](Vue.js) - Cool thouhg that the community is so huge (88k on discord alone!)  Just watching the intro video gave me the willies because it seemed like so much unnecessary baggage.  I could be wrong and biased though. 
+- Wave Engine	C#	Win Mac Lin	VR iOS Xbox Android WMR Oculus SteamVR Leap Wasm More 	Like 2005 3D Graphics	7 not abandoned, site sparse	Zero Community	4 probably ok, but you're totally on your own	Full Featured 3D Models Animation Particles	All Free	1						
 - GameEditor,	C,		Win Mac,		6,		3,		1,	5,		8,		0,		This C is intriguing. Constraints are nice. 2013 last update
 - RapidQ,		BASIC,	Win Lin,		2,		2,		2,	7,		9,		0,		
 - Multimedia Fusion - Replaced by Clickteam Fusion
@@ -522,30 +520,23 @@ Name, 	    Lanugage, Platforms,   Developer,  	  Community	Install	Access,	Cost,
 - Inform - totally mature, heavily used, Problem: this is something people dont really talk about: There isn't anywhere to learn about this.  Nothing really works like you would expect it to work as a programmer so I bet it would be easier to use inform6 or tads, or for a non programmer to learn inform, I love the toolset and the ideas behind it, but if I want to make a relatively simple game I cant do it because there is so much that doesnt make sense and there are no examples.  The ones that are out there are either too complex or dont wokr anymore (thats common).  I'm probalby complaining too much but it has so much potential and has really pissed me off and made me feel stupid and frustrated.  Its really easy to read fortunately and makes for some beautiful code. a lso the maintainers care a lot about it.  I wonder what would happen if I tried again.
 - Irrlicht - An old 2012 3d graphics engine that looks great and has lots of features and is mature but doesnt seem maintained.  I heard a lot about this in the past and thought about using it back in the 2000s.
 - Horde3D - A dead graphics engine died 7 yrs ago
-- Oxygine	C++	Win Mac	Win Mac Linux iOS Android	Modern Shiny 2D like 2007 iphone 	Mostly dead since 2019	Forum dead since 2019	Suspect super buggy.  No support.	Makes Modern Shiny 2D 2020 iOS Style games, UI and Dialog builder, embedded profiling	Free	1
-- Wave Engine	C#	Win Mac Lin	VR iOS Xbox Android WMR Oculus SteamVR Leap Wasm More 	Like 2005 3D Games	7 not abandoned, site sparse	Zero Community	4 probably ok, but you're totally on your own	Full Featured 3D Models Animation Particles	All Free	1						
-- [Jabaco](https://www.jabaco.org/board/) not 100% dead since theres a post on the forum from this year, but its a really cool idea: Visual Basic with GUIs in the JVM. Its very old so it probably wont work anymore though.  It looks really nice and the GUIS look really good
 - [PowerBasic](https://www.powerbasic.com/Which-compiler) Windows only Several hundred for a basic compiler with drag and drop GUI BUilder, macros, debugger, Debugging, make your own DLLs, The forums are quite active.  
 - [SDLBasic](http://www.sdlbasic.altervista.org/main/) Big mess of a website but could be a cool implementation.  Forums are active. 
 - [TrueBasic](http://www.truebasic.com/) Forums are alive, website is c2020, software is not free. Windows only. Site is sparse.  Pay with paypal or check, but I cant even see how much.
-- [wxBasic](https://www.wxbasic.net/home) perfect for making quick GUIs with basic and wxwidgets.		BASIC,	Win Mac Lin,	website is too basic theres no github, no forums, no community, but the software looks SO COOL. site is c2020  It could be worth trying to download and get running but theres no support.  Update; no its dead on mac and wont run.  Says needs an update.
 - [SGe](https://python-sge.github.io/download.html) No because there is no community unfortunately.  The website has no mention of community at all.  Its got GUI LIghting Particles Physics tiles and was updated just a few days ago!
 - [OpenSludge](https://opensludge.github.io) Adventure Game language and kit but not updated in 2yrs even with a long history.  Also unfortunately their old forums shut down which is a great sad loss of information :( )  Looks like space quest with tons of graphics and art.  Pretty awesome!  Pity because it looks like it had some real momentum.  Now theres no community
-- [Chipmunk](https://chipmunk-physics.net/aboutChipmunk.php) this one is sad.  The forum and updates are dead since 2019 but this has a lot of background and was probably some of the fastest tech in the world.  Its on github so its not dead forever but atm no community at all.  it says hundreds of shippign games and has benchmarks to show its speed.  It has some autogeometry to generate physics geometry from images for collisions which is pretty bad ass.  Also [Chipmunk in C#](https://github.com/netonjm/ChipmunkSharp) which also died in 2019
 - [Cinder](https://libcinder.org/gallery) for creative coding (like art installations or something)  Up to date recently.  Not what I need afaik.
 - [bgfx](https://github.com/bkaradzic/bgfx) bring your own engine rendering library.  Probably really cool but not what I need at all.
 - [libepoxy](https://github.com/anholt/libepoxy) this is for obscuring some of the complexities of opengl and letting you call the functions directly
 - PixiJS	JS	Win Mac Lin	Mobile Win Mac Lin HTML5	2020 Indie iOS Looking games and apps	Github Fresh, 	6 Forum nonspecific to this product is hopping	11 demos come with it	WebGL, Fastest Canvas anywhere, Scenegraph, simple API, Mouse and touch controls, 	Free	5	Rendering Library not a game engine.  You build apps on top of this.					
 - [Voxel.js](http://www.voxeljs.com) looks way too old				Not too easy or hard to start. It will make worlds for you.  Modular with tons of modules.  Theres a Voxel Builder for building 3d Models.  Not a great website.  Lots of modules.  Github looks ancient
-- [UGUI](https://ugui.io) - Quickly add a GUI to a command line program - Dead since 2018 - Says its got the "Best Documented Source Code In Existance" and this is an amazing idea honestly for making a GUI for a command line program.  I kind of want to do this myself!  Put all my business logic in a command line program, test the hell out of it, make a GUI to interface with it transparently.
 - [Shopify CLI_UI](https://github.com/Shopify/cli-ui)	I havent tried this but it looks like you have to get involved in Shopify first and I would only want something that made menus like this for my own lightweight command line apps.  6	Possibly simple way to add interactivity to the CLI and I find myself wanting to make lots of programs with this or something this simple and smooth.  Give it a few minutes to see if it is as easy as it seems	5 Ok documentation, and support, no community.  Ruby but there might be other unofficial bindings like Python.  Made by Shopify.  													)
-- Vue.js - I bet this is great but I just got spoiled to Quasar which is much preferable imho.  This isn't enough.  Cool thouhg that the community is so huge (88k on discord alone!)  Just watching the intro video gave me the willies because it seemed so unnecessary. 
 - [Antiryad Gx](http://pyro.akm.free.fr) Sourceforge has some updates but theres no community at all, and a confusing website.  
 - [Clanlib](https://github.com/sphair/ClanLib) website dead
 - [Gamebryo](http://www.gamebryo.com/index.php) dozens or hundreds of popular boxed and indie commercial games that Ive seen before.  Terrible website with virtually no information. Commercial but you have to request a free trial. not impressive so I'm out
 - [Wintermute Adventur Game Engine](http://dead-code.org/home/) The forum is still alive but the software is from 2010
-- [Rust Console GBA](https://github.com/rust-console/gba)	GBA			GBA Level Homebrew with very few disadvantages	7 Github updated, no website, no other activity	1 No Community at all	4 Very difficult to start but laid out step by step			[Much more GBA Homebrew Clues](https://github.com/gbdev/awesome-gbadev)
 - LionEngine, 	Java,	Win,			8,		0,		0,	7,		6,		Free,	No breadth or depth to support	
+- --------
 
 
 
