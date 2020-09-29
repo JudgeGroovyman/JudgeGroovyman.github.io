@@ -153,6 +153,181 @@ She might like other ['Loot Shooters' ](https://www.tomsguide.com/us/pictures-st
 * [The Secret Chronicles of Dr.M](https://secretchronicles.org/en/) a mario clone but with completely original IP and a built in level editor and a scripting language.
 * [Megaman](https://github.com/CamHenlin/ExecutiveMan) clone for javascript in browser using tiled maps so you can make more.  
 
+
+
+Huge Momentum or Lastability as games
+- [BZFlag](https://www.bzflag.org) a near 20yr old ctf game still going strong.  Create maps in Blender.
+- [Elite](http://www.oolite.org) Oolite - Like Elite
+- [Elite](https://github.com/vegastrike/Vega-Strike-Engine-Source) Vega Strike like Elite
+- [Double Dragon or Final Fight](https://github.com/DCurrent/openbor) Double Dragon or Final Fight
+- [Cube2](https://github.com/inexorgame/vulkan-renderer) Apparently this is a new port of Cube2 Sauerbraten the Open Source fPS
+- [2D Platformer Frogatto](https://frogatto.com) Engine page seems to have disappeared
+- [Scorched Earth](http://www.scorched3d.co.uk) Scorched3D is really cool and fun
+- [Minetest](https://github.com/minetest/minetest) Make your own game or mod their game.  Dont worry about networking or voxels just some lua for the game logic
+- [Terasology](https://github.com/MovingBlocks/Terasology) A voxel engine where you can make your own game.  
+- [Quake Arena](https://www.xonotic.org) an Arena FPS I played with bots and its pretty good.  I remember the bots being either too easy or way too hard.
+- [TOME4](https://te4.org) has an engine and game maker built in that I couldnt figure out at first glance
+
+
+
+
+A bunch from [OSGameClones](https://osgameclones.com) and more - with a few exceptions these are actively maintained projects
+
+- [SuperTux](https://www.supertux.org/contact.html) Make some levels or enemies or tweak the code for Super Tux. Updated 1 hr ago
+- [2D Platformer Frogatto](https://frogatto.com) Engine page seems to have disappeared
+- [JLud 2d Tile Engine](https://github.com/rafael-esper/JLud2D) Try making a game in the JLud 2D Tile Based Platformer or RPG Engine
+- [Asteroids](https://github.com/slx7R4GDZM/Sine) Unfinished Version of Asteroids in C++
+- [AdvanceWars](https://w84death.itch.io/tanks-of-freedom) Looks so cool.  Died in 2018 but probably still works.
+- [Barony](https://github.com/TurningWheel/Barony) 3D Wolfenstein looking RPG engine for the original game
+- [Bards Tale Construction Set](https://github.com/dulsi/btbuilder) Make a level or two or a little side quest in BT Builder - Bards Tale Construction Set
+- [BZFlag](https://www.bzflag.org) a near 20yr old ctf game still going strong.  Create maps in Blender.
+- [Breakout](https://github.com/city41/breakouts) A bunch of implementations of exactly the same game in many different Javascript Game Engines
+- [Cannon Fodder](https://github.com/OpenFodder/openfodder) Open Fodder Cannon Fodder with a level and campaign editor
+- [Commander Keen](https://gitlab.com/Dringgstein/Commander-Genius)
+- [Cube2](https://github.com/inexorgame/vulkan-renderer) Apparently this is a new port of Cube2 Sauerbraten the Open Source fPS
+- [Cube2](https://github.com/kripken/BananaBread#readme) Heres a port of cube to html
+- [Clonk](https://www.openclonk.org) Like worms and settlers!
+- [Defender](https://github.com/smcameron/wordwarvi) Defender clone called World War vi
+- [Delver](https://github.com/Interrupt/delverengine) Delver Engine for the game Delver
+- [Double Dragon or Final Fight](https://github.com/DCurrent/openbor) Double Dragon or Final Fight
+- [Elite](http://www.oolite.org) Oolite - Like Elite
+- [Elite](https://github.com/vegastrike/Vega-Strike-Engine-Source) Vega Strike like Elite
+- [Elite 2 Frontier](https://github.com/pioneerspacesim/pioneer) 
+- [Escape Velocity](http://endless-sky.github.io) Endless Sky
+- [Escape Velocity](https://github.com/naev/naev) NAEV
+- [Forgotten Realms Unlimited Adventures](http://uaf.sourceforge.net) Dungeon Craft is for making your own Goldbox Games
+- [Freespace 2](https://github.com/scp-fs2open/fs2open.github.com) 
+- [Jazz Jackrabbit](https://github.com/AlisterT/openjazz)
+- [Jazz Jackrabbit 2](https://github.com/deathkiller/jazz2)
+- [Kick Off 2](https://github.com/ssenegas/kickoff) Classic Amiga Soccer Game
+- [Zelda](https://github.com/ArmageddonGames/ZeldaClassic) Zelda classic has tools to let you make your own quests - made in allegro https://www.zeldaclassic.com
+- [Zelda LTTP](http://www.zeldaroth.fr/us/dlnsq.php) There are several open source LTTP style games heres
+- [Lemmings](https://github.com/ericlangedijk/Lemmix) Uses Delphi.  Apparently there are a bunch of user levels
+- [Lemmings](http://www.lixgame.com) This is Lix with 700 levels and an editor and competitive multiplayer
+- [Lionheart Amiga Platformer](https://github.com/b3dgs/lionheart-remake) Thats one of the coolest games on Amiga.  Lionengine is made for this game and vice versa.
+- [Doom](https://zdoom.org/downloads) GZDoom and many more (and for VR too!)
+- [Marathon Trilogy by Bungie](https://alephone.lhowon.org) Marathon 1 2 3 and a bunch of user created games
+- [Mari0](https://stabyourself.net/mari0/) Mario Portal 4 players each with their own portal gun plus a level editor.
+- [Mario](https://github.com/secretchronicles/TSC) Secret Chronicles of Dr M. is like mario but with a level editor that can take scripting
+- [Micro Machines or Skidmarks](https://github.com/cflavio/yorg) Yorg is a 2.5d racing game like Rock n Roll Racing looks cool! Python and Panda3d.  No Track Editor.
+- [Megaman](https://github.com/protoman/rockbot) Rockbot with qt level editor
+- [Megaman](https://github.com/CamHenlin/ExecutiveMan) Executive Man levels can be edited but theres no specific level editor (Tiled is rumored to be the right answer)
+- [Minecraft + Dwarf Fortress](https://github.com/Blecki/dwarfcorp)  Dwarf Corp
+- [Minetest](https://github.com/minetest/minetest) Make your own game or mod their game.  Dont worry about networking or voxels just some lua for the game logic
+- [Minecraft](https://github.com/fogleman/Craft) Craft - Multiplayer and complete example code.  
+- [Minecraft](https://github.com/BrunoS3D/I-made-minecraft-in-unity)
+- [Terasology](https://github.com/MovingBlocks/Terasology) A voxel engine where you can make your own game.  
+- [Minesweeper](https://github.com/Bit-Sahil04/Isometric-Minesweeper) Python Isometric Minesweeper
+- [Minesweeper](https://github.com/reed-jones/minesweeper_js) Javascript Minesweeper
+- [Minesweeper](https://github.com/GoogleChromeLabs/proxx) Proxx is a fancy minesweeper
+- [Unvanquished Tremulous or Quake](https://unvanquished.net/about/) This is Unvanquished and you have to get the data from the site but it looks amazing but also hard to build
+- [Quake Arena](https://www.xonotic.org) an Arena FPS I played with bots and its pretty good.  I remember the bots being either too easy or way too hard.
+- [Ouendan](https://github.com/ppy/osu) The Awesome Rhythm Game!
+- [Pacman](https://github.com/danicat/pacgo) Amazing Go Tutorial for how to make pacman
+- [Pacman](https://github.com/Kerndog73/EnTT-Pacman) A way to make Pacman with EnTT which is what Mojang used for Minecraft
+- [Pacman](https://github.com/platzhersh/pacman-canvas) An awesome HTML5 Canvas version of PacMan
+- [Quake](https://github.com/Novum/vkQuake) vkQuake Vulkan Quake port based on Spasm
+- [Quake](https://github.com/ezQuake/ezquake-source) ezquake More Modern Quakeworld Engine
+- [Quake](https://icculus.org/twilight/darkplaces/readme.html) Dark Places is 6yrs dead but still really cool
+- [TOME4](https://te4.org) has an engine and game maker built in that I couldnt figure out at first glance
+- [Scorched Earth](http://www.scorched3d.co.uk) Scorched3D is really cool and fun
+- [Snake](https://en.wikipedia.org/wiki/Armagetron_Advanced) This is so cool!
+- [Gods](https://jotd.pagesperso-orange.fr/gods/index.html) The Amiga game by Bitmap Bros.  Not active but looks complete.
+- [Robotron](https://github.com/Ernir/robotron) its actually really good and more fair than the original.  Very impressive. not active.
+- [uMoria](https://github.com/dungeons-of-moria/umoria) It can be compiled in VS2019 so I could cut things out and make it simpler, disable some rng and complexity and add seeds
+- [WarSong](https://en.wikipedia.org/wiki/The_Battle_for_Wesnoth) Awesome Strategy game I got pretty far once upon a time.
+- [Rogue](https://github.com/zenorogue/hyperrogue) Hyper Rogue on non euclidean world. Updated Yesterday
+- [Mechforce Hex Game](https://github.com/MegaMek/megamek) I loved the game Mechforce so much on amiga
+- [Soldat](https://github.com/Soldat/soldat) Like Worms and a Platformer.  Made in Pascal.
+- [Teeworlds](https://github.com/teeworlds/teeworlds/) like worms but frantic.  I like the idea of making this into a full platform game.
+- [Trials](https://en.wikipedia.org/wiki/X-Moto) This motorcycle game even has a level editor in inkscape
+- [Star Trek Elite Force](https://github.com/UberGames/rpgxEF) This is a modern update to the engine!
+- [Mario](https://github.com/jazzyjester/Mario-Game) This looks like mario all stars and has a level editor
+- [System Shock](https://github.com/Interrupt/systemshock) Looks like a great System Shock Engine that preserves the feel of the original
+- [Tetris](https://gitlab.gnome.org/GNOME/quadrapassel) Looks like a good updated Tetris
+- [Tetris](https://github.com/brenns10/tetris) Tetris in C and Curses
+- [Tetris](https://github.com/vicgeralds/vitetris) Multiplayer Command Line Tetris
+- [Tetris](https://github.com/Hextris/Hextris) This is a cool HTML5 rotational tetris
+- [Tetris Attack](https://github.com/blockattack/blockattack-game) Looks like really good multiplayer ish tetris
+- [Thief](https://www.thedarkmod.com/main/) THis is a cool mod to the Thief Engine.  Is there a level editor?
+- [Toho Bullet Hell](https://taisei-project.org) This looks freaking amazing!  Is there a level editor?
+- [Trackmania](http://stuntrally.tuxfamily.org) I bet this is tons of fun.  Ther is a track editor!
+- [Ultima but for PICO-8](https://github.com/Feneric/Minima) I wonder if you can edit the campaign easily?
+- [VVVVVV](https://github.com/TerryCavanagh/vvvvvv) Its so cool that the authors put this out there to be looked at and built.  Its old like 2010 code though and I dont think it will be easy to get running. 
+- [Ultima](https://www.scummvm.org) That apparently has included the code from [another ultima](http://nuvie.sourceforge.net/?page=docs) 
+- [Worms](http://hedgewars.org) This is a really cool worms clone.  I wonder if you can make your own levels?  Yeah you can make your own Missions in LUA!
+- [Command And Conquer](https://springrts.com) RTS Engine active and up to date
+- [Ultima Online or Everquest](https://www.worldforge.org/index.php/about/faq/) HOpping Github with a mailing list and other community "We provide the technology you provide the world"
+
+Other Possibilities
+- [If you can compile these](https://github.com/leereilly/games/) games will compile and you can get them working
+
+
+
+ Games with Level Editors or Engines and almost all have games too
+- ------2D Classic------------------------
+- ------------ General -------------------
+- [Gameboy Studio](https://www.gbstudio.dev) this lets you make gameboy looking games easily and with constraints (JRPG Adventures primarily, platformers and shmup in beta)
+- [JLud 2d Tile Engine](https://github.com/rafael-esper/JLud2D) Try making a game in the JLud 2D Tile Based Platformer or RPG Engine
+- [LED New Autofancy Level Editor](https://deepnight.net/tools/led-2d-level-editor/)
+- [3D Realtime Level Editor for Unity](https://assetstore.unity.com/packages/tools/modeling/realtime-csg-69542)
+- [Cool CSG called Chisel for Unity](https://github.com/RadicalCSG/Chisel.Prototype)
+- [Node 3D Level Editor in Unity](https://github.com/James-Frowen/node-level-editor) auto generate maps and cut holes for windows
+- ------------ Specific -------------------
+- [Puzzlescript](https://www.puzzlescript.net/Documentation/rules101.html) this looks so cool
+- [Adventure Game Studio](https://www.adventuregamestudio.co.uk) easily make adventure games
+- [Trackmania](http://stuntrally.tuxfamily.org) I bet this is tons of fun.  Ther is a track editor!
+- ------------ 2D 8/16 Bit -------------------
+- [Frogatto](https://frogatto.com/developer-info/) Anura Engine recently updated.  There is an in game level editor!  You can't use frogatto assets. 
+- [Mario](https://github.com/secretchronicles/TSC) Secret Chronicles of Dr M. is like mario but with a level editor that can take scripting
+- [Zelda](https://www.solarus-games.org/en/development/resource-packs/mit-starter-quest) get the MIT asset pack for making Zelda Games
+- [Double Dragon or Final Fight](https://github.com/DCurrent/openbor) Double Dragon or Final Fight
+- [Mario](https://github.com/jazzyjester/Mario-Game) This looks like mario all stars and has a level editor
+- [PGE](https://wohlsoft.ru/) Platformer Game Engine based on SMB 
+- [Lionheart Amiga Platformer](https://github.com/b3dgs/lionheart-remake) Thats one of the coolest games on Amiga.  Lionengine is made for this game and vice versa.  Note that this doesnt seem user friendly
+- [SuperTux](https://www.supertux.org/contact.html) Make some levels or enemies or tweak the code for Super Tux. Updated 1 hr ago
+- [Super Bombinas](https://github.com/victords/super-bombinhas) Like simple Mario and real up to date and in ruby - level editor available open source at bottom of page
+- [Megaman](https://github.com/protoman/rockbot) Rockbot with qt level editor
+- [Micro Machines or Skidmarks](https://github.com/juzzlin/DustRacing2D) Dust Racing 2D with a QT Level Designer!  Win Lin only but looks great
+- [CAD Capcom NES Level Editor](https://github.com/spiiin/CadEditor) Make homebrew NES Games
+- [Level Editor for NewSupU](https://github.com/aboood40091/Miyamoto) this is very tricky to pull off but pretty damn cool if I did it.
+- [LixD](https://github.com/SimonN/LixD) which was updated a few months ago and has over 700 puzzles and online multiplayer and included level editor.
+- [Megaman](https://github.com/CamHenlin/ExecutiveMan) Executive Man levels can be edited but theres no specific level editor (Tiled is rumored to be the right answer)
+- ------------ Roguelike -------------------
+- [LambdaHack](https://lambdahack.github.io) a console Ascii Roguelike game Engine!  The best one I've seen!  Totally up to date too!
+- [TOME4](https://te4.org) has an engine and game maker built in that I couldnt figure out at first glance. Virtually no community
+- [uMoria](https://github.com/dungeons-of-moria/umoria) It can be compiled in VS2019 so I could cut things out and make it simpler, disable some rng and complexity and add seeds
+- ------------ RPG -------------------
+- [OHRRPGCE](https://rpg.hamsterrepublic.com/ohrrpgce/About) Hamster Role Playing Engine! 43/151 people talking about it on Discord 
+- [Goldbox Games](http://uaf.sourceforge.net) (like Forgotten Realms Unlimited Adventures) Dungeon Craft is an engine for making your own Goldbox Games
+- [RPGMaker](https://www.rpgmakerweb.com)
+- [Bards Tale Construction Set](https://github.com/dulsi/btbuilder) Make a level or two or a little side quest in BT Builder - Bards Tale Construction Set
+- [ARPG or MMORPG](https://arianne-project.org) Arianne has been around for 15+ years and is still going!
+- [Final Fantasy 3](https://rpgplayground.com)
+- [Ultima but for PICO-8](https://github.com/Feneric/Minima) I wonder if you can edit the campaign easily?
+- [Simplex RPG Engine](https://github.com/lofcz/SimplexRpgEngine) Lots of great features here.  GMS2 Studio like interface.
+- [RPG In a Box](https://www.rpginabox.com) 3D One of the best I've seen.  $25 Voxel graphics, map maker, items, sound generator.  Good discord.   Monthly updated for years.  Awesome!
+- [Ultima Online or Everquest](https://www.worldforge.org/index.php/about/faq/) 3D Hopping Github with a mailing list and other community "We provide the technology you provide the world"
+- -------3D Classic-----------------------
+- ------------ Voxel Engine -------------------
+- [Gamecraft](https://store.steampowered.com/app/1078000/Gamecraft/) Like Roblox but you build anything and then add physics and make games.  Great reviews.
+- [Minetest](https://github.com/minetest/minetest) Make your own game or mod their game.  Dont worry about networking or voxels just some lua for the game logic
+- [Terasology](https://github.com/MovingBlocks/Terasology) A voxel engine where you can make your own game.  
+- ------------ FPS or TPS -------------------
+- [Black Ice Mod of FPS Creator Classic](http://www.blackicemod.org/) looks so damn cool and explains how to run FPS Creator Classic
+- [Warsow](https://github.com/Qfusion/qfusion) Idtech, examples you can use in your own game, Updated Recently, Great feature list.  Warsow Discord and Reddit - unfortunately forum knowledge base was deleted.  Comes with FPS Examples   (Quake Level Editors Available)
+- [Doom](https://zdoom.org/downloads) GZDoom and many more (and for VR too!) (Doom Level Editors Available)
+- [Quake](https://github.com/Novum/vkQuake) vkQuake Vulkan Quake port based on Spasm (Quake Level Editors Available)
+- [Quake](https://github.com/ioquake/ioq3) ioquake3 active forum, map editor is one of the best (Quake Level Editors Available)
+- [MaxGunner](https://maxgunner.itch.io/max-gunner) A Wolfenstein like FPS in Blitz3D with a level editor $10
+- [Cube2](https://github.com/inexorgame/vulkan-renderer) Apparently this is a new port of Cube2 Sauerbraten the Open Source fPS - Editor in game
+- [Cube2](https://github.com/kripken/BananaBread#readme) Heres a port of cube to html - Editor in game?
+- [Thief](https://www.thedarkmod.com/main/) THis is a cool mod to the Thief Engine.  Is there a level editor? Yes [DarkRadiant](https://github.com/codereader/DarkRadiant)
+
+
+
+
+
 ## Investigate ##
 * [Mari0](https://stabyourself.net/mari0/) Mario with a portal gun and 4 player coop. Buildt with the Love engine.
 
