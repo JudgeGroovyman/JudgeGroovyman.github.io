@@ -162,3 +162,9 @@ I haven't tested it with a 'refactor' style rename since this class was small an
 * Broadcast message works but if you run it in edit mode and send a message to a class that isn't set to ExecuteInEditMode you get an error reported but generally everything actually still works!?!  You won't be able to set the receiver's information as dirty though.  In my case it worked even with the error and still saved the received data since the receiver was brand new in the heirarchy and new = dirty.
 * Renaming a script shouldn't be rocket science - I saw one reply suggesting "In a perfect world you will name your scripts correctly to begin with" which is the lamest cop-out in history and completely ignores reality, and shits on the process of refactoring.
 * There is no good reason that you have to get a script involved to make an animator flip a sprite.  Its so common that virtually every 2d dev does this daily and has to write code to do it.  There should be a feature built into the animator that flips the sprite based on a boolean.  There are two that seem related: 1. flipx in the renderer (which you can't access from the animator without a script) and mirror in the animation state (which doesnt flip the sprite).  Otherwise you can just effectively double your frames of animation that you have to create (wont take long) and maintain (makes the relevant folders in your asset folder less readable and easily understandable and all sprites harder to find)
+
+# Editors #
+
+Visual Studio Code
+This is some [tutorial for making it work great with VSCode](https://code.visualstudio.com/docs/other/unity)
+Here's [How to Debug](https://github.com/Unity-Technologies/vscode-unity-debug)

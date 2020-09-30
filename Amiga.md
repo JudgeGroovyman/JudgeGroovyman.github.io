@@ -5,7 +5,6 @@ I had certain magazines in my collection for 10+ years and I read them all many 
 I can trace back the moment we got the Amiga, or the moment I fell in love with it at Computerwise (this would have been after having read about it in commodore magazine for a few years) to the first Amiga World that I recognize: December 1991 so I suspect we started shopping that December and bought our Amiga in early 1992.  A conflicting piece of information: Lemmings was by all accounts brand new when we bought our Amiga and apparently it had come out in February of 1991.  When we bought it no one had heard of it and the computer store were clearly featuring it and it was really fresh and we paid full price.  A year is an eternity in computers so if it had been a year old when we bought it I don't think some of those things would have been true.  Amiga Format I remember the Nov 1991 vaugely and the Oct 1992 CU Amiga, but those were european mags so its possible that I just didnt get into computerwise that much until then.  My best guess is fall 1991.
 
 
-# AMOS Pro #
 
 # Preconfigured Environments #
 

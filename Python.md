@@ -1,5 +1,8 @@
 # Python #
 
+See [Programming Notes](Programming.md) for Python Environments
+
+
 ## On Win 10 ## 
 Have to turn off settings->apps & features->app execution aliases for python to run from command line.  Otherwise it opens the windows app store (so annoying and deeply buried in windows settings)
 
@@ -62,7 +65,3 @@ I learned some things but the trickiest part seems to have been: xpaths can be p
 
 ## Textmate ##
 It is great but has something called softtabs which I had to turn off in the ~/.tm_properties softTabs = false_
-
-# Game Engines #
-* [Pyglet](https://github.com/pyglet/pyglet) looks amazing and has a really [impressive intro presentation](http://simeonfranklin.com/talk/pyglet/slides.html) and some [nice documentation](https://pyglet.readthedocs.io/en/stable/programming_guide/examplegame.html) and people have [high praise](https://www.reddit.com/r/Python/comments/5dgp20/if_the_pyglet_community_is_dead_and_pygame_is_not/) for it.
-* [Pygame](https://www.pygame.org/news) is something I played with in like 2004 (iirc) and really wanted to make a tetris game with.  On the main pygame site there are tons of games listed but most of them are unfortunately over 10 years old and dont exist anymore or are unmaintained.

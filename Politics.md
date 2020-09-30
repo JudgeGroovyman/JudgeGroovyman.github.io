@@ -1,8 +1,14 @@
 # Politics #
 
+Vision
+Some steps I would like to see
+Serious discussion of equal pay for all races being the biggest inequality issue of the day in 2030
+Serious discussion of equal pay based on tallness being the biggest inequailty issue of the day in 2040
+
+
 ## history books ##
 1. Iran Contra
-2. 2nd Bomb
+2. 2nd Atomic Bomb
 3. Japanese Prison Camps 100,000
 4. Bush senior giving millions to iran to keep the hostages until Reagans inauguration (that day)
 5. 1953 overthow of Prime Minister Mosaidec Iran government
@@ -22,6 +28,18 @@
 3. 
 
 
+# Racism #
+
+Myths: mobs, Lynching, and extrajudicial punishment was to protect womens virtue.  
+
+If you have an apocryphal story in your family that an ancestor helped slaves in a restaurant or business, or that an ancestor was hanged alongside slaves for being a sympathizer, some part of the family was likely a slaveowner because these are common stories to make family feel better.
+
+
+https://www.naacp.org/history-of-lynchings/ Between 1881 and 1968 there were 4743 recorded lynchings in america 3446 (72.7%) black, 1297 (27.3%) white.   I feel shame about this.  To see where the lynchings happened see this [interactive map]( https://lynchinginamerica.eji.org/explore) which makes instantly clear where they happened (the south).  
+
+Theres was really no political link between the lynchings in the west and the lynchings in the south.  Some states didnt lynch at all, Some states lynched only whites, some states lynched mostly whites, none of these were the major lynching states in the south.  The lynchings in many of these states were not racially motivated, many in the west for example were wild west spaghetti western style murderers or cattle theives who got lynched.  
+
+Hidden history: England abolished before we did, and therefore Canada, so then refugee slaves escaped to Canada with a great work ethic and worked hard and had great success and did not strain that country's economy (as we are led to believe today)
 
 
 # Iran Contra #

@@ -28,8 +28,8 @@ note that you need to replace spaces with `-` and lowercase all of the words.
 #### H4 Header##
 `#### H4 Header##`
 ____
-1. Lists Start the line with a 1 or *
-* `1. Lists Start the line with a 1 or *`
+1. Lists Start the line with a 1 or * or - or +
+* `1. Lists Start the line with a 1 or * or - or +`
 * Sub-bullets with tab
 * `* Sub-bullets with tab`
 5. Don't try to number them correctly
@@ -50,6 +50,8 @@ inline `code` has back ticks around it
 blocks of code are fenced by three back ticks
 ```
  
+'> makes a blockquote'
+> makes a blockquote
 
 
 ### Other Things you Can Do with Markdown ###
