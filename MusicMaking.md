@@ -34,15 +34,16 @@ This is great.
 31.  Also rumor has it that the free version can load external VSTs ... I guess I'll never know now though haha
 32. I followed the instructions after purchase and my start menu account tab doesnt look anything like what they suggested it should.  I dont know how to get.  Ok I restarted the program (not because there was any prompt or reason to do so) and now I can get my free stuff.
 33. Omg the licenses are noncommercial!?!  I'll have to buy the commercial license for $70 or just the parts I want to make commercial.  I think thats pretty bunk honestly they shouldnt even offer them if theyre noncommercial.  Thats tacky imho.
-34  Trying to activate soundpools and their software is so weird and buggy that every time I try to search for 'cinematic worlds' in the search bar my cd drive spins up to full speed and a cd listing shows up that I've never seen before lol.
-35 	When youve dropped a loop in the scene you can change the key at the top for that measure!
-36  View->Arranger->Horizontal Scrolling (You'll thank me later)  Shift still works.
-37  Three times now I have had to press ctrl-s twice before it saved
-38 The Song Maker is one of the coolest and greatest things Ive ever seen for music creation ever
-39 You do have to select some tightly themed samples or you end up with some real clusterfuck shit!
-40 there are a crazy ton of folders that this program uses all over the hard drive: %UserProfile%\AppData\Roaming\MAGIX\mm29 and in the ini files in there are most of the other folders
-41 Tom has "Vita 2" and I had "Vita LE" and I thought something had installed wrong so I found this C:\ProgramData\MAGIX\Music Maker\29\MxSynth and saw that Vita2 wasnt there but VitaLE was so I deleted it and thought that maybe it would let me redownload vita 2 but it didnt.  I figured Vita 2 was the later version of vita le, but perhaps its the opposite because ... I uninstalled the plus version and reinstalled the free version and vita le was installed again (the free version lists vita 2 as an instrument).  So then I reinstalled the plus version.  Note: the files are exactly the same size.  And MD5 is exactly the same too.  They are the same installers: the free one from the website and the plus one from my email.  Maybe tom can send me vita 2 or vice versa.  Maybe he can install the newer version in a new folder and maybe then it will install vita le and then we will both have it?  Interesting: it claims that in the update "problems loading vita 2 have been fixed" does that mean that even with vita le I can load a vita 2 file?
-42 I tried mixing to mp3 and it told me it couldnt until I assigned a midi instrument to one of the tracks.  I had copypasted some ideas to that track and even thouh it was muted it wanted it to be assigned to an instrument so it could be heard.  YOu know what it might have proceeded anyway tbh
+34.  Trying to activate soundpools and their software is so weird and buggy that every time I try to search for 'cinematic worlds' in the search bar my cd drive spins up to full speed and a cd listing shows up that I've never seen before lol.
+35. 	When youve dropped a loop in the scene you can change the key at the top for that measure!
+36.  View->Arranger->Horizontal Scrolling (You'll thank me later)  Shift still works.
+37.  Three times now I have had to press ctrl-s twice before it saved
+38. The Song Maker is one of the coolest and greatest things Ive ever seen for music creation ever
+39. You do have to select some tightly themed samples or you end up with some real clusterfuck shit!
+40. there are a crazy ton of folders that this program uses all over the hard drive: %UserProfile%\AppData\Roaming\MAGIX\mm29 and in the ini files in there are most of the other folders
+41. Tom has "Vita 2" and I had "Vita LE" and I thought something had installed wrong so I found this C:\ProgramData\MAGIX\Music Maker\29\MxSynth and saw that Vita2 wasnt there but VitaLE was so I deleted it and thought that maybe it would let me redownload vita 2 but it didnt.  I figured Vita 2 was the later version of vita le, but perhaps its the opposite because ... I uninstalled the plus version and reinstalled the free version and vita le was installed again (the free version lists vita 2 as an instrument).  So then I reinstalled the plus version.  Note: the files are exactly the same size.  And MD5 is exactly the same too.  They are the same installers: the free one from the website and the plus one from my email.  Maybe tom can send me vita 2 or vice versa.  Maybe he can install the newer version in a new folder and maybe then it will install vita le and then we will both have it?  Interesting: it claims that in the update "problems loading vita 2 have been fixed" does that mean that even with vita le I can load a vita 2 file?
+42. I tried mixing to mp3 and it told me it couldnt until I assigned a midi instrument to one of the tracks.  I had copypasted some ideas to that track and even thouh it was muted it wanted it to be assigned to an instrument so it could be heard.  YOu know what it might have proceeded anyway tbh
+
 
 
 
