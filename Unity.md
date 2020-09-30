@@ -1,5 +1,8 @@
 # Unity #
 
+# HowTo #
+1. [Make a life slider](https://youtu.be/cXefXSD2SM0?t=90)
+
 
 # Competitors #
 * Love

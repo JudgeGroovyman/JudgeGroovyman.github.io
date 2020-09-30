@@ -1,3 +1,79 @@
+# Magix Music Maker #
+This is great.
+1. Really easy to record little clips and move them around
+2. Shift 1 to set a jump marker, jump doesnt work for me, but click on the jump marker and move mouse back and forth to affect the record  entry point (the yellow bar at the top)
+3. middle click to start and stop playback or spacebar
+4. r to start recording
+5. I had to select some Settings->AudioMidi->Direct Sound and then restart and then set the mic right and some tinkering took about 15 minutes to get it to record from my mic port on the front of my computer after install.
+6. A little pop often happens when recording starts, I can just drag the edge of the sound from the left a hair to remove it.
+7. I can save all of the tracks as their own wav files
+8. Cant import mp3 directly but convert in Audacity and then browse to the folder from the pane on hte right then drag in from there.  Might be able to drag from anywhere, havent tested that
+9. zooming is weird
+10. Shift scroll wheel scrolls left right
+11. Control scroll wheel scrolls vertically (not that useful, should zoom imho)
+12. To next prev object edge: Ctrl shift left right  update: Tried to fix this but keyboard short cut assignments arent working for that.  Ctrl shift left doesnt let me assign shortcut.
+14. Beginning of project: home
+15. End of Project: end
+16. page down and up to scroll right left (ctrl page up down to snap scroll)
+17. Ctrl shift pgup/down to scroll to the next jump marker
+18. Left right move over by .006 or 7 sec.  Ctrl left right move by .03 or so sec
+19. If you hit enter when clicked on the main window but outside a track, then accidentally hit enter the window closes.  F4 or View->Standard View resets it.
+20. I dont know how to select a track for pasting.  Paste into existing track at the end and then drag down.
+21. If you resize the window the tabs on the right can get messed up, F4 or View-Standard View fixes that too
+22. Volume int he bottom right affects the mixed tracks overall volume as well as monitor volume
+23. Well now a few days later after I successfully recorded all of my vocals I am having a problem with MIDI.  I fixed it by in the settings changing it to ASIO Driver Magix Low Latency 2016 and now I can type on the keyboard to play the pianos!
+24. Holy shit.  If you select Scale Keyboard then it all of a sudden only plays notes in the damn scale you pick.  Holy shit thats awesome!  With just a few little quirks and caveats this software is proving to be a miracle worker honestly!
+25. It looks a lot like its got a simple arpeggiator built into the keyboard program at the bottom.  If so I'm going to flip out but I dont even want to check for fear of disappointment haha.  well yup it sure is!!!
+26. I'm trying to figure out how to lower the octave on the keyboardkeyboard.  Blowing my mind the internets are saying there is no way to do it.  "Just go buy a midi keyboard" they say "merely spend money you dont have on something you dont want and put it in a space you dont have" they might as well be saying.  "simply purchase an L shaped desk and a spinning office chair to your workstation and whenever you want to play a note on the piano instead of using the mechanical keyboard which is a joy and which you spent a lot of money on, rotate to the left and scoot your chair toward the musickeyboard and arrange your shoulders and then play your part and then when you want to see the monitor just turn your head 90 degrees to the right.  And when you want to hit record or move the start point a hair to the right or record a different section just do all of that in reverse and then find the mouse and click on the right stuff and then do all of that rotation and resituation over again.  no big deal" they are implying.  While I am overdramatizing it, this is simply not an insignificant impact to my workflow and trivializing it like this makes me feel like I'm supposed to have this whole rig arranged when instead if this software had two keyboard shortcuts more none of this would be an issue.  "Since you dont have room whatsoever to add another table to your workstation whenever you want to play a few notes on your keyboard just stand up and lean the player keyboard on top of the typing keyboard being careful not to hit the f keys and then bend your wrists down to play"  Its absurd to imagine buying hardware and rearranging my workstation and workflow to compensate for commercial software not having two keyboard shortcuts.  Maybe I can use autohotkey to do this somehow?  
+	- Possibly you can use the midi editor instead of the keyboard which then pg up and down do affect the octave.  How to open midi editor?  Well I could only figure out recording some empty space on a midid track and then double clicking the empty space
+	- The up down arrows at the top left of it are the octave buttons I'm looking for honestly.
+27.  Also Alt Tab has a funky funny effect it plays one of the keys and then keeps it held down haha
+28.  Also For some reason my track has decided to play a demo song even though its no where on the screen without stopping haha. I think that was just the instrument preview on the right getting activated somehow
+29. Ok I just bought the plus version and when I launched the installer it just said "Remove from your computer" I presume it was talking about the free one but it didnt say anything about that nor give me any other option haha.  I hope it didnt delete the songs I already made though ...  hmm ... oh well.  Oh, possibly I could have just activated the free version.  I didnt even think of that.  oh well to that too. :)
+30.  Found out a few minutes ago that there are some free soundpools and stuff if you sort by price in the pane on the rihgt.
+31.  Also rumor has it that the free version can load external VSTs ... I guess I'll never know now though haha
+32. I followed the instructions after purchase and my start menu account tab doesnt look anything like what they suggested it should.  I dont know how to get.  Ok I restarted the program (not because there was any prompt or reason to do so) and now I can get my free stuff.
+33. Omg the licenses are noncommercial!?!  I'll have to buy the commercial license for $70 or just the parts I want to make commercial.  I think thats pretty bunk honestly they shouldnt even offer them if theyre noncommercial.  Thats tacky imho.
+34  Trying to activate soundpools and their software is so weird and buggy that every time I try to search for 'cinematic worlds' in the search bar my cd drive spins up to full speed and a cd listing shows up that I've never seen before lol.
+35 	When youve dropped a loop in the scene you can change the key at the top for that measure!
+36  View->Arranger->Horizontal Scrolling (You'll thank me later)  Shift still works.
+37  Three times now I have had to press ctrl-s twice before it saved
+38 The Song Maker is one of the coolest and greatest things Ive ever seen for music creation ever
+39 You do have to select some tightly themed samples or you end up with some real clusterfuck shit!
+40 there are a crazy ton of folders that this program uses all over the hard drive: %UserProfile%\AppData\Roaming\MAGIX\mm29 and in the ini files in there are most of the other folders
+41 Tom has "Vita 2" and I had "Vita LE" and I thought something had installed wrong so I found this C:\ProgramData\MAGIX\Music Maker\29\MxSynth and saw that Vita2 wasnt there but VitaLE was so I deleted it and thought that maybe it would let me redownload vita 2 but it didnt.  I figured Vita 2 was the later version of vita le, but perhaps its the opposite because ... I uninstalled the plus version and reinstalled the free version and vita le was installed again (the free version lists vita 2 as an instrument).  So then I reinstalled the plus version.  Note: the files are exactly the same size.  And MD5 is exactly the same too.  They are the same installers: the free one from the website and the plus one from my email.  Maybe tom can send me vita 2 or vice versa.  Maybe he can install the newer version in a new folder and maybe then it will install vita le and then we will both have it?  Interesting: it claims that in the update "problems loading vita 2 have been fixed" does that mean that even with vita le I can load a vita 2 file?
+42 I tried mixing to mp3 and it told me it couldnt until I assigned a midi instrument to one of the tracks.  I had copypasted some ideas to that track and even thouh it was muted it wanted it to be assigned to an instrument so it could be heard.  YOu know what it might have proceeded anyway tbh
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sound Pool Collection:
+	* Its The 80s Soundpool Collection (For Awesome Octamed sounding sounds and Synthwave)
+Sound Pool:
+	* Cinematic Worlds
+	(Later) Epic Movies
+InstrumentS (2):
+	* Childrends Choir
+	* Analog Synths 2
+	Choir
+Tiny Instrument: 
+	* Claps & Slaps
+	Congas
+
+
+
+	(Later) Movie Score Collection (For really great cinematic theme sounds in different styles)
+
+Use My Coupon Code
 
 # Drums #
 - EZDrummer and Superior Drummer are great but expensive ($150) [MTPowerDrumKit 2](https://drumlessjazz.com/ezdrummer-free-alternative) is a free alternative
