@@ -604,3 +604,12 @@ ACEY DUCEY from 1010 Basic Computer Games works perfectly as downloaded.  I wond
 
 Heres a way to compile lua into a GUI executable.  You can even possibly make it self modify its own code!
 https://news.ycombinator.com/item?id=12287816
+
+# Game Jams #
+
+Tips:
+
+1. Use Git the easy way to back up every time you make a mistake
+2. Use Unity Folder Profiles to always import your sprites with certain settings
+3. 
+

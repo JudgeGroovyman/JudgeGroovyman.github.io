@@ -342,6 +342,20 @@ Other Possibilities
 * Marathon
 * [Thief](http://www.thedarkmod.com/main/)
 
+# Game Jams #
+
+Ludum Dare 47 Notable Games and notes:
+* [Populatio](https://ldjam.com/events/ludum-dare/47/populatio) my game!  really proud.  This was inspired and didnt take that long.  I forgot to mention in the notes is that my git repo is in the zip with the game so they can walk through the whole history of its development.  
+* [Mels Bells](https://ldjam.com/events/ludum-dare/47/mels-bells) This is an awesome rhythm game and with a few tweaks I think I would love it.  As is I beat it but it was super hard and I never felt any level of ownership of the skills required to beat the boss.  #inspiration
+* [Infinite Pinball](https://ldjam.com/events/ludum-dare/47/infinite-pinball) The code for this game Unity Project) is [on github](https://github.com/nickbarrash/ld47-infinite-pinball) This is the closest Ive felt to rollerball since rollerball and I loved the feeling.  #inspiration
+* [Track Day](https://ldjam.com/events/ludum-dare/47/track-day) an amazing racing game with a super fun control mechanic.  #inspiration.  Unity Project Code is available.
+* [Energy Loop](https://ldjam.com/events/ludum-dare/47/energy-loop) there are loads of other puzzlescript games with source probably in each of the game jams.  This isnt inspiration but I would be interested to see how they made this.
+* [Mousehard](https://ldjam.com/events/ludum-dare/47/mouseherd) really cool like the dreamcast game chu chu rocket about cats made in löve and I might enjoy looking at this source.
+
+
+I found some good tags on other projects:
+ld47, ldjam, Low-poly, Short, Singleplayer, Time Attack
+
 
 # Dont own but might want to #
 1. Red Faction: Guerrilla - "Bringing destructibility and absolute fun"  "Being able to put explosives in one part of a building and watch it crumble because of your expert placement is more fun than you know"  does that guy have an ostrich?  

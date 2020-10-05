@@ -1,3 +1,18 @@
+# Catalina #
+To get Unity games working on Mac Catalina
+
+I just had to run this command:
+
+chmod +x loopfieldMacOS.app/Contents/MacOS/*​
+
+​and then it worked like a charm.
+
+Also theres the Normal Mac Gatekeeper Workaround
+
+Just like with every other game like this on MacOSX I had to do the usual: rightclick->open->open to get around the MacOS Gatekeeper.
+
+
+
 # External Keyboard
 ### Home and End buttons
 A [Five minute fix](https://www.maketecheasier.com/fix-home-end-button-for-external-keyboard-mac/) for the home and end buttons
