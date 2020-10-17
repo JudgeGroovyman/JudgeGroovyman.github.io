@@ -344,18 +344,85 @@ Other Possibilities
 
 # Game Jams #
 
-Ludum Dare 47 Notable Games and notes:
+## Ludum Dare 47  ##
+
+My Game
+https://ldjam.com/events/ludum-dare/47/populatio
+Jims Game
+https://ldjam.com/events/ludum-dare/47/escape-velokitty
+
+
+ Ludum Dare 47 Notable Games and notes:
 * [Populatio](https://ldjam.com/events/ludum-dare/47/populatio) my game!  really proud.  This was inspired and didnt take that long.  I forgot to mention in the notes is that my git repo is in the zip with the game so they can walk through the whole history of its development.  
 * [Mels Bells](https://ldjam.com/events/ludum-dare/47/mels-bells) This is an awesome rhythm game and with a few tweaks I think I would love it.  As is I beat it but it was super hard and I never felt any level of ownership of the skills required to beat the boss.  #inspiration
-* [Infinite Pinball](https://ldjam.com/events/ludum-dare/47/infinite-pinball) The code for this game Unity Project) is [on github](https://github.com/nickbarrash/ld47-infinite-pinball) This is the closest Ive felt to rollerball since rollerball and I loved the feeling.  #inspiration
-* [Track Day](https://ldjam.com/events/ludum-dare/47/track-day) an amazing racing game with a super fun control mechanic.  #inspiration.  Unity Project Code is available.
 * [Energy Loop](https://ldjam.com/events/ludum-dare/47/energy-loop) there are loads of other puzzlescript games with source probably in each of the game jams.  This isnt inspiration but I would be interested to see how they made this.
 * [Mousehard](https://ldjam.com/events/ludum-dare/47/mouseherd) really cool like the dreamcast game chu chu rocket about cats made in löve and I might enjoy looking at this source.
+* [Dante Slumbers](http://www.dashingstrike.com/LudumDare/LD47/?D=COMPO) Totally pro.  This is nearly as polished as like an NES game and it looks and plays amazing.  the menus are great and its got a TON of character.  Code is on Github.  This person really knows their shit and are jam pros!  Also they have their own engine port or something on github called GLOV.js Examples: 
+* [Magical Marissas Trouble through Time](https://ldjam.com/events/ludum-dare/47/magical-marissas-troubles-with-time) a fun ball tilter pinball type thing with clunky (but possibly fixable) physics and colliders and stuff)
+* [DeedsLoop](https://ldjam.com/events/ludum-dare/47/deedzloop) made with catsoft game creator.  This had a really fun 3rd person controller with a cute player character.  unlimited doublejump and fun bouncy primatives and a colorful plasticy look and Id love to play a longer game in a fall guys like deal.
+* [Infinite Rails](https://catinthedark.itch.io/infinite-rails) looks like C64 made in TIC80. No sound in Safari.  Only in chrome.   I won!  It was a clever first person rail puzzle that could have many levels if it wanted to be a bigger game.  I wonder how the levels were defined in lua?  Now It should have had keypresses instead of clicks or the clicks should have been better captured because it didnt always respond and for this game its frustrating to go around the track again because of that.
+* [Murder Loop](https://ldjam.com/events/ludum-dare/47/murder-loop) this requires chrome on mac and has a funny quirk:  It starts with a screen of controls and I read them and they all make perfect sense so Id ont worry about them but then I start to move around and the mouse wont move so I cant aim or look and I look at the controls to see how to look and it says to move the mouse, so I spent 3 minutes looking into it pressing buttons and wandering around and then for no reason it starts working but then later I find out that the first line in teh controls is middle mouse to unlock the cursor, which blows my mind that it started off as LOCKED>  So weird :) not a big deal though.
+	There are some wonderful game play innovations here: enemy heads turn into points which combine and then you kick that point block around and then it is what unlocks doors for different amounts of points.   The graphics are great.  The shooting is pretty good, its pretty bloody for a voxel game the blocks drip blood.  
+* [Loopsed in space](https://ldjam.com/events/ludum-dare/47/loopsed-in-space) One really cool mechanic I like from this is that you have to buy even the most basic features like shooting a gun from your ship.  Check back on this one because I might have gotten trolled haha
+* [Solar Edge](https://ldjam.com/events/ludum-dare/47/solar-edge) Java jar I tried opening it with terminal but then I just right click->open->open and it worked. I love the style of the tutorial "I know youre the boss but if it was on me I would build a metal refinery first"  Well my colony died.  I think its cool how theres a strategy or like survival game in here and I love the art style all around.
+* [Ball Of Duty](https://lando.systems/games/ld45-ballofduty/)  Special Drops from a year ago or so wow this looks so damn good.  So much epic presentation here.
+* [Phone Tree of Despair](https://ldjam.com/events/ludum-dare/47/phone-tree-of-despair) This one you have to actually call a US phone number and then you get stuck in a loop.  They actually have to pay per call haha (not laughing at them laughing at the audacity and awesomeness)
+* [Square Time](https://ldjam.com/events/ludum-dare/47/square-time) a ghost of your movements follows you around a maze (far behind) and you have to collect certain things without getting hit by your ghost. 
+* [Loop To learn](https://esbenkc.itch.io/loop-to-learn) Best retro aesthetic so far #underrated and its about AI Training but unfortunately it is pretty broken after the first level.  Heres to hoping the author fixes it. #underrated
+* [Abide the Loop](https://tornoz.github.io/ludum47/js.html)  Its a rhythm game so I really want to like it.  I cant figure out how to start it though. I press the button and theres no count in or anything and you just die after 3 beats.  Also its got the problem with the spacebar moving the screen.  
+* [Oddpum](https://ldjam.com/events/ludum-dare/47/oddpum) Whoa this is a good game Jim beat this on his youtube video and its really cool.  It scared me and stressed me out though because I thought what if I make a mistake on a previous player that I cant fix without restarting.  Turns out you can travel between loops from teh escape menu which would partially solve that!       
+* [Stuck In A Tutorial](https://ldjam.com/events/ludum-dare/47/stuck-in-a-tutorial) Wow this is cool you are in a tutorial loop but there might be a way out of it you'll have to figure that out
+* [Get Process and Feed Food](https://ldjam.com/events/ludum-dare/47/get-process-and-feed-food-bad-buttons-game) a buttons game where you click buttons and move your button around :)  This isnt great and I couldnt figure it out.
+* [loop-loop-loop](https://ldjam.com/events/ludum-dare/47/loop-loop-loop) This one is a cool VVVVVV like platformer with the whole world in a big segmented sphere.  Its a perfect jam game and since Death transition is a bit jarring, just a few tweaks and the fleshing out of more levels (other world shapes, more gradual difficulty transition) its a super solid full game title! 
+* [Asteroids Loop](https://ldjam.com/events/ludum-dare/47/asteroid-loop) this is a wonderful asteroids clone but with a twist of being stuck to an expandable loop in the middle which I think actually fits the theme perfectly and better than others because you are legitimately stuck and disadvantaged by this loop.  The scripts are up but the whole project isnt yet but I wonder if he or she could be persuaded?
+
+
+ Most interesting to build upon
+* [Infinite Pinball](https://ldjam.com/events/ludum-dare/47/infinite-pinball) The code for this game Unity Project) is [on github](https://github.com/nickbarrash/ld47-infinite-pinball) This is the closest Ive felt to rollerball since rollerball and I loved the feeling.  #inspiration
+* [Track Day](https://ldjam.com/events/ludum-dare/47/track-day) an amazing racing game with a super fun control mechanic.  #inspiration.  Unity Project Code is available. I ended up loading this in Unity and the unity project is actually super clear and has some great tricks.  I learned a ton in just 30min or so and helped the dev get skidmarks working on mac.
+* [Loop Invader](https://ldjam.com/events/ludum-dare/47/loop-invader-1) WOW Top Notch Vector graphics shooting mechanics and responsiveness and everything about the shooting is something I want in my games.  What a winner!  Probably made in Haxe which makes it even more interesting.
+* [Quetzalcoatl](https://idanro.itch.io/quetzalcoatl) Super immersive into the art style of the pixel-aztecs.  The gameplay is fun and the sprite and level rotation is out of this world.  For a Jam game this is an 11.  First I got a 1009.  Someone said this could be a mobile game as is and I totally agree.  change virtually nothing.  2280.  The code is on github.  Wow it looks like its a Unity game!?!  The sound is immersive but also funny when the lemmings pop out
+* [Vibe Rider](https://ldjam.com/events/ludum-dare/47/vibe-rider) The visual Aesthetic here is top notch low poly I love it so much. I dont know how the gameplay sticks to that track.  it so cool! 
+* [Breakaway](https://ldjam.com/events/ludum-dare/47/breakaway) This is like gauntlet or something.  I love the level goals. I love the clever gameplay mechanic.  I love the scale and fighting speed.  It looks like Safari Mac has no sound which is true for about half of HTML5 games I've been playing.   Feedback: 1. Show some graphical idnication of damage (like little element particles fly off) when the loop is getting hit by its vulnerable element and show an indication of not being damaged otherwise (like a shiny shine).  2. Show on the HUD what weapon beats what somehow (or at least for the one you have equipped) 3. Show which weapon you have equipped on the hud.  4. Show an indication of when you can switch to that weapon like a little blip with a shaded circle radius around the base.   Wow I couldnt stop playing and I beat it.  What a blast.  I got through all four layers of the loop that I was stuck in.    #underrated.  
+* [Round Out](https://github.com/foolmoron/RoundOut) A cool unity game that works perfectly on Mobile (better than on desktop actually) and has a cool looping mechanic to make points I got 101.59s and 9842 score with 900 top star.  Next time i got 15467 in 25.6s with 1150 top star!  Its got a great 2D Glowy   80s look that i love.
+* [Press The Buttons](https://ldjam.com/events/ludum-dare/47/press-the-buttons) a great puzzle with boxes and switches and doors and keypads that would make a really cool simple VR escape the room game.
+* [Super Loop Racer](https://ldjam.com/events/ludum-dare/47/super-loop-racer) I cant believe how good this whole game looks its like its right out of TRON or the 80s even with reflections.  the gameplay stinks bad, but it looks freaking incredible.
+* [Cursed Temple](https://ldjam.com/events/ludum-dare/47/cursed-temple) Looks modern like hollow knight but with a time loop mechanic.  With a shallow difficulty curve I could play hours and hours of htis.  I dont want it to be too hard but just a little bit hard for a long time, bosses can be hard thats ok!  Maybe I could make the game I long for here?
+
+
+How did they do this?
+* [Loop Room](https://ldjam.com/events/ludum-dare/47/loop-room) Unity source available for this something like robotron single screen but loopign on edges experience.
+* [Aeternum](https://ldjam.com/events/ludum-dare/47/aeternum) I might like to see how they pulled off an endless runner like this in Unity
+* [Super Loop Racer](https://ldjam.com/events/ludum-dare/47/super-loop-racer) want to see how they did this in Unity
+* [Circuitus Infinitus](https://ldjam.com/events/ludum-dare/47/circuitus-infinitus) This is like an amazing level editor that I wonder if the same thing could be used in the future for other games?
+* [Mortal Coil](https://ldjam.com/events/ludum-dare/47/the-mortal-coil) Godot engine really nice pixel art with lots of UI
+
+ Big winners
+* [Beyond Death](https://ldjam.com/events/ludum-dare/47/beyond-death/beyond-death) goddamnit (that is my anger when comparing my art skills to this team).  Just look at those screenshots.  Oh damnit the game is fun too and super clever and with tons of character.  damnit!!  :)  Its got this really funny puzzle mechanic that you have to experience it to believe it.  Amazing lighting and camera movement and presentation too.  Feedback: Could use a smoother camera follow up and down stairs.  Character animation is fantastic. voxel environment maybe the coolest adn most detailed pixel-art-like I've seen.  No source unfortunately for me.  OMG after a lot fo deaths the music changes to be more grim and theres blood everywhere lol.  The 3D is amazing for HTML5.  Totally console like with only tiny framerate lag.  I wonder what happens if you beat it without dying ... nvm I dont think thats possible.  no really :)
+* [The Sysiphean Man](https://ldjam.com/events/ludum-dare/47/the-clockwork-men) this one is a masterpiece of presentation with cute pixely old guy sprite and a great time loop recording mechanic.  I wonder if the music really fits in this compo though.
+* [Cursed Temple](https://ldjam.com/events/ludum-dare/47/cursed-temple) Looks modern like hollow knight but with a time loop mechanic.  With a shallow difficulty curve I could play hours and hours of htis.  I dont want it to be too hard but just a little bit hard for a long time, bosses can be hard thats ok!
+* [Loopin](https://ldjam.com/events/ludum-dare/47/loopin-a-c64-action-puzzle-game) this is an actual C64 game made in C64 studio with c64 studio source code!
+* [Afterimage](https://ldjam.com/events/ludum-dare/47/afterimage) This contains one of the coolest mechanics Ive ever heard of.  You try to beat a simple platforming level, but to do that you will end up accidentally hitting a trap and dying, when you come back then you can double jump but when you do that the trap falls in wait for another player. And it keeps track of who left what trap where!  Made in Löve!
+* [Robot Fight](https://ldjam.com/events/ludum-dare/47/robot-fight) super hard to believe this is a one man job (I have no actual doubts its just totally amazing).  Its a whole robot programming sim with cute pixel graphics and narrators and a story and huge human characters and lore.  wow.  Runs great in safari on the mac.  Really cool sort of chiptune NES or TG16 music going on too.  OMG There are even upgrades and unlockable robot technologies OMG.  And then you get to retry every level until you beat it (perfect) , plus its not just programming like "here are your commands" but actually "here are some of your commands and they are constantly changing and you have to pick them up at the right times"  and omg its got a sense of humor: "Wow congratulations on making so far in this unrigged competition" lol  #underrated  I beat the first two and moved on but boy is it good.  
+* [Repeater](https://ldjam.com/events/ludum-dare/47/repeater) my mouth is hanging open.  this is one of the coolest smoothest experiences I've had in the compo and one that most perfectly captures the theme and is super fun to play and thrilling when you figure out what to do because its so damn mysterious.  YOu dont know why and it doesnt matter but you are filled with awe and wonder since now you dont know around what corner will be another inexplicable mystery.  Plus the aesthetic is so appealing and its just fun to run and jump like this.  could this ever be a full game and then some.  I imagine like metroid many different tileset environments and each level is like this whole game where it starts out seeming pretty straightforward but loops, and then you finally find an exit, but perhaps you have to go through the loop a number of times for some lighting to change and then certain other triggers happen.  Wow I love the style here.  Also gamepads work on this game even in html 5!  (well they are advertised to ... lets find out! yup it sure does (at least on windows))  Note: On mac this doesnt run in Safari (it doesnt finish loading - usually that means theres a compression problem and I think if you search for that you'll find several solutions).  For feedback I'd say some tweaking to make the player more like metroid, and make the enemies knock back when hit (they just kept coming which meant you had to use a retreating strategy of sorts) 
 
 
 I found some good tags on other projects:
 ld47, ldjam, Low-poly, Short, Singleplayer, Time Attack
 
+Might like to try on windows:
+* [Blocks](https://ldjam.com/events/ludum-dare/47/bl0ck) from Coryu on my page
+* [Get Over Yourself](https://ldjam.com/events/ludum-dare/47/get-over-yourself)
+* [fly](https://ldjam.com/events/ludum-dare/47/fly)
+* [Pumpkin Keeper](https://ldjam.com/events/ludum-dare/46/pumpkin-keeper)
+
+Jims Games
+* [Knight of the round torus](https://ldjam.com/events/ludum-dare/47/knights-of-the-round-torus)
+
+
+Mac Catalina is picky so on almost every mac game I've played today I've had to:
+1. Type `chmod +x <gamename>.app/Contents/MacOS/*` 
+2. then do the standard gatekeeper workaround: Right click->Open->Cancel->RightCLick->Open->Open
 
 # Dont own but might want to #
 1. Red Faction: Guerrilla - "Bringing destructibility and absolute fun"  "Being able to put explosives in one part of a building and watch it crumble because of your expert placement is more fun than you know"  does that guy have an ostrich?  
@@ -1442,6 +1509,7 @@ Very Promising Stories (basically FPSs)
 * Crysis
 * Crysis 2
 * Crysis 3
+* Terminator 2019 (dont own yet)
 
 Promising
 * Worms Revolution (Matt Berry)
@@ -1582,20 +1650,20 @@ Would like to make a game in
 -----------------------------------
 ### Again ###
 
-Would like to master
+ Would like to master
 * Volgarr the Viking (Try to beat this in one sitting)
 
-Might like to play again
+ Might like to play again
 * Alien Breed series
 * Bloodstained Curse of the Moon
 * Bloody Zombies
 * Bloodstained Ritual of the Night
 
-Might like to play again in 3D
+ Might like to play again in 3D
 * Shantae 3DS
 
 
-Great VR that I can play a bit every day
+ Great VR that I can play a bit every day
 * Compound
 * Viral EX
 * Time Carnage
@@ -1611,7 +1679,7 @@ Great VR that I can play a bit every day
 * Transpose
 
 
-Great Active VR that I can play over and over
+ Great Active VR that I can play over and over
 * Beat Saber
 * In Death
 * Until You Fall
@@ -1624,9 +1692,9 @@ Great Active VR that I can play over and over
 * Holopoint VR
 * QuiVR
 * Vanishing Realms
+* Sprint Vector VR
 
-
-Great pancake that I can play over and over
+ Great pancake that I can play over and over
 * Nex Machina
 * Spheres of Chaos
 * Refunct
@@ -1638,11 +1706,11 @@ Great pancake that I can play over and over
 * Quake Dark Places online
 
 
-Stories that I could play again
+ Stories that I could play again
 * Hellblade: Senua's Sacrifice VR
 * Portal 2 VR
 
-Would like to play with VorpX or Nvidia 3D
+ Would like to play with VorpX or Nvidia 3D
 * Grow Up
 * Bad Ass Babes
 * Refunct
@@ -1831,20 +1899,99 @@ Wario World
 Mario 3D Land
 
 
-On my mind atm 7/27/2020
+On my mind atm 7/27/2020 later 10/18/2020
 ----------------------------
 
-Games on iOS with MFi gamepad
-1. Castlevania Symphony of the Night
-2. Dust: An Elysian Tail
-3. VVVVVV (Own)
+ Games on iOS with MFi gamepad
+4. -------I know I can beat these------------
 4. Wonder Boy the Dragons Trap
 5. Shantae (Own)
+11. Geometry Wars 3 (own but only on mini ipad as it was taken down from teh app store)
+8. Rayman Adventures (Own)
+4. -------These look awesome but new and I have some doubts------------
+8. Goblin Sword (own)
+9. Kick Ass Commandos (Wow this is amazing!) (own)
+12. Wayward SOuls (RPG like FF3 but Roguelike) (possibly too hard)
+6. Dan the Man (Own) great battle game
+16. Toon Shooter 2 (Own)
+17. Xenowerk (Own)
+18. Xenoraid (Own)
+15. Max (own)
+11. Binding of Isaac (Own)
+4. -------Play if you want Ive done a lot with these before------------
+3. VVVVVV (Own)
+7. Hyper Sentinel (Own)
+14. Goat Simulator (own)
+10. Horizon Chase (Own on PC but it plays perfect on here)
+8. Space Miner (own)
+4. -------Less Longevity Below - still fun------------
+18. Death Worm Free (Own)
+9. Crossy Road (Own)
+7. Alto’s Adventure (Own)
+6. Slayin (Own)
+10. Silverfish DX (own) Bought for $4 - not really worth it.  Great arcade game somewhat like Geom wars (without the shooting).  but with just the one game mode its just too shallow
+9. Super Crate Box (own)
 
-Others
-1. Saving Princess - I love the look of this game, it looks like a cool modern metroid game
+
+Games I figured out worked well on my own: Rayman Adventures, Shantae, Dan the Man, Horizon Chase, Hyper Sentinel, Crossy Road, Binding of Isaac
+
+
+ Games on iOS without gamepad
+1. Spend another few tries to beat that dungeon strategy game
+2. Mario Run
+
+ Dont: Games that SHOULD and its frustrating that they dont: Castle of Illusion, PacMan 256, Dig Out, APOX-X
+
+
+
+ Little Indie
 2. Never Stop Sneaking - by the Dust developer and like Metal Gear Solid but a parody with a sense of humor
+1. Saving Princess - I love the look of this game, it looks like a cool modern metroid game -but I missed my shot on the app store.  still available for PC though on itch
+1. Crimsonland
+2. Dragon Sinker (Looks just like DW NES)
+3. Agent Aliens
+4. Gunslugs 2
+5. Gris
+6. Legacy Quest (Like diablo or lego Hobbit)
+7. Super Kung Fu All-Star (cool 3d combat)
+10.Sword of Fargoal
+11.Fez
 
+So Minigore or super crate box controller support costs ... $5/month?  Holy shit! Maybe becasue I bought the full version before it gave it to me for free? both of those work without any 5/month problem (Unless I'm already paying it???)
+
+
+ Big Indie
+9. Dust: An Elysian Tail
+1. Limbo
+2. Batman The ENemy Within
+3. Dead Cells
+4. Aquaria
+5. Stardew Valley
+6. Bastion
+7. Transistor
+8. Crashlands
+
+
+ Big Commercial
+1. Final Fantasy VI (50h)
+2. Sonic CD 
+3. Secret of Mana (20h)
+4. Wonderboy 3 The Dragons Trap
+5. The Bards Tale
+6. Duck Tales Remastered
+11. Bioshock
+7. --------------
+1. Castlevania Symphony of the Night
+9. Minecraft
+10. Star Wars: KOTOR
+
+
+
+Investigate:
+Here are the ones I’m playing or played in the past and enjoyed: Playdead’s Inside, , Grimvalor, Dandara, The Witness, , Pascal’s Wager, Evoland, Evoland 2, , , Leo’s Fortune, Thumper, Don’t Starve, Oceanhorn, , , , The Silent Age, Kingdom: New Lands, Graveyard Keeper, Lovecraft’s Untold Stories, , Super Fancy Pants Adventure, LifeAfter.
+https://mfigames.com/games/console-remake/
+
+* [Some VR iphone games with mfi](https://mfigames.com/games/vr/)
 
 
 Metroidvania 8/8/2020
@@ -1882,4 +2029,5 @@ Other 3DS and GC and Wii games that I'm excited about?
 8. GC ROTK in VR
 9. RA for Wonder Boy 3
 10. RA for Castlevania Circle of the Moon
+11. RA for Amagon
 

@@ -8,10 +8,10 @@
 # Blog Frameworks #
 Apart from wordpress and medium I've been recently intrigued by static site generators that take your markdown files (such as this website) and process them into a full website.  github is doing that for me here (It uses Jeckyll) but here are some other options:
 
-[A cool discussion of hosting for JAMStack ](https://news.ycombinator.com/item?id=19982918)
-
-[Headless CMS](https://headlesscms.org) use with [Static Site Generators](https://www.staticgen.com) this is fundamental to the [JamStack](https://jamstack.org) 
-"Fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers."
+* [A cool discussion of hosting for JAMStack ](https://news.ycombinator.com/item?id=19982918)
+* [Jamstack Virtual Conference Oct 2020](https://www.youtube.com/playlist?list=PL58Wk5g77lF94tg-F3y5zRyDeLVhTDnTg)
+* [Headless CMS](https://headlesscms.org) use with [Static Site Generators](https://www.staticgen.com) this is fundamental to the [JamStack](https://jamstack.org) 
+* "Fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers."
 
 best name that cristi invented Optimule.com (available)
 
@@ -41,6 +41,7 @@ best name that cristi invented Optimule.com (available)
 21. [Pimcore](https://pimcore.com/en)  	Pro CMS with extensive slick successful commercial side to maintain it which I think is good.  	326MB #inmotion
 22. [Atlantis-cms](https://www.atlantis-cms.com)	Built on Laravel. Snappy Real Time On Page Editing. Rapid codeless page creation. 
 23. [Zenario](https://zenar.io/about)	WYSIWYG. Forms.  Google Analytics. Dropbox. This seems well organized.  62MB #inmotion
+24. [Publii](https://getpublii.com) 	Static Site CMS with GUI. Its a desktop app.  You edit it locally and can share it via dropbox. No security updates.  No databases to manage. WYSIWYG. Block Editor. Markdown. 9hr github. advanced SEO Features "Its so intuitive that something must be wrong" 	#favorite
 - ----- Lightweight CMS--------- (Frontend that shows the site to the world)
 11. [PostLeaf](https://www.postleaf.org/features) wow.  Minimal Admin experience.  True WYSIWYG. Dynamic images optimized and served responsibly. Styles are defined by the theme not the users. Simple Backup generate a zip with everything.  Does not align with other CMS. Automatic Sitemaps.  Fast Search.  Custom Post Templates. Super clean generated markup with look defined by themes.  SEO Friendly.  Integrated file manager.  Organized with tags.  Easily quick post from anywhere.  Spotlight search around the admin panel.   Revision History UPDATE: damnit  Last github update was 2018.   	[Installing PostLeaf On Digital Ocean](https://www.postleaf.org/installing-postleaf-on-digitalocean) $5/mo and quite a process!
 1. [Bolt](https://bolt.cm)	 Free Forever	 Summary: "Easy for editors, and a developer's dream CMS. Bolt is an open source Content Management Tool, which strives to be as simple and straightforward as possible. It is quick to set up, easy to configure, uses elegant templates, and above all: It’s a joy to use."  There is a slack. 	Features: extensive tags for taxonomies.  Its just a folder on the server so updates are easy.   Themes. Forms to email or database.  Fast with Low Memory Usage.  Uses a Database (not like Grav which is just files)  58MB #inmotion  
@@ -53,6 +54,7 @@ best name that cristi invented Optimule.com (available)
 5. [Penzu](https://penzu.com) Free Military Grade Encrypted Private Journal for your own private thoughts online from mobile or PC.  Save to PDF. Share to the world if they have the link ... wonder if they are indexed by google?  Share to individuals with penzu account. 
 16. [e107](https://e107.org) 	No code website. simple management. Website up in just 5 min. Batch changes. Media Manager. Image Resizing. 	33MB #inmotion
 11. [TextPattern](https://textpattern.com)	Mature Classy! "simplify the production of well-structured, standards-compliant web pages. flexible, elegant" 	7MB #inmotion 
+44. [Known](https://withknown.com) 	Lets you and the community that you attract create and share stories notes photos songs and more and links and respond to comments from any page on the web.  hashtags to categorize everything.  Responsive for mobile.  Theres a sub-web of other known sites that can interact somewhat. 	2MB Updated 2h ago  #Favorite
 - -------- Portals ------------------------------------------
 18. [Composr](https://compo.sr/features.htm) 	Community!  Lots of membership options here. Users personal photo galleries.  wiki. Quizzes Surveys tests cheat prevention. Downloads and documents library with ratings and leech protection.   Members can have their own blogs. Unlimited pages. WYSIWYG. Possible to run your own scripts.  Ecommerce.  Subscriptions.  Shopping Cart. Support Tickets. Newsletters (with double opt in).  WElcome email chain.  Bounce cleanup.  Flexible mailings.  (Deliverability?) Great forums and membership.  Content submission. Public awards of best content. Chatrooms. MOderation. Instant Messaging. Points system for members!  A virtual currency for members!  Polls (multiple polls) Spam Protection capcha 	50MB #inmotion
 42. [LiveSite](https://livesite.com/features) 	A Whole portal of professional features.  Looks really pro. Live WYSIWYG Editing	42MB #inmotion
@@ -62,7 +64,7 @@ best name that cristi invented Optimule.com (available)
 39. [SiteMagic](https://sitemagic.org)	"The worlds most beautiful content management system" Pro beautiful designs.  No Database - XML by default (it says secure does that mean encrypted? Human readable?) Automatic mobile and SEO Features.  Extensible. Super fast even on slow sites.  Best web page design software in teh world - like photoshop for websites. TinyMCE.  Easily create sub sites which are isolated sites running on the same instance. 	24MB #inmotion #flat #Favorite 
 41. [WonderCMS](https://www.wondercms.com)	WOW 1 step install. Put 5 files on the server.  Responsive.  Themes. Responsive. SEO. Live WYSIWYG. Security.	0.13MB #inmotion #Flat #Favorite
 43. [Bludit](https://www.bludit.com)	Simple Fast Secure Flat File CMS. SEO Friendly. Looks slick and super pro.  Updated 33min ago.   	6MB #Flat #inmotion
-45. [Kirby](https://getkirby.com/)	 Wow this looks so damn sexy.  Flat file CMS with loads of sexy modern style in the admin at least.  Updated 6min ago. 	12MB #flat #inmotion
+45. [Kirby](https://getkirby.com/)	 Wow this looks so damn sexy.  Flat file CMS with loads of sexy modern style in the admin at least.  Updated 6min ago. 	12MB #flat #inmotion #Favorite
 46. [Sofawiki](https://www.sofawiki.com/en/sofawiki) 	Wiki Flat CMS supports 90k pages or more.  Skins. CSS. Semantic fields for collecting data. This looks really really cool.  I can totally relate to this one.   	0.97MB  #Flat #inmotion 
 - ---------- Pro ----------------------------------------
 38. [Contao](https://contao.org/en/) 	Professional Websites Scalable Applications accessible for handicapped.  this loosk SUPER professional blogging.  38MB #inmotion
@@ -92,6 +94,7 @@ best name that cristi invented Optimule.com (available)
 1. [Gantry](http://gantry.org) Themes for Wordpress or Grav or Joomla
 
 - -----Static Site Generator Front Ends ---------
+14. [Eleventy](https://www.11ty.dev) "Just the kind of simple / common sense tool I love. The data/folder hierarchy mechanism is super obvious and elegant." "Eleventy is absolutely wonderful. It’s by far the nicest static site generator I’ve used"    "Eleventy was the only one I could find that gave me the fine-grained control I needed at blazingly fast build times."  "“Seriously can't remember enjoying using a Static Site Generator this much. Yes Hugo is rapid, but this is all so logical. It feels like it was designed by someone who has been through lots of pain and success using other SSGs." #Favorite decent sized discord
 1. [Hexo](https://hexo.io/) Super fast site generator.  Hundreds of themes.  OMG I can use Org-Mode to publish my Website!?!
 2. [Hugo](https://gohugo.io) "The Worlds Fastest Framework for Building Websites" Static Site Generator
 3. [Jeckyll](https://jekyllrb.com) "Get up and running in seconds" "Free hosting with Github Pages"
@@ -104,8 +107,9 @@ best name that cristi invented Optimule.com (available)
 6. [Poet](http://jsantell.github.io/poet/) Looks great for hackers.  A bit over my head but probably super fast to get going. 2019 update
 7. [Metalsmith](https://metalsmith.io)
 8. [spress](http://spress.yosymfony.com)
-
-
+9. [Next.js](https://jamstack.org/generators/) For react apps.  Main competitor is Gatsby.  The most popular ssg
+11. [Nuxt](https://jamstack.org/generators/) for statically generating Vue.js applications main competitor VuePress
+12. [VuePress](https://jamstack.org/generators/) for statically generating Vue.js applications main competitor Nuxt
 
 
 - ------- CDNs -----------------
@@ -141,6 +145,7 @@ best name that cristi invented Optimule.com (available)
 21. [CSZ CMS](https://www.cszcms.com)	Responsive " basis of Codeigniter3 and design the structure of Bootstrap3" Slick site. Updates super easy. 
 31. [CMSimple](https://www.cmsimple.org)	German. Its so small I'm curious how it works.	4MB #inmotion 	
 32. [Expression Engine](https://expressionengine.com/features)	Publish from phone. full featured forum. Multisite. Channels for simple creation of forms to store data for each different area of your site.  Parallax.	23MB #Inmotion
+20. [ProcessWire](https://processwire.com)	"A joy to use at any scale"  Really advanced simple ways of collecting the content from your blog.  So reliable it requires no maintenance.   WYSIWYG.  Also it saves time with its ease. "Compared to Grav, Processwire has a much more intuitive UI and features while still very easy to develop for." 	29MB #inmotion
  - -------- Portals ------------------------------------------
 10. [b2Evolution](https://b2evolution.net) 	Mature "The most integrated CMS ever.  homepage to a blog, a photo gallery or a newsletter... forums, members directory and private messaging" 	72MB #inmotion 
 19. [Tiki](https://info.tiki.org/)  "Web Application Platform with the most built-in features"  Wiki Blog Forum WYSIWYG Galleries User Logins surveys quizzes polls.  Easy Forms for users to fill out.  Bug Tracker for example. Payments. 	164MB #inmotion
@@ -161,6 +166,7 @@ best name that cristi invented Optimule.com (available)
 43. [FluxBB](https://fluxbb.org) 	Super Lightweight 	1.41MB #inmotion
 	
 ## Dont feel quite right
+33. [Postachio](https://postach.io) 	$5/mo Really great idea to make any evernote into a blog!  so smart!  	
 32. [WikkaWiki](http://wikkawiki.org/HomePage) 	Dead now unfortunately.  Author shut the doors. 
 31. [Genix.me](https://genix.me)	This has almost no website explanation of what this is.  It doesnt sell it at all.
 30. [Schlix](https://www.schlix.com) 	Multisite CMS. Handles high traffic load. SEO. Security. Support. Content versioning to go back in time.  	30MB #inmotion
@@ -176,7 +182,6 @@ best name that cristi invented Optimule.com (available)
 19. [ImpressCMS](https://www.impresscms.org/modules/content/content.php?content_id=5&page=showcase) 	small Promotion site to big 20k company website.  Forum. 	54MB #inmotion
 18. [WebsiteBaker](https://websitebaker.org/pages/en/home.php) 	Uses PHP Droplets and jQuery.  Easy to use.  User registrations. SEO.  Upload files as a zip and this will unpack them 	22MB #inmotion
 6. [Silverstripe](https://www.silverstripe.org/#tabpane-2432-2) Respected Open Source CMS.  (found this before I was in InMotion)  	53MB #inmotion 
-20. [ProcessWire](https://processwire.com)	"A joy to use at any scale"  Really advanced simple ways of collecting the content from your blog.  So reliable it requires no maintenance.   WYSIWYG.  Also it saves time with its ease. 	29MB #inmotion
 20. [Zikula](https://ziku.la/en/downloads) 	"Simple websites and Complex Applications"  212MB #inmotion
 19. [Php-Fusion](https://www.php-fusion.co.uk/about/about.php) 	something doesnt feel right about this, otoh their features page is amazing with tons of security and powerful conveniences  20MB #inmotion
 18. [CMS Made Simple](http://www.cmsmadesimple.org) 	Too much configuration apparently required 	23MB #inmotion

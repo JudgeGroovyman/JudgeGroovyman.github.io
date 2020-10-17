@@ -99,3 +99,13 @@ To get outlines of squares in black and white
 1. Open a black and white checkerboard in Fiji
 2. Process->Binary->Make Binary
 3. Process->Binary->Outline
+
+
+# Best Addons #
+1. [Tissue](https://www.youtube.com/watch?v=pVNYyJeLGZI&list=PLJThqQUeIsPTsFMYNoPpqfUQbi8AJh1Ii) (thats a whole playlist) I [heard about tissue here](https://www.youtube.com/watch?v=R5_2pyISN2c&t=240)
+2. In the comments to the tissue video above two people say "Tissue, Sverchok, and Animation Nodes are just three of the addons that seriously push Blender into amazing territory. Thanks to  Alessandro and the other devs who extend the functionality of these great tools." and then "Don't forget about Sorcar and modular tree. With those two that's all the node based addons available on blender."
+
+# Best Competitors #
+https://blogs.dust3d.org
+
+[FreeCAD - your own 3D Parametric Modeler](https://www.freecadweb.org)  and heres a [Playlist about automated modeling in FreeCAD](https://www.youtube.com/watch?v=9EzxiwjKzTQ&list=PLJThqQUeIsPTw-SQeY595Kpz_xQeZxz4o)

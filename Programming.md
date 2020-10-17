@@ -611,5 +611,112 @@ Tips:
 
 1. Use Git the easy way to back up every time you make a mistake
 2. Use Unity Folder Profiles to always import your sprites with certain settings
-3. 
+3. Show how to really do a good job of wrapping up your Unity game for Ludum Dare
+	1. How to compress the source
+	2. How to send the git repo along with the game
+	3. Delete some of the extra stuff from the folder to lower the size
+	4. Easiest ways to put HTML5 version on 
+	5. How to get decent screenshots
+	6. How to make a decent cover photo
+	7. How to resize and optimize photos so they dont take forever (slows the page and statically people dont like that)
+		8. A short gif makes a HUGE difference in how the game comes off to potential players.
+	9. How much time the wrapping up takes relative to the game itself when youve never done it
+		10. And how almost no one will be 'done' with their game and get through the process of shipping without having to make changes.
+		11. and even if they do how thats probbaly just good luck or lots of experience.
+	12. How to name your different builds Name_Mac_1.1.
+		14. Go with 1.1 1.2 1.3 theres no reason to expect that you will get up to 1.9 during the jam and if you do then you can go to 2.0 or you can go to 1.91 (super unlikely) so for simplicitys sake even for tiny 1 line fixes go with 1.1 1.2 1.3
+4. Show 
+
+
+# Github #
+Tips on making a great github repo:
+
+1. Link to a sales page in the top right
+	That page should have an introduction page, a features list (with lists but also lots of pictures), documentation, and a community page at minimum
+2. Download badges at the top of the description [like at pge project](https://github.com/WohlSoft/PGE-Project)
+3. License
+
+
+# People #
+1. Gentoogames - this guy is a master of clean isometric like pixel art and the workflow of the art and animation into gamemaker.  HIs workflow is buttery smooth.
+
+
+# Putting Games Live #
+
+1. [Scratch](https://scratch.mit.edu/projects/432177775)
+2. [GameJolt](http://gamejolt.com)
+3. [Itch.io](http://itch.io)
+4. [Simmer.io](https://simmer.io/@Franion/stuckinaneonloop) possibly the best in some ways (esp for game jams) since you can just drag and drop from Unity.  weird it doesnt seem to work in safari on mac .. maybe its just that game I dont know. 
+
+
+# Behaviors & Features #
+Events
+Actions
+Triggers
+Conditions
+Characters
+WASD Control
+Point and Click Control
+Follow Pointer
+Side Scrolling
+Camera Follow
+Camera Lookahead of player
+Camera Viewtype: FPS, 2.5d, top down, isometric
+Camera collision
+Camera states
+Save/Load
+High Scores
+Title Screens
+Options Menus
+Touch options menus
+Mobile Touch Joystick and buttons
+Dialogue with answers and events
+Climbing and leaping over things and hanging from cliffs
+Skills stats, xp, level up systems
+Scene manager
+Currency and vendor
+Inventory
+IK
+IK Foot system
+Foosteps
+Switch characters with AI
+Advanced abilities system
+Map visualization
+Automapping
+Gravity Zones
+Bullets
+vehicles
+fade
+flash
+Spin to fall (like in Gauntlet)
+Move to
+A*
+Orbits
+Pathfinding
+Moving Platforms
+Turrets
+Tweens
+Flying
+Vehicles
+Entering and exiting vehicles
+Passenger and driver vehicles
+AI Patrol system
+Mecanim to Ragdoll
+Gravity for vehicles too
+Procedural Door
+Elevators
+Ziplines
+Scanner mode
+Hacking system
+Screen damage 
+Combining Weapons
+Dual Wield
+Lock on system
+Flashlight
+in game camera
+
+
+
+
+
 

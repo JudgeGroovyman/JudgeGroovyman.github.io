@@ -73,6 +73,10 @@ Also making games is like performing or playing guitar at a concert.  I could th
 # Good ideas #
 Character entry like bad dudes where the player sprite is the pointer to the letter.  It worked great and was fun to do!
 
+# Ideas for games #
+
+Let the cover art inspire you to make a game for that cart
+https://itch.io/t/944678/how-to-browse-famicase-and-pick-a-cart-2020-edition
 
 # Sounds
 Sounds create satisfaction.  Each sound should be satisfying and each action should have an associated satisfying sound.  The motion and action of thew world in response to your actions should also be satisfying but thats not about sounds.

@@ -829,3 +829,14 @@ For Characters:
 - Really I'm looking for Low Poly Polygonal Enemies to match mine, like just some super simple creatures made out of basic shapes.  Preferably Vertex Shaded in a way that I can easily change several of their colors in scripts and in such a way that I can swap parts to give them different characteristics.
 - Hactually I can use the Simple Gems Ultimate to possibly make my own enemies!
 - Eventually the Meshtint enemies seem best by far.  A pack of those might go a long way.
+
+
+## Assets ##
+
+- Itch.io
+- Assetstore
+- Humble Bundles
+
+
+
+
