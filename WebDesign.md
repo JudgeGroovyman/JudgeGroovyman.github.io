@@ -232,3 +232,13 @@ Plus I bought one for Cristi and another for me in 2017
 Using Inmotion
 1. I figured out how to transfer a domain over to inmotion  It was a process and you have to own the email that the domain is registered with or I dont think you can even do it.  It takes many steps
 2.
+
+
+# Image Optimization #
+https://pngmini.com
+
+[IMG Optim CLI for Batching](https://github.com/JamieMason/ImageOptim-CLI#installation)
+
+
+`sips --resampleWidth 800 Test2.png`
+

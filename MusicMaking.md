@@ -139,6 +139,81 @@ To use VSTs you need a host (some or many come as standalone packages as well bu
 - [RandARP Randomized Arpeggiator](https://codefn42.com/randarp/index.html) Free Arpeggiator
 - [Transition a music bot simulator for randomized sounds](https://codefn42.com/transition/index.html) its like playing a little programmed game that makes music
 
+ Some of the MODS I remember best:
+- Face the music (Fred Fish Disk)
+- Backpopped
+- AxelF
+- Amiganuts
+- Crystal Hammer
+- Amegas
+- Megaball of course
+- Cybernetix high score
+- Cybernetix menu song
+
+Finding things on Modarchive
+1. I've had good luck looking at crystal hammer and picking a weird instrument name and then seaarching for that in the instrument names of other songs.  Also you can filter on filesize and most songs from back in the day were small <100k to fit on a disk and also 
+
+Trackers
+1. OctaMED is amazing
+	- OctaMED Sound Studio latest version is freeware and has a windowed gui which is sort of nice but I like the old graphical guis, but it also has a super annoying warning when firing it up
+2. Protracker.  Everyone says its great but I've never used it
+3. [AHX](https://battleofthebits.org/lyceum/View/AHX+Tracker/) this is a tracker for Amiga created just to sound like a c64
+4. Windows OpenMPT
+5. Mac Renoise (also for Windows and uses VSTs and is probably the best ever)
+6. Schism Tracker is like impulse tracker for dos but for all systems.  I tried using this a fewyyears back and it was super clunky and clumsy to use.  Hard to navigate.  I had a love hate with it.
+7. [Musicline](https://www.musicline.org/main.html) is a full version 1.15 which lets you use realtime calculated waveforms and might be the best on Amiga but apparently its hard to use
+8. HivelyTracker is like AHX and was updated in the last few months on Github probably windows only 
+9. [klystrack](http://kometbomb.github.io/klystrack/) is for making C64/NES/Amiga chiptunes
+
+Just [TONS more here at woolyss](https://woolyss.com/chipmusic-chiptrackers.php?s=Mac)  or [here at Trackerbase](https://trackerbase.blogspot.com/2014/01/ahx.html)
+
+Lemmings Music
+I'm 99% sure that all of the Lemmings songs were made using the instruments from the aminet pack called [MED Songs](https://aminet.net/package/mods/med/MED-Songs) the songs arent good but ... 
+
+Aminet 
+- the archive called Cool Tunes Exarch is real good the slow song is interesting
+- The 11th hour sounds a bit like a more boring Streets of Rage 2
+- Digital Cadaver is pretty epic megadeth style metal actually
+- Groove has a great sounding bass and some other really AMIGA sounding instruments make me think of jims intro.  Great one to start with.
+- in MED_Collection theres MEDley.MED which has simple instruments and would be a great platform for me to make new music.  All of the songs in this collection would be great platforms
+
+
+Composers
+- Blair Zuppicich
+- Karsten Obarski
+
+Games
+- Pinball Fantasies
+- Megaball
+- Cybernetix
+- Lotus 3
+
+
+ Trying Trackers
+* [FastTracker2 Clone](https://16-bits.org/ft2.php) I'm trying this on mac and I'm having a great experience so far.  Oct 22 2020  Super intuitive and responsive and not clumsy at all.  Its really just what I expected.  I like that it has a keyboard at the bottom of the screen.  
+	- Holy shit its got nibbles built right into the software my god!
+	- I dont see undo which is potentially a big deal
+	- I dont really get how to edit these files theres something kind of missing
+	- I deleted a note and it moved all subsequent notes up.  How do I undo that?  How do I move all subsequent notes back down?
+	- I think highly of this but its just a little too frustrating so I'm calling it quits for now
+* [Protracker2 Clone](https://16-bits.org/pt2.php) I'm trying this and to get it running it made me move the program to another folder and back. Thts interesting.  It said something about a sandbox and fasttracker didnt do that for some reason. Something about the INI file.  Anyway once I did that it fired right up and its working and the scroll wheel is working so its a pretty comfortable UI and thats nice.  the resolution is smaller than fasttracker so it doesnt seem as user friendly imho. 
+	- I like the pointer and how it feel sand clicks more than the ft2 clone actually. 
+	When i switched away from the window I had to like right click on the window to reactivate it
+	- Theres nothing wrong with this one but I just think fasttracker clone is better its bigger and more realestate means legitimately more functionality
+* I fired up OctaMED4 and it was instantly like meeting an old friend again.  Theres no scrollwheel for the file selectors.  probably not for the main window either.  
+	- The scrollbars are large so the wheel is not that big of a deal
+	- Weird on my external Keychron K4 keyboard I cant use the F5 and F6 keys unless I've got the f-key row in special function mode.  the f7-f11 work just fine (f12 obviously reserved) but f5 (octave change) and F6 (go to the beggining of the block) dont work.  I found a tricky keychron feature that overrides this unless you hold fn k c for 3s.  Yup fixed!
+* [BoscaCeoil]( https://boscaceoil.net)I think this is from some perspectives the best music maker because it fixes the problem of keys for you, however it doesnt run on mac anymore (probably 64bit problem) and the online version is down so its windows only atm.
+* [Milkytracker](https://milkytracker.org) is foss and probably a good choice sort of but Rumor has it "There's nothing modern or convenient about Milkytracker, the majority of people who fanboy it do so because that's what they learned on."  Its popular so there are extensive [tutorials like this](https://www.youtube.com/watch?v=DRDlix-KT1E)
+* [LMMS](https://lmms.io/download#mac) free cross platform tracker with VSt SUpport
+* [Famitracker](http://famitracker.com)
+* OpenMPT
+* [Renoise $0-$75](https://www.renoise.com) of course which is one of the best ever and has been around for a long time now and is really advanced and uses VSTs. Commercial.  Free version doesnt output to WAV
+* Sunvox - rumor has it this is more for just messing around
+* Deflemask is rumored to be more usable than Milkytracker at this point [700 person Deflemask Discord](https://discord.com/invite/dhrVeD2)
+* [Revisit.info $0-$30](https://revisit.info/features.asp) this is cool because its a VST Plugin that is a tracker so you use it INSIDE your daw. One cool thing is it has musical layers!
+* [BeRoTracker](https://www.kvraudio.com/product/berotracker-by-benjamin-rosseaux) is a VST Plugin that can also host VST Plugins!  It can load all ofyour tracker mods and play them back in your songs 
+
 ## High Quality VSTs ##
 
 - Lists of VSTs: 
@@ -146,7 +221,29 @@ To use VSTs you need a host (some or many come as standalone packages as well bu
 - [Virtual Playing Orchestra](http://virtualplaying.com/) (Free) requires this [SFZ Player](https://www.plogue.com/products/sforzando.html)
 - [A chamber orchestra](https://vis.versilstudios.com/vsco-community.html) with 3GB of samples all CC0 and this one has a [VST download](http://bigcatinstruments.blogspot.com/2017/02/vsco2-rompler.html)
 - [Top 10 Free VSTs](https://www.productionmusiclive.com/blogs/news/top-10-free-vst-plugins-2019) several cool looking synths in here
+- [8 Bit Treats: Chiptune VSTs and AUs](https://www.tracktion.com/products/8bit-treats)
+- [Simple free Wavetable Synth VST and AU called Chip32](https://www.kvraudio.com/product/chip32_by_sam)
+- [Basic65 is like a free C64 VST](https://delamanchavst.wordpress.com/2013/12/12/basic65-retro-chiptune-synth-is-released-for-free/)
+- [Free plugins for some old synths](https://socalabs.com) C64 Gameboy NES SMS 
+- [Heres a BFXR SFXR VST](https://socalabs.com/synths/sfx8/)
+- [Minibit $20 ](https://www.audiothing.net/instruments/minibit/)  "I really like minibit. I think it cost me $10 or $15?"
+- [vstsid](https://www.igorski.nl/download/vstsid--sid-synthesizer-instrument) FOSS and based on C64 arpeggiator
+- [Peach $1](https://www.tweakbench.com/vst-plugins/peach) nope too limited
+- [Puls](https://delamanchavst.wordpress.com/2013/11/26/puls-monophonic-pulse-wave-synth-is-now-free/) Free Chiptune
+- [NES Pulse](https://woolyss.com/chipmusic-plugins.php?s=David%20M.%20Farler) NES Synth 
+- [Free VST for AtariST Synth Sounds](http://www.preromanbritain.com/ymvst/)
+- [Pooboy Gameboy VST](http://www.vstplanet.com/News/2012/8bit_Music.htm)
+- [38911 bytes](https://www.kvraudio.com/product/38911_bytes_by_odo_synths) another C64
+- [Ice Cream](http://megavst.com/synth/icecream/)
+- [Bleep](http://tonebytes.com/bleep/) SID Simulation - not exact and therefore possibly more friendly. Arpeggiator built in
+
 	
+- $50 for a cycle exact sega genesis VST with amazing demos that sound incredible
+- $100?  [Plogue Chip Sounds](https://www.plogue.com/products/chipsounds.html) "Plogue ChipSounds. You won't find better." "Can confirm. Chipsounds is where it’s at. Used peach & toad for years until I finally shelled out for something more robust. Don’t regret it one bit."
+- Sytrus "If you have Sytrus, then I'd actually recommend that. It's kind of using a missile launcher to kill a fly, but creating 16bit-style sounds is really easy and fun if you do some slight knob twisting."
+- [$30 plogue PortaFM](https://www.plogue.com/products/chipsynth-portafm.html) 
+	
+
 # Songwriting Software #
 
 - [$0 Chordz](https://codefn42.com/chordz/index.html) is a VST that lets you specify chords easily by just specifying a single note.  [Explanation Review of Chordz](https://www.worldwidemusicfactory.com/chordz-the-best-vst-plug-in-yet/)

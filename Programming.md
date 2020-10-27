@@ -199,6 +199,11 @@ Note: Do any of these hold your app hostage if you dont pay?  Be careful to the 
 
 # Programming on Mobile #
 
+SmartBasic (my favorite)
+Low Res Coder (can use MFI Joysticks!)
+- [Fancade](https://www.fancade.com) play thousands of games and create your own
+
+
 - PlayCanvas - This one is barely advertised to run on mobile but it should work really well and its cloud based so no storage required.
 
 - AppGameKit literally RUNS on mobile.  Huge ding on what could be so great: it doesnt support BT Keyboards at least on IOS
@@ -298,11 +303,206 @@ Resources:
 - [AMOS Pro Manual](https://archive.org/details/AmosProfessionalManual)
 - [Amiga Game Makers Manual](https://archive.org/details/amiga-game-makers-manual)
 - [AMOS3D Users Guide](https://archive.org/details/amos-3d-manual)
-
+- Aminet
 
 Investigate:
 How to get 3d extensions (like in 2011 amos for windows), AMCAF, and Easylife working in the open source marc365 and AMIDark versions
 
+
+1. I installed the marc365 archive and got it running in FSUAE.  It had to be in PAL mode and I used CLassicWB but had to reinstall it for FSUAE, I dont know why but the hdfile from winuae didnt work at all (not a dos disk) but redownloading and then using some new wb3.1 disks (I was only missing storage) and it worked ok but it expected a DH1 so I made a blank DH1. 
+2. I had to setup a folder to use to copy source files back and forth
+2. Some keys are really different.  I remembered that shift 2 was double quotes somehow (maybe same on C64?) and I remembered that backquote was single quote (for rem)
+3. My Amiga note says that f12 brings up the uae menu, help key is pgdn (fn+down)
+4. Had to set it to PAL Mode to get the whole screen showing
+5. AMOS files are different than source code. You can 'import' an amos source file.
+6. I have looked for a while for games with source code that I can just import and run and they work, but I guess thats asking too much since most will have graphics so I really want the .AMOS files
+7. Oubliette expected certain fonts to have been installed.  Thats probably important actually.  When I later installed all of the WB3.1 files then it didnt ask about that anymore
+8. For the AMOS Pro executable I did Window->LeaveOut so it pops onto the desktop.  Its the only thing on the desktop otehr than the hard drives.
+9. For Oubliette once I got the .ADF and put the .AMOS file that I made from the source in the folder with the ADF tehn it got further, but still didnt work.  When I moved 4 libraries over to my LIBS: folder and restarted then it fired up!  I feel like the screen resolution was messed up in some ways.  Some of hte text stomped on other text, but the whole game was like Zelda dungeons and I got pretty far and played for 10-15 min of progress
+11. I clicked ont he M key for the 'monitor' and flashed red and said Monitor Not FOund .  I wonder why?
+12. Breaking out of AMOS programs seems to be with ctrl-c but not just any control but the actual control key on my keyboard
+14. I am having to hit f12 twice in a row pretty often to get mouse focus working correctly back into the FSUAE and AMOS Pro window so it will take right click menu commands.  Only when i switch away from FSUAE of course but pretty often when I do
+15. I clicked on WB on the top right and 15yo me says that amiga-a switches back to amos pro. It looks like atm command-a thats overridden by fsuae so I need to go fix that.  as it is it just fills the window with the desktop
+22. Often when I quit an AMOS program with ctrl-c the music keeps playing.  I figured out that if you click the help button it seems to stop the music   
+25. Improvements to AMOS Pro: 
+	1. Open Recent 3-5 files would be a great new menu item.  
+	2. make a keyboard shortcut or right click to go to parent instead of right click goign to all devices.  
+	3. Would help navigating through deep directory structures like the AMOS PD CD.  
+	4. Mouse wheel support in file selector which as is slows down folder navigation dramatically where it could be so much smoother and more modern with a few tweaks.  
+	5. When selecting Config/Set Interpreter it cant find the file out of the box.  Dont know why but it says file not found. unfortunately I dont know what file is not found because of the file not found dialog box!  
+	6. Option to turn off Shift-Backspace (The bane of my Amiga Existence)
+26. I remember something about powerpack.library and had to add that to libs to get something working yesterday
+32. I cant figure out how to install an extension so I asked on Facebook.  Maybe someone will be able to help me. Update: They're saying its Config/Set Interpreter but thats just says file not found. unfortunately I dont know what file is not found because of the file not found dialog box.  Screen recording showed that it was AMOSPro_System:Interpreter_Config.AMOS which its true doesnt exist.  
+	a. Actually though if I run it from OUTSIDE AMOS it seems to run (like its a compiled program).  This is preferable since with this you can screw up the interpreter by loading the wrong extensions.   this is worthy of suggesting that you backup your config.
+	b. Also if I run from 2.00 off of floppy disk then it works ok from there too
+	c. If I copy the version of that file from the floppy then it launches properly.
+	d. However: No default configuration.  
+		it wont let me set the extensions right away, I have to 'load a configuration first' but it wont let me load or set a default configuration :( it will let me load other configuration and then I seem to be able to add extensions but lets make sure. Ok yeah it worked.
+	e. Holy shit the sticks extension is hardcore! the unregistered version brings up a huge yellow warning when you launch AMOSPro.  Does it do that every time?  how incredibly annoying!?!  If so I hope theres a full licensed version floating around or hope we can actually 
+	f. Well the sticks extension in slot 17 doesn't display its name in the about loaded extensions but maybe thats ok ... I dont know  ... lets see if any of those sticks demos run though ... the sticks one does and its a mess the rest dont.  Forget this. 
+37. When firing it up the resolution isnt quite right and you can see parts of the underlying program screen behind and above the AMOS Pro editor, until that is you hit the help button and it fixes itself.
+38.  Big problem: At least with the sticks extension installed my cursor keys arent working.  I dont suspect the sticks extension but I havent really tried my cursor keys before this.   what a weird thing to nto work. I can type to edit and all.
+	a. Booting from floppy I could use the cursor keys!  I wonder why ... lets go try it on WinUAE brb. From there with the same marc365 build it works too!  Try it with external kb in amospro nope doesnt work .  
+	c. Try it in amigaos proper.  Nope So its fsuae somehow  
+	b. Try it in a fresh install of marc365.  
+	Update: This is because FSUAE is being smart!  If it doesnt have a joystick connected then it overrides the cursor keys to be used as a joystick! Smart!  But I didnt know that so I thought they were broken.  So ... I can turn joystick port emulation off.  Yup I just turned the joystick off of amiga keyboard and the cursor keys started working!
+39.  Simplest ways to get AMOS Pro running
+	1. Booting directly from the 2.00 floppies.  this isn't the latest open source version which isn't all bad. but booting from floppies is slow and you have to swap disks.
+	2. From the marc635 github.  
+	3. using the amospdcd WB folders copying those files to a folder and pointing UAE DH0 to that folder.  and putting the marc365 folder in that folder too.  copy the libraries folder from that cd over to libs too
+40. to get the disks working you might have to do an assign command.  I did two because I forgot what it was looking for `assign APD002: <actual directory>` and `assign APD2: <actual directory` navigating to the actual directory in amigados wasn't instantaneous and I wonder if theres a way for it to be or for me to construct the commands on the mac in advance?  I also wonder if they will continue to expect those disk names.  Update: In the AMOS file selector you can click on Assigns and select the disks that are assigned from that menu!
+41. THi sis my process: hit start in FSUAE, Double click on AMOSPro, Right Command+L x2 then load what I want.  I have been adding the assigns in text edit on the mac before I do any of that.
+42.  Its cool that the mouse wheel works in amospro even if it doesnt work in the file inspector
+43. For amos pro I set the switch back to amos pro key to be shift left amiga a (it was amiga a but thats used by fsuae so to avoid any issues. .. maybe I should switch it back I dont know.  )   It was hard to switch in page 2 of interpreter config.
+44. switched it back so I didnt forget that i switched it (and since with full keyboard on it works just fine)
+
+	
+ Software:
+ 
+10. Now I'm looking at the Aminet amos-col.lha and there is some really cool stuff in here including a chaos demo with lots of cool features. One fun thing is I dont know how to quit without themusic still playing!  I dont know how it even has music since its just a source file with no blocks ... maybe its not though maybe the .AMOS has the graphics embedded?  Yeah I think thats right.  Flag works and Interface works but interface is real clunky, like I dont think its working as intended honestly.  I wonder if it worked better in 1.3 on AMOS 1.3?  Scroll works great and is cool when you hit a key.  
+	a. 3D_CUBE Simple 3D Cube
+	b. Really cool Demo with loads of cool FX
+	c. sin wave pixels
+	d. scrolling text in front of background image
+	e. Starfield
+	f. Zooming in and out of an image
+16. amosFAME.lha from Aminet
+	a. Well the deform picture works but i mean its 1fps or 2fps on 68040.  
+	b. Theres a cool pixel square tunnel
+17. ADBs_Games_Vol1 
+	a. These games worked when I assign Games_Vol1: GV1
+	b. Some of the source loaded too
+18. mob_city.lha and mob_city_src.lha this is great if you put the source in the same folder as mob city then it runs perfect from inside amos and has 300k of actual AMOS Source code for a point and click adventure game with tons of pixel art cartoony fun pictures.
+19. mummy.lha and all of its associated lha files put them all in one folder. and this is a fever dream theoretically targeted at children lol and all with lots of voice sound samples actually which is impressive.
+	a. Bangman works great but its sadistic!  Is a super simple game of hangman except when you put a wrong letter it says "Dynamite in the pocketypoos" and then when you are out of letters the kid pushes the lever and the guy gets blown up and screams!
+	b. chase is supid kidn of like memory but you dont get to see the answers first	
+	c. Choochoo is absurd like operation wolf "Shoot the naughty men and the shoes sweetie cheekie" Huge gameplay issue is the mouse stops when she starts talking!?!  had to run 68020 or there wasnt enough shooting time
+	d. Go troll is go fish with weird trolls!
+20. sneechsource.lha this one worked great and played great and is one of the best games I've seen on here.  The graphics were awesome too
+21. offlineSC is a good example of a text menu.  its for bbs which are offline to explain why they are offline.  I guess it even waits for calls and connects to modems and stuff.  The source runs and its a nice super simple text based menu system which stores your input.  
+23. Spot-it copy into the same folder and this is a great game of pixel art see what changed. I beat level 3!  250 pts no misses!
+24. necb colouring book works great has cute music and is a great coloruing book for kids of all ages.  Its easy and fun.  Right click pulls up the menu again. I think right click should also go into paint mode so maybe thats something I could make it do?  you can load paintings and save them.  I dont know if you can load any black and white iff and paint it but taht would be pretty cool!  Its funny because it has donald duck coloring pages which people wouldnt get away with now :)
+27. AMOSPD178 has a mastermind that doesnt run and a maze game of some kind where you die immediately: Update: if you run autoexec.AMOS then the mastermind runs well!  Theres a funny quirk where if you select information from teh menu to try to figure out the rules it totally resets your progress! haha!
+28. Interesting things in the aminet folder on teh AMOSPDCD: Fortunately there is an index of what is in there: Update of AMOS to 1.36.  Found out that the CUAmiga coverdisk from 1991 has 5 extensions and is version 1.35 so it could probably be updated with the aminet file.  Theres some AMOS programs from Amiga Computing 1992, EME is a Protracker and MED extension for AMOS and AMOSPro, another MED Player, several sets of extensions wiht misc features including at least one with screen scrolling features (JDLib although its in German its got lots of examples), a Maze generator, a rainbow maker, a Turbo extension, and a map maker (TAME), and an AGA extension called stars
+29. in Authors there are 38 authors with an average of 5-10 sample programs
+31. In Catalogue is a joystick reader software which can read from serial joysticks and caln also read 4 button joysticks!  Thats a pretty big deal if you ask me.  Its an extension.  Update: see above for getting it installed.  Its super annoying licenseware extension that shows a click through pop up warning when yous tart and quit amospro.  Super annoying, and also the demo programs work for shit.  
+33. in Extensions is Amos_Turbo (Which I also found on ultimate amiga turbo plus), easylife, eme, stars, sticks, JD
+34. The music folder on the CD has tons of tracks that I can listen to and presumedly use in my games!
+36. Loads of Samples for Trackers in the Samples folder
+38. RnD the following sections Authors - PD Disk Library - Aminet - Music - Samples - SourceCode - Sprites - Totally AMOS - 
+	a. I slightly tried loading the music but didnt figure it out yet.  Let me look in the manual
+42. Loads of [sound samples](https://www.amiga-stuff.com/pd/amospd.html) in the AMOSPD CD
+43. Loads of music in the same place.  To play the music the quickest way go to help and music and click on teh example program and from there load a bank.  Some standout tracks: AxelF, Beast, Backpopped (this is one I used to have OMG This takes me back so much!!!!), These were all converted from MODS.  Simpsons, mod4.  Listened to about 1/3 of them and half of them stunk but its cool to have them all available
+
+
+
+ Loads of interesting programs with source in the [AMOS PD Library](https://www.amiga-stuff.com/pd/amospd.html) about half way down
+*	APD200 Dungeon Master Shell game - wow its really cool!  I wish the enemy would be nicer or I wish you could attack it but at least on a 68040 its really freaking fast and could make a great game!
+*	APD245 light cycles (Wow this is super elegant and absolutely tiny like 2 pages of total code omg!), breakout (written in 1hr??? OMG this guy is a genius! and this is only like 4 pages of code), Sprite viewer
+*	APD256 SBV Sprite Bank Viewere and a music player.  Super Simple Joystick Tester, Phrase flipper is a fun little speech generation program! omfg Select+wipe is a fucking utility and doesnt bother asking you for confirmation. You're playing other games casually and then load this and then select a random file to see what fun can be had and it just ... deletes it without confirmation LOL I deleted two things because I didnt believe the first one was actually deleted.  Theres a great intro screen left to right starfield here.  s
+*	APD258 Glodrick Platform and ladders game.  the controls are way too fast I wonder if they arent frame independent.  Eric is an overhead kind of minesweepeer game.  The art on these is simple pixel art and the sophistication is low but they are complete games and have redeemign qualities like in eric when you blow up it shows you where all of the mines are. THe hangman doesnt run but I like how simple the code is though. 
+*	APD281 My Music Machine for making music.  I dont like using this program to make music however the code is super surprisingly simple for what it is. I would have thought it would have been so much more complicated. and I like how he presented the title screen with different color text.  I love that look. and I like how he used AMAL to have messages to the user float down from the top of the screen. Bunny Blast is a stupid but cute in its own way operation wolf duck hunt thing with bunnies
+*	APD286 Tron whoa nice! this uses JimPlaysGames Intro music!!! I feel like the timing is a little bit off on the AMOS music all of it like the stuff I listened to that was converted mods yesterday too.  This has some impressive presentation and features and I like how much time this person put into this game.  There are actually four levels to play in, two players and the music fades out softly when its time to play the game.  The in game sound should be turned off or way down its just annoying, but i really like that you can actually redefine the keys IN GAME!  Thats a pretty big feature for a little game like this and impresses me.  The tron logo is really nice graphics. Wow menus are really easy to do in AMOS.  I'm impressed by that too. the way they did keydef is actually really clever.  Brians Theme apparently based on an apple 2 program it draws interesting moire patterns at different resolutions and has a really cool rocking mod track from 'little richard' sounds alittle like rock and roll racing I enjoyed using this a lot and the menu and repeated pattern presentation is super classy.  Also it shows how to make the text cursor different which is a cool classy trick. and its a nice way to make a menu.  Its clear understandable code and actually teh algorithm that does all the work is short!
+*	APD295 Music Player (compiled), astrowars is wow amazing! sort of.  As it is its unplayable becuase its just a two player battle where turning and acceleration is vastly too fast but the sprites and the sounds if slowed down and the background would be really fantastic for an asteroids game. #continue
+*	APD296 GLOD a simple text adventure.  Its got a great sense of humor actually and im only on the title screen.  What I love about this is how old school basic this is. I'm reasonably sure this could have been done on c64.  I made some real progress but didnt win #continueplaying    Then Pro Grafeti is actually pretty damn cool.  the graphics and painting are surprisingly good.  The code is really well commented.  It lets you save and load your pictures which is bad ass and pixel perfect.  Apparently there are keyboard combinations for colors oh no that code is about clicking in the right zones to use as buttons for changing color.  It could be adapted reasonably easily I guess #continue
+*	APD298 Bobalizer music player.  This is a good ABK Music player.   Its got a delete feature.  HOpefully it asks for confirmation?  Why would you want a delete outside of the fiel system? lol!  Nope it doesnt confirm.  WHY WOULD YOU WANT THAT?  I guess because it can be done you should put it in your program.  I'm being too critical and picky its a great program and I'm more criticizing paradigms at the time than anythign else.  Interesting that AMOS songs seem to me to lose some speed, the rhythm just isnt perfect and this is no exception. Backpopped is one that you can really tell.  I just opened it in OctaMED and damn its so much better and clearer in there.  
+*	APD316 Cycle Racers, Asteroid Belt, Wheel of Fortune, To really get this running I had to "option 4 -- by harbinder ghag (/Users/johnmcgarey/Documents/FS-UAE/HardDrives)" add that to my DH2 hard drive and of course put the files from the disk in that folder.   This intro for Option4 is really good.  ITs a cool mod with a fantastic graphical font and also a starfield.  Option 4 seems to be a menu system for selecting your game.  	  Wow cycle racers is so fun (for what it is) its a simple multiplayer gambling game betting on races with simple clear interface and great presentation (especially noteworthy is the music and the musical transitions) the race is exciting because of the music but isnt belabored with much time spent.  its great. Asteroid Belt stinks but the high score entry is great and responsive.  Bat and ball is terrible too but with great high score entry and music.  He reused the music applying it cleverly to each game but its good music so thats not bad  
+*	APD371 AMOS3D Programs
+*	APD394 Copper Editor design rainbows
+*	APD395 Car race game
+*	APD411 Easy AMOS Programs converted!  Rainbow Warrior for coppers
+*	APD412 Second disk of easy amos
+*	APD446 some cool exmaples of ctext (requires Ctext which is apparently a demo text scroller of some sort)
+*	APD453 Asteroids, 119 other cool programs!
+*	APD460 Planet a basic shoot em up
+*	APD463 Rolling Horizon
+*	Loads of Scrollers or screen wipers or ctext things or rainbow or copper editors VUbars just search the index at the link above
+*	APD506 lunar patrol, blocktris
+*	APD532 Rallyx asteroids
+*	APD601 Galactic Gabby
+*	APD636 KarateManBob
+
+
+
+ Loads of interesting Utilities (source optional) in the [AMOS PD Library](https://www.amiga-stuff.com/pd/amospd.html) about 2/3 down
+*	APD052 Forms Really Unlimited
+*	APD063 Demo Producing easy
+*	APD134 SPectrapaint
+	
+	
+	
+ AMOS PD Library
+ Perusing the index of all of the [AMOS PD Library](https://www.amiga-stuff.com/pd/amospd.html) about 1/3 down is a list of all of the games with source in the whole library
+*	APD002 has a fun treasure seeking game kind of like battleship but with more clues with voice samples and fun pixel art.  I found the treasure!!! I had fun with this one.  The animation and art was super cute.  It was written by a STOS user (and "New Atari User" author) Peter Hickman and was the first real game to be made in AMOS in January 1990 6 months prior to AMOSs release.  He says lots of the STOS games will work in AMOS as well so read his column in New Atari User Mag  
+*	APD062 has an addictive breakout game with level editor
+*	APD085 is reversi and snakes
+*	APD097 Dynamite Dick collect treasure blast monsters
+*	APD123 Deadline by Aaron Fothergill (who made TOME)
+*	APD138 Languages game french German Spanish
+*	APD147 Skyblitz, Mahjong, SPInvaders
+*	APD149 Gobbit like QBert
+*	APD153 Missile Command
+*	APD175 FRANTIX and Mutant Zombie Psycho Pigs
+*	APD180 Dungeon Delver
+*	APD 182 Pixie Kingdom
+*	APD230 Asteroids 4 versions
+*	APD234 Tetris and Centipede 
+*	APD254 Pacman Tictactoe Adiran platform 
+*	APD277 Shufflepuck Cafe
+*	APD293 10 Grand Prix races
+*	APD332 Tetrix!
+*	APD334 Centipede
+*	APD340 Karate Worm platform game
+*	APD342 Ludicrous Sentences
+*	APD385 Rattlesnake Space Chaser Mazeman pacman
+*	APD386 Minigames Boardgame
+*	APD418 Text Adventure
+*	APD419 Platform Game Bounder
+*	APD431 Karate Worm II
+*	APD439 Great monopoly clone
+*	APD473 is AMOS Invaders
+*	APD485 Mahjongg
+*	APD494 Demons Breach platform game
+*	APD496 AMOS3D Boating Game!!!
+*	APD545 Invaders
+*	APD574 Karate Game
+*	APD577 Dragnet vertically scrolling shooter
+*	APD596 Universal Racer
+*	APD604 Jordan vs Shaq (4 disks?)
+*	APD610 Text Adventure Knightwoode
+*	APD622 4 way pacman and space invaders	
+	
+
+Found lots of extensions if you login to [the UltimateAmiga Forum](https://www.ultimateamiga.com/index.php?action=tpmod;dl=cat358)
+https://github.com/khval/kittyTurbo.library/blob/master/turboPlus_commands.md?fbclid=IwAR1gCWxMCpLj4eI4emWgLeY-k083wAWk8K9qjwMcAph80kl8k-sBxcIxIu8 this extension has fastest amos scrolling
+
+
+This is AMOS for OS4 http://os4depot.net/index.php?function=comments&file=development/language/amoskittens.lha
+
+
+
+For mac keyboards here are some of the missing keys
+Print Screen: Fn + Shift + F11
+Scroll Lock: Fn + Shift + F12
+Pause/Break: Fn + Escape
+Home: Fn + Left Arrow
+End: Fn + Right Arrow
+Page Down: Fn + Down Arrow
+Page Up: Fn + Up Arrow
+Forward Delete: Fn + Delete
+Insert: Fn + Enter
+
+
+Amiga Help = End (Mac laptops: Fn + Right)
+Amiga Delete = Delete (Mac laptops: Fn + Backspace)
+Amiga Numpad Left Paren = Home (Mac laptops: Fn + Left)
+Amiga Numpad Right Paren = Page Up (Mac laptops: Fn + Up)
+Amiga Left A = Page Down or Right Menu / Right Windows key.
+Amiga Right A = Left Menu / Left Windows key.
+Amiga Ctrl = Left Ctrl
+Amiga key to the left of Backspace = Insert
+
+https://fs-uae.net/docs/keyboard-mapping/comment-page-1
 
 
 ## Blitz ##
@@ -318,6 +518,105 @@ Or AmiBlitz3 https://github.com/AmiBlitz/AmiBlitz3 (Updated this month)
 Look for blitz books on ARchive.org
 
 Blitzmax is open source now! along with Blitz3D!  https://github.com/blitz-research
+
+
+
+
+# Painting for Programming #
+
+ Best For Me
+- [Acorn6](https://flyingmeat.com/acorn/) ($30) The art program for humans - best for mac - probably better than ps and certainly better than Pixelmator
+- CorelPainter (Own)
+- -----
+- Pixelmash (I think I have this in a humble)
+- [Pixelator](http://pixelatorapp.com/buy.html) $35 or free for noncommercial Converts Pictures into Pixel Art
+- -----
+- Dust 3D (my fav)
+- [Goxel](https://goxel.xyz) Great Voxel Editor for iPad!!!
+- Magicavoxel (not 2D)
+- -----
+- [Tilesetter](https://www.tilesetter.org) lots of great automation tilemap features 2 (Make Wang Tilesets) just $12.99
+- Tilekit (Patterns tiles and rules) ( do I already have this in a humble)
+
+
+ Classic
+- Deluxe Paint IV for Amiga (DPaint 3 is the classic used in many games)
+- Also Photon Paint 2, Also DigiPaint 3, Also Brilliance!
+- Grafx2 (is a paint program based on DPaint and Brilliance that has been around since 1996 (just a few short years after brilliance came out) and was originally MSDOS only)
+- Pixel art can be done in AMOSPro somewhat
+
+
+ Modern weird ones 
+- Fiji
+- [Pencil2D](https://en.wikipedia.org/wiki/Pencil2D) for cartoons animation onion skins
+
+ Mac
+- [Acorn6](https://flyingmeat.com/acorn/) ($30) The art program for humans - best for mac - probably better than ps
+- CorelPainter (Own)
+- -----
+- Bloom ($50) AWESOME Wow super procedural non destructive no matter what you do.  vector raster seamless.  layers, Brush strokes editable after creation
+- ArtRage looks amazing ($80)
+- -----
+- Pixelmator - I want to like this but I just dont (technically but its actually kind of terrible for this purpose even given the name)
+- Paint.net (windows only)
+- Pixia (windows only)
+- Krita [can be setup for pixel art](https://www.youtube.com/watch?v=tOqdE4JJOjU)
+
+
+ Lots for mobile and ios
+- Dont know the names
+
+
+ Pixel Art
+- Aesprite is best $20
+- Pixelmash (I think I have this in a humble)
+- -----
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) (free and advanced)
+- [Pixen](https://pixenapp.com/mac/index.html) Pixen $10
+- -----
+- [ProMotion](https://www.cosmigo.com) $40 Made to resemble deluxe paint
+- [PikoPixel](http://twilightedge.com/mac/pikopixel/)
+- [Slate](https://github.com/mitchcurtis/slate) foss and looks like they care about making it great and theres a discord60
+
+ Converter
+- [Pixelator](http://pixelatorapp.com/buy.html) $35 or free for noncommercial Converts Pictures into Pixel Art
+- [Pixatool](https://kronbits.itch.io/pixatool) $50
+- [Pyxelate](https://github.com/sedthh/pyxelate) Free python for converting to pixel art
+- [Pixelartor](https://chlebon.itch.io/pixelartor) Convert 3d models to 2d models	
+- -----
+- [pic2iso](https://kronbits.itch.io/pix2iso) convert to isometric looks like converts it to 3d model but it doesnt just to an image
+
+ 3D
+- [Pix3led](http://www.thedour.net/scripts.php#PIXELED) free and bevelling available.  have a feeling its separate cubes instead of one big mesh
+- Dust 3D (my fav)
+- Magicavoxel (not 2D)
+- [Goxel](https://goxel.xyz) Great Voxel Editor for iPad!!!
+- [Sprite to 3D](https://myselfxd.itch.io/sprite-to-3d) $4 does a good job of making a simple 3d model out of a sprite!
+- ----- Sprite Stackers
+- [Sprite Pile](https://seabass.itch.io/spritepile)
+- [Sprit3D](https://physdick.itch.io/sprit3d) Really cool onion skinning and visually showing where on the sprite you are
+- -----
+- Assetforge
+- Blender
+- ----- 
+- Wings
+- Neobarok
+
+
+Tiles
+- [Tilesetter](https://www.tilesetter.org) lots of great automation tilemap features 2 (Make Wang Tilesets) just $12.99
+- [PyxelEdit](https://pyxeledit.com)
+- Tilekit (Patterns tiles and rules) ( do I already have this in a humble)
+
+Heres a pixel art editor and actually a whole community about pixel art
+https://www.pixilart.com
+
+
+ FX
+- [PixelFX Designer](https://codemanu.itch.io/particle-fx-designer) this lets you make great pixel particle systems
+- [Juice FX](https://codemanu.itch.io/juicefx) $20 flash scale skew shake wobble jump wave
+- [Smear FX](https://codemanu.itch.io/smear-fx) $15 Just a little touch of smear can add a lot of value to animations and makes them feel smoother. 
+- [Dither Machine](https://lunarlabs.itch.io/dither-machine) lets you make dither patterns and then put them in your scnees.  Not much automated about it.
 
 
 
@@ -395,6 +694,15 @@ Command notes:
 I'm on lesson 16/29 and I'm a bit burned out.  Gonna go get a bath I think.
 
 # Assembly #
+
+Super Low Level Awesomeness
+* [NandToTetris](https://www.nand2tetris.org/project01) has a book and a coursera plus a load of free materials on the site (is the ebook on the site? I'm not sure ... it kind of looks like it is)
+* [Ben Eater](https://eater.net)
+* [Emulating A CPU](https://www.youtube.com/watch?v=qJgsuQoy9bc&list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)
+* [Javid9x](https://www.youtube.com/watch?v=F8kx56OZQhg) has an awesome series on emulating an NES 6502
+* [6502 Assembly](http://www.obelisk.me.uk/6502/) 
+* [Hack Machine Language](https://github.com/aalhour/Assembler.hack)
+
 ## Assembly onModern Mac ##
 This is actually pretty tricky to do assembly on modern systems unless you really know what you're doing.  
 
@@ -626,6 +934,23 @@ Tips:
 	12. How to name your different builds Name_Mac_1.1.
 		14. Go with 1.1 1.2 1.3 theres no reason to expect that you will get up to 1.9 during the jam and if you do then you can go to 2.0 or you can go to 1.91 (super unlikely) so for simplicitys sake even for tiny 1 line fixes go with 1.1 1.2 1.3
 4. Show 
+
+Tips:
+Incentive from a super successful dev (received 194 votes with only 27 given)
+"If you can make it past level 20, ping me (@cocapasteque) in the comments and I’ll make you a special car and include it under the Arc de Triomphe as a special easter egg for you :)"
+This one has a great page with lots of screenshots and gifs plus a gameplay video and a timelapse
+Totally Pro page with streamers who played it and articles about it https://idanro.itch.io/quetzalcoatl
+Tip Always link back to your LDJam page from your itch page (and from everwhereelse too  (because its hard/impossible to find) 
+
+
+
+
+Ludum Dare Streamers
+1. https://www.twitch.tv/jimplaysgames
+1. https://www.twitch.tv/elysiagriffin
+2. https://www.twitch.tv/honestdangames
+4. https://www.twitch.tv/birdwards
+
 
 
 # Github #

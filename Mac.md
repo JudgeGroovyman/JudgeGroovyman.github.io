@@ -1,17 +1,35 @@
 # Catalina #
 To get Unity games working on Mac Catalina
 
+I setup a shortcut to replace 
+macfix
+with
+1. `chmod +x Clone-Kitchen.app/Contents/MacOS/*` removes the "this application can’t be opened" problem
+2. `Right click -> Open -> Cancel -> Right Click -> Open -> Open` to get around the security of the mac gatekeeper
+
+
+## Cannot Open ##
 I just had to run this command:
 
 chmod +x loopfieldMacOS.app/Contents/MacOS/*​
 
 ​and then it worked like a charm.
 
+
+## Gatekeeper ##
 Also theres the Normal Mac Gatekeeper Workaround
 
 Just like with every other game like this on MacOSX I had to do the usual: rightclick->open->open to get around the MacOS Gatekeeper.
 
+Protracker2 clone says "To be able to actually run the program, you need to right click the .app/program and click "Open".
+This is only needed once, you can open it like normal after this."
 
+
+
+
+## Translocated ##
+
+Also https://16-bits.org/pt2.php this program when you get it running says "Critical Error - the program was translocated to a random sandbox environment for security reasons and thus it cant find and load protracker.ini.  Dont worry this is normal.  To fix the issue you need to move the program/.app somewhre to clear its QTN_FLAG_TRANSLOCATE flag." Then it tells you to move it somewhere else and back. "This is not my fault its a security concept introduced in macos 10.12 for unsigned programs downloaded and unzipped from the internet."
 
 # External Keyboard
 ### Home and End buttons

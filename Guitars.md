@@ -442,6 +442,10 @@ Billy Corgan apparently asked them to make this 21.5" scale guitar.  I want it! 
 Dean Zelinsky LaVoce
 In addition to its really special neck shape and feel its a lightweight skinny and beautiful les paul with special electronics (single coil, humbucker, and acoustic).  
 
+# Acoustic #
+- Seagull are best
+- Solid top if possible
+- Easiest to play is best
 
 
 # For Me #

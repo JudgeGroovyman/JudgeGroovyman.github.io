@@ -12,6 +12,12 @@ I can trace back the moment we got the Amiga, or the moment I fell in love with 
 * [AmigaSYS 4](https://www.amigasys.net/download.html) and here is [Version3 Setup](http://guide.abime.net/amigasys/chap1.htm)
 * [ClassicWB](http://classicwb.abime.net/) and [How to install in UAE](http://classicwb.abime.net/classicweb/instructionsuae.htm)
 
+https://www.amikit.amiga.sk/store this one loosk really good (but its commercial)
+
+Amiga Forever
+
+
+
 ### Classic WB ###
 In the [installation instructions](http://classicwb.abime.net/classicweb/instructionsuae.htm) there was a missing step:
 1. In step 3 in the paths tab I had to select 'WinUAE default(EXE directory' from a dropdown or it couldnt find my roms or my configurations.
@@ -33,7 +39,26 @@ The biggest problem with trying to run old computer software is they all assumed
 4. In the Amiga Desktop double click 'Software' on the left.
 5. And Voila!  whatever you have installed is in there somewhere.
 
-### Emulator Controls ##
+
+## Using a custom AmigaOS Install ##
+7. I think it might be cool to have strictly just AMOS running but with a hardfolder to save amos files.  Lets see if I can do that.  Yeah that worked.  Just workbench boot disk in DF0 and the hard disk folder as DH0 and it worked perfectly.
+6. So wow if I just point DH0 to a folder and copy the contents of the boot disk there then it boots up INSTANTLY which is really cool.  For some reason it doesnt have access to DH1 in that case though.  Update: Now it does for some reason.  Maybe something to do with the name of the folder previously being DH1
+8. It might also be cool to have that stuff in a hard disk folder ... I copied the show all files contents of the wb boot disk to DH0 and it booted INSTANTLY but doesnt recognize DH1 now
+9. Ok I got this working really well.  It didnt recognize DH1 as a drive because the folder that DH0 was pointing to was named DH1.  Fixed that and it has instant access and instant booting!
+10. I had to copy a .info file from one folder to another to get it to show up.
+11. Window mangagment is clumsy compared to a modern system but had a lot of great modern or nice or paradigm shifting features and is snappy as hell.  I like that you have to explicitly tell the window to come to the front.  Its probably not the right paradigm but it does give more control over what information you are seeing and have access to and thats awesome
+12. I was able to open the wb3.1 ADFs and just basically copied them all into their corresponding folders, the storage disk went into the devs folder.  You have to know just a bit about where the files go.  I think it would be better for most people (and probably me too) to install it using the official installer floppy.
+14. Super annoying and the number one reason I dont want to use AmigaOS Full time atm is when I'm typing something in all caps (a common activity for system files) and I make a typo so I hit backspace, it deletes teh entire line.  GRRRR!!!!  obviously there is a workaround for this and I can train myself not to do it and I have to an extent, but its so destructive for such a tiny slip up and so unforgiving that I find it hard to swallow
+15. I remember something called iconx which I think allowed you to launch programs from an icon kind of like a shell script
+16. on the AMOSPDCD in C theres most of the amiga programs like Assign and CD and everything.  but also there are some things I think I know what they do do CheckAGA, Digiviewer, DMS, DynaSHOW, cjpeg, BitPlanes, COMPRESS, FakeMouse, macview, muchmore, ppanim, pplay, ppmore, pploadseg, ppshow, pptype, Superview, UUDecode, UUEncode, and some things I dont know what they do: CliVa, DPSlide, Filenote, Findit, Fiz, hpcdtoppm, iconj, netpatch, netpnet-server, netstat.  added everything that wasnt already in my C to my C
+17. I also ripped lots of libraries from Library3.0 and Fonts from teh AMOSPDCD
+18. On the AMOS Pro CD there is Parnet is on this cd in a folder and some configs in the S folder also Sernet is on there and dnet too whatever that is.  Also in the Transfer folder is catalogue.dms floppy.dms and something called Twin which can apparently transfer files quickly and between amiga and msdos.  Reminds me of AmigaForever with that program to transfer ADF files something like AmigaExplorer.  I had that working for a year or two in college
+19. It almost looks like if you just copied the folders WB-1.3 or WB-2.0 or WB-3.0 from the AMOSPDCD to a folder and pointed DH0 to that it would be a complete bootable amiga workbench hard drive!?!
+20. ARQ was in the WBStartup and I dont know what it is but its on the list of most important amiga software (improves fiel requesters somehow, I updated it slightly from aminet).  Also AutoPoint (Select window under cursor), ClickToFront (bring to front when clicked on - would prefer when click on title bar), Exchange(for commodities), and NoClick(which stops the drive from clicking). which sound intriguing.  I think I'll use ClickToFront
+21. to get speech working you need narrator.device to be in your devs: and translator.library to be in your libs: and those will be in AmigaOS1 and 2 but not in 3.  In 3 you have to copy those from 2 or from the AMOSPDCD  Then speech works in AMOS immediately or should work with some command from the terminal or I remember an amiga Gui app with some settings that came with my amiga with [Speechtoy](http://aminet.net/package/util/wb/speechtoy2) which is apparently awesome.  Might also need speak-handler (in L:) and SPEAK: mountlist entry but those arent required for AMOSPro to speak!
+22. When I launch OctaMED (which works great generally) it has an AREXX Missing error every time I launch it "Can't Find AREXX's Port"
+
+### Emulator And Amiga Controls ##
 1. F12 to select a different configuration
 2. To get back to windows click the middle mouse button
 2. If you can't quit the game the normal way then you can probably quit with either F10, or the End key, or the * on the numpad and if none of that works hit F12 and then click reset in the bottom left.  To save high scores you have to quit the normal way.
@@ -41,6 +66,42 @@ The biggest problem with trying to run old computer software is they all assumed
 4. If you copied a folder and you think it should be there but its not showing up then right click ->redraw->update and then right click->show->all files
 5. The help key is PgDn
 6. The pause button on PC keyboard pauses the emulation entirely
+7. Quote key is Shift 2
+8. Single quote is backquote in top left
+23. I'm finding some shit in the keyboard shortcuts: I want to hit amiga-a when im on the workbench but fsuae has overridden that keyboard shortcut.  The only way to override fsuaes keyboard shortcuts is to hit alt-k to turn all of them off.  The way to configure them differently isnt clear in the docs or comments.  Further and shittier there are some fucked up ones.  You can be in the middle of something important and hti command-w and it mercilessly closes the amiga down without asking.  Or hit command-t and it mercilessly resets the amiga without asking
+24. To enable full keyboard emulation its alt or command k (one of those) then all keyboard commands go to the amiga (well almost all - alt tab still works and f12 still works but the fsuae specific ones dont) then to re-disable full keybaord its f12-k then you can like switch disks and change the volume and accidentally lose all your work and whatever.
+25. I set the default to be full keyboard emulation on which sends all commadns to the amiga.
+26. for amos pro I set the switch back to amos pro key to be shift left amiga a (it was amiga a but thats used by fsuae so to avoid any issues. .. maybe I should switch it back I dont know.  ) yeah I switched it back and with full keyboard off it works fine.
+27.  wtaf?  Command W (A common keyboard combination used all the time in other apps) slaughters your entire amiga?  It just closes it without asking.  EVEN WHEN FULL KEYBOARD EMULATION IS ON!!!  
+
+
+
+
+For mac keyboards here are some of the missing keys
+Print Screen: Fn + Shift + F11
+Scroll Lock: Fn + Shift + F12
+Pause/Break: Fn + Escape
+Home: Fn + Left Arrow
+End: Fn + Right Arrow
+Page Down: Fn + Down Arrow
+Page Up: Fn + Up Arrow
+Forward Delete: Fn + Delete
+Insert: Fn + Enter
+
+
+
+
+Amiga Help = End (Mac laptops: Fn + Right)
+Amiga Delete = Delete (Mac laptops: Fn + Backspace)
+Amiga Numpad Left Paren = Home (Mac laptops: Fn + Left)
+Amiga Numpad Right Paren = Page Up (Mac laptops: Fn + Up)
+Amiga Left A = Page Down or Right Menu / Right Windows key.
+Amiga Right A = Left Menu / Left Windows key.
+Amiga Ctrl = Left Ctrl
+Amiga key to the left of Backspace = Insert
+
+https://fs-uae.net/docs/keyboard-mapping/comment-page-1
+
 
 ### New Games ###
 Pinball Fantasies is already in the emulator in the Software folder.
@@ -1045,6 +1106,10 @@ Heavy.MED.lha
 
 Theres also a few collections like: MED-Songs.lha, cooltunes.lha, and MED_Collection.lha
 
+# Ripping Mods #
+I'm following this tutorial http://www.lemonamiga.com/forum/viewtopic.php?t=2617&sid=24cb5d21da4c4859680045641861b930
+
+- Have to restart the amiga with both buttons held down since that opens that special boot dialog box and saves more memory
 
 
 # Going through WHDLoad Collection #

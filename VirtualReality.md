@@ -5,7 +5,7 @@
 	- How not to solve it: Playing through your sickness isn't a good way to solve motion sickness.  During this training phase don't overdo it, pull off the helmet at the first sign of any discomfort or sickness or headache or after 5 minutes is up for the first few days.  After the first few days experiment with more than 5 min.  If you stop playing VR and then come back to it a month later you may have to break yourself back in over the course of a few days to get used to it again.
 2. Gatekeeping VR.  Motion Controls and roomscale are required to experience 'true VR' and if you arent doing 'true VR' then VR is a waste of money.  "VR isn't primarily about the motion controls, it's about feeling like you exist in a fictional game world." - Stereo3DProductions https://www.youtube.com/watch?v=1pf7T9txKsM
 	Gatekeeping VR is small minded
-	Virtual Reality devices aren't perfect Ready Player One level immersion yet and it will be a long time before we see anything like that mainstream.  Virtual Reality devices today are amazing tools that give you options for an enormous variety of immersive and entertaining and thrilling and chill experiences.  If you gatekeep yourself by deciding in advance what is and isn't true VR before you try things then you are hampering your experiences.  If what you want is motion controls, thats great, and I love them, but I dont always love them, sometimes I love the relaxing compact and unobtrusive nature of using a keyboard and mouse or gamepad control scheme and there are tons of VR experiences for which this is a great option if not the best option.  Gatekeeping someone elses experiences by saying its not true VR if it doesn't have motion controls gets under my skin because is limiting the breadth interested members in our community and attempting to limit the enjoyment and degree to which those in the community can leverage their devices to have peak experiences.  Besides gatekeeping VR based on motion controls isnt accurate since even with motion controls what we have today is not true VR (think the Matrix).  Motion controls are more VR than a gamepad, but they are not always more immersive and they are not always the most applicable or best control scheme.  Its only immersive if it doesn't get in your way so for someone used to a gamepad or keyboard and mouse who wants to have that experience but feel like they are in a 3d world then even a little bit of 6dof head tracking is instantly and deeply immersive, and if the control scheme is second nature then theres nothing to take you out of that immersive world.  If you're not used to using keyboard and mouse or gamepad then motion controls are a great place to start since you already know how to move your arms around so many in game motions are instantly second nature.  You can't replace motion controls with a gamepad, nor can you entirely replace the benefits of a gamepad (small size, long play comfort, ease, posture posture required, precision for some games), or a keyboard and mouse (many of the same advantages as the gamepad but with even more precision and more options (keys)), with motion controls.   I love motion controls. I also love keyboard and mouse.  I also love gamepads.  They're different and they're all great.  
+	Virtual Reality devices aren't perfect Ready Player One level immersion yet and it will be a long time before we see anything like that mainstream.  Virtual Reality devices today are amazing tools that give you options for an enormous variety of immersive and entertaining and thrilling and chill experiences.  If you gatekeep yourself by deciding in advance what is and isn't true VR before you try things then you are hampering your experiences.  If what you want is motion controls, thats great, and I love them, but I dont always love them, sometimes I love the relaxing compact and unobtrusive nature of using a keyboard and mouse or gamepad control scheme and there are tons of VR experiences for which this is a great option if not the best option.  Gatekeeping someone elses experiences by saying its not true VR if it doesn't have motion controls gets under my skin because is limiting the breadth interested members in our community and attempting to limit the enjoyment and degree to which those in the community can leverage their devices to have peak experiences.  Besides gatekeeping VR based on motion controls isnt accurate since even with motion controls what we have today is not true VR (think the Matrix).  Motion controls are more VR than a gamepad, but they are not always more immersive and they are not always the most applicable or best control scheme.  Its only immersive if it doesn't get in your way so for someone used to a gamepad or keyboard and mouse who wants to have that experience but feel like they are in a 3d world then even a little bit of 6dof head tracking is instantly and deeply immersive, and if the control scheme is second nature then theres nothing to take you out of that immersive world.  If you're not used to using keyboard and mouse or gamepad then motion controls are a great place to start since you already know how to move your arms around so many in game motions are instantly second nature.  You can't replace motion controls with a gamepad, nor can you entirely replace the benefits of a gamepad (small size, long play comfort, ease, posture posture required, precision for some games), or a keyboard and mouse (many of the same advantages as the gamepad but with even more precision and more options (keys)), with motion controls.   I love motion controls. I also love keyboard and mouse.  I also love gamepads.  They're different and they're all great.    Basically if you can get immersed without VR then you will be more immersed with VR.
 3. Gatekeeping VR based on locomotion technique.  Many of the same arguments about gatekeeping from the other answer apply here, but this one is even smaller minded.  If you prefer natural locomotion thats fine.  I agree that most expereinces should have natural and teleportation options and I completely understand if you dont want to use teleportation.  Perhaps it makes it less immersive, or for whatever reason you dont like it, but its vain (and inaccurate) to imagine that what you think is right is anything more than your personal preference even if you have asked around and the people around you seem to agree.  Its not helping welcome new people into our community to have great experiences and its dulling the experiences of some people within the community by making them second guess whether their preference is really best and none of this is helpful.  
 
 
@@ -232,6 +232,47 @@ Cristi got through it.  The simplest way is to play something that makes you sic
 10. PCSX2 ps2 emulation
 
 List of emulators that support 3d or VR https://emulation.gametechwiki.com/index.php/Virtual_Reality
+
+# Simple Cheap VR #
+Lots of VR can be experienced on a normal gaming pc with inexpensive VR Headset
+
+1. GZDoom
+2. Quake VR
+2. Citra
+3. Dolphin
+4. 3DSen
+
+
+Games with gamepad or keyboard mouse controls:
+(some of these will require a beefier PC)
+1. Overload (Descent Descendant)
+2. Lucky's Tale
+3. Tinertia
+4. Ultrawings
+6. SkyrimVR (Gamepad)
+7. Alien Isolation
+8. Edge of Nowhere
+12. Subnautica
+13. Hellblade: Senuas Sacrifice
+14. Pixel Ripped 1989
+15. Monstrum
+19. Assetto Corsa
+21. Thumper
+23. Everspace
+
+
+Havent played
+1. Dirt Rally
+16. Project Cars 2
+17. Yooka Laylee VR
+10. Battlezone
+11. Chronos
+5. Vox Machinae
+9. Blaze Rush (havent played)
+18. Legend of Dungeon (Doll House layout - setup keyboard input on your controller - gamepad support might not work in VR for some reason)
+22. Distance (Like trackmania but with more hazards and wings)
+23. House of the Dying Sun
+24. Vector36 "The more I play this the more I love it, the level of control is sublime and the feeling of presence is second to none. Can't recommend it enough, best racer I've ever played by a mile."
 
 # Some trickier 3D solutions #
 1. using CEMU to [emulate wiiu](https://www.reddit.com/r/oculus/comments/7rx0tm/bigscreen_vs_virtual_desktop_a_detailed_comparison/dtui2gq/) with SBS Stereoscopic
