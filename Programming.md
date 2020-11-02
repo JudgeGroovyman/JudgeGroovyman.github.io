@@ -522,7 +522,7 @@ Blitzmax is open source now! along with Blitz3D!  https://github.com/blitz-resea
 
 
 
-# Painting for Programming #
+# Painting for Programming  Pixel Art #
 
  Best For Me
 - [Acorn6](https://flyingmeat.com/acorn/) ($30) The art program for humans - best for mac - probably better than ps and certainly better than Pixelmator
@@ -531,6 +531,7 @@ Blitzmax is open source now! along with Blitz3D!  https://github.com/blitz-resea
 - Pixelmash (I think I have this in a humble)
 - [Pixelator](http://pixelatorapp.com/buy.html) $35 or free for noncommercial Converts Pictures into Pixel Art
 - -----
+- [Sprytile](https://jeiel.itch.io/sprytile)  Plus [Sprytile Discord532](https://discord.com/invite/mSGcp8U) OMG this is perfect.  I love this look so damn much.  It has to be how the game Compound graphics were made.  Constant Updates too!
 - Dust 3D (my fav)
 - [Goxel](https://goxel.xyz) Great Voxel Editor for iPad!!!
 - Magicavoxel (not 2D)
@@ -592,6 +593,7 @@ Blitzmax is open source now! along with Blitz3D!  https://github.com/blitz-resea
 - Magicavoxel (not 2D)
 - [Goxel](https://goxel.xyz) Great Voxel Editor for iPad!!!
 - [Sprite to 3D](https://myselfxd.itch.io/sprite-to-3d) $4 does a good job of making a simple 3d model out of a sprite!
+- [Sprytile](https://jeiel.itch.io/sprytile)  Plus [Sprytile Discord532](https://discord.com/invite/mSGcp8U) OMG this is perfect.  I love this look so damn much.  It has to be how the game Compound graphics were made   Constant Updates too!
 - ----- Sprite Stackers
 - [Sprite Pile](https://seabass.itch.io/spritepile)
 - [Sprit3D](https://physdick.itch.io/sprit3d) Really cool onion skinning and visually showing where on the sprite you are
@@ -607,6 +609,8 @@ Tiles
 - [Tilesetter](https://www.tilesetter.org) lots of great automation tilemap features 2 (Make Wang Tilesets) just $12.99
 - [PyxelEdit](https://pyxeledit.com)
 - Tilekit (Patterns tiles and rules) ( do I already have this in a humble)
+- [Zixel](https://itch.io/queue/c/189954/game-dev-tools?game_id=303653) Lets you make repeating tile patterns
+- [How to use tilemaps](https://www.youtube.com/watch?v=hZMD5dK4jIE) shows how to use smart rule tiles!  also shows how to paint with prefabs to make 3d environments with tilemaps
 
 Heres a pixel art editor and actually a whole community about pixel art
 https://www.pixilart.com
@@ -1039,7 +1043,6 @@ Dual Wield
 Lock on system
 Flashlight
 in game camera
-
 
 
 

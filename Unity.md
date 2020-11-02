@@ -168,3 +168,61 @@ I haven't tested it with a 'refactor' style rename since this class was small an
 Visual Studio Code
 This is some [tutorial for making it work great with VSCode](https://code.visualstudio.com/docs/other/unity)
 Here's [How to Debug](https://github.com/Unity-Technologies/vscode-unity-debug)
+
+
+# Making a 2D Platformer in Unity #
+
+* Using the [Free Sunnyland Asset Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
+* Started with Starting Point 2
+	* First problems are because of where that left off and how different I want it now
+	* High score list seems to be in the way all the time
+	* Build settings were messed up 
+* When I cleared out the level the player was falling into nothing so I put a little wooden platform below the player (arranged the arrow above the player)
+* going back and forth on whether to incorporate this awesome [2D Platformer Controller](https://github.com/akashenen/2d-platformer-controller).  I'm sure I would have an advanced controller up and running faster if I did, however I like the idea of continuing to build my own.  I think I'll do my own for now by basically porting my other one.
+* Its not too hard implementing the interfaces and if I do that then I can just fill in the basic movement and it shoudl be good.  Should only take an hour (we will see about that though)
+* I think I got all of the interfaces including teleporting in under an hour (of actual work) Now I can just add the movement 
+* So Ive got the controls working a bit but now I need to animate the sprite.  Maybe I can use some of that enemy sprite class I made before
+* I feel like I should generalize all of my controllers to work with 2d or 3d.  Theyre remarkably similar. 
+* I had to adjust the circle collider so the sprite was more touching the ground.
+* Theres significant tearing between the tiles on the tilemap.  I know you can like slightly overlap them but there must be abetter way (maybe not)
+* Movement is just jerky at fast speeds (probably an update vs fixed update issue)
+* Don't like that the player keeps going up almmost as long as the button is held.
+* Also now that I moved the sprite to a child object of hte collider now the teleport has an error or something 
+* Spent a day on and off getting grounded to work.  Turns out that probably the whole time it was an issue of the rays casting into the player and therefore always being true
+* In the process of solving that I just dont like how the jump is working so I'm going to put the jump fix into the main jump mechanic somehow and fix it
+* Put a speed limit on how fast you can fall and fly and a speed limit on how fast you can run.
+* Now I feel like I totally broke the entire jump mechanic.  
+* Ok I'm giving up on my custom code at least for a while and goign to use [the github one](https://github.com/akashenen/2d-platformer-controller).  I found out I had used it about 1 year ago because it was already in my downloads folder under that name ahha
+	* Importing that package isnt instantly working because of a new input system but there are errors because it cant find it.  Maybe its my assembly definitions?  Maybe I will try it in an empty 2d project? 
+	* 2019.2.11f1
+	* Well It looks like some other people have had the same problem and although I figured it out on my own there are two things you need to fix: Change the import from unityengine.experimental.input to uintyengine.inputsystem (after you've imported it from teh package manager)
+	* Also you have to change 'cancelled' to 'canceled' in one cs file (that will be obvious from the errors)
+	* Also theres an issue with vcam in all of the scenes and I had to go back to an old version on my other PC to figure this out but theres also an issue where apparently cinemachine has to be there when you import it (Havent tried this yet)
+	* As of now even after importing cinemachine none of the demo scenes worked and I'm starting to think its an input problem
+	* Got it all working!  also had to add this line to the player controller awake `controls = new InputMaster();` and it all started working!
+	* Lets try this in 2019.4.12f1
+	* oh yeah and you have to remove the Input/InputMaster.cs once you've imported the inputsystem.
+	* Actually it worked perfectly. All I did was 
+		* import inputsystem and cinemachine, 
+		* I said yes when it wanted me to restart to use the new input system and disable the old and restart. 
+		* Then I acccepted some other warning popup 
+		* Then I removed the 2D-Platformer-Controller-Master/Assets/Input/InputMaster.cs
+		* Loaded the 'testing room' scene and it worked perfectly (keyboard and gamepad)
+	* Its even got squishing when you land and jump!
+	* Biggest possible disadvantage: 
+	* Also theres a problem where you fall through the vertically moving platforms even after adjusting the rigidbody. It makes those platforms and that whole mechanic feel cheap.  Also the horizontally moving platforms you can't jump off of them in teh way you would expect and the physics are just a little weird, not broken but not familiar or great or really polished either.  
+	* I feel like I would like to add [these features](https://www.youtube.com/watch?v=RPdn3r_tqcM) to this repo
+	* First though I would like to fix the broken parts of the repo
+* Ok so now since I've got the github controller working well (at least for its capabilities)
+* Theres not much camera follow the way the cameras are configured.  It seems to just lurch to the next scrolled over screen
+* Also there is still tearing in the tilemap (but its not as bad as before honestly)
+* The character doesnt have a sprite anymore
+* Also the square collider gets pretty stuck step by step on the hill ramp. This ended up being due to the custom physics shapes needing manual adjustment in the sprite import settings
+* The animation system is objecting since my animator doesnt have many of the parameters that the code is setting
+* It was tricky to get the animation working since the sprite was on a different object and all of the code expected it to be on that object (and even required it).  
+* Theres probably a perfect place to set the left right sprite flip but its taken me a while to find a good candidate.  I want to do it based on the animator parameter FacingRight.  Lets see if it works
+	* I feel like I've got the perfect solution but it doesnt work: based on the animator parameter facing right I made a new animation layer and all that happens there is changing the flip x on the sprite renderer.  The states are being activated properly (i can see them in the animator view) but the sprite isnt flipping.  I noticed that even if I try to check the box in the inspector it doesnt flip
+	* I'm going to try to make a simpler animator that just flips the sprite.  Yes that simple animator with just the one layer works.  The layer also works if you make it first in the layer list.  I had it as additive but changed it to override to test things.  When its override and first in teh layer list it works.  When its additive (even as the first layer) or after the base layer it doesn't work.
+	* I got this part working: change the layer settings to Override with weight 1.
+* So the squish animations stopped working when I applied them to my new character sprites.  I had to re-do them by selecting them, selecting the animation in the animation editor drop down top left, then adding the scale property and copypasting all of the keyframes over to the new sprite scaliing properties.  Then they worked.
+

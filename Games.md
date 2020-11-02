@@ -380,7 +380,7 @@ https://ldjam.com/events/ludum-dare/47/escape-velokitty
 * [Hyper Loop Runner](https://ldjam.com/events/ludum-dare/47/hyper-loop-runner) This has great graphics kind of like Fzero super fx chip scaling!  the windows java jar runs perfectly on Mac (well the opening sccreen text is a bit funny).  I loved teh controls.  Its such a cool concept you have to hit the blue side of the rift.
 * [Orb Chamber](https://ldjam.com/events/ludum-dare/47/orb-chamber-delta) wow this was so good it was metroid vania in a big room and i won!  I got a screenshot
 * [Quotes](https://ldjam.com/events/ludum-dare/47/quotes) I really liked this only wish they moved faster.
-
+* [Bullet of Sysiphus](https://ldjam.com/events/ludum-dare/47/the-bullet-of-sisyphus) IN this game you battle a beast who is far too powerful for you but every time he kills you the battle starts over and his life recharges and you go again but this time your ghost does the same damage it did before plus you get to do as much damage as you can.  After a while with enough combined firepower he goes down.
 
 Mechanics:
 The Way Back had a great mechanic but Id like to expand upon it: You get 60 seconds to make progress and from every checkpoint progress can be made to get to the next checkpoint.  kind of like VVVVVV but it can be a big set of screens as long as you can do the job in 60s.
@@ -388,6 +388,7 @@ In Station 8 every time you die you keep everything youve collected on the level
 In Eternal Run it gave me the idea to only allow ammo refills for weapon a when weapon b is equipped and only allow life refills when no weapon is equipped
 Paradox Planet inspired me to the idea of a certain number of enemies which respawn after a certain time but makign them unique and hte best strategy is killing them intentionally so they dont all attack at once because if they do you die.  so kill one then run for a bit before you kill the next or when they all wake up they will be awake all at once
 IN quotes you assemble quotes by going in the right order and then going back to your lander if you get the order wrong then you try again.  I really liked this
+In Bullet of Sysiphus every time you die the fight starts over with the enemy doing the same attack patterns but this time yoru ghost is doing their damage too.
 
  Most interesting to build upon
 * [Infinite Pinball](https://ldjam.com/events/ludum-dare/47/infinite-pinball) The code for this game Unity Project) is [on github](https://github.com/nickbarrash/ld47-infinite-pinball) This is the closest Ive felt to rollerball since rollerball and I loved the feeling.  #inspiration
@@ -429,25 +430,24 @@ How did they do this?
 Need more votes
 No This has 26 given and 194 received
 ------------------------------ Epic tragedies if they didnt make it
-https://ldjam.com/events/ludum-dare/47/electron-the-electrical-engineer one of the best games of the jams (Given 24 reviews! 14 received only Needs 6 more) Update: MADE IT!!!
-https://ldjam.com/events/ludum-dare/47/repeater (10 given 10 received) One of the coolest smoothest experiences in the compo so far
-https://ldjam.com/events/ludum-dare/47/repeater-1 (7k 24g 16r) 
-https://ldjam.com/events/ludum-dare/47/emojavoid (13k 10g 14r)
------------------------------- Great
-https://ldjam.com/events/ludum-dare/47/quotes (28 17) https://ldjam.com/events/ludum-dare/47/energy-loop (4 12) this is great and I loved it
-https://ldjam.com/events/ludum-dare/47/afterimage (o given 6 received) a great game with a few tightly woven and incredibly innovative mechanics 11 in the innovation category
-https://ldjam.com/events/ludum-dare/47/robot-fight (0 given 5 received) this is a GREAT game I gave 5 stars one of the most underrated games in the comp
-https://ldjam.com/events/ludum-dare/47/orb-chamber-delta (0 given 6 received) (Loved playing and beating this)
-https://ldjam.com/events/ludum-dare/47/asteroid-loop (6 8) a tightly executed asteroids on a loop
+
+I've been keeping track of games that are good but whose authors didnt take the time to rate other games.  The first set here are great games imho and the second set are very good so I wanted to give a shoutout to them at the last minute and if you're looking for some good ones to rate here are some options:
+Great
+https://ldjam.com/events/ludum-dare/47/afterimage (0k 0given 6received) a puzzle platform game with a few tightly woven and incredibly innovative mechanics (even involving asynchronous multiplayer).
+https://ldjam.com/events/ludum-dare/47/robot-fight (0 0 6) solve puzzles by programming robots to fight
+------------------------------ Good
+https://ldjam.com/events/ludum-dare/47/orb-chamber-delta (0 0 7) simple fun 15 minute metroidvania with a chaotic feel
+https://ldjam.com/events/ludum-dare/47/beatbox-gardener (3 4 11) super chill build a garden with a nice chiptune loop
+https://ldjam.com/events/ludum-dare/47/the-bullet-of-sisyphus (0 0 13) your ghosts attack the boss with you
+https://ldjam.com/events/ludum-dare/47/orbital-defense-cannon (1k 3g 8r) clever asteroids earth defence
+https://ldjam.com/events/ludum-dare/47/asteroid-loop (1 6 8) a tightly executed asteroids with an unusual loop based control scheme
+https://ldjam.com/events/ludum-dare/47/vibe-rider (0 0 5) beautiful racer on a mobius strip
 ------------------------------ Good
 https://ldjam.com/events/ludum-dare/47/stuck-in-a-tutorial (0 4) I liked this (win web mac linux)
-https://ldjam.com/events/ludum-dare/47/the-lord-of-time (28 given only 16 received)
-https://ldjam.com/events/ludum-dare/47/gunguin (12 given 17 received) I liked this game
-https://ldjam.com/events/ludum-dare/47/vibe-rider (0 5) beautiful but not sure what to do
 https://ldjam.com/events/ludum-dare/47/breakaway (6  14) Interesting like elemental gauntlet
-https://ldjam.com/events/ludum-dare/47/the-way-back 
-https://ldjam.com/events/ludum-dare/47/loop-loop-loop (1 5) its a fun but really hard platform game in a loop
-------------------------------
+https://ldjam.com/events/ludum-dare/47/the-way-back  (0 0 6)
+https://ldjam.com/events/ludum-dare/47/loop-loop-loop (0 1 7) (1 5) its a fun but really hard platform game in a loop
+------------------------------ I dont know about these
 https://ldjam.com/events/ludum-dare/47/super-loop-racer (0 given 5 received)
 https://ldjam.com/events/ludum-dare/47/the-altar-beckons
 https://ldjam.com/events/ludum-dare/47/break-it
@@ -465,6 +465,20 @@ https://ldjam.com/events/ludum-dare/47/disateroids (8 given 11 received)
 https://ldjam.com/events/ludum-dare/47/loworbit (10 given 14 received) I didnt think terribly highly of this game
 https://ldjam.com/events/ludum-dare/47/get-process-and-feed-food-bad-buttons-game (0 4) 
 ------------------------------
+
+
+------------------------------ MADE IT YAY
+https://ldjam.com/events/ludum-dare/47/gunguin (12 given 17 received) I liked this game
+https://ldjam.com/events/ludum-dare/47/the-lord-of-time (28 given only 16 received)
+https://ldjam.com/events/ludum-dare/47/repeater-1 (7k 24g 16r) 
+https://ldjam.com/events/ludum-dare/47/quotes (28 17) 
+https://ldjam.com/events/ludum-dare/47/electron-the-electrical-engineer one of the best games of the jams (Given 24 reviews! 14 received only Needs 6 more) Update: MADE IT!!!
+https://ldjam.com/events/ludum-dare/47/repeater (10 given 10 received) One of the coolest smoothest experiences in the compo so far
+https://ldjam.com/events/ludum-dare/47/emojavoid (13k 10g 14r)
+https://ldjam.com/events/ludum-dare/47/energy-loop (4 12) this is great and I loved it
+
+
+
 
 
 I found some good tags on other projects:

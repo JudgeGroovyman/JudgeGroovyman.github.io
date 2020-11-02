@@ -2,6 +2,10 @@
 
 This is just a small portion of notes that I happened to make from my twitch watching.
 
+BradWendtRoss
+Potato
+https://clips.twitch.tv/EnergeticAnnoyingHeronMVGame
+
 ThatFamilyGames
 at 8:40 on Wed Aug 5 she beat level 1-3 of Kid Icarus!
 https://clips.twitch.tv/BumblingWiseDumplings4Head

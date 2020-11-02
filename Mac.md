@@ -64,3 +64,13 @@ Well it works but recording is a problem but there are a bunch of threads showin
 I was able to record with it when I launched it from the terminal.  It sure seems like its running slowly tho
 
 Perhaps its not an issue with the latest version when using the [provided instructions](https://www.audacityteam.org/download/mac/)
+
+
+# Video #
+I've been using Smart Converter for video compression for a long time but ... 
+Handbrake lets you also change the resolution which makes the videos WAY Smaller
+
+# Terminal #
+Need a way to get between the folder you are in right now in the terminal and in the finder and vice versa
+
+actually you need a way to open a new finder window in the same folder instantly too but thats not a terminal issue
