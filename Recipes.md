@@ -1,3 +1,13 @@
+# Crafty Unicorn #
+Uses these seasonings in lots of dishes
+
+lemon pepper
+seasonall
+fresh parsley
+fresh garlic
+zatarains black and pepper seasoning
+
+
 # Beans #
 - 1lb Beans
 - 4.5c water (chicken bone broth?)

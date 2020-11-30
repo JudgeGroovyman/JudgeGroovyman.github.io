@@ -562,3 +562,29 @@ Easiest mods to make it great quick
 4. Kingdom EMGtv
 	https://www.youtube.com/watch?v=nubJjB95VdY 6min
 	
+## Oct 2020 ##
+I've been thinking more and more about evertune and it seems like a really good idea.
+Ive also been thinking about the Dean Zelinsky guitars
+
+
+* Ovation 
+	* AND I just found a crazy awesome funky styled vintage Ovation electric guitar [in this video](https://www.youtube.com/watch?v=UvkZ5-HWW6s).  There are some awesome SG style ones from the 70s but especially Breadwinner or ... The Eastwood Breadwinner is a clone of the funky one!  Viper Preacher ultra GT look awesome too!
+	* PLUS the vintage 70s ones are just $600 or so!  Some are more like $1500.  Some of the Ultra GP or GT have carved maple tops like a Les Paul!  It looks like teh Eastwoods are licensed or something.  
+	* The Small SG Jr looking blonde ash one is 8.8lbs though :(  
+	* Some have Ebony Fretboards!  
+	* The 2007 models are made in USA sell for $800 used have piezos and SD59s spruce top and mahogany back (belly carve too) and neck and look great
+
+
+They just became one of my favorite guitar brands!
+Off the top of my head:
+Ovation
+Dean Zelinsky
+PRS X and S2 line
+Dean Professional
+US Masters EP RK
+US Masters all
+Reverend 
+
+
+
+	

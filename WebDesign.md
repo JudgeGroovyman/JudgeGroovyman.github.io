@@ -102,6 +102,7 @@ best name that cristi invented Optimule.com (available)
 4. [Gatsby](https://www.gatsbyjs.com) React-based open source framework for websites and apps.  "Fast in every way that matters"  "Create a complete website in the time it takes to build a prototype" 2000+ plugins.   Themes! [Gatsby Wysiwyg with Sanity.io](https://www.youtube.com/watch?v=SLGkyodumKI).  [Tina-Starter-Grande](https://github.com/tinacms/tina-starter-grande) is a fresh starter for Gatsby that lets you edit things wysiwyg.  easy theme customization.  Parallax Hero.  Sanity.io is a headless CMS for Gatsby and is free for 3 users.  [4000 member chat](https://spectrum.chat/gatsby-js/general?tab=posts)  [Some Gatsby Sites pay $0 for hosting!](https://www.gatsbyjs.com/blog/100days-free-hosting/)  [Gatsby vs a few others](https://pagepro.co/blog/is-gatsbyjs-the-best-framework-for-building-static-websites-what-are-the-other-alternatives/)
 10. [Vitepress](https://github.com/vuejs/vitepress) 	Free Forever	near instant hot reload and publish.   Really want to try this.	#TryThis Docs say its not ready for prime time
  - ----------------------------- 
+1. [Nift](https://nift.dev) Fastest of all pretty much.  
 2. A comparison of [Gatsby vs Jeckyll vs Hugo](https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo) which is on the gatsby site so it might be biased but still.  
 5. [Pelican](https://blog.getpelican.com)
 6. [Poet](http://jsantell.github.io/poet/) Looks great for hackers.  A bit over my head but probably super fast to get going. 2019 update

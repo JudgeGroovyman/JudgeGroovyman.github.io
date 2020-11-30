@@ -18,7 +18,13 @@ Levels of Sophistication
 
 For Some of these engines the showcases they have so far its a stretch to say that they could make mid 80s games.  For others its easy for them to make crappy looking early 90s games but making a good looking game from any era is out of their reach.  
 
+ Games about programming
+1. https://pleasingfungus.itch.io/silicon-zeroes "The best game about CPU design that I can imagine"
+2. Human Resource Machine
 
+ Code playgrounds online
+* [Playcode](https://playcode.io/)
+* [Embed your code in a website](trinket.io)
 
 # Programming Books #
 for books more than a few years old archive.org holy crap
@@ -397,8 +403,9 @@ How to get 3d extensions (like in 2011 amos for windows), AMCAF, and Easylife wo
 
 
  Loads of interesting programs with source in the [AMOS PD Library](https://www.amiga-stuff.com/pd/amospd.html) about half way down
-*	APD200 Dungeon Master Shell game - wow its really cool!  I wish the enemy would be nicer or I wish you could attack it but at least on a 68040 its really freaking fast and could make a great game!
-*	APD245 light cycles (Wow this is super elegant and absolutely tiny like 2 pages of total code omg!), breakout (written in 1hr??? OMG this guy is a genius! and this is only like 4 pages of code), Sprite viewer
+* How I'm doing this: 1. I'm using fs-uae and in mac going into the harddisk directory and editing the fiel s:startup-sequence and adding assigns for each disk that I want to run so I can just click on assigns in the file selector menu instead of navigating there every time.  I had already extracted all of the cd rom files to a folder near the amos pro folder. Then I use fs-use amos pro dh0 full and run amos pro and command l to load and then click assigns and then open the program I want.  
+*	APD200 Dungeon Master Shell game - wow its really cool!  I wish the enemy would be nicer or I wish you could attack it but at least on a 68040 its really freaking fast and could make a great game!  #continue
+*	APD245 light cycles (Wow this is super elegant and absolutely tiny like 2 pages of total code omg!) #continue, breakout (written in 1hr??? OMG this guy is a genius! and this is only like 4 pages of code) #continue , Sprite viewer  
 *	APD256 SBV Sprite Bank Viewere and a music player.  Super Simple Joystick Tester, Phrase flipper is a fun little speech generation program! omfg Select+wipe is a fucking utility and doesnt bother asking you for confirmation. You're playing other games casually and then load this and then select a random file to see what fun can be had and it just ... deletes it without confirmation LOL I deleted two things because I didnt believe the first one was actually deleted.  Theres a great intro screen left to right starfield here.  s
 *	APD258 Glodrick Platform and ladders game.  the controls are way too fast I wonder if they arent frame independent.  Eric is an overhead kind of minesweepeer game.  The art on these is simple pixel art and the sophistication is low but they are complete games and have redeemign qualities like in eric when you blow up it shows you where all of the mines are. THe hangman doesnt run but I like how simple the code is though. 
 *	APD281 My Music Machine for making music.  I dont like using this program to make music however the code is super surprisingly simple for what it is. I would have thought it would have been so much more complicated. and I like how he presented the title screen with different color text.  I love that look. and I like how he used AMAL to have messages to the user float down from the top of the screen. Bunny Blast is a stupid but cute in its own way operation wolf duck hunt thing with bunnies
@@ -407,20 +414,20 @@ How to get 3d extensions (like in 2011 amos for windows), AMCAF, and Easylife wo
 *	APD296 GLOD a simple text adventure.  Its got a great sense of humor actually and im only on the title screen.  What I love about this is how old school basic this is. I'm reasonably sure this could have been done on c64.  I made some real progress but didnt win #continueplaying    Then Pro Grafeti is actually pretty damn cool.  the graphics and painting are surprisingly good.  The code is really well commented.  It lets you save and load your pictures which is bad ass and pixel perfect.  Apparently there are keyboard combinations for colors oh no that code is about clicking in the right zones to use as buttons for changing color.  It could be adapted reasonably easily I guess #continue
 *	APD298 Bobalizer music player.  This is a good ABK Music player.   Its got a delete feature.  HOpefully it asks for confirmation?  Why would you want a delete outside of the fiel system? lol!  Nope it doesnt confirm.  WHY WOULD YOU WANT THAT?  I guess because it can be done you should put it in your program.  I'm being too critical and picky its a great program and I'm more criticizing paradigms at the time than anythign else.  Interesting that AMOS songs seem to me to lose some speed, the rhythm just isnt perfect and this is no exception. Backpopped is one that you can really tell.  I just opened it in OctaMED and damn its so much better and clearer in there.  
 *	APD316 Cycle Racers, Asteroid Belt, Wheel of Fortune, To really get this running I had to "option 4 -- by harbinder ghag (/Users/johnmcgarey/Documents/FS-UAE/HardDrives)" add that to my DH2 hard drive and of course put the files from the disk in that folder.   This intro for Option4 is really good.  ITs a cool mod with a fantastic graphical font and also a starfield.  Option 4 seems to be a menu system for selecting your game.  	  Wow cycle racers is so fun (for what it is) its a simple multiplayer gambling game betting on races with simple clear interface and great presentation (especially noteworthy is the music and the musical transitions) the race is exciting because of the music but isnt belabored with much time spent.  its great. Asteroid Belt stinks but the high score entry is great and responsive.  Bat and ball is terrible too but with great high score entry and music.  He reused the music applying it cleverly to each game but its good music so thats not bad  
-*	APD371 AMOS3D Programs
-*	APD394 Copper Editor design rainbows
-*	APD395 Car race game
-*	APD411 Easy AMOS Programs converted!  Rainbow Warrior for coppers
-*	APD412 Second disk of easy amos
+*	APD371 AMOS3D Programs - Behind.amos (28k) is a roguelike controls ish with l for look and t for take and o for open but its super clumsy though.  The goal seems to be escaping from your bedroom.  Bens Theme (.5k) is like 15 lines and makes a cool pixel pattern.  Factor Waves (3k) you inptu a number and it calculates its factors then draws a graph.  Its interesting because it says you can display the factors or it can print them but unfortunately printing locked up the whole emulator. MegaDOS.amos (8k) runs but pops up saying no disk in df0 but after the cursor is turned off so you cant click either option.  Hitting enter and it just comes right back up.  Menu Marauder 5k lets you run programs from a menu I guess? its so deeply clunky that I dont understand why. War 94k by Ben Ashley.  Has weird war ish sounding music and a picture for a title screen.  Its like chess but with small pixel art war pieces and you can only move one per turn.  you can move fire pass or surrender.  Zion 10k doesnt work because an extension isnt loaded.  battlecraft.amos is 27k and is super well commented on purpose.  It expects extension e just like zion does so it wont run. 
+*	APD394 Copper Editor design rainbows 167k it has a great interface (for an amiga program like this) Wow its really cool! Pick a scanline, setits colors and it makes a gradient from there down.  AMAZING!  iirc these rainbows are outside of the color palette used by the sprites and stuff.  its really pretty and cool to mess with these rainbows esp given all of the available colors  bits2/multiscroll.amos 17k is 5 layers of parallax with a water reflection effect.  It looks fantastic! rastersverticalaux is 2k and makes cool vertical bars bouncing bakc and forth with a 3d effect. it doesnt seem that it can be quitted.  It uses a lot of copmove   stars 7k is a starfield and apparently uses 40 bobs.  it looks pretty smooth.  its weird that stars is so much larger in k than the rastersverticalaux because there is more code in the smaller file.  i guess its the bobs that it stores in its file as well?  Circle Scroll 5k is only one page of code uses some AMAL too and it looks like it uses a graphical font. Cyclo Scroll sends the text letters (not graphics) in a cool loop theres a funny artifact on the side where each letter flips upside down.  only one page of code. Editor 17k is a full editor in AMOS its pretty good!  it has menus and loosk amiga authentic!  Theres a biorhythms program on here with a weird interface.  Palet.amos 21k is maybe the cleanest UI of a program ive ever seen in AMOS.  Clear shadowed text and clear inset UI buttons and displays.  Its a really cool way to set a pallette and could even be used in other programs or I wonder if youc oudl setup and save a pallette that you pick?  There are also some examples of accessing files and doing dos stuff on this disk.    SWIZ 80k is a pointer maker but it doesnt run.  Vistawriter 67k is a vista pro script editor wow thats pretty cool! it lets you add frames and camera positions.  I'm impressed!  
+*	APD395 Car race game.  this needed the disk to be called Checkpoint: well shoot I want to play this but it says title is not the right iff format.  is that teh only probleM? nope.  I couldnt get this working. 
+*	APD411 Easy AMOS Programs converted!  Rainbow Warrior 60k for coppers.  has a cool interface and seems to let you draw the rainbows real easily.    I played atishoo and even though I didnt know what to do I was able to click tiles fo ra while and match them up and it was fun for a few minutes!  i thought it was pretty well polished too.  theres a great moviescroll.amos 26k which does a great job of showing off a smooth scrolling credit sequence.  The code is only 6 lines!  Simon 70k is not very good imho.  Wiggle Logo is 100k and just wiggles a logo in a wave.
+*	APD412 Second disk of easy amos  easy-how-many-bobs2.amos  15k is a really cool demo of moving a simple ball bob around in cool patterns.  theres a star program here but honestly there are lots of star programs.  Verttext is 3k and a nice fading scrolling credits kind of thing.
 *	APD446 some cool exmaples of ctext (requires Ctext which is apparently a demo text scroller of some sort)
-*	APD453 Asteroids, 119 other cool programs!
-*	APD460 Planet a basic shoot em up
-*	APD463 Rolling Horizon
+*	APD453 Asteroids, 119 other cool programs!  3D Cube 14k is a great demo of how to do simple 3d.  uses an array AMOSGold 60k is a video poker machine but it doesnt really work.  amotron 12k sound slike robotron?  no its like tron lightcycles but thats cool too.  It runs way too fast on thsi emulated machine to play.   asteroids 30k only has the player shooting and the shots are way too fast.  the rotation is nice though.  balls.amos 12k is a demo with some text and moving balls and a rainbow.  coloumn.amos 20k seems to expand the scrolling text over some magnifiers which is a really cool effect.  Combat Planes 54k probably shoudl run slower but at least works its combat with planes and only 8 directions for movemetn and super short bullet ranges.  paranoia 30k cool its a character generator for rpgs. Rallyx 60k wow its cool because although its too fast it runs ok. it should restart instead of making you run the game again.  But more importantly its got a level editor which makes making levels really easy!  Rock Start 12k it looks like theres a whole band on the stage and it would be cool if they played along with your tracker music!  Oh theres a menu.  its cool how easy amos makes menus  Ok its not people playing the instruments but it is really cool lights on the stage!  I like that!  Rainbow Scrolling 3k is beautiful with those colors.  The Twilight Zone 60k is a pretty nice gui for making zones for other amos guis and it even says you can save them!
+*	APD460 Planet a basic shoot em up - pools.amos 153k  Mastermind 137k Planet 167k is a really crappy horizontall scrolling shooter
+*	APD463 Rolling Horizon amosPro Calc 40k  wow this is a great polished scientific calculator with the AMOSPro gui styles.  Theres a cool 3d menu in here.  circular bob 12k is Scrolling landscape is 45k and is a cool demo of smooth scrolling and says its hardware scrolling of a near full screen photo Structured drawing 20k is far too slow to be usable.   Venetian is 21k and is a really cool screen wipe effect used by copying the screen.  Its nice. 
 *	Loads of Scrollers or screen wipers or ctext things or rainbow or copper editors VUbars just search the index at the link above
-*	APD506 lunar patrol, blocktris
-*	APD532 Rallyx asteroids
-*	APD601 Galactic Gabby
-*	APD636 KarateManBob
+*	APD506 lunar patrol, blocktris 107k even has a digitized picture of the creator!  Its really good super polished and would have made a good shareware version in 1990.  Very impressive.  The polish even extends to how it animates the removal of the lines.  Very nice.  #continue  Lunar Patrol 90k is by the same author and the graphics are amazing and presentaiton too.  It works and plays great if a bit too fast and the wheels even bounce off when you hit a crater.  Pretty great #continue
+*	APD532 Rallyx asteroids these are the same games reviewed from apd453 and neither are good at all
+*	APD601 Galactic Gabby 269k it runs too fast but its a really good space invaders clone!  nice work!  #continue
+*	APD636 KarateManBob oh interesting: this disk isnt on the AMOSpro CD.  
 
 
 
@@ -520,107 +527,6 @@ Look for blitz books on ARchive.org
 Blitzmax is open source now! along with Blitz3D!  https://github.com/blitz-research
 
 
-
-
-# Painting for Programming  Pixel Art #
-
- Best For Me
-- [Acorn6](https://flyingmeat.com/acorn/) ($30) The art program for humans - best for mac - probably better than ps and certainly better than Pixelmator
-- CorelPainter (Own)
-- -----
-- Pixelmash (I think I have this in a humble)
-- [Pixelator](http://pixelatorapp.com/buy.html) $35 or free for noncommercial Converts Pictures into Pixel Art
-- -----
-- [Sprytile](https://jeiel.itch.io/sprytile)  Plus [Sprytile Discord532](https://discord.com/invite/mSGcp8U) OMG this is perfect.  I love this look so damn much.  It has to be how the game Compound graphics were made.  Constant Updates too!
-- Dust 3D (my fav)
-- [Goxel](https://goxel.xyz) Great Voxel Editor for iPad!!!
-- Magicavoxel (not 2D)
-- -----
-- [Tilesetter](https://www.tilesetter.org) lots of great automation tilemap features 2 (Make Wang Tilesets) just $12.99
-- Tilekit (Patterns tiles and rules) ( do I already have this in a humble)
-
-
- Classic
-- Deluxe Paint IV for Amiga (DPaint 3 is the classic used in many games)
-- Also Photon Paint 2, Also DigiPaint 3, Also Brilliance!
-- Grafx2 (is a paint program based on DPaint and Brilliance that has been around since 1996 (just a few short years after brilliance came out) and was originally MSDOS only)
-- Pixel art can be done in AMOSPro somewhat
-
-
- Modern weird ones 
-- Fiji
-- [Pencil2D](https://en.wikipedia.org/wiki/Pencil2D) for cartoons animation onion skins
-
- Mac
-- [Acorn6](https://flyingmeat.com/acorn/) ($30) The art program for humans - best for mac - probably better than ps
-- CorelPainter (Own)
-- -----
-- Bloom ($50) AWESOME Wow super procedural non destructive no matter what you do.  vector raster seamless.  layers, Brush strokes editable after creation
-- ArtRage looks amazing ($80)
-- -----
-- Pixelmator - I want to like this but I just dont (technically but its actually kind of terrible for this purpose even given the name)
-- Paint.net (windows only)
-- Pixia (windows only)
-- Krita [can be setup for pixel art](https://www.youtube.com/watch?v=tOqdE4JJOjU)
-
-
- Lots for mobile and ios
-- Dont know the names
-
-
- Pixel Art
-- Aesprite is best $20
-- Pixelmash (I think I have this in a humble)
-- -----
-- [Pixelorama](https://orama-interactive.itch.io/pixelorama) (free and advanced)
-- [Pixen](https://pixenapp.com/mac/index.html) Pixen $10
-- -----
-- [ProMotion](https://www.cosmigo.com) $40 Made to resemble deluxe paint
-- [PikoPixel](http://twilightedge.com/mac/pikopixel/)
-- [Slate](https://github.com/mitchcurtis/slate) foss and looks like they care about making it great and theres a discord60
-
- Converter
-- [Pixelator](http://pixelatorapp.com/buy.html) $35 or free for noncommercial Converts Pictures into Pixel Art
-- [Pixatool](https://kronbits.itch.io/pixatool) $50
-- [Pyxelate](https://github.com/sedthh/pyxelate) Free python for converting to pixel art
-- [Pixelartor](https://chlebon.itch.io/pixelartor) Convert 3d models to 2d models	
-- -----
-- [pic2iso](https://kronbits.itch.io/pix2iso) convert to isometric looks like converts it to 3d model but it doesnt just to an image
-
- 3D
-- [Pix3led](http://www.thedour.net/scripts.php#PIXELED) free and bevelling available.  have a feeling its separate cubes instead of one big mesh
-- Dust 3D (my fav)
-- Magicavoxel (not 2D)
-- [Goxel](https://goxel.xyz) Great Voxel Editor for iPad!!!
-- [Sprite to 3D](https://myselfxd.itch.io/sprite-to-3d) $4 does a good job of making a simple 3d model out of a sprite!
-- [Sprytile](https://jeiel.itch.io/sprytile)  Plus [Sprytile Discord532](https://discord.com/invite/mSGcp8U) OMG this is perfect.  I love this look so damn much.  It has to be how the game Compound graphics were made   Constant Updates too!
-- ----- Sprite Stackers
-- [Sprite Pile](https://seabass.itch.io/spritepile)
-- [Sprit3D](https://physdick.itch.io/sprit3d) Really cool onion skinning and visually showing where on the sprite you are
-- -----
-- Assetforge
-- Blender
-- ----- 
-- Wings
-- Neobarok
-
-
-Tiles
-- [Tilesetter](https://www.tilesetter.org) lots of great automation tilemap features 2 (Make Wang Tilesets) just $12.99
-- [PyxelEdit](https://pyxeledit.com)
-- Tilekit (Patterns tiles and rules) ( do I already have this in a humble)
-- [Zixel](https://itch.io/queue/c/189954/game-dev-tools?game_id=303653) Lets you make repeating tile patterns
-- [How to use tilemaps](https://www.youtube.com/watch?v=hZMD5dK4jIE) shows how to use smart rule tiles!  also shows how to paint with prefabs to make 3d environments with tilemaps
-
-Heres a pixel art editor and actually a whole community about pixel art
-https://www.pixilart.com
-
-
- FX
-- [PixelFX Designer](https://codemanu.itch.io/particle-fx-designer) this lets you make great pixel particle systems
-- [Juice FX](https://codemanu.itch.io/juicefx) $20 flash scale skew shake wobble jump wave
-- [Smear FX](https://codemanu.itch.io/smear-fx) $15 Just a little touch of smear can add a lot of value to animations and makes them feel smoother. 
-- [Dither Machine](https://lunarlabs.itch.io/dither-machine) lets you make dither patterns and then put them in your scnees.  Not much automated about it.
 
 
 
@@ -759,7 +665,7 @@ NetBeans
 Eclipse
 IntelliJ
 Visual Studio
-XCode
+Xg
 
 
 
@@ -917,9 +823,9 @@ ACEY DUCEY from 1010 Basic Computer Games works perfectly as downloaded.  I wond
 Heres a way to compile lua into a GUI executable.  You can even possibly make it self modify its own code!
 https://news.ycombinator.com/item?id=12287816
 
-# Game Jams #
+# Release (for GameJam or otherwise) #
 
-Tips:
+Tips for relesing a game:
 
 1. Use Git the easy way to back up every time you make a mistake
 2. Use Unity Folder Profiles to always import your sprites with certain settings
@@ -938,6 +844,7 @@ Tips:
 	12. How to name your different builds Name_Mac_1.1.
 		14. Go with 1.1 1.2 1.3 theres no reason to expect that you will get up to 1.9 during the jam and if you do then you can go to 2.0 or you can go to 1.91 (super unlikely) so for simplicitys sake even for tiny 1 line fixes go with 1.1 1.2 1.3
 4. Show 
+5. For any level of long term support provide a features matrix as version get incremented.  It shows history and shows how much you've added and how much your software actually does.  Keep a summary of the most popular versions out frontt but a full one available.
 
 Tips:
 Incentive from a super successful dev (received 194 votes with only 27 given)
@@ -945,7 +852,7 @@ Incentive from a super successful dev (received 194 votes with only 27 given)
 This one has a great page with lots of screenshots and gifs plus a gameplay video and a timelapse
 Totally Pro page with streamers who played it and articles about it https://idanro.itch.io/quetzalcoatl
 Tip Always link back to your LDJam page from your itch page (and from everwhereelse too  (because its hard/impossible to find) 
-
+Tip: For a nice bonus call out exactly what version of Unity you used to make your game.  Technically when they add to the unity hub they can tell from that, but if you give them some guidance that will help them get your code working.  It could absolutely be the difference between them helping you with your software and not (it has been many times for me).  If you wan tto take this further then if you are using 2018.2.f11 and Unity has moved onto unity 2020 then go see what the latest supported 2018.2.xx version is and see if you can get your code loaded and runniing error free in that latest version.  if you want to take it even further see if it works in the latest LTS version of the year (like 2018.x.xxLTS) thats long term support, or even 2019 LTS or even the latest 2020.  Probably at some point it doesnt work error free, and you really dont need to fix those errors but it is reallyuseful information to tell the user of the source code what versions it wont work in at the moment. 
 
 
 
@@ -955,6 +862,9 @@ Ludum Dare Streamers
 2. https://www.twitch.tv/honestdangames
 4. https://www.twitch.tv/birdwards
 
+Examples of good sales pages
+1. https://spacemace.itch.io/joggernauts
+2. [Example of a great way to make a github repo](https://github.com/BayatGames/SaveGameFree/blob/master/README.md)
 
 
 # Github #
@@ -1043,6 +953,17 @@ Dual Wield
 Lock on system
 Flashlight
 in game camera
+
+
+
+# Methodology #
+ some thoughts:
+1. Small methods which do just one thing
+2. Unit tests for each logical method
+3. Events to communicate outside of the object
+4. Organize things by object (player, enemy1, enemy2, etc.)
+5. RY not DRY for starters.  Do not over-engineer
+
 
 
 

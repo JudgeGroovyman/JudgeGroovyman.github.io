@@ -206,6 +206,9 @@ Humanoid
 ## 2D Levels ##
 
 - 1. [Top Down Pixel Dungeon by BitGem](https://assetstore.unity.com/packages/2d/environments/top-down-pixel-dungeon-level-02-22948)
+- 2. $10 [Zippy Terrain](https://assetstore.unity.com/packages/tools/sprite-management/zippy-terrain-2d-74149) Draw your terrain with curves so easy!  
+- 3. $30OWN [Ferr2D Terrain Tool](https://assetstore.unity.com/packages/tools/level-design/ferr2d-terrain-tool-11653) This has way better reviews than zippy although zippy advertises the endless features this one doesnt advertise those.  
+
 
 ## Levels ##
 
@@ -214,7 +217,7 @@ Terrains and Meshes
 - $5 for [23 beautiful hand painted terrain textures](https://assetstore.unity.com/packages/2d/textures-materials/hand-painted-terrain-textures-35188)
 - $8 for [70 low poly terrains and backgrounds](https://assetstore.unity.com/packages/3d/environments/landscapes/horizon-low-poly-backgrounds-162115)
 - $10 for [Low Poly Landscapes](https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-landscapes-pack-93955) 150 low poly items, mountains and possibly terrains.  could scatter the objects all over to make it look interesting.
-- $20 for [1500 Modular Low Poly Terrain Prefabs](https://assetstore.unity.com/packages/3d/environments/low-poly-modular-terrain-pack-91558)
+- $10Sale $20 for [1500 Modular Low Poly Terrain Prefabs](https://assetstore.unity.com/packages/3d/environments/low-poly-modular-terrain-pack-91558)
 - * $15 for [25 Low Poly Terrains beautifully mapped and shaded](https://assetstore.unity.com/packages/3d/environments/landscapes/polyworld-low-poly-vistas-34775) They are meshes not terrains.  Comes with 14 faceted skyboxes.  
 
 Modular
@@ -223,10 +226,12 @@ Modular
 - $3.00 [Block World Pack](https://devilsworkshop.itch.io/essential-low-poly-isometric-3d-block-and-hex-pack) Like Kubikos World but way less detailed
 - * $5 [Ground Block] From Cube World It looks so beautiful.
 - $8 [Stone Blocks] Beautiful grass covered stone blocks th grass looks amazing
-- $10 [Edge Isometric World like FEZ](https://assetstore.unity.com/packages/3d/environments/fantasy/edge-isometric-world-122886) Flat shader on each side of the asset, Cool snappy shapes, some cool glowy shapes and maybe a particle effect, Cool vertical fog, cool vertical shader, 
+- * $10 [Edge Isometric World like FEZ](https://assetstore.unity.com/packages/3d/environments/fantasy/edge-isometric-world-122886) Flat shader on each side of the asset, Cool snappy shapes, some cool glowy shapes and maybe a particle effect, Cool vertical fog, cool vertical shader, 
 - $12 [Low Poly Asset Pack Blocky Snakes Environments](https://assetstore.unity.com/packages/3d/environments/low-poly-asset-pack-environment-map-blocky-snakes-126692) There are 6 cool environments here which all look really cool in their own right (or just $20 for 21 cool blocky snake models which look amazing)
 - $15 [Low Poly Tower Defense](https://assetstore.unity.com/packages/3d/low-poly-tower-defense-pack-93334) loads of towers, some simple tiles and environment models which look super clean for these purposes.  The towers are not animated
 - $15 [Low Poly Forest Parts](https://assetstore.unity.com/packages/3d/environments/low-poly-forest-seasons-set-81244) no terrains just clouds and forests and stuff.  Could use clouds as mountains tho!?! 
+- $20 [Low Poly Mesh Generator](https://assetstore.unity.com/packages/tools/level-design/low-poly-mesh-generator-59295) does not decimate meshes but makes the whole world look low poly regardless of what it looked like before.  I think this could be super valuable when 
+
 
 Free
 
@@ -238,23 +243,23 @@ Free
 
 Premium Modular 
 
-- $24.99 for [Kubikos 3D Cube World](https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-world-117341)  There are also similarly priced packs for a village, city, and characters, animals, and a super active dev.  This would be fooking amazing for wave function collapse.  Also [$25 Kubikos 3D Cube City](https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-city-147691) or [$25 Kubikos 3D Cube Village and farm](https://assetstore.unity.com/packages/3d/environments/kubikos-cube-village-farm-kit-137877)
-- $30 [Proto Series Cube World](https://assetstore.unity.com/packages/3d/environments/cube-world-proto-series-144159)
-- $50 [Low Poly Ultimate Pack](https://assetstore.unity.com/packages/3d/props/low-poly-ultimate-pack-54733) Enormous set of low poly assets, reminds me of the Polygon assets but vastly cheaper.  They are vertex shaded all of them I believe.  Updated This month!
+- $12Sale $24.99 for [Kubikos 3D Cube World](https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-world-117341)  There are also similarly priced packs for a village, city, and characters, animals, and a super active dev.  This would be fooking amazing for wave function collapse.  Also [$25 Kubikos 3D Cube City](https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-city-147691) or [$25 Kubikos 3D Cube Village and farm](https://assetstore.unity.com/packages/3d/environments/kubikos-cube-village-farm-kit-137877)  $12 [Kubikos Animals](https://assetstore.unity.com/packages/3d/characters/animals/kubikos-22-animated-cube-mini-animals-100696)
+- $15sale $30 [Proto Series Cube World](https://assetstore.unity.com/packages/3d/environments/cube-world-proto-series-144159)
+- $25sale $50 [Low Poly Ultimate Pack](https://assetstore.unity.com/packages/3d/props/low-poly-ultimate-pack-54733) Enormous set of low poly assets, reminds me of the Polygon assets but vastly cheaper.  They are vertex shaded all of them I believe.  Updated This month!
 
 Tools
 
 - $8 [Minecraft style Retro Terrain](https://assetstore.unity.com/packages/3d/characters/retro-terrain-63693#reviews) looks just like minecraft, but can only be used for small maps or it gets too memory hungry.  Also comes with a cool blocky water system which fills things and spreads out and stuff.  Auto generates the world too which is cool.  I think this could be used for Time Crisis.
 
 - * $10 [Terrain Creator Low Poly](https://assetstore.unity.com/packages/tools/terrain/terrain-creator-low-poly-146834) lets you draw terrain heightmaps using curves, and paints them for you and looks great. 
-- * $15 [Low Poly World - Terrain Generator](https://assetstore.unity.com/packages/tools/terrain/low-poly-systems-low-poly-world-55808#reviews) I love how this looks.  I love it very much.  Changes your terrain to be low poly with adjustable options for size and facets.  It will then paint it for you.  You can't paint manually or change any colors of your terrains.  
+- * $15 [Low Poly World - Terrain Generator](https://assetstore.unity.com/packages/tools/terrain/low-poly-systems-low-poly-world-55808#reviews) I love how this looks.  I love it very much.  Changes your terrain to be low poly with adjustable options for size and facets.  It will then paint it for you.  You can't paint manually or change any colors of your terrains.  Probably doesnt work with recent versions.
 - $25 [Low Poly Terrain](https://assetstore.unity.com/packages/tools/terrain/low-poly-terrain-46528) converts any terrain in to a low poly terrain.
 - Free RunFlySwim Terrain Tools 
 - $7 [Really nice Low Poly looking Terrain Textures](https://assetstore.unity.com/packages/2d/textures-materials/floors/low-poly-terrain-texture-pack-140922)
 
 Premium Tools
-- $30 [Clayxels](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Voxel system that lets you design whole levels and characters and everything in editor with simple shapes and great performance and even change things in game (destructible environments???)s
-- $75 [Polaris V2 low Poly Terrain Generator](https://assetstore.unity.com/packages/tools/terrain/low-poly-terrain-polaris-v2-144645)
+- $30OWN [Clayxels](https://assetstore.unity.com/packages/templates/systems/clayxels-165312) Voxel system that lets you design whole levels and characters and everything in editor with simple shapes and great performance and even change things in game (destructible environments???)s
+- $75OWN [Polaris V2 low Poly Terrain Generator](https://assetstore.unity.com/packages/tools/terrain/low-poly-terrain-polaris-v2-144645) or $100 For Polaris2020 
 
 Water
 
@@ -269,12 +274,12 @@ Water
 
 Best
 
-- $Free [Kenney.nl] assets are all free including characters.
 - $30 [Dozens (60) of the cutest spacecraft ever!](https://assetstore.unity.com/packages/3d/vehicles/space/spacecraft-mini-103291)
 
 
 Ok
 
+- $Free [Kenney.nl] assets are all free including characters.
 - $Free [Spaceship Block Collection](https://fertile-soil-productions.itch.io/spaceship-blocks-collection) a modular set of spaceship assets
 - $Free [Cool free spaceships](https://niko-3d-models.itch.io/free-sc-fi-spaceships-pack)
 - $20 Low Poly [Space Invaders](https://www.cgtrader.com/3d-models/character/fantasy/low-poly-space-invader-set)
@@ -294,6 +299,8 @@ Crawler or dual stick shooter
 - $20 for [5 Heroes or square headed enemies](https://assetstore.unity.com/packages/3d/characters/humanoids/sd-rpg-pack1-45491) And 20 more characters just like these
 
 
+Ok
+
 - $5 [60 Voxel Fantasy Characters](https://assetstore.unity.com/packages/3d/characters/humanoids/voxel-fantasy-characters-pack-92617)
 - $10 [70 Voxel Fantasy Characters](https://assetstore.unity.com/packages/3d/big-voxel-kingdom-pack-82841)
 - $10.50 Shard Saga [Enemy Goblin Pack](https://www.cgtrader.com/3d-models/character/fantasy/shard-saga-enemy-goblin-pack) Interchangeable parts, No Textures (all vertex shaded, one material), rigged for shard saga animations also have a fantasy hero pack too
@@ -312,10 +319,10 @@ Best
 
 - $5 for [5 Boximon Enemy Models](https://assetstore.unity.com/packages/3d/characters/boximon-pack-10-mega-toon-series-156475) absolutely perfect for a dual stick shooter or dungeon crawler - there are like 50 other boximons available so I would never run out
 - $7 for 6 cute [animated dungeon monsters](https://assetstore.unity.com/packages/3d/characters/humanoids/3d-monster-pack-vol-1-144527)
+- $7 for [color configurable awesome robots](https://assetstore.unity.com/publishers/20422)
 
 - $20 [An Entire low poly War with tanks, planes, soldiers, jeeps, animations, controllers](https://assetstore.unity.com/packages/3d/props/low-poly-war-pack-124419)
-- $25 for [5 awesome low poly soldiers](https://assetstore.unity.com/packages/3d/characters/humanoids/toon-soldiers-52220)
-- $27 for [5 color configurable awesome robots](https://assetstore.unity.com/publishers/20422)
+- $12sale for [5 awesome low poly soldiers](https://assetstore.unity.com/packages/3d/characters/humanoids/toon-soldiers-52220)
 - $30 for [5 great soldiers](https://assetstore.unity.com/publishers/43520) just buy them independently
 - $30 for [5 configurable mechs](https://assetstore.unity.com/packages/3d/characters/robots/sci-fi-animated-space-robots-43041)
 - $44 [Sexy Girl Model](https://assetstore.unity.com/packages/3d/characters/humanoids/masa-124326)
@@ -341,20 +348,23 @@ Safari Hunt on its levels had
 3 animals - bear armadillo parrot
 4 animals - bat spider monkey panther
 
+ Best 
 - $Free [5 low poly animals in simple nature scene](- https://assetstore.unity.com/packages/3d/environments/simplistic-low-poly-nature-93894)
-- $5 [28 low poly rigged animals](https://assetstore.unity.com/packages/3d/characters/animals/low-poly-rigged-animals-123656) wow what a bargain.  They look great too!
+- $5 [28 low poly rigged animals](https://assetstore.unity.com/packages/3d/characters/animals/low-poly-rigged-animals-123656) wow what a bargain.  rigged and They look great too!
+- Free [5 Faceted Nature Enemies](https://quaternius.itch.io/animated-easy-enemies) also [5 Dinosaurs](https://quaternius.itch.io/animated-lowpoly-dinosaurs) and [4 Monsters](https://quaternius.itch.io/lowpoly-animated-monsters) dont like the humanoid monster here but the other 4 are cool also [5 Farm Animals](https://quaternius.itch.io/lowpoly-animated-animals) without attack animations
+
+ Good 
 - $5 [9 Low Poly Animated Animals](https://assetstore.unity.com/packages/3d/characters/animals/animated-low-poly-animals-93889) OVERLAP WIth the free one
 - $5 [Polyart Farm Animals](https://assetstore.unity.com/packages/3d/characters/animals/9t5-low-poly-farm-animals-163740s)
-- Free [5 Faceted Nature Enemies](https://quaternius.itch.io/animated-easy-enemies) also [5 Dinosaurs](https://quaternius.itch.io/animated-lowpoly-dinosaurs) and [4 Monsters](https://quaternius.itch.io/lowpoly-animated-monsters) dont like the humanoid monster here but the other 4 are cool also [5 Farm Animals](https://quaternius.itch.io/lowpoly-animated-animals) without attack animations
-- $5 [26 Animated and Rigged Animals](https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-99702) PBR some have secondary colors for variations, attack animations, and others
+- $5 [26 Animated and Rigged Animals](https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-99702) PBR some have secondary colors for variations, attack animations, and others but no root motion
 - $5 [32 Animated Animals](https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-v2-144071) second pack from previous, Elephant included!  Bat too!  Rhino,, tiger, camel
 - $5 [9 Animated Dinos](https://assetstore.unity.com/packages/3d/characters/animals/dinosaur-pack-1-0-4362#reviews) mixed reviews due to some clumsiness
-- $5 for [5 cool woodland creatures](https://assetstore.unity.com/packages/3d/characters/animals/small-animals-cartoon-critters-pack-86346) snake, turtle, snail, hedgehog, squirrel
 - $5 [8 Cute animated Voxel Animals](https://assetstore.unity.com/packages/3d/characters/animals/voxel-animals-88264)
 - $16 [38 Cute Non Animated Voxel Animals](https://assetstore.unity.com/packages/3d/characters/animals/little-voxel-69649)
 
-- $30 [23 Realistic Low Poly Animated Animals](https://assetstore.unity.com/packages/3d/characters/animals/low-poly-animated-animals-93089) real high quality I love how they look and they all have animations.
-- $24 [19 Realistic Low Poly Prehistoric Animals](https://assetstore.unity.com/packages/3d/characters/animals/low-poly-animated-prehistoric-animals-154363)
+- $25 for [5 cool woodland creatures](https://assetstore.unity.com/packages/3d/characters/animals/small-animals-cartoon-critters-pack-86346) snake, turtle, snail, hedgehog, squirrel
+- $OWN [23 Realistic Low Poly Animated Animals](https://assetstore.unity.com/packages/3d/characters/animals/low-poly-animated-animals-93089) real high quality I love how they look and they all have animations mecanim even.
+- $15sale30 [19 Realistic Low Poly Prehistoric Animals](https://assetstore.unity.com/packages/3d/characters/animals/low-poly-animated-prehistoric-animals-154363)
 - $15 [6 realistic Low Poly Dinos](https://assetstore.unity.com/packages/3d/characters/animals/low-poly-animated-dinosaurs-110313)
 
 Would be cool if you could only shoot the ones which were the right colors
@@ -370,19 +380,19 @@ Perfect
 
 - $5 [23 Voxel Animals](https://assetstore.unity.com/packages/3d/characters/animals/voxel-animals-23-130937) probably not rigged or animated
 - $5 [8 Crossy Road Animals](https://assetstore.unity.com/packages/3d/characters/animals/voxel-animals-88264) with animations
-- $4.99 [Cartoon Adventure Characters](https://assetstore.unity.com/packages/3d/characters/cartoon-adventure-characters-pack-136942) Animated, Super Cute, Recent Release, only 6 of them tho
-- $10 [8 Configurable Cute Low Poly Toon Animal superpack](https://assetstore.unity.com/packages/3d/characters/animals/cute-low-poly-animals-super-pack-118520) Super configurable with hundreds of color variations, from REM Storm, includes a cute pug!
+- $4.99OWN [Cartoon Adventure Characters](https://assetstore.unity.com/packages/3d/characters/cartoon-adventure-characters-pack-136942) Animated, Super Cute, Recent Release, only 6 of them tho
+- $10OWN [8 Configurable Cute Low Poly Toon Animal superpack](https://assetstore.unity.com/packages/3d/characters/animals/cute-low-poly-animals-super-pack-118520) Super configurable with hundreds of color variations, from REM Storm, includes a cute pug!
 - $20 [9 Micro Monsters](https://assetstore.unity.com/packages/3d/characters/micro-monster-bundle-faceted-style-147722) Faceted style (polygonal style) with lots of variations and probably 15 other monsters I can get in the future. looks like they can be recolored too to make different enemies, and that they have some variations.  15 unique animations per monster too.  Only 9 monsters though so the scope of the game can't be up there with like Super Mario.  But I have the little Drago so I could do a test
-- $10 [23 unanimated Cute little candy characters Tamago](https://assetstore.unity.com/packages/3d/characters/creatures/tamago-105799) No animations so I would have to make them, otherwise thse are wonderful!
-- $12 [Gummies Animated Character Constructor](https://assetstore.unity.com/packages/3d/characters/gummies-toon-animated-character-constructor-120469) a base Gummy slime character, toon or smooth shaded, with large configurability
 
 - $12 [22 Kubikos Mini Animals](https://assetstore.unity.com/packages/3d/characters/animals/kubikos-22-animated-cube-mini-animals-100696) animated and super cute
 - $12 [Kubikos Mini Birds](https://assetstore.unity.com/packages/3d/characters/animals/kubikos-animated-cube-mini-birds-137343)
 - $20 [60 voxel animals 30 plants](https://assetstore.unity.com/packages/3d/characters/animals/voxel-animals-plants-96469) all rigged and with optimized geometry.  I dont love it but they are interesting models and quite a bargain.
 - $71 or $15 for [5 from Quirky Series](https://assetstore.unity.com/packages/3d/characters/animals/pet-animals-quirky-series-119975) SO DAMN CUTE and colorful! [also buy this](https://assetstore.unity.com/packages/3d/characters/animals/forest-animals-quirky-series-137294) [Also Buy these](https://assetstore.unity.com/packages/3d/characters/animals/farm-animals-quirky-series-118790)  [Also this forest number 2](https://assetstore.unity.com/packages/3d/characters/animals/forest-animals-quirky-series-137294) also more are available for $5 each
 
-For Bosses!
+Not Much Variation but could be used for all bosses!
 
+- $10 [23 unanimated Cute little candy characters Tamago](https://assetstore.unity.com/packages/3d/characters/creatures/tamago-105799) No animations so I would have to make them, otherwise thse are wonderful!   but not much variation really
+- $12 [Gummies Animated Character Constructor](https://assetstore.unity.com/packages/3d/characters/gummies-toon-animated-character-constructor-120469) a base Gummy slime character, toon or smooth shaded, with large configurability but not much actual variation really
 - $30 [43 variations on Hamsto Model](https://assetstore.unity.com/packages/3d/characters/animals/hamsto-95596) with humanoid Animations - this would be PERFECT for a whole variety of mini-boss and full boss characters!
 - $25 [12 unique variations on Funny Bear model](https://assetstore.unity.com/packages/3d/characters/humanoids/funny-bear-84649) This is a cool teddy bear like sack boy with 12 different variations including smoe scary ones.  Some could be enemies for sure.
 
@@ -415,21 +425,8 @@ Ok
 ## Unsorted ##
 
 
-- $120 Amazing for a whole huge set of dungeon creatures heroe sand enemies from [Dungeon Mason](https://assetstore.unity.com/packages/3d/characters/humanoids/modular-rpg-heroes-polyart-138600) foor a medieval fantasy game
+- $120 Amazing for a whole huge set of dungeon creatures heroe sand enemies from [Dungeon Mason](https://assetstore.unity.com/packages/3d/characters/humanoids/modular-rpg-heroes-polyart-138600) for a medieval fantasy game
 - MANY MORE IN BOOKMARKS
-
-
-## Places to find art ##
-- reddit.com/r/gameassets
-- itch.io
-- unity asset store
-- cgtrader (usually $5-20 for a character)
-
-- Craftpix.net for 2d art there are tons of attractive tilesets here.  1 month is $11 and 1 yr is $30 and you can use the assets forever.
-
-- might be able to commission some more assets from
-- [this guy](https://connect.unity.com/u/matheus-antonio)
-- [janpec](https://assetstore.unity.com/publishers/1066)
 
 
 ## Specifics ##
@@ -453,6 +450,20 @@ Good
 
 Custom Models
 - This guy makes great models https://assetstore.unity.com/publishers/43520
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
   __  __           _               
@@ -552,6 +563,7 @@ Also there are some great videos about making low poly objects like:
 - [Making Low Poly Animals](https://youtu.be/JjW6r10Mlqs)
 
 ### MeshKit ###
+This is great!  I think highly of this one.  Just look at the list of features. I imagine taking rocks and splitting them and duplicating them to make new rocks.  
 $69
 1. An easy to use in-unity decimator.  
 2. An automatic LOD builder.
@@ -664,13 +676,12 @@ Recommendation:  Supported Unity versions on the asset store say 4.0 or later ho
 
 The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit) seems to do some things that make procedural generation more pleasant.  Looped arrays (so you can just keep adding 1 to the index I presume), Color gradients, and colors in HSV 
 
-## Investigate ##
-[Procedural Toolkit](https://github.com/Syomus/ProceduralToolkit)
-[Straight Skeleton](https://en.wikipedia.org/wiki/Straight_skeleton) which can be done by the Procedural toolkit!  This might be perfect for what I need for beldevere!
-[CJ Lib](https://github.com/TheAllenChou/unity-cj-lib)
-[Bear Framework](https://github.com/MrSpecjal/unity-bear-framework)
+to get it working you have to use 2019.2+ and once its loaded you have to turn off metal support on mac.  then it has one problem: "The type or namespace name 'Mathematics' does not exist in the namespace 'Unity' (are you missing an assembly reference?)"  looks like you have to install mathematics from the package manager.  Yup that worked to get it compiling and running.  Wow the building generator is amazing!.  Its got low poly terrain too!  Most of the examples work but the SDF doesnt work.  I'm bummed because the straight skeleton generator doesnt give results like in the wikipedia.  I think it works mathematically but doesnt make the 3D representation mesh that I wanted.  I hink without too much trouble i could get i tto make a mesh out of the resulting polygons. 
+https://assetstore.unity.com/packages/tools/utilities/procedural-toolkit-16508
 
+[Straight Skeleton](https://en.wikipedia.org/wiki/Straight_skeleton) which can be done by the Procedural toolkit!  This might be perfect for what I need for beldevere!   didnt work easily so maybe a blender add on instead?
 
+Update:A few things that didnt work above acutally do work using the asset store release
 
 
 
@@ -723,6 +734,9 @@ To work further with this there are several options:
 * Work with the [original dotnet version](https://github.com/mxgmn/WaveFunctionCollapse) that I got working above
 * And heres a [Unity Adaptation](https://selfsame.itch.io/unitywfc) of the algorithm that works in 3d and has some instructions for how to get it working. Updated Nov 2019
 
+
+related procedural generation
+[CJ Lib](https://github.com/TheAllenChou/unity-cj-lib) - allows for procedural drawing of primatives and also new math physics and noise functions
 
 
 
@@ -780,6 +794,66 @@ VRSK132 Unity2019.2.8f1 SteamVR245
                             
 -->
 
+
+
+# Collections of Assets #
+
+
+- Itch.io
+- Assetstore
+- Humble Bundles
+- Gamedev.tv
+- UnrealAssets
+- GDC Game Audio Bundle
+- My Bookmarks
+- My Pixel List
+
+huge issue with the assetstore: all of the information that was on the page before it becomes unsupported gets instantly deleted including all of the help people leave in comments and the description of the asset.  
+
+
+
+* [50,000 High Resolution works of art](https://www.artic.edu/collection?is_public_domain=1)
+* [Kenney · Assets](https://kenney.nl/assets?q=3d)
+* [Hundreds of Cheap 2d Assets](http://tokegameart.net/game-assets/page/2/?orderby=price)
+* [Lots of CCBY assets here](https://poly.google.com/view/3Ook4jHoAjW)
+* [hundreds of pages of CC0 assets limited downloads](https://www.blendswap.com/blends/blicense/CC-0)
+* [Hundreds of pages of CCAttribution 3dmodels limited downloads](https://www.blendswap.com/blends/blicense/CC-BY)
+* [10 Free PBR assets per day](https://www.textures.com/)
+* [CC0 Textures - Public Domain PBR Materials](https://cc0textures.com/)
+* [Hundreds of free 3d Assets with a weird style](https://www.reinerstilesets.de/graphics/3d-grafiken/3d-character/)
+* [Hundreds of inexpensive 3d assets to license](https://www.gamedevmarket.net/category/3d/characters-3d/creatures-characters-3d/)
+* [3D Asset Marketplace Free3d (not actually free)](https://free3d.com/)
+* [Low Poly marketplace with lots of CC](https://poly.google.com/view/44X-dTYuHoH)
+* [Enormous 2.8 million image collection from smithsonian](https://www.smithsonianmag.com/smithsonian-institution/smithsonian-releases-28-million-images-public-domain-180974263/)
+* [Free Comic Book Art and Stories CC-BY Pepper&amp;Carrot](https://en.wikipedia.org/wiki/Pepper%26Carrot)
+* [The Models Resource - 3D models from games](https://www.models-resource.com/)
+* [The Spriters Resource](https://www.spriters-resource.com/)
+* [Free Unreal Assets](http://www.uassetsstore.com/search/label/All%20Free%20Assets?updated-max=2017-04-02T19:34:00%2B03:00&max-results=20&start=13&by-date=false)
+* [Modular Levels, Awesome Trees, Buildings, and Characters Quaternius](http://quaternius.com/index.html)
+* [Free Textures](http://soundimage.org/txr-brick/)
+* [A Library of Images for Everyone](https://forums.unrealengine.com/showthread.php?133518-Building-a-Library-of-Images-for-Everyone)
+* [Free stock photos](https://pixabay.com/)
+* [Free images](https://unsplash.com/)
+* [Free stock photos](https://www.pexels.com/)
+[CC0Textures.com has now reached 370 free PBR materials! - Unity3D](https://www.reddit.com/r/Unity3D/comments/a4nisw/cc0texturescom_has_now_reached_370_free_pbr/)
+[asset-packs: CC0-licensed asset packs for your games](https://github.com/sparklinlabs/superpowers-asset-packs)
+
+
+## Places to find art ##
+- reddit.com/r/gameassets
+- itch.io
+- unity asset store
+- cgtrader (usually $5-20 for a character)
+
+- Craftpix.net for 2d art there are tons of attractive tilesets here.  1 month is $11 and 1 yr is $30 and you can use the assets forever.
+
+- might be able to commission some more assets from
+- [this guy](https://connect.unity.com/u/matheus-antonio)
+- [janpec](https://assetstore.unity.com/publishers/1066)
+
+
+
+
 # Other #
 - [Cinemachine Camera in 2D](https://github.com/akashenen/2d-platformer-controller)  This has great cinemachine camera controls
 
@@ -816,6 +890,8 @@ VRSK132 Unity2019.2.8f1 SteamVR245
 - Gaia
 - Heroic Fantasy Creatures Full Pack Volume 1
 
+
+
 ## Interested May 2020 ##
 
 - $45 Probably would like the $45 Super Level Optimizer
@@ -831,12 +907,319 @@ For Characters:
 - Eventually the Meshtint enemies seem best by far.  A pack of those might go a long way.
 
 
-## Assets ##
 
-- Itch.io
-- Assetstore
-- Humble Bundles
+# Painting  #
+Paiting for Programming 3D and Pixel Art Especially Low Poly
+
+ Absolute Best For Me: Acorn($30), Sprytile($5) or Crocotile3D($25),
+ Best that I Own: CorelPainter(Own), Pixelmash(Own), Blender(Own), 
+ 
+- [Sprytile](https://jeiel.itch.io/sprytile) (NameOwnPrice)  OMG this is perfect. I love this look so damn much.
+	- Plus [Sprytile Discord532](https://discord.com/invite/mSGcp8U)    It has to be how the game Compound graphics were made.  Constant Updates too!
+	- Even better is [Crocotile 3D](http://www.crocotile3d.com) ($25)
+
+ Best that I Own:
+- For Painting: CorelPainter (Own)
+- -----
+- Pixelmash (Own) (turns pictures into pixel art)(really special for making interesting pixel art although for simple editing its terrible)
+- -----
+- Blender ofc
+
+
+ Best that I want:
+- Dust 3D (my fav for Low Poly)
+- [Goxel](https://goxel.xyz) Great Voxel Editor for iPad!!!
+- Low Poly Modeler for iOS
+- Magicavoxel (not 2D)
+- -----
+- [Led](https://deepnight.net/tools/ldtk-2d-level-editor/) Free level editing toolkit
+- [Tilesetter](https://www.tilesetter.org) (12.99) lots of great automation tilemap features 2 (Make Wang Tilesets) just $12.99
+- [Tilekit](https://rxi.itch.io/tilekit) ($20) (Patterns tiles and rules) 
+- [9 slice sprite generator](https://github.com/kyubuns/OnionRingUnity) how to make a 9 slice sprite out of any image
 
 
 
 
+ Classic
+- Deluxe Paint IV for Amiga (DPaint 3 is the classic used in many games)
+- Also Photon Paint 2, Also DigiPaint 3, Also Brilliance!
+- Grafx2 (is a paint program based on DPaint and Brilliance that has been around since 1996 (just a few short years after brilliance came out) and was originally MSDOS only) - it has too many leftover conventions whihc is great for the sake of people who know that really well but its frustrating for me because there are so many modern things that should work but dont.  I gave it about 5 minutes 3 times.
+- Pixel art can be done in AMOSPro somewhat
+
+
+ Modern weird ones 
+- Fiji
+- [Pencil2D](https://en.wikipedia.org/wiki/Pencil2D) for cartoons animation onion skins
+
+ Painting
+- [Acorn6](https://flyingmeat.com/acorn/) ($30) The art program for humans - best for mac - probably better than ps and certainly better than Pixelmator
+- CorelPainter (Own)
+- -----
+- Bloom ($50) AWESOME Wow super procedural non destructive no matter what you do.  vector raster seamless.  layers, Brush strokes editable after creation
+- ArtRage looks amazing ($80)
+- -----
+- Pixelmator - I want to like this but I just dont (technically but its actually kind of terrible for this purpose even given the name)
+- Paint.net (windows only)
+- Pixia (windows only)
+- Krita [can be setup for pixel art](https://www.youtube.com/watch?v=tOqdE4JJOjU)
+- Paintbrush  (even this mac only doesnt zoom with the trackpad or the mousewheel)
+
+
+ Lots for mobile and ios
+- Dont know the names
+
+
+ Pixel Art
+- Aesprite is best $20
+- Pixelmash (Own) (turns pictures into pixel art) see the [demos here](https://nevercenter.com/pixelmash/)  (Really good at making interesting pixel art. Not great for editing pixel art)
+- -----
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) (free (donation requested) and advanced) looks like it even works in the browser. works pretty smooth.  zoom with mousewheel doesnt work but should.  Copy paste doesnt work like I expect for some reason.  Select copy new document paste.  I love how left click right click work though - each widget when you right click it then it works when you right click in the picture and its visually shown in teh icon!
+
+- [Pixen](https://pixenapp.com/mac/index.html) Pixen $10
+- -----
+- [ProMotion](https://www.cosmigo.com) $40 Made to resemble deluxe paint
+- [PikoPixel](http://twilightedge.com/mac/pikopixel/) (clumsy in some ways but its really good 
+- [Slate](https://github.com/mitchcurtis/slate) foss and looks like they care about making it great and theres a discord60
+- [Piskel](https://www.piskelapp.com) this works in a pinch
+
+
+ Converter
+- [Pixelator](http://pixelatorapp.com/buy.html) $35 or free for noncommercial Converts Pictures into Pixel Art
+- [Pixatool](https://kronbits.itch.io/pixatool) $50
+- [Pyxelate](https://github.com/sedthh/pyxelate) Free python for converting to pixel art
+- [Pixelartor](https://chlebon.itch.io/pixelartor) Convert 3d models to 2d models	
+- -----
+- [pic2iso](https://kronbits.itch.io/pix2iso) convert to isometric looks like converts it to 3d model but it doesnt just to an image
+- [9 slice sprite generator](https://github.com/kyubuns/OnionRingUnity) how to make a 9 slice sprite out of any image
+
+ 3D
+- [Pix3led](http://www.thedour.net/scripts.php#PIXELED) free and bevelling available.  have a feeling its separate cubes instead of one big mesh
+- Dust 3D (my fav)
+- Magicavoxel (not 2D)
+- [Goxel](https://goxel.xyz) Great Voxel Editor for iPad!!!
+- [Sprite to 3D](https://myselfxd.itch.io/sprite-to-3d) $4 does a good job of making a simple 3d model out of a sprite!
+- [Sprytile](https://jeiel.itch.io/sprytile)  Plus [Sprytile Discord532](https://discord.com/invite/mSGcp8U) OMG this is perfect.  I love this look so damn much.  It has to be how the game Compound graphics were made   Constant Updates too!
+- ----- Sprite Stackers
+- [Sprite Pile](https://seabass.itch.io/spritepile)
+- [Sprit3D](https://physdick.itch.io/sprit3d) Really cool onion skinning and visually showing where on the sprite you are
+- -----
+- Assetforge
+- Blender
+- ----- 
+- Wings
+- Neobarok
+
+
+Tiles
+- [Led](https://deepnight.net/tools/ldtk-2d-level-editor/) level editing tooklit
+- [Tiled]
+- [Tilesetter](https://www.tilesetter.org) lots of great automation tilemap features 2 (Make Wang Tilesets) just $12.99
+- [PyxelEdit](https://pyxeledit.com)
+- Tilekit (Patterns tiles and rules) ( do I already have this in a humble)
+- [Zixel](https://itch.io/queue/c/189954/game-dev-tools?game_id=303653) Lets you make repeating tile patterns
+- [How to use tilemaps](https://www.youtube.com/watch?v=hZMD5dK4jIE) shows how to use smart rule tiles!  also shows how to paint with prefabs to make 3d environments with tilemaps
+- [AutoTileGen](https://store.steampowered.com/app/305860/AutoTileGen/) 
+Heres a pixel art editor and actually a whole community about pixel art
+https://www.pixilart.com
+
+
+ FX
+- [PixelFX Designer](https://codemanu.itch.io/particle-fx-designer) this lets you make great pixel particle systems
+- [Juice FX](https://codemanu.itch.io/juicefx) $20 flash scale skew shake wobble jump wave
+- [Smear FX](https://codemanu.itch.io/smear-fx) $15 Just a little touch of smear can add a lot of value to animations and makes them feel smoother. 
+- [Dither Machine](https://lunarlabs.itch.io/dither-machine) lets you make dither patterns and then put them in your scnees.  Not much automated about it.
+
+
+
+
+# Nov 2020 #
+
+Look at the investigates above and put them into my book marks
+
+Put best bookmarks in this list so I can come to this master list and go to bookmarks and spreadsheet for more 
+
+Make a new spreadsheet of all of the features I need and compare all of the major competitors
+
+When all above is done:  Sort through my shopping cart and only pick the most important ones, Expensive ones and cheap ones.
+
+Coolest things to dive deep: WFC, Archimatix
+
+Sort most of my assets into purposes
+
+
+
+
+
+ QoL: Assets to improve QoL that I own but I might forget about
+ ----------------------------
+ 1. Some from my current TPS: DOTween, EasiestBoundingVolumes, PrimitivePlus, UVFreeShader, ComponentSaveSystem, Databox (CSVandGoogleSheets)
+ 2. HotReload: Moonsharp (LUA out of date but works) or Bolt ors 
+ 3. Guplem Essentials is pooling and super easy scriptable animations
+ 4. SharpNEAT (train an AI to test my games for me)
+ 5. For iOS: EasyMobileProHB (Critical)
+ 6. For organization: Heirarchy2, HeirarchyHighlighter, ScriptInspector3, HistoryAndWorkingSetWindow, NGFavFree, 
+ 7. For Inspector: NaughtyAttributes, ButtonInspector, Peek, Toggle Lock Shortcuts, OneLineInspector, SerializableDictionary, OneLine, Beautifiers, 
+ 8. For Project Management: ProjectCurator, SuperUnityBuild, MissingReferencesFinder, UnityMissingScripts, ScriptAndCodeLineCalculator, 
+ 9. For Builds: UnityBuildManager, Screenshooter, Image2Text(StoreImageInCode) or Imagen2Text, A+AssetsExplorer
+ 10. For Code: AskOwlFibers or MoreEffectiveCoroutines, UnityHelper(change just x in transform, instantiatePrefabsWithGoodNames, capsulecast, RollingArray, Countdown, EasedLerpAwesome, PersistentSingleton, RandomRangeInInspector, RandomBag each element only once, xml, Freshness:2 Baggage:0 ) , Mathfs, GetComponentAttributes DI, AskOwlCustomAssets(Scriptable Objects on Steroids)
+ 11. Components: AdvancedPolygonCollider, SensorToolkitHB, EnhancedTriggerBox, PaintIn3D, Fracturing&Destruction, 
+ 12. For Debug: PeekHB ,Grapher, DebugTools, ConsoleEnhancedFree, CodeShark or InGameDebugConsole or FakeTerminal, 
+ 14. More in 'investigate' above, more in 
+
+
+ Capabilities: Assets that could improve most games that I own but I might forget about
+ ----------------------------
+ 1. SpeechEngine (AmigaSpeech),  DialogueSystem or RPGTalk, EasyTextLight, CodeShark or InGameDebugConsole, VoltageUI(Make your own Extensions and Tools), iosTTS
+ 2. SpecificFX: RealisticEffectsPack4HB(alsoDecals), TextAnimator, OffScreenTargetIndicator, ObiRope, BearFXExplosions(ItchRacial)
+ 3. Shaders: SonarShader, AwesomeAsciiEffect, NeonSphere,
+ 4. FX&ShadersOk: UnityParticles, WetStuff, AllIn1SpriteShader, uShader2Free(VisualShaderScripting), AskOwlMarquee, DualTexturedShader,  SineWaveEffect, THORThunderstormHB, WhiteMageSpellsHB, WetStuffHB, PixelAnimationsAndEffectsHB, 
+ 5. Scenes:  TransitionManager or BeautifulTransitions$12, Simple2DCutscenes
+ 
+ 
+ Frameworks I own but might forget about
+ -------------------------------
+ 1. FPS: PolygonFPS, EasyFPS, FPSMicrogame, UFPSUltimateFPSHB, LowPolyFPSPack, FirstPersonAllInOne, RealisticFPSPrefab (dead), FPSBuilderHB, FPSStarterKit (dead), DarkTreeFPS (own), FPSBuilderhb, StarterKitMovementCameraAI, FullBodyFPSController or $17CharacterControllerPro
+ 2. TPS: EasyCharacterMovementHB or CharacterMovementFundamentals or  StarterKitMovementCameraAI or SciFiTopDownGameTemplate or FullBodyFPSController or UMmorpgHB, 
+ 3. TPS Dont Own  $30KinematicCharacterController or $17CharacterControllerPro
+ 4. 2D Platformer Kits Best: $80PlatformerPro2, $60CorgiEngine, $10PlatformerCodeToolkit, $17CharacterControllerPro, 
+ 5. 2D Platformer Kits Other: $10HardcorePlatformer, 2DPlatformerGameTemplate, ThePixelMan, 2DGametoolkit, 2DPlatformerHunter, LamboUnityGame, FantasyTrip, Akashenen2DPlatformerController, CjddmutPlatformerController, 
+ 6. 2D Top Down Kits: $60TopDownEngine, MinimalSpaceShooter, Bolt2DTopdownKit,  StarterKitMovementCameraAI, 
+ 7. VR: TButt, VRTK, VRShooterKit
+ ------------Kits---------------
+ 8. Some frameworks provide enormous value: HeroKitGameMaker (save, ai, dialogue, pooling, collisions, ) LogicForge (Free, New last week, Hot reload, visual scripting, )
+ 9. Multiplayer: like uGameCore (player logins, teams, map change, rounds, spectating, chat, console commands, 2018 only), Mirror
+ 10. Makinom, Bolt, FlowCanvasHB(LiveReload), GameFlow(SimplestVisualScripting), GameFramework(Level Select, Unlock, Multiple Players, Overworld Maps, Several UI Themes, Tracking of scores and progress, Unlockable Items, In app purchases, dialogue system, $20BeautifulTransitions and object pooling, and prefs editor)
+ 
+ 
+ 
+ Art: 3D Asset creation I own but I might forget about 
+ ----------------------------
+ 1. Specifics: 
+	- 3D Breakable Asteroids, ObjectExploder, Fracturing&Destruction, InventoryPro(HBorGH)
+ 2. Mesh Making Best:
+	- ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMeshFree, Magicavoxeltools(mesh to magicavoxel), PaintIn3D
+ 3. Mesh Making Ok: 
+	- CorelCAD, MeshCreator (helps make meshes), Scriptinunitythensavetomesh, SorcarForBlender, Many more interesting ones in bookmarks, DualTexturedShader
+ 4. Meshes: 
+	- MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer, DynamicBone(ForJiggles), ObiRope, DualTextured, ObjectExploder
+ 
+ 
+ Art: Level Design Tools I own but might forget about
+ -----------------------------
+ 1. Level Tools Best: 
+	- EasySnap, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, 
+ 2. Level Generators Best:
+	- DungeonizerFav, CurvedWorld2020, MapGen, MeshCombiner, LevelBuilder
+	- Coolestthingstodivedeep: WFC, $45Archimatix
+ 3. Level Walls and Rooms Best:
+	- SnapsHB, UrbanArtCarParkHB, LowPolyUltimatePack, PolygonPacksHB,
+ 4. Level Designers Best:  
+	- Clayxels, ProBuilder, Blender, UModelerHB, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), JustDrawThemAsPicturesAndImportThemToBlender, RealtimeCSG
+ 5. Terrain: 
+	- GaiaHB, MCSCavesAndOverhangeHB, TerraWorldOWN, ReliefTerrainPackHB, Videoaboutmakingbeautifulterrains, BlenderGIS, aidanProceduralTerrainGenerator, TCGJProceduralTerrainGenerator, VegetationEngineH, HowToMakeBeautifulTerrainInUnity, RunSwimFlyTerrainTools, PineForest(20 tris per object), Lots of Rocks and Trees in uas, InfiniteForestuas, Pre-made terrains islands in uas, NatureRendererHB, 
+ 6. Levels Ok: 
+	- BlenderWithScripting (ProceduralLevelsfromScripts), Bones3Voxels, TaurusDungeonGenerator, UnityPolygonMapGenerator, EdgarforUnity, DungeonTemplateLibrary, LevelGeneratorbyMoolt, CityGenerator,  SceneObjExporter, Magicavoxeltools(mesh to magicavoxel)
+ 7. Level Decorations: 
+	- DuplicateMultiple (patterns), EasyRoads3D, Boids, TinyPlanetGenerator, PrototypePack, PaintIn3D, ObiRope, ModularCartoonDungeonProps(Racial), ForestEnvironmentDynamicNatureHB, WinterForestEnvironmentHB, OverCloudHB, LowPolyUltimatePack, PolygonPacksHB,
+
+
+ Art: 2D Asset creation I own but I might forget about
+ ----------------------------
+ 1. Some great tools:
+	- CorelPainter2020HB, PaintShopProHB, Luminar4HB, CorelCADHB, ParticleShop, more in bookmarks
+ 2. For pixel art specifically: 
+	- Pixelmash (pixelize images), geometrize PicturesIntoGeometry, PixelAnimationsAndEffectsHB, AllIn1SpriteShaderHB, 
+ 3. Levels2D: 
+	- Ferr2DTerrainTool,c2Dto3DConverterVoxelizer (Amazing with MeshCombiner), JustDrawThemAsPicturesAndImportThemWithSpriteCollider, WFC3DUnity (Best but hard), 
+ 4. Levels2D Good: 
+	- WaveFunctionCollapseWFC,  WFC3DUnity, WFCJS, TextureSynthesisGithub, TextureMaker, PrefabSwatch, EdgarProforUnity, SpelunkyLevelGenerator, EdgarforUnity, UnityProcedural2DMap,  More in bookmarks
+ 5. Level Graphics:
+	- Many in UAS and Humble and Itch and Bookmarks, shan-shui-inf proceduraljapanesebackgrounds
+	- Tiles: ManyInUAS.  ManyInItchRacial. RpgGameDevelopmentAssetsHB, ItchNov2020MegaBundle(PlatformerGameTileSet(BySeason), RPGTileSet(BySeason), GameIcons(ManyPacks),  SkillIcons(ManyPacks), LootIcons, IngredientsIcons, AvatarIcons(Many), Avatar(Many), CuteAnimals(FoxPigMouse,) TacticalStrategy, Tactical, SpaceShooter, ForestPlatformer, Ruins2DTileset
+	- Backgrounds(Parallax, Jumping, Space, PixelArt(Mountain, Planet)), OverworldAKALevelMap(SpaceGame ), City, Battle,  
+	- ItchRacial(HUGEPixelartAssetPack1500Tiles,)
+
+
+ Art: UI Assets I own but might forget about
+ ----------------------------
+ 1. UI Best: EasyFrontEnd, SimpleUI, SimpleVectorIcons, FairyGUI, DelightUI, PixelFont, 20LogoTemplates, 
+ 2. UI Ok: RetroSpritesAndFont, 
+ 3. UI Skins: SimpleFreePixelartstyledUIpack, CleanSettingsUI, ModernGUISkin, TechnoBlue, BlueCartoon, BlackMetal, SimpleFantasyUI, FarmingRPGGUI(ItchRacial), RPGPixelArtAssets, RpgGameDevelopmentAssetsHB(PixelArtMedievalUIHB, MedievalRPGUIKitHB,DialogueBoxes,MMORPGUIKit,) or ItchNov2020MegaBundle(Match3GameUI,BubbleShooterUI,FantasyRPGUI,SciFiUI,RPGUI,Underwater,FantasyStrategy, PixelArt2DGameUI, FantasyPlatformerUI, )
+ 4. UI Parts: PixelFontThaleah or BarkersRetroTextPrinter or PixelFontTripfive or 1980ItchRacial or HumbleFontsGold, 20LogoTemplates or MKEasyTextLite, 2000FantasyIcons or SimpleVectorIcons,  ActivityIndicator, SimpleHealthbars, ProgressBar, ProgressbarPack, RPGUnitFrames, SimpleHelvetica, JoystickPack, TextureFlow or EnhancedScroller or SliderMenuFree or SwipeMenu(ForLevelSelect), PixelButtonPromptsKeyboardGamepad(ItchRacial), KawaiiGameIcons(ItchRacial), RpgGameDevelopmentAssetsHB(SpellAbilityIcons, SurvivalIcons, Icons(ManyMorePacks)
+ 5. UI Functionality Great: PlatinoTween, SimpleFantasyUI or EasyFrontEnd, AnchorSnap, DynamicText, EasyText,  LeanTouch+(Great For advanced iOS touch games), NiceVibrations,  
+ 6. UI Functionality ok: TypewriterCustomStyles, AskOwlMarquee, BaroqueUI (forVR),DoozyUI or  LeanGUI, ProceduralUIImage, 
+ 7. UI Favs atm: PlatinoTween, DynamicText, SimpleFantasyUI or EasyFrontEnd or SimpleUI, TextureFlow, twentyLogoTemplates, OneOfTheProgressOrHealthBars, 2000FantasyIcons, oneOfTheUISkins, RPGTalk or DialogueSystem, 
+ 8. Audio Songs and Sounds: AbundantMusic or MuseNet or Computoser, HumbleRoyaltyFreeMusicBundle, uas, and Bookmarks, 
+ 9. Sounds: 
+	- UniversalSoundFXHB, Racial(8-bitSoundEffects,OldManCharacter,Reptiles,Platformer,), MonsterSounds&AtmospheresSFXPackHB, HumanVocalSoundsHB, Magic&MeleeSoundsHB, , , RpgGameDevelopmentAssetsHB(InterfaceSFXHB,InventorySoundsHB, ElementalMagicHB, AncientGameSFX)
+ 10. Music: A few in Racial(SNES, 8-BitMusicBooster,CanariPack(x2), ThreeRedHearts,MiniLoops,ClassicJRPG,), 30AlbumsInHumbleBigRoyaltyFreeMusicHB, 10+RoyaltyFreeInHumbleGameCreatorHB,  RpgGameDevelopmentAssetsHB( JRPGMusicPack, LightheartedRPG), UltimateGameMusicCollectionHB
+ 11. AudioTools: Many more in Bookmarks
+ 
+ 
+
+ Characters: 2D or 3D Character assets I own but I might forget about
+ ----------------------------
+ 1. Animation: Animancer or AnimatorControllerasCodeUAS or MecanimControl or AnimatorStateMachineUtility or SprytAnimatorLite. AdvancedPolygonCollider, GuplemEssentials, RagdollandTransitiontoMecanim, LockpickingKeylocksHB
+ 2. RagdollMecanimTransition (switchtofromragdoll)
+ 3. 3DModels: 
+	- HeroicFantasyCreaturesFullPackVolume1HB(worth 349 already own!), PolygonPacksHB, StarSparrowModularSpaceship(Downloaded), ItchNov2020MegaBundle(DesertCactusAndTree, DesertStone, Mountains3D, TropicalPlants, Clouds,Volcanoes, MedievalFarm, AnimalsFarm3D, EnvironmentProps, MedievalBuilding, MedievalBuldings MedievalWeapons)
+ 4. Models: Clayxels, 3DCharactersVehiclesAndPropsUAS, 15-203DCharactersEnemiesUltimateFantasyHB, 2DRetroActRPGSpritePack, PaintIn3D, DynamicBone(ForJiggles), TailAnimator, AdvancedPolygonCollider, 
+ 5. 2DAI: 2DEnemyToolkit, PathBerzerker2d360PlatformerPathfinding, BloodstoneAI, ReGOAP, SteeringBehaviors, LovelyAgents, SensorToolkit
+ 6. 3DAI: EmeraldAI, Planilo, NPBehave, CoordEDBT, StarterKitMovementCameraAI, DarkTreeFPS, FPSStarterKit(simpleAI), PolygonFPS, RealisticFPSPrefab, TopDownAI, ReactionAISteroidEdition, BreadcrumbAI, LowPolyAnimatedAnimals(Wander), CandiceAIForGames, RealisticFPSPrefab, SensorToolkitHB
+ 7. Sprites: SeveralInItchRacial, TonsInRpgGameDevelopmentAssetsHB(Creatures,Items, Sprites, Tilesets, Characters, Animations), 
+	- ItchNov2020MegaBundle(Kits(MonstersMatch3,Runner,Jump, UnderwaterWorld,TDSPixelArt2DKit, TopDownTank2DKit,SpaceShooter2D,SpaceShooterPixelArt,PixelArtPlatformer2DGameKit), CharacterSprite(ManyPacks), Character, Zombie(ManyPacks), 2DGame___Sprite(ManyPacksDragonGoblinTons), 2DWeapons, TopDownShooter(Monster,Zombie,MainCharacters,ZombieGameKit), Robot, Icons, , other, Sky,City, VerticalSpace, Forest, Mountain,  ), Spaceship, Weapons, FantasyGameMainHeroes, NPC, TowerDefenseTileset,  4DirectionNPCSprites,  CharactersForPlatformers, Monsters,Boss,PixelArt
+ 8. Sprite Mechanics: 
+	- PixelAnimationsAndEffectsHB, AllIn1SpriteShaderHB, Itch(7ExplosionSprites, 10MagicSpriteSheetEffects, PixelArtMagicSpriteSheetEffects, MagicEffectsPixelArt)
+
+
+
+ Genre: Assets for other genres I own but I might forget about
+ ---------------------------- 
+ 1. 3D Racing (overhead or first person) - EasyRoads3D(AdjustsTerrainToFit) withARandomTerrain or  KajamansRoads (for3DFirstPersonRoads) or TrackGen, LakeRaceTrack, CurvedGrounds, EndlessForest, use cars and boats and copters, Highroad Engine$60UAS, CurvedWorld, SplineMeshFree, MeshDeformer, Loads of Car Vehicles in UAS
+ 2. There is an amazing minigolf set that I could use for marble madness
+ 3. TextAdventures: Squiffy
+ 4. FightingGame: FighterPack or WarriorPack or MartialArts(for a whole game)
+ 5. 2DCannonFodder: TDSPixelArtSoldierAndVehicle(ItchNov)(PERFECT), TDSPixelArt2DKit(ItchNov), 7ExplosionSpritesItch,
+ 6. 2DTowerDefense: FantasyTowerDefenseGameKit(ItchNov)
+ 7. TopDownShooter: TopDownShooter(Monster,Zombie,MainCharacters,ZombieGameKit,TDSTilesetSandStonesPlantsWater)(ItchNov)
+ 8. VerticalSpaceShooter: ItchNov(SpaceVertical2DBackgrounds, SpaceTrapGameAssetPack, SpaceShooter2DGameKit, Spaceship,Space2DBackground,)
+ 9. HorizontalSpaceShooter: ItchNov(Spaceship2DSprites, SpaceShooterGameKitPixelArt, SpacePirates, AlienSpaceship, BossSpaceship, SpaceTrapGameAssetPack, SpaceShooterTileset, Space2DBackground,)
+ 10. TopDownTank: ItchNov(TopDownTankGUI, TopDownTank2DKit, 2DTankGameAssets)
+ 11. Match3: ItchNov(MonstersMatch3,4LocationsForTheGameMatch3)
+ 12. PixelPlatformer: ItchNov(Tileset(Ruins2D, ForestPlatformer, MineBosses, SwampEnemies, Desert, Snow, SnowEnemies, Ruin, Ruin Enemy, Ruin Animal, Animated Traps, DesertBosses, AnimatedTraps, RuinBosses,Magic, SnowBosses, PirateInvasion, Steampunk, RiseOfTheZombiesMummy)
+	- Tier 2: ItchNov(MiningAndFounding, Herbalism, Cookery, Engineering, Farming,)
+ 14. 2DPlatformer: ItchNov( MountainMonsters, BossMonster, Weapons(many), Bosses , Alchemy)
+ 15. RPG: ItchNov( 4-Direction 2D )
+ 16. TopDownPixel: ItchNov(2dTopDownDungeon, )
+ 
+ 
+ Goals: 
+ ----------------------------
+ 1. AI BossBattles(Mario1 Variation), 
+ 2. FX CameraandUIShake, Audio, Parallax, MusicTracks(one per level Mario)s, ColorEffectsforSpritesandText, SwayingOrBouncingInWind
+ 3. Health, Death, Dialogue, SaveLoad, LevelSelect, Overworld, SceneTransitions, Pause, Checkpoints, SaveLoadLevelProgress, OverworldLevelSelect, Fracturing&Destruction, 
+ 4. GreatCharacterController, Shooting, MovingPlatforms
+
+ 
+ 
+ https://clips.twitch.tv/HappyBlushingWeaselDoubleRainbow part 1
+ https://clips.twitch.tv/PoliteEsteemedLemurVoteNay part 2
+ 
+ https://clips.twitch.tv/BelovedWonderfulThymeNotATK Magnum winning tetris
+ https://clips.twitch.tv/TastyFaithfulWheelPlanking  Magnum Too much mag
+ 
+ 
+ https://clips.twitch.tv/ImpossibleDignifiedShrewOpieOP Jay super drunk
+https://clips.twitch.tv/DeadHelplessRhinocerosOMGScoots Jay parking at red light
+https://clips.twitch.tv/BoringFriendlyTarsierUnSane very important fruit stand
+https://clips.twitch.tv/HumbleBigStarFreakinStinkin Jay loses the cops like a boss
+ 
+ Vissenekkus stream there was a nice string of comments at about 2h52m into the stream about the pixel art and the modern effects and aesthetic.  I can't point out all of the positive things he said about the game but I can point to a few things I noticed.
+ 
+ 
+ https://youtu.be/IPKYyXJ7Qog the video
+ https://youtu.be/psu0UEvfgF8 the song
+ 
+ https://clips.twitch.tv/ResourcefulAgreeableYakTheRinger Craftys first gift sub
+ 
+ 

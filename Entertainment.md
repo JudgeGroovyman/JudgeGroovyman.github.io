@@ -2,9 +2,23 @@
 
 This is just a small portion of notes that I happened to make from my twitch watching.
 
+TheCraftyUnicorn mama bear glitched
+https://clips.twitch.tv/TenderCourageousRavenBigBrother
+https://clips.twitch.tv/CuteGeniusBunnySquadGoals
+
+
 BradWendtRoss
 Potato
 https://clips.twitch.tv/EnergeticAnnoyingHeronMVGame
+Crafty's Commercial
+https://clips.twitch.tv/HappyIgnorantWalletGOWSkull
+
+MagnumKneeHi
+Secret Konami Code
+https://www.twitch.tv/magnumkneehi/clip/ArtisticVictoriousPeachSeemsGood
+Floor Pineapple
+https://www.twitch.tv/magnumkneehi/clip/DirtyNeighborlyHorseradishDogFace
+
 
 ThatFamilyGames
 at 8:40 on Wed Aug 5 she beat level 1-3 of Kid Icarus!

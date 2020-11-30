@@ -53,14 +53,15 @@ Some possible games
 - 
 
 
+
+
+
 # Games I thought were just the coolest games ever #
 1. Street Fighter 2
 2. Strider Arcade
 3. Bionic Commando
 4. Space Harrier
 
-
-# Games on Steam Wishlist #
 
 
 # VR Wave Shooters #
@@ -401,11 +402,12 @@ In Bullet of Sysiphus every time you die the fight starts over with the enemy do
 * [Press The Buttons](https://ldjam.com/events/ludum-dare/47/press-the-buttons) a great puzzle with boxes and switches and doors and keypads that would make a really cool simple VR escape the room game.
 * [Super Loop Racer](https://ldjam.com/events/ludum-dare/47/super-loop-racer) I cant believe how good this whole game looks its like its right out of TRON or the 80s even with reflections.  the gameplay stinks bad, but it looks freaking incredible.
 * [Cursed Temple](https://ldjam.com/events/ludum-dare/47/cursed-temple) Looks modern like hollow knight but with a time loop mechanic.  With a shallow difficulty curve I could play hours and hours of htis.  I dont want it to be too hard but just a little bit hard for a long time, bosses can be hard thats ok!  Maybe I could make the game I long for here?
-* [Dank Dungeon](https://ldjam.com/events/ludum-dare/47/dank-dungeon) Wow I LOVE The controls here!  wasd to move and cursors to attack in that cardinal.  Its perfect and makes you have to use strategy you cant just hold that direction but have to time it right too.  Animation and Sound are betw Atari and C64 and work great.  Its really fun and I would love to see a full adventure RPG like this  Collision is a bit off like I dont think it should include the players head.  This could be made into a deep dungeon crawler roguelike like I've been thinking about and I would possibly have loads of fun doing it!
+* [Dank Dungeon](https://ldjam.com/events/ludum-dare/47/dank-dungeon) Wow I LOVE The controls here!  wasd to move and cursors to attack in that cardinal.  Its perfect and makes you have to use strategy you cant just hold that direction but have to time it right too.  Animation and Sound are betw Atari and C64 and work great.  Its really fun and I would love to see a full adventure RPG like this  Collision is a bit off like I dont think it should include the players head.  This could be made into a deep dungeon crawler roguelike like I've been thinking about and I would possibly have loads of fun doing it!  Update: this is a java game in just 405Kb thats incredible!  I tried it again and had way more fun and got to the second level!
 * [The Way Back Platform Game](https://ldjam.com/events/ludum-dare/47/the-way-back) this is really cool 
 * [Endless Night](https://ldjam.com/events/ludum-dare/47/endless-night) this could be a dual stick shooter almost as is I love the graphics style and lighting and everything
 * [Station 8](https://ldjam.com/events/ludum-dare/47/station-8) I loved the trees and graphics here, and it has all of the basics of a simple low poly fps tank game.  I really liked its simplicity
 * [Eternal Run](https://ldjam.com/events/ludum-dare/47/eternal-run-1) this had a great mechanic of on one awesome level getting through as many loops as you can with more enemies on the level every time.  pretty awesome.  The graphics and controls in this are PERFECT FPS its amazing
+* [Schlooper](https://ldjam.com/events/ludum-dare/47/shlooper) Cool looking platform shooter in Unity
 
 How did they do this?
 * [Loop Room](https://ldjam.com/events/ludum-dare/47/loop-room) Unity source available for this something like robotron single screen but loopign on edges experience.
@@ -413,7 +415,8 @@ How did they do this?
 * [Super Loop Racer](https://ldjam.com/events/ludum-dare/47/super-loop-racer) want to see how they did this in Unity
 * [Circuitus Infinitus](https://ldjam.com/events/ludum-dare/47/circuitus-infinitus) This is like an amazing level editor that I wonder if the same thing could be used in the future for other games?
 * [Mortal Coil](https://ldjam.com/events/ludum-dare/47/the-mortal-coil) Godot engine really nice pixel art with lots of UI
-
+* [Upventure](https://ldjam.com/events/ludum-dare/47/upventure) a platformer rotating around a building
+* [While True](https://ldjam.com/events/ludum-dare/47/whiletrue) used Wave Function Collapse to generate the levels!
 
  Big winners
 * [Beyond Death](https://ldjam.com/events/ludum-dare/47/beyond-death) Jam not Compo.  goddamnit (that is my anger when comparing my art skills to this team).  Just look at those screenshots.  Oh damnit the game is fun too and super clever and with tons of character.  damnit!!  :)  Its got this really funny puzzle mechanic that you have to experience it to believe it.  Amazing lighting and camera movement and presentation too.  Feedback: Could use a smoother camera follow up and down stairs.  Character animation is fantastic. voxel environment maybe the coolest adn most detailed pixel-art-like I've seen.  No source unfortunately for me.  OMG after a lot fo deaths the music changes to be more grim and theres blood everywhere lol.  The 3D is amazing for HTML5.  Totally console like with only tiny framerate lag.  I wonder what happens if you beat it without dying ... nvm I dont think thats possible.  no really :)
@@ -426,6 +429,11 @@ How did they do this?
 * [Snaketroidvania](https://ldjam.com/events/ludum-dare/47/snaketroidvania) hey this has a timelapse too!  Holy crap this is a 5 star game.  Presentaiton is #1 Concept is #1 controls are #1 I love how fluid the added controls are like pushing forward to pause is perfect.  For feedback ideally there should be a separate button to switch directions since in this case its backwards which ever way the front of your snake is going and that means theres never a button for that function theres always a calculation in the brain which is confusing.
 * [Mobius Station](https:/./ldjam.com/events/ludum-dare/47/mobius-station) It sso cool that you walk one way and it flips upside down.  One amazing thing about Pico8 is it recognized my gamepad after it started up!  ITs such a great concept of moving things around in advance and then speed moving things when you press the button.  It means its kind of chill but hten thrilling.  I love that mechanic.  I got a really high score over 200 deliveries and had a blast and almost finished hte last one too!
 * [Electron The Electrical Engineer](https://ldjam.com/events/ludum-dare/47/electron-the-electrical-engineer) This is one of the best clearest and most innovative puzzle games Ive seen.  Its wonderful.  Its not too intense and its devilshly difficult - I couldnt even get past level 5!  I'm goign to try again though.  Wow it even remembers your progress game to game!!  Its so good!!!  I got to level 13 now!  I feel like the teleporter mechanic changes the logic of the game and while it def adds difficulty it removes all of the 2d planning I was doing and makes it harder not in a comfortable logical way.  I was just getting comfortable.  Its not wrong but I would have preferred a mode and some legs and longevity without any teleporter and maybe the teleporter is just for hard mode levels or something.  #highjamgameexpectations  You know what else is great about this game?  How to make the maps.  ALl the author has to do is draw one out that works including obstacles and then erase the path and leave a few of the path pieces intact ...
+
+ Now that the jam is over which could I learn something from the code
+* [Circline](https://ldjam.com/events/ludum-dare/47/circleline) a beautiful looking super clean low poly train game in Unity, and [Fort Loop](https://ldjam.com/events/ludum-dare/47/fort-loop) looks like its got some platforming and combat mechanics in Heaps and Haxe by the person who made lED, and [Ribbon](https://ldjam.com/events/ludum-dare/47/ribbon) which is a beautiful game which takes place entirely on the side of a ribbon and I have no idea how they did that but made in unity and [Recursive Arena](https://ldjam.com/events/ludum-dare/47/recurcive-arena) where the graphics are simple but the loop based arena platformer is awesome and super clever made in unity and amazing presentation and tutorial.
+
+
 
 Need more votes
 No This has 26 given and 194 received
@@ -447,24 +455,6 @@ https://ldjam.com/events/ludum-dare/47/stuck-in-a-tutorial (0 4) I liked this (w
 https://ldjam.com/events/ludum-dare/47/breakaway (6  14) Interesting like elemental gauntlet
 https://ldjam.com/events/ludum-dare/47/the-way-back  (0 0 6)
 https://ldjam.com/events/ludum-dare/47/loop-loop-loop (0 1 7) (1 5) its a fun but really hard platform game in a loop
------------------------------- I dont know about these
-https://ldjam.com/events/ludum-dare/47/super-loop-racer (0 given 5 received)
-https://ldjam.com/events/ludum-dare/47/the-altar-beckons
-https://ldjam.com/events/ludum-dare/47/break-it
-https://ldjam.com/events/ludum-dare/47/fufu-destroyed-of-worlds
-https://ldjam.com/events/ludum-dare/47/bus-bump (given 6 reviews)
-https://ldjam.com/events/ludum-dare/47/word-garden (memory leak so work quickly)
-https://ldjam.com/events/ludum-dare/47/may-i-have-some-time-loops (Given 8 reviews) too difficulty imho
-https://ldjam.com/events/ludum-dare/47/square-time 
-https://ldjam.com/events/ludum-dare/47/control-loss (10 given 14 received)
-https://ldjam.com/events/ludum-dare/47/ouroboros-labyrinth (unity build available 0given 7 received)
-https://ldjam.com/events/ludum-dare/47/my-last-wish (2 given 4 received)
-https://ldjam.com/events/ludum-dare/47/cube-loop (2 given 5 received) html5 doesnt work windows might
-https://ldjam.com/events/ludum-dare/47/disateroids (8 given 11 received) 
------------------------------- Didnt love these
-https://ldjam.com/events/ludum-dare/47/loworbit (10 given 14 received) I didnt think terribly highly of this game
-https://ldjam.com/events/ludum-dare/47/get-process-and-feed-food-bad-buttons-game (0 4) 
-------------------------------
 
 
 ------------------------------ MADE IT YAY
@@ -1110,6 +1100,8 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 		
 * The Ground Gives Way 8-26-2020
 	This is a good simple short roguelike, but I dont like it because it doesn't have what I'm looking for.  In particular I dont want hunger, or the complexity of identification, nor do I want to be scared to make every move.  Still kudos to the authors.
+* Project Osiris (10/17/2020) Awesome.  Makes a weird noise on sewer level.  (11/20/2020)  The sewer level has great difficulty.  i dont remember what difficulty I picked but its taken me a number of tries to get through but I'm making progress every time.  On level 4 The Courtyard in the first room there are curved stairs to the left and behind them is a little room.  If you run in there the breed can't get to you directly for some reason. They bounce on the stairs like a pinball until they happen to get through the little section.  General: health pickups flash the screen a bit too much and without being conscious of it they distract and make me wonder if I'm getting hit.  The shotgun is underpowered imho.  I can't seem to use it with success at all (even in close quarters) maybe its just me but in doom I can use the shotgun and here I cant. 
+* Bleed 11/25/2020 I got this from the racial bundle and its really fun!  2D shooter wiht wasd and then shoot with the mouse and theres slow time and triple jump and cool levels and weapon upgrades and bosses its great!
 	
 # Top notable purchases #
 (in no particular order)
@@ -1812,4 +1804,122 @@ Other 3DS and GC and Wii games that I'm excited about?
 9. RA for Wonder Boy 3
 10. RA for Castlevania Circle of the Moon
 11. RA for Amagon
+12. Blaster Master for NES
+
+
+
+Games on my mind 11/17/2020
+---------------------------------
+
+Level A:
+
+
+Me totally most excited (Peak Experiences for me):
+Serious Sam 4 Co-Op (Especially with Cristi)
+3DS Stereoscopic (Metroid Samus Returns)
+Wii games Stereoscopic (Resident Evil 4, Super Mario Galaxy, Lord of the Rings)
+Crisis zone or whatever
+3DSEN NES VR Games (Ivan IronmanStewarts Off Road)
+Moss
+Burnout Paradise with Steering Wheel
+pec Ops: The Line is good if you want a different perspective on the whole jingoistic military shooter thing
+OwnInHumbleBundle: “Oxenfree takes the best parts of supernatural 1980’s teenage horror films and combines it with believable characters, beautiful set pieces, and a haunting VHS synth-pop soundtrack to create a masterpiece.”
+SuperfrogHDHB
+
+
+
+Programming:
+Look at my steam list
+Look at my itch ownership list
+Look at my 
+Look at Sensible Soccer Amiga games - not GOAL until I get good at Sensible.  Playaveli and AmigaLive can both beat the computer at all levels and other people are much harder than the computer 
+
+Me wanting to replay or continue:
+Viral EX
+Doom VR
+Quake 1 VR
+Half Life 1 VR
+Half Life 2 VR
+Rez
+Thumper (could be super casual and fun while I'm watching videos or something)
+VVVVVV Stereoscopic
+Doom VFR (I acutally love this its just too hard sort of)
+Serious Sam 2 and 3 VR (I legitimately love these and can even watch tv)
+Gal Gun 2 on Oculus
+Subnautica VR
+Sensible Soccer Amiga
+Alien Breed 3D HB
+
+Replay (though less excited because I remember some annoying bits but it was still amazing)
+Luckys Tale
+
+
+For Exercise:
+Beat Saber
+Some other beat games
+Knockout
+Creed
+Duo
+Shooting Games in Rec Room
+
+
+PSVR
+Tetris
+Farpoint
+Population One
+Astrobot
+Blood and Truth
+Resident Evil 7
+
+
+I like the idea of working on these:
+Superhot
+Rec Room Team Games (any)
+Moss
+
+
+Feel like shoulds:
+Beat Volgarr in its entirety
+Pixel Ripped
+Trover Saves the Universe
+Replay Robo Recall
+Quake Champions
+
+
+High Class Games that I feel like I should:
+Vermintide
+WormsHB (with Matt Berry)
+BattleZone
+Dirt Rally 2
+
+High Class VR Games that I feel like I should:
+Defector
+Lone Echo
+Half Life Alyx
+Vader Immortal
+Skyrim VR (with extensive MODS though I dont know which ones)
+Stormlands
+The invisible hours
+
+
+
+Check on my 
+
+Level B:
+
+Co Op:
+Serious Sam DD or XXL or whatever
+Joggernauts (racial bundle)
+
+Ideas for Cristi:
+Raft
+No Mans Sky New Version
+Arizona Sunshine
+Serious Sam 3
+
+
+Level C:
+
+
+
 

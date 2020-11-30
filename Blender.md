@@ -80,6 +80,23 @@ Detailed at about 15:00 in this
 ## Bevel Corners ##
 To make any model look kind of worn: Add Bevel modifier.  Width .01m, check only vertices.  Switch width to .03m or .04m for a different more circular and unique look.  Update: this leaves little tiny holes in the mesh.  
 
+## Other cool things ##
+1. Join a bunch of cubes.  a Mesh/Vertex/Face Menu -> Clean Up -> Merge by Distance
+2. for a mesh joined like above to make something kind of get bigger like its going to explode or pop then Face->ExtrudeFacesAlongNormals
+3. Shift-D to duplicate
+4. Shift-A to add a new primative like a cube or a plane
+5. After doing most things type x y or z to lock to that plane only or xz to lock to those two planes
+6. After locking to a plane (or not) type 1 or 2 or .5 or whatever to apply that much.  like g to grab and then y 1 to move 1 along the y axis
+7. Removing Interior Faces.  First it has to be just one object (join meshes) then wireframe and edit mode tab, then merge by distance in the mesh->cleanup menu and then and 3 for faces mode a to deselect all and then select -> select by trait -> interior faces  
+	* HOWEVER thats kind of a lot of setup I know and it still selects interior faces on the outside.  For example if you make a cube with 9 blocks on each side then it will take all the ones out of the inside of the mass of blocks but it will also remove the center face on each of the sides of 9 blocks
+	* I'm trying to figure out how to combine many squares into one big one.  
+8. Join meshes - in object mode object->join
+9. Remove Doubles is now called mesh->cleanup->mergebydistance 
+10. Select - Select Linked - Link Flat Faces to select them all on one plane and then f to combine into ngons
+11. Press f to make a bunch of flat things into an ngon.  
+
+
+
 # Fiji #
 Scientific image manipulation
 
@@ -104,6 +121,11 @@ To get outlines of squares in black and white
 # Best Addons #
 1. [Tissue](https://www.youtube.com/watch?v=pVNYyJeLGZI&list=PLJThqQUeIsPTsFMYNoPpqfUQbi8AJh1Ii) (thats a whole playlist) I [heard about tissue here](https://www.youtube.com/watch?v=R5_2pyISN2c&t=240)
 2. In the comments to the tissue video above two people say "Tissue, Sverchok, and Animation Nodes are just three of the addons that seriously push Blender into amazing territory. Thanks to  Alessandro and the other devs who extend the functionality of these great tools." and then "Don't forget about Sorcar and modular tree. With those two that's all the node based addons available on blender."
+
+
+[Straight Skeleton](https://www.blendernation.com/2020/05/23/free-blender-add-on-straight-skeleton/) theres an add on and a builtt in [inset straight skeleton.](https://archive.blender.org/wiki/index.php/Extensions:2.6/Py/Scripts/Modeling/Inset-Polygon/)
+
+
 
 # Best Competitors #
 https://blogs.dust3d.org

@@ -8,6 +8,12 @@ I can trace back the moment we got the Amiga, or the moment I fell in love with 
 
 # Preconfigured Environments #
 
+
+Update: AmigaLive beats all of the rest of these options hands down
+"Hey AmigaLive when I first heard of your project I thought it was too good to be true! so its really cool that you're doing these streams to show it really working and let people play."
+http://twitch.tv/Amigalive is streaming amiga games and people can join in anytime and play together sensible soccer, goal, tons of other games.  The download is really simple (even on mac there is a perfect readme that explains exactly what to do).   You can even play 4 player games without much if any trouble.  
+
+
 * [AIAB](http://guide.abime.net/wbdist.htm)
 * [AmigaSYS 4](https://www.amigasys.net/download.html) and here is [Version3 Setup](http://guide.abime.net/amigasys/chap1.htm)
 * [ClassicWB](http://classicwb.abime.net/) and [How to install in UAE](http://classicwb.abime.net/classicweb/instructionsuae.htm)
@@ -73,7 +79,7 @@ The biggest problem with trying to run old computer software is they all assumed
 25. I set the default to be full keyboard emulation on which sends all commadns to the amiga.
 26. for amos pro I set the switch back to amos pro key to be shift left amiga a (it was amiga a but thats used by fsuae so to avoid any issues. .. maybe I should switch it back I dont know.  ) yeah I switched it back and with full keyboard off it works fine.
 27.  wtaf?  Command W (A common keyboard combination used all the time in other apps) slaughters your entire amiga?  It just closes it without asking.  EVEN WHEN FULL KEYBOARD EMULATION IS ON!!!  
-
+28. Joystick.  Using a wireless joystick works great but later becomes problematic.  it works great.  turn on your ps4 controller.  turn on your fsuae amiga with joystick enabled (may have to refresh).  load your game.  play.  it works great.  but ... if it ever goes dark to save battery then fsuae switches to no joystick and wont come back on so you have to quit everything you are doing and reset your amiga. It now seems important to have a re-scan for joysticks in the f12 menu.  This would similarly apply if you accidentally unplugged your joystick (some newer joysticks the cable can pop out pretty easily) 
 
 
 
@@ -1111,6 +1117,7 @@ I'm following this tutorial http://www.lemonamiga.com/forum/viewtopic.php?t=2617
 
 - Have to restart the amiga with both buttons held down since that opens that special boot dialog box and saves more memory
 
+It worked! I got the Cybernetix mod with the theme song in it!!!
 
 # Going through WHDLoad Collection #
 Numbers complete
@@ -1118,9 +1125,32 @@ A Complete
 B Complete
 C (Already did before)
 D-J
+... (stopped filling in this list)
+DONE
 
 ## Games I haven't seen ##
 Championship Baseball
 Times of Lore
+Magic Candle
 
+
+# Inbox #
+
+ Some games I am thinking about 11-20-2020
+ --------------------------------------
+ - GOAL!, SensibleSoccer
+ - LotusTurboChallenge2/3, Skidmarks1/2, Worms
+ - BAAL, Turrican 1/2/3, GODS, 
+ - SWIV, Menace, Agony, Hybris, 
+ - For AmigaLive: Llamatron and Megaball1or2
+ - For Jim: HiredGuns 4player AmigaLive
+ - Multiplayer: ScorchedTanks, GOAL!, PinballFantasies, DeluxeGalaga, DeluxePacman, Lemmings2p, Zany Golf, Death Mask
+ ----------------Second Tier----------------------
+ - Assassin, RoadRash, KickOff2
+ - BattleSquadron, Menace
+ - Llamatron, Megaball
+ - WWF, Fighting
+ 
+
+Transformers armada energon cybertron (prime is the best one) 
 

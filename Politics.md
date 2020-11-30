@@ -5,6 +5,9 @@ Some steps I would like to see
 Serious discussion of equal pay for all races being the biggest inequality issue of the day in 2030
 Serious discussion of equal pay based on tallness being the biggest inequailty issue of the day in 2040
 
+Options are the american dream
+
+
 
 ## history books ##
 1. Iran Contra
@@ -85,6 +88,8 @@ by Rick Wilson
 
 Mitch McConnells Kentuckystan haha
 
+https://clips.twitch.tv/ArtisticVictoriousPeachSeemsGood
+
 # Inbox #
 
 - The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn." - Alvin Toffler
@@ -124,4 +129,28 @@ Mitch McConnells Kentuckystan haha
 - How does your state or country treat your lowest classes: poor, sick, imprisoned, abused women
 - US: Fuck you, Fuck you, Fuck you, Fuck you
 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

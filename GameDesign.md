@@ -14,6 +14,10 @@ Back in the day they thought that making home games should be like making games 
 
 
 # My Philosophy on Difficulty #
+
+Any arcade conversion should have had a mode with unlimited quarters.  Anything other than that was cheating the home player for artificial reasons.  To use a trainer on the home version to get unlimited quarters (continues) (which btw usually didnt start you off right where you were like in the arcade) was an attempt to make fair again what had been artificially made unfair by the creators of the home conversions.
+
+
 * Games that were fun in the eighties were partially fun because of the difficulty
 	* Which creates a consequent reward and satisfaction and fulfillment in the process of improving your skill and eventually getting good at and possibly beating them or even ‘mastering’ them
 	* And this difficulty evolved more or less directly from the video arcades which generally made more money if the game had just the right difficulty
@@ -55,6 +59,12 @@ Back in the day they thought that making home games should be like making games 
 	
 	
 I'm playing the RPG Avadon and I chose casual mode, and all of the battles so far have been very very easy.  I like that for me for now, while I simultaneously recognize that the battles aren't very interesting this way since they are so easy, there is some balance of difficulty and interest that is a hard line to walk, however even on casual mode, if you were to do things wrong you would still die.  There are still loss conditions.  There is also the play of figuring out where to go, who to fight, who to talk to, what to pick up, what to equip, what to buy and sell, and puzzles to solve (how to enter the secret lair near the dragon - I Looked everywhere, didnt see it, went there several times and didnt see it, finally saw it.  Soemtimes its about looking at the right thing from teh right perspective and clicking on everything.  There was even a red herring that I tried to open for a long time), etc.  If you want more in game time spent then casual isnt the best option for you, but I would prefer a shorter funner game than a long one personally.    The boss battles can still be lost pretty easily without much trouble even on casual.
+
+When I saw RPGs in magazines I wanted to play through a fantasy story in a fantasy world not beat my head against walls and get frustrated and feel stupid.  I didnt want something I needed to increase my skills to enjoy I wanted to just enjoy it.  I wouldn't have minded trying things a few times because I didnt do it right and even trying the final boss many times. 
+
+
+
+
 
 # Continue Structures #
 

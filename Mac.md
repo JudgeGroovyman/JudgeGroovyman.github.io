@@ -8,6 +8,43 @@ with
 2. `Right click -> Open -> Cancel -> Right Click -> Open -> Open` to get around the security of the mac gatekeeper
 
 
+What about "DungeonGenerator is damaged and cant be opened you should move it to the trash"?  The above ideas dont fix it.  I also had that problem with the mac version of aoz studio
+## Perfect instructions on getting mac apps working ##
+
+Update:
+``Follow these simple steps to get AmigaLive with the "FS-UAE Launcher" properly running.
+
+Click "OK" if you are prompted to give access to files for "AmigaLive" or "FS-UAE Launcher".
+You can also enable this under "System Preferences", "Security & Privacy", "Privacy", "Files and Folder" and enable access to both "AmigaLive" and "FS-UAE Launcher"
+
+-----------------------------------App Translocation / Gatekeeper Path Randomization-----------------------------------
+Starting with macOS Sierra (10.12), any application distributed outside the Mac App Store runs from a randomized path.
+This causes AmigaLive and FS-UAE Launcher not to function properly until you perform either of the following solutions.
+
+Solution 1 (Simple):
+These steps can be performed only using "Finder" or your desktop environment without involving any other file-manager.
+Use "Finder" to drag/move the "AmigaLive/AmigaLive.app" and "AmigaLive/FS-UAE/FS-UAE Launcher.app" to the desktop
+Then use "Finder" once more to move them back in their original location.
+
+Launch the AmigaLive.app and select "Open" when you get the prompt asking "Are you are sure to open it?" 
+Once opened, go to the top menu-bar and select "Help" - "Check FS-UAE Launcher/Version" and click "Open" 
+Once the "FS-UAE Launcher window" is opened, you can close it and you are ready to go.
+
+
+
+Solution 2 (Advanced):
+This solution requires your sudo admin password and performing the following commands through a terminal window:
+sudo xattr -r -d com.apple.quarantine "/path-to-AmigaLive/AmigaLive.app"
+sudo xattr -r -d com.apple.quarantine "/path-to-AmigaLive/FS-UAE/FS-UAE Launcher.app"
+
+Solution 3 (Reported by user with Catalina):
+sudo xattr -cr "/path-to-AmigaLive/AmigaLive.app"
+sudo xattr -cr "/path-to-AmigaLive/FS-UAE/FS-UAE Launcher.app"``
+
+
+
+
+
 ## Cannot Open ##
 I just had to run this command:
 
