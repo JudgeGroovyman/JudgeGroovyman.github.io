@@ -717,7 +717,12 @@ Wonder Boy 3
 
 Chris' Maps had 20-30 terrain tile types in each map (although they were randomized somewhat for variety
 
-# Wave Function Collapse #
+# Procedural Generation #
+
+Tons under level tools in my bookmarks
+
+##Wave Function Collapse ##
+
 
 Infinite City
 Why did I find out about this? I was transfixed by this [Infinite City](https://www.reddit.com/r/proceduralgeneration/comments/f2psa1/infinite_procedurally_generated_city/) technically it was [this video](https://youtu.be/-W7zt8181Zo) and then here is the [source code](https://github.com/marian42/wavefunctioncollapse).  Here's a [playable build](https://marian42.itch.io/wfc) and [an article about it](https://marian42.de/article/wfc/) and [a second version with trees](https://www.youtube.com/watch?v=7ffT_8wViBA)
@@ -807,6 +812,7 @@ VRSK132 Unity2019.2.8f1 SteamVR245
 - GDC Game Audio Bundle
 - My Bookmarks
 - My Pixel List
+- Unity Saved Assets
 
 huge issue with the assetstore: all of the information that was on the page before it becomes unsupported gets instantly deleted including all of the help people leave in comments and the description of the asset.  
 
@@ -981,7 +987,7 @@ Paiting for Programming 3D and Pixel Art Especially Low Poly
 - [PikoPixel](http://twilightedge.com/mac/pikopixel/) (clumsy in some ways but its really good 
 - [Slate](https://github.com/mitchcurtis/slate) foss and looks like they care about making it great and theres a discord60
 - [Piskel](https://www.piskelapp.com) this works in a pinch
-
+- [Dain-App](https://grisk.itch.io/dain-app) uses AI to Interpolate extra frames of animation to smooth out any pixel art animation.  Makes any pixel art animation look more modern. also [FlowFrames](https://nmkd.itch.io/flowframes) does the same thing but with more compatibility.
 
  Converter
 - [Pixelator](http://pixelatorapp.com/buy.html) $35 or free for noncommercial Converts Pictures into Pixel Art
@@ -993,6 +999,7 @@ Paiting for Programming 3D and Pixel Art Especially Low Poly
 - [9 slice sprite generator](https://github.com/kyubuns/OnionRingUnity) how to make a 9 slice sprite out of any image
 
  3D
+ - [Neobarok 2](https://www.youtube.com/watch?v=LC1EhBL72q0)
 - [Pix3led](http://www.thedour.net/scripts.php#PIXELED) free and bevelling available.  have a feeling its separate cubes instead of one big mesh
 - Dust 3D (my fav)
 - Magicavoxel (not 2D)
@@ -1034,25 +1041,22 @@ https://www.pixilart.com
 
 # Nov 2020 #
 
-Look at the investigates above and put them into my book marks
+Go through my Assetstore art assets, did I already go through humble bundle and itch?
 
-Put best bookmarks in this list so I can come to this master list and go to bookmarks and spreadsheet for more 
-
-Make a new spreadsheet of all of the features I need and compare all of the major competitors
-
-When all above is done:  Sort through my shopping cart and only pick the most important ones, Expensive ones and cheap ones.
-
-Coolest things to dive deep: WFC, Archimatix
+Make a new spreadsheet of all of the features I need and compare all of the major competitors for the important things
 
 Sort most of my assets into purposes
 
+When all above is done:  Sort through my shopping cart and only pick the most important ones, Expensive ones and cheap ones.
+
+Find the absolute best of all of my assets.  The top 50 maybe?
 
 
 
 
  QoL: Assets to improve QoL that I own but I might forget about
  ----------------------------
- 1. Some from my current TPS: DOTween, EasiestBoundingVolumes, PrimitivePlus, UVFreeShader, ComponentSaveSystem, Databox (CSVandGoogleSheets)
+ 1. Some from my current TPS: DOTween, EasiestBoundingVolumes, PrimitivePlus, UVFreeShader, ComponentSaveSystem, Databox (CSVandGoogleSheets), ScriptInspector3
  2. HotReload: Moonsharp (LUA out of date but works) or Bolt ors 
  3. Guplem Essentials is pooling and super easy scriptable animations
  4. SharpNEAT (train an AI to test my games for me)
@@ -1060,8 +1064,8 @@ Sort most of my assets into purposes
  6. For organization: Heirarchy2, HeirarchyHighlighter, ScriptInspector3, HistoryAndWorkingSetWindow, NGFavFree, 
  7. For Inspector: NaughtyAttributes, ButtonInspector, Peek, Toggle Lock Shortcuts, OneLineInspector, SerializableDictionary, OneLine, Beautifiers, 
  8. For Project Management: ProjectCurator, SuperUnityBuild, MissingReferencesFinder, UnityMissingScripts, ScriptAndCodeLineCalculator, 
- 9. For Builds: UnityBuildManager, Screenshooter, Image2Text(StoreImageInCode) or Imagen2Text, A+AssetsExplorer
- 10. For Code: AskOwlFibers or MoreEffectiveCoroutines, UnityHelper(change just x in transform, instantiatePrefabsWithGoodNames, capsulecast, RollingArray, Countdown, EasedLerpAwesome, PersistentSingleton, RandomRangeInInspector, RandomBag each element only once, xml, Freshness:2 Baggage:0 ) , Mathfs, GetComponentAttributes DI, AskOwlCustomAssets(Scriptable Objects on Steroids)
+ 9. For Builds: UnityBuildManager, Screenshooter, Image2Text(StoreImageInCode) or Imagen2Text, A+AssetsExplorer, UnityOptimizerItch, DungeonScrawl, $25AutoMatt
+ 10. For Code: PubSubBM, AskOwlFibers or MoreEffectiveCoroutines, UnityHelper(change just x in transform, instantiatePrefabsWithGoodNames, capsulecast, RollingArray, Countdown, EasedLerpAwesome, PersistentSingleton, RandomRangeInInspector, RandomBag each element only once, xml, Freshness:2 Baggage:0 ) , Mathfs, GetComponentAttributes DI, AskOwlCustomAssets(Scriptable Objects on Steroids)
  11. Components: AdvancedPolygonCollider, SensorToolkitHB, EnhancedTriggerBox, PaintIn3D, Fracturing&Destruction, 
  12. For Debug: PeekHB ,Grapher, DebugTools, ConsoleEnhancedFree, CodeShark or InGameDebugConsole or FakeTerminal, 
  14. More in 'investigate' above, more in 
@@ -1070,10 +1074,11 @@ Sort most of my assets into purposes
  Capabilities: Assets that could improve most games that I own but I might forget about
  ----------------------------
  1. SpeechEngine (AmigaSpeech),  DialogueSystem or RPGTalk, EasyTextLight, CodeShark or InGameDebugConsole, VoltageUI(Make your own Extensions and Tools), iosTTS
- 2. SpecificFX: RealisticEffectsPack4HB(alsoDecals), TextAnimator, OffScreenTargetIndicator, ObiRope, BearFXExplosions(ItchRacial)
- 3. Shaders: SonarShader, AwesomeAsciiEffect, NeonSphere,
- 4. FX&ShadersOk: UnityParticles, WetStuff, AllIn1SpriteShader, uShader2Free(VisualShaderScripting), AskOwlMarquee, DualTexturedShader,  SineWaveEffect, THORThunderstormHB, WhiteMageSpellsHB, WetStuffHB, PixelAnimationsAndEffectsHB, 
- 5. Scenes:  TransitionManager or BeautifulTransitions$12, Simple2DCutscenes
+ 2. SpecificFX: LowPolyWindUAS, RealisticEffectsPack4HB(alsoDecals), TextAnimator, OffScreenTargetIndicator, ObiRope, BearFXExplosions(ItchRacial), PixelAnimationsAndEffectsHB,
+ 3. Shaders: UnityParticles, AllIn1SpriteShader, ShaderProjectBM(Waves, CurvedWorld, Toon, Scale, Black&White, StainedGlass, Pixelated), FacetedTerrainShaderBM,  UnityLibraryBM(SeeThroughWalls), TriplanarUVFreeBM, 
+ 4. FX&ShadersOk: SonarShader, AwesomeAsciiEffect, NeonSphere, WetStuff,  uShader2Free(VisualShaderScripting), AskOwlMarquee, DualTexturedShader,  SineWaveEffect, THORThunderstormHB, WhiteMageSpellsHB, WetStuffHB,  FlexibleCelShaderUAS, VertexBM, ShaderProjectBM(Water, Flag, FlatColor, Heatmaps) UnityLibraryBM(VerticalDistanceCameraFade,FresnelReflective,TransparentColor,TransparentColorGradient,Vertex,WaterBox,), CrestOceanBM
+ 5. Scenes:  TransitionManager or BeautifulTransitions$12, Simple2DCutscenes, 
+ 6. Cutscenes: FungusBM, LearnTimelineForTheHardWay, ManuallyUseCoroutines
  
  
  Frameworks I own but might forget about
@@ -1088,7 +1093,7 @@ Sort most of my assets into purposes
  ------------Kits---------------
  8. Some frameworks provide enormous value: HeroKitGameMaker (save, ai, dialogue, pooling, collisions, ) LogicForge (Free, New last week, Hot reload, visual scripting, )
  9. Multiplayer: like uGameCore (player logins, teams, map change, rounds, spectating, chat, console commands, 2018 only), Mirror
- 10. Makinom, Bolt, FlowCanvasHB(LiveReload), GameFlow(SimplestVisualScripting), GameFramework(Level Select, Unlock, Multiple Players, Overworld Maps, Several UI Themes, Tracking of scores and progress, Unlockable Items, In app purchases, dialogue system, $20BeautifulTransitions and object pooling, and prefs editor)
+ 10. Makinom, Bolt, FlowCanvasHB(LiveReload), GameFlow(AwesomeSimplestVisualScripting), GameFramework(Level Select, Unlock, Multiple Players, Overworld Maps, Several UI Themes, Tracking of scores and progress, Unlockable Items, In app purchases, dialogue system, $20BeautifulTransitions and object pooling, and prefs editor), $8QuickScriptsBM(Doors,TriggerBox, MovingPlatforms,Spawner,Teleporter, AnimatedLights,Spin,Hover,Swing)
  
  
  
@@ -1098,54 +1103,51 @@ Sort most of my assets into purposes
 	- 3D Breakable Asteroids, ObjectExploder, Fracturing&Destruction, InventoryPro(HBorGH)
  2. Mesh Making Best:
 	- ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMeshFree, Magicavoxeltools(mesh to magicavoxel), PaintIn3D
- 3. Mesh Making Ok: 
-	- CorelCAD, MeshCreator (helps make meshes), Scriptinunitythensavetomesh, SorcarForBlender, Many more interesting ones in bookmarks, DualTexturedShader
- 4. Meshes: 
-	- MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer, DynamicBone(ForJiggles), ObiRope, DualTextured, ObjectExploder
+ 3. Mesh Making Ok:
+	- CorelCAD, MeshCreator (helps make meshes), Scriptinunitythensavetomesh, SorcarForBlender, Many more interesting ones in bookmarks, DualTexturedShader, SabreCSG, ChiselCSG, 
+ 4. Meshes:
+	- DeformBM, MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer, DynamicBone(ForJiggles), ObiRope, DualTextured, ObjectExploder
  
  
- Art: Level Design Tools I own but might forget about
+ Art: 3D Level Design Tools I own but might forget about
  -----------------------------
  1. Level Tools Best: 
-	- EasySnap, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, 
- 2. Level Generators Best:
-	- DungeonizerFav, CurvedWorld2020, MapGen, MeshCombiner, LevelBuilder
-	- Coolestthingstodivedeep: WFC, $45Archimatix
- 3. Level Walls and Rooms Best:
-	- SnapsHB, UrbanArtCarParkHB, LowPolyUltimatePack, PolygonPacksHB,
+	- EasySnap, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, LowPolyWindUAS
+	- $40Monkey
+ 2. Level Generators 
+	Best: DonutStudiosAIandProceduralGeneration, DungeonizerFav, CurvedWorld2020, MapGen, MeshCombiner, LevelBuilder, MapMagic2, 
+	Good: ExportRandomFantasyCitytoJSONBM, KretoskarUnityProceduralLevelGenerator, DungeonDiggerTileLevelGenerator
+	- Coolestthingstodivedeep: WFC, $45Archimatix, CreateFreeRandomLowPolyWorldswithYourVoiceBM(anything.world) UAS(InfinitySquareSpaceProcedurallygeneratedSpace)
  4. Level Designers Best:  
-	- Clayxels, ProBuilder, Blender, UModelerHB, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), JustDrawThemAsPicturesAndImportThemToBlender, RealtimeCSG
+	- Clayxels, ProBuilder, Blender, UModelerHB, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), UnityRgbaLevelGenerator(withMeshCombiner),  JustDrawThemAsPicturesAndImportThemToBlender, RealtimeCSG, MastBM
  5. Terrain: 
-	- GaiaHB, MCSCavesAndOverhangeHB, TerraWorldOWN, ReliefTerrainPackHB, Videoaboutmakingbeautifulterrains, BlenderGIS, aidanProceduralTerrainGenerator, TCGJProceduralTerrainGenerator, VegetationEngineH, HowToMakeBeautifulTerrainInUnity, RunSwimFlyTerrainTools, PineForest(20 tris per object), Lots of Rocks and Trees in uas, InfiniteForestuas, Pre-made terrains islands in uas, NatureRendererHB, 
+	- Best: MapMagic2, GaiaHB, TerraWorld, AlphaxaonRealtimeTerrainBM, MCSCavesAndOverhangeHB,  ReliefTerrainPackHB, Videoaboutmakingbeautifulterrains, KahVeeTerrainGeneratorSS, Pre-made terrains islands in uas, DrParadox312UnityTerrainPainter, 
+	- Ok: $25HexagonWorldGeneratorSS, $40LandscapeBuilderSS, $5BasicRandomTerrainGeneratorSS, $20-3DRealisticTerrainVol1BM, $6UnlimitedTerrainGenerator $5VoxelMaster(WithMeshCombiner),  UnityCookbookTerrainHeightPainter, MITRandomizedTerrainpopulatedwithAssets, BooLeetLowPolyTerrainGeneratorWithDecorations BlenderGIS, aidanProceduralTerrainGenerator, TCGJProceduralTerrainGenerator, VegetationEngineH, HowToMakeBeautifulTerrainInUnity, RunSwimFlyTerrainTools, NatureRendererHB, 
  6. Levels Ok: 
 	- BlenderWithScripting (ProceduralLevelsfromScripts), Bones3Voxels, TaurusDungeonGenerator, UnityPolygonMapGenerator, EdgarforUnity, DungeonTemplateLibrary, LevelGeneratorbyMoolt, CityGenerator,  SceneObjExporter, Magicavoxeltools(mesh to magicavoxel)
  7. Level Decorations: 
-	- DuplicateMultiple (patterns), EasyRoads3D, Boids, TinyPlanetGenerator, PrototypePack, PaintIn3D, ObiRope, ModularCartoonDungeonProps(Racial), ForestEnvironmentDynamicNatureHB, WinterForestEnvironmentHB, OverCloudHB, LowPolyUltimatePack, PolygonPacksHB,
-
-
- Art: 2D Asset creation I own but I might forget about
- ----------------------------
- 1. Some great tools:
-	- CorelPainter2020HB, PaintShopProHB, Luminar4HB, CorelCADHB, ParticleShop, more in bookmarks
- 2. For pixel art specifically: 
-	- Pixelmash (pixelize images), geometrize PicturesIntoGeometry, PixelAnimationsAndEffectsHB, AllIn1SpriteShaderHB, 
- 3. Levels2D: 
-	- Ferr2DTerrainTool,c2Dto3DConverterVoxelizer (Amazing with MeshCombiner), JustDrawThemAsPicturesAndImportThemWithSpriteCollider, WFC3DUnity (Best but hard), 
- 4. Levels2D Good: 
-	- WaveFunctionCollapseWFC,  WFC3DUnity, WFCJS, TextureSynthesisGithub, TextureMaker, PrefabSwatch, EdgarProforUnity, SpelunkyLevelGenerator, EdgarforUnity, UnityProcedural2DMap,  More in bookmarks
- 5. Level Graphics:
-	- Many in UAS and Humble and Itch and Bookmarks, shan-shui-inf proceduraljapanesebackgrounds
-	- Tiles: ManyInUAS.  ManyInItchRacial. RpgGameDevelopmentAssetsHB, ItchNov2020MegaBundle(PlatformerGameTileSet(BySeason), RPGTileSet(BySeason), GameIcons(ManyPacks),  SkillIcons(ManyPacks), LootIcons, IngredientsIcons, AvatarIcons(Many), Avatar(Many), CuteAnimals(FoxPigMouse,) TacticalStrategy, Tactical, SpaceShooter, ForestPlatformer, Ruins2DTileset
-	- Backgrounds(Parallax, Jumping, Space, PixelArt(Mountain, Planet)), OverworldAKALevelMap(SpaceGame ), City, Battle,  
-	- ItchRacial(HUGEPixelartAssetPack1500Tiles,)
+	- UnityPrefabPlacementEditor, DuplicateMultiple (patterns), EasyRoads3D, Boids, TinyPlanetGenerator, PaintIn3D, ObiRope, InfiniteForestuas,  
+	- LowPolyWindUAS, StylizedGrassesBM,  PrototypePack, ModularCartoonDungeonProps(Racial), ForestEnvironmentDynamicNatureHB, WinterForestEnvironmentHB, OverCloudHB, LowPolyUltimatePack, PolygonPacksHB, PineForest(20 tris per object), Lots of Rocks and Trees in uas, 
+ 3. Level Walls and Rooms:
+	- Best: SnapsHB, UrbanArtCarParkHB, LowPolyUltimatePack, PolygonPacksHB, Quaternius(ModularMedieval,DungeonAssets,ModularDungeonPack), many more in uas, 
+	- BestPolyArt: UAS(FantasyVillagePack, LowPolyMedievalCastle, LowPolyWindUAS, PolygonFPS, PolygonStarterPack, LowPolyModernCityBuilder, MedievalDesertCity, SimpleLowPolyVillage, VoxelDungeonLite, LowPolyCityFromViuletti, CarTown, ImagineGeometricPack, LowPolyPack, 
+	- BestSciFi: UAS(SeedHunter, SnapsPrototype, SciFiStyledModular, 3DFreeModular,Bridges3D, ObligatorySciFiCorridor, 3DSciFiStarterKit, FreeLowPolySciFi, NeonSphereStarterPack, PolyWorksStreamPacks,)
+	- BestFantasy: UAS(FantasticVillagePack, FantasyAdventureEnvironment,)
+		- UAS(FantasyVillagePack, LowPolyMedievalCastle, FantasticVillagePack, FantasyAdventureEnvironment, StylizedDungeon, TreasureChestPack, DecrepitDungeons, SmallCaveKit,  UltimateFantasyCreator, BossOfWar, VoxyLegends, TopDownSmallDungeon, CryptDungeonEnvironment, VoxelCastlePack, StylizedHandPaintedDungeons, WallsAndFloorsV1, ModularCartoonDungeonProps(Racial),MedievalCastlePack, ShardSagaDangerous, MegaFantasyPack,LowPolyToonBattleArenaUAS(Forest,Desert,WinterForest,Dungeon), CartoonTemple)
+	- BestNature: PaidUAS(StylizedFantasyForestEnvironment, TowerDefensePack)
+		- UAS(LowPolyWindUAS, CastlearNatura, NatureStarterKit, GrassyValleyTerrains, ManyMoreTreesandRocks, FreeSnowMountain, RockyHills, LowPolyNature(choppedTree), DreamForestTree, FantasyForestEvironment, FreeBackgroundMountain, 3DRealisticTerrain, RealisticTerrainCollection,ForestEnvironmentDynamicNatureHB, WinterForestEnvironmentHB, OverCloudHB, FantasyLandscape, )
+	- BestTerrain: UAS(MicroSplatTerrainCollection, LowPolyTerrainPolaris, MoreSearchForTerrain, FreeIslandCollection, )
+	- BestAlien: UAS(3DGameKitEnvironment, 
+	- Ok: Quaternius(UltimateTexturedBuilding, Buildings, StreetPack)
+	
 
 
  Art: UI Assets I own but might forget about
  ----------------------------
  1. UI Best: EasyFrontEnd, SimpleUI, SimpleVectorIcons, FairyGUI, DelightUI, PixelFont, 20LogoTemplates, 
  2. UI Ok: RetroSpritesAndFont, 
- 3. UI Skins: SimpleFreePixelartstyledUIpack, CleanSettingsUI, ModernGUISkin, TechnoBlue, BlueCartoon, BlackMetal, SimpleFantasyUI, FarmingRPGGUI(ItchRacial), RPGPixelArtAssets, RpgGameDevelopmentAssetsHB(PixelArtMedievalUIHB, MedievalRPGUIKitHB,DialogueBoxes,MMORPGUIKit,) or ItchNov2020MegaBundle(Match3GameUI,BubbleShooterUI,FantasyRPGUI,SciFiUI,RPGUI,Underwater,FantasyStrategy, PixelArt2DGameUI, FantasyPlatformerUI, )
- 4. UI Parts: PixelFontThaleah or BarkersRetroTextPrinter or PixelFontTripfive or 1980ItchRacial or HumbleFontsGold, 20LogoTemplates or MKEasyTextLite, 2000FantasyIcons or SimpleVectorIcons,  ActivityIndicator, SimpleHealthbars, ProgressBar, ProgressbarPack, RPGUnitFrames, SimpleHelvetica, JoystickPack, TextureFlow or EnhancedScroller or SliderMenuFree or SwipeMenu(ForLevelSelect), PixelButtonPromptsKeyboardGamepad(ItchRacial), KawaiiGameIcons(ItchRacial), RpgGameDevelopmentAssetsHB(SpellAbilityIcons, SurvivalIcons, Icons(ManyMorePacks)
+ 3. UI Skins: SimpleFreePixelartstyledUIpack, CleanSettingsUI, ModernGUISkin, TechnoBlue, BlueCartoon, BlackMetal, SimpleFantasyUI, FarmingRPGGUI(ItchRacial), RPGPixelArtAssets, RpgGameDevelopmentAssetsHB(PixelArtMedievalUIHB, MedievalRPGUIKitHB,DialogueBoxes,MMORPGUIKit,) or ItchNov2020MegaBundle(Match3GameUI,BubbleShooterUI,FantasyRPGUI,SciFiUI,RPGUI,Underwater,FantasyStrategy, PixelArt2DGameUI, FantasyPlatformerUI, ) KronbitsBM
+ 4. UI Parts: PixelFontThaleah or BarkersRetroTextPrinter or PixelFontTripfive or 1980ItchRacial or HumbleFontsGold, 20LogoTemplates or MKEasyTextLite, 2000FantasyIcons or SimpleVectorIcons,  ActivityIndicator, SimpleHealthbars, ProgressBar, ProgressbarPack, RPGUnitFrames, SimpleHelvetica, JoystickPack, TextureFlow or EnhancedScroller or SliderMenuFree or SwipeMenu(ForLevelSelect), PixelButtonPromptsKeyboardGamepad(ItchRacial), KawaiiGameIcons(ItchRacial), RpgGameDevelopmentAssetsHB(SpellAbilityIcons, SurvivalIcons, Icons(ManyMorePacks), 3906IconsBM, 
  5. UI Functionality Great: PlatinoTween, SimpleFantasyUI or EasyFrontEnd, AnchorSnap, DynamicText, EasyText,  LeanTouch+(Great For advanced iOS touch games), NiceVibrations,  
  6. UI Functionality ok: TypewriterCustomStyles, AskOwlMarquee, BaroqueUI (forVR),DoozyUI or  LeanGUI, ProceduralUIImage, 
  7. UI Favs atm: PlatinoTween, DynamicText, SimpleFantasyUI or EasyFrontEnd or SimpleUI, TextureFlow, twentyLogoTemplates, OneOfTheProgressOrHealthBars, 2000FantasyIcons, oneOfTheUISkins, RPGTalk or DialogueSystem, 
@@ -1157,40 +1159,94 @@ Sort most of my assets into purposes
  
  
 
+ Art: 2D Asset creation I own but I might forget about
+ ----------------------------
+ 1. Some great tools:
+	- CorelPainter2020HB, PaintShopProHB, Luminar4HB, CorelCADHB, ParticleShop, more in bookmarks
+ 2. For pixel art specifically: 
+	- Pixelmash (pixelize images), geometrize PicturesIntoGeometry, PixelAnimationsAndEffectsHB, AllIn1SpriteShaderHB, Dain-AppItch
+ 3. Levels2D: 
+	- Ferr2DTerrainTool,c2Dto3DConverterVoxelizer (Amazing with MeshCombiner), JustDrawThemAsPicturesAndImportThemWithSpriteCollider, LDTK, WFC3DUnity (Best but hard), 
+ 4. Levels2D Good: 
+	- WaveFunctionCollapseWFC,  WFC3DUnity, WFCJS, TextureSynthesisGithub, TextureMaker, PrefabSwatch, EdgarProforUnity, SpelunkyLevelGenerator, EdgarforUnity, UnityProcedural2DMap,  More in bookmarks
+ 5. Level Graphics:
+	- Many in UAS and Humble and Itch and Bookmarks, shan-shui-inf proceduraljapanesebackgrounds
+	- Tiles: ManyInUAS.  ManyInItchRacial. RpgGameDevelopmentAssetsHB, ItchNov2020MegaBundle(PlatformerGameTileSet(BySeason), RPGTileSet(BySeason), GameIcons(ManyPacks),  SkillIcons(ManyPacks), LootIcons, IngredientsIcons, AvatarIcons(Many), Avatar(Many), CuteAnimals(FoxPigMouse,) TacticalStrategy, Tactical, SpaceShooter, ForestPlatformer, Ruins2DTileset, ToensMedievalStrategyBM
+	- Backgrounds(Parallax, Jumping, Space, PixelArt(Mountain, Planet)), OverworldAKALevelMap(SpaceGame ), City, Battle,  
+	- ItchRacial(HUGEPixelartAssetPack1500Tiles,), SuperpowersBackgroundsPackBM(Parallax), 
+	- Quaternius(TexturedNature(AWESOME), Bushes(PinkGreenClassy), SnowNature, Desert,)
+
+
  Characters: 2D or 3D Character assets I own but I might forget about
  ----------------------------
- 1. Animation: Animancer or AnimatorControllerasCodeUAS or MecanimControl or AnimatorStateMachineUtility or SprytAnimatorLite. AdvancedPolygonCollider, GuplemEssentials, RagdollandTransitiontoMecanim, LockpickingKeylocksHB
+ 1. Animation: UnityAnima2D, Animancer or AnimatorControllerasCodeUAS or MecanimControl or AnimatorStateMachineUtility or SprytAnimatorLite. AdvancedPolygonCollider, GuplemEssentials, RagdollandTransitiontoMecanim, LockpickingKeylocksHB, GuplemEssentials
  2. RagdollMecanimTransition (switchtofromragdoll)
  3. 3DModels: 
-	- HeroicFantasyCreaturesFullPackVolume1HB(worth 349 already own!), PolygonPacksHB, StarSparrowModularSpaceship(Downloaded), ItchNov2020MegaBundle(DesertCactusAndTree, DesertStone, Mountains3D, TropicalPlants, Clouds,Volcanoes, MedievalFarm, AnimalsFarm3D, EnvironmentProps, MedievalBuilding, MedievalBuldings MedievalWeapons)
- 4. Models: Clayxels, 3DCharactersVehiclesAndPropsUAS, 15-203DCharactersEnemiesUltimateFantasyHB, 2DRetroActRPGSpritePack, PaintIn3D, DynamicBone(ForJiggles), TailAnimator, AdvancedPolygonCollider, 
- 5. 2DAI: 2DEnemyToolkit, PathBerzerker2d360PlatformerPathfinding, BloodstoneAI, ReGOAP, SteeringBehaviors, LovelyAgents, SensorToolkit
- 6. 3DAI: EmeraldAI, Planilo, NPBehave, CoordEDBT, StarterKitMovementCameraAI, DarkTreeFPS, FPSStarterKit(simpleAI), PolygonFPS, RealisticFPSPrefab, TopDownAI, ReactionAISteroidEdition, BreadcrumbAI, LowPolyAnimatedAnimals(Wander), CandiceAIForGames, RealisticFPSPrefab, SensorToolkitHB
+	- UAS(PolygonKnightsPack,), HeroicFantasyCreaturesFullPackVolume1HB(worth 349 already own!), PolygonPacksHB, StarSparrowModularSpaceship(Downloaded), ItchNov2020MegaBundle(DesertCactusAndTree, DesertStone, Mountains3D, TropicalPlants, Clouds,Volcanoes, MedievalFarm, AnimalsFarm3D, EnvironmentProps, MedievalBuilding, MedievalBuldings MedievalWeapons), Superpower3DCharacterPackBM, Quaternius(AnimatedRobot,AnimatedAlien,RPGCharacters,CuteAnimatedMonsters,UltimateAnimatedCharacterPack,AnimatedWomen,AnimatedMen,AnimatedEasyEnemy,AnimatedDinosaur,AnimatedMonster,Knight,FarmAnimal,FishPack,Zombie,AnimatedWoman,AnimatedAnimals,Animals) ... many more
+ 4. Models: 
+	- Clayxels, 3DCharactersVehiclesAndPropsUAS, 15-203DCharactersEnemiesUltimateFantasyHB, 2DRetroActRPGSpritePack, PaintIn3D, DynamicBone(ForJiggles), TailAnimator, AdvancedPolygonCollider, Superpowers3DVehiclesPackBM,
+ 5. 2DAI: 2DEnemyToolkit, PathBerzerker2d360PlatformerPathfinding, BloodstoneAI, ReGOAP, SteeringBehaviors, LovelyAgents, SensorToolkit, DonutStudiosAIandProceduralGeneration
+ 6. 3DAI: EmeraldAI, Planilo, NPBehave, CoordEDBT, StarterKitMovementCameraAI, DarkTreeFPS, FPSStarterKit(simpleAI), PolygonFPS, RealisticFPSPrefab, TopDownAI, ReactionAISteroidEdition, BreadcrumbAI, LowPolyAnimatedAnimals(Wander), CandiceAIForGames, RealisticFPSPrefab, SensorToolkitHB, 
  7. Sprites: SeveralInItchRacial, TonsInRpgGameDevelopmentAssetsHB(Creatures,Items, Sprites, Tilesets, Characters, Animations), 
 	- ItchNov2020MegaBundle(Kits(MonstersMatch3,Runner,Jump, UnderwaterWorld,TDSPixelArt2DKit, TopDownTank2DKit,SpaceShooter2D,SpaceShooterPixelArt,PixelArtPlatformer2DGameKit), CharacterSprite(ManyPacks), Character, Zombie(ManyPacks), 2DGame___Sprite(ManyPacksDragonGoblinTons), 2DWeapons, TopDownShooter(Monster,Zombie,MainCharacters,ZombieGameKit), Robot, Icons, , other, Sky,City, VerticalSpace, Forest, Mountain,  ), Spaceship, Weapons, FantasyGameMainHeroes, NPC, TowerDefenseTileset,  4DirectionNPCSprites,  CharactersForPlatformers, Monsters,Boss,PixelArt
+	- Bookmarks(ShadowOfTheWyrm, AnimatedPixelHero)    UAS(RetroActSpritePack(GameboyRPG))
  8. Sprite Mechanics: 
 	- PixelAnimationsAndEffectsHB, AllIn1SpriteShaderHB, Itch(7ExplosionSprites, 10MagicSpriteSheetEffects, PixelArtMagicSpriteSheetEffects, MagicEffectsPixelArt)
-
+ 9. Props:
+	- Quaternius(SciFiGunPack, AnimatedGuns, UltimateGunPack,SurvivalPack, FoodCoinsPowerup, SteampunkTurretPack, TonsMore), UAS(PropsLabel,TreasureChestPack)
 
 
  Genre: Assets for other genres I own but I might forget about
  ---------------------------- 
- 1. 3D Racing (overhead or first person) - EasyRoads3D(AdjustsTerrainToFit) withARandomTerrain or  KajamansRoads (for3DFirstPersonRoads) or TrackGen, LakeRaceTrack, CurvedGrounds, EndlessForest, use cars and boats and copters, Highroad Engine$60UAS, CurvedWorld, SplineMeshFree, MeshDeformer, Loads of Car Vehicles in UAS
- 2. There is an amazing minigolf set that I could use for marble madness
+ 1. 3D Racing (overhead or first person)
+	- EasyRoads3D(AdjustsTerrainToFit) withARandomTerrain or  KajamansRoads (for3DFirstPersonRoads) or TrackGen,  , CurvedGrounds, EndlessForest, use cars and boats and copters, Highroad Engine$60UAS, CurvedWorld, SplineMeshFree, MeshDeformer, LoadsofCarVehiclesinUASbyLabel, UAS(LakeRaceTrack, LowPolyRoadPack, MountainRaceTracks, CarTown, MoreAreInCitiesInUAS, ToonGasStation, )
+	- Quaternius(StreetPack,Ships, CarPack,AnimatedTankPack,ModularTrainPack,Airplanes,PublicTransport,CarsVol2,Spaceships,) SpritelibBM(vehicles, tankbrigade )  
+	- GamesPlusJamesRacingTutorial
+ 2. MarbleMadness: 
+	- Minigolfuas, KronbitsBM
  3. TextAdventures: Squiffy
  4. FightingGame: FighterPack or WarriorPack or MartialArts(for a whole game)
  5. 2DCannonFodder: TDSPixelArtSoldierAndVehicle(ItchNov)(PERFECT), TDSPixelArt2DKit(ItchNov), 7ExplosionSpritesItch,
- 6. 2DTowerDefense: FantasyTowerDefenseGameKit(ItchNov)
- 7. TopDownShooter: TopDownShooter(Monster,Zombie,MainCharacters,ZombieGameKit,TDSTilesetSandStonesPlantsWater)(ItchNov)
- 8. VerticalSpaceShooter: ItchNov(SpaceVertical2DBackgrounds, SpaceTrapGameAssetPack, SpaceShooter2DGameKit, Spaceship,Space2DBackground,)
+ 6. TowerDefense: 
+	- 2D: FantasyTowerDefenseGameKit(ItchNov)
+	- 3D: Quaternius(SteampunkTurretPack), PaidUAS(TowerDefensePack)
+ 7. TopDownShooter: TopDownShooter(Monster,Zombie,MainCharacters,ZombieGameKit, TDSTilesetSandStonesPlantsWater)(ItchNov), Superpowers(TopDownShooter),
+	- Quaternius(Spaceships,) SpritelibBM(action1,  ), KronbitsBM, UAS(CasualTinyEnvironment, LowPolyMedievalCastle, TowerDefensePack(Paid), LowPolyToonBattleArenaUAS(Forest,Desert,WinterForest,Dungeon) )
+	- AI: DonutStudiosAIandProceduralGeneration
+	- Levels: DonutStudiosAIandProceduralGeneration
+ 8. VerticalSpaceShooter: 
+	- ItchNov(SpaceVertical2DBackgrounds, SpaceTrapGameAssetPack, SpaceShooter2DGameKit, Spaceship,Space2DBackground,), SpritelibBM(centipede, invaders, asteroids, 1942  )
+	- Superpowers(SpaceShooter,), KronbitsBM, UAS(2DSpaceKit, InfinitySquareSpaceProcedurallygeneratedSpace), 
  9. HorizontalSpaceShooter: ItchNov(Spaceship2DSprites, SpaceShooterGameKitPixelArt, SpacePirates, AlienSpaceship, BossSpaceship, SpaceTrapGameAssetPack, SpaceShooterTileset, Space2DBackground,)
- 10. TopDownTank: ItchNov(TopDownTankGUI, TopDownTank2DKit, 2DTankGameAssets)
+ 10. TopDownTank: ItchNov(TopDownTankGUI, TopDownTank2DKit, 2DTankGameAssets), Quaternius(AnimatedTankPack,), SpritelibBM(vehicles, tankbrigade )
  11. Match3: ItchNov(MonstersMatch3,4LocationsForTheGameMatch3)
- 12. PixelPlatformer: ItchNov(Tileset(Ruins2D, ForestPlatformer, MineBosses, SwampEnemies, Desert, Snow, SnowEnemies, Ruin, Ruin Enemy, Ruin Animal, Animated Traps, DesertBosses, AnimatedTraps, RuinBosses,Magic, SnowBosses, PirateInvasion, Steampunk, RiseOfTheZombiesMummy)
-	- Tier 2: ItchNov(MiningAndFounding, Herbalism, Cookery, Engineering, Farming,)
- 14. 2DPlatformer: ItchNov( MountainMonsters, BossMonster, Weapons(many), Bosses , Alchemy)
- 15. RPG: ItchNov( 4-Direction 2D )
- 16. TopDownPixel: ItchNov(2dTopDownDungeon, )
+ 12. Platformer: 
+	- Pixel: ItchNov(Tileset(Ruins2D, ForestPlatformer, MineBosses, SwampEnemies, Desert, Snow, SnowEnemies, Ruin, Ruin Enemy, Ruin Animal, Animated Traps, DesertBosses, AnimatedTraps, RuinBosses,Magic, SnowBosses, PirateInvasion, Steampunk, RiseOfTheZombiesMummy), SuperpowersBackgroundsPackBM(Parallax), 
+	- Pixel: Tier 2: ItchNov(MiningAndFounding, Herbalism, Cookery, Engineering, Farming,), KronbitsBM
+	- 2D ItchNov( MountainMonsters, BossMonster, Weapons(many), Bosses , Alchemy), Superpowers(PrehistoricPlatformer1&2, RPGBattleSystem), DeepNightBM(8x8), Spritelib(platform)
+	- 2.5D Platformer:  Quaternius(FreePlatformerPack, AnimatedRobot,
+ 15. Zelda RPG: 
+	- ItchNov( 4-Direction 2D ), Superpowers(MedievalFantasyPackBM, NinjaAdventurePackBM, NinjaAdventurePackBM), GenericRPGpackBM, ZeldaSpritesBM, Zelda-LikeTilesetsAndSpritesBM, 
+	- Bookmarks(ShadowOfTheWyrm600-16x24)
+	- 2D: UAS(RetroActSpritePack(GameboyRPG))
+ 16. TopDownPixel: 
+	- ItchNov(2dTopDownDungeon, )
+ 17. Gauntlet: 
+	- 2.5D LowPolyToonBattleArenaUAS(Forest,Desert,WinterForest,Dungeon), Quaternius(ModularMedieval, DungeonAssets, ModularDungeonPack), 
+	- Char: Quaternius(RPGCharacters, CuteAnimatedMonsters,EasyEnemy,Monster), FantasyCharacterDwarfFree or Barbarian Warrior, Level1MonsterPack or LowPolyFantasyMonsters
+	- 2D: UAS(RetroActSpritePack(GameboyRPG))
+ 18. Wolfenstein: 
+	- Superpowers(FPSPack), UAS(FPSIcons, ToonMuzzleflash, TreasureChestPack, 
+	- WillPyetheCSguy/ProceduralDungeonFPSGH
+ 19. Megaball:
+	- Spritelib(Arinoid)
+ 20. Sonic: UAS(GrassRoadRace, AircraftLevel)
+ 21. QBert: QBertReplicaGH, 
+ 22. Alien Syndrome:
+ 	- SciFiEngineer
+	- 
+ 23. VR Elevator Action;
+ 24. 
  
  
  Goals: 
@@ -1213,6 +1269,9 @@ Sort most of my assets into purposes
 https://clips.twitch.tv/DeadHelplessRhinocerosOMGScoots Jay parking at red light
 https://clips.twitch.tv/BoringFriendlyTarsierUnSane very important fruit stand
 https://clips.twitch.tv/HumbleBigStarFreakinStinkin Jay loses the cops like a boss
+https://clips.twitch.tv/ConfidentCrunchyRhinocerosMcaT Brads Paintkakke
+https://clips.twitch.tv/AntsyHeartlessUdonUWot Brads dog hypnosis
+https://clips.twitch.tv/RoughAggressiveChoughDoritosChip Cutest ASMR Explanation ever
  
  Vissenekkus stream there was a nice string of comments at about 2h52m into the stream about the pixel art and the modern effects and aesthetic.  I can't point out all of the positive things he said about the game but I can point to a few things I noticed.
  
@@ -1221,5 +1280,48 @@ https://clips.twitch.tv/HumbleBigStarFreakinStinkin Jay loses the cops like a bo
  https://youtu.be/psu0UEvfgF8 the song
  
  https://clips.twitch.tv/ResourcefulAgreeableYakTheRinger Craftys first gift sub
+ 
+ 
+ Courtesy Flush
+ Pity Party
+ Chunky Butter
+ 
+ 
+ Craftys Discord
+
+ https://discord.gg/VY2peg9J
+ https://discord.gg/RhpP3QaT - broken link
+ https://discord.gg/dmMFknX2 - broken link
+
+
+ Magnums Discord
+ https://discord.gg/dZh9F7C
+ Magnums Donation
+ https://streamlabs.com/magnumkneehi/tip
+ www.streamlabs.com/magnumkneehi/tip
+ 
+
+ Brads Donation
+ https://bradwendtross.com/tip
+
+
+ Jays Discord (formerly Craftys Rafters)
+ https://discord.gg/Nd5SsumPVW
+ 
+ 
+ 
+ dready82x used: /add_permitted_term a hoe.
+ 12:05ModeratorPrime GamingJimPlaysGames: https://www.redbubble.com/people/gloomdready/shop
+ 
+ Suggestions for Brads Stream: He has a discord?  Brad should know he can ask mods to reject any redemption he doesnt want to do and it will refund their points.  Did everyone get their redemptions for mini painting?  If Not should I refund?   I added cunt and 'batty boy' (a homophobic slur) to the list of automod phrases 
+ 
+ 
+ oswold, bootay_cheek_buster: bootay_sniffer: muff_munching_motorboater: DeflowerPower: slippery_willie:  monkee_spanker:
+ 
+ 
+ 5:58
+ 9:18
+ 
+ 3:20
  
  

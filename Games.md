@@ -1102,17 +1102,29 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 	This is a good simple short roguelike, but I dont like it because it doesn't have what I'm looking for.  In particular I dont want hunger, or the complexity of identification, nor do I want to be scared to make every move.  Still kudos to the authors.
 * Project Osiris (10/17/2020) Awesome.  Makes a weird noise on sewer level.  (11/20/2020)  The sewer level has great difficulty.  i dont remember what difficulty I picked but its taken me a number of tries to get through but I'm making progress every time.  On level 4 The Courtyard in the first room there are curved stairs to the left and behind them is a little room.  If you run in there the breed can't get to you directly for some reason. They bounce on the stairs like a pinball until they happen to get through the little section.  General: health pickups flash the screen a bit too much and without being conscious of it they distract and make me wonder if I'm getting hit.  The shotgun is underpowered imho.  I can't seem to use it with success at all (even in close quarters) maybe its just me but in doom I can use the shotgun and here I cant. 
 * Bleed 11/25/2020 I got this from the racial bundle and its really fun!  2D shooter wiht wasd and then shoot with the mouse and theres slow time and triple jump and cool levels and weapon upgrades and bosses its great!
+* Alien Syndrome 12/2/2020 I got this working in retroarch and its fun and I have good memories of it.  THe parallax on level 2 especially is awesome.  I remember it mostly from c64 actually because it was a game I could make real progress on.  in this arcade version you can continue but ONLY if the secondplayer is alive still and even then theres a hardcore time limit so its really tough.  Still I really like the basic idea here: captured shipmates you are trying to rescue on many different ships and planets and you get weapon upgrades and maps from the wall.  The enemies ai is not too interesting on level 1 and 2 at least they just move back and forth if they are the basic ones and the others chase you from off screen. Then you get a boss after each level.  I got past level 1.
+* Retroarch 12/2/2020 Its so damn clumsy but also so great.  1. fullscreen mode doesnt allow for multitasking at all :(.  mouse barely works and the ways it does are completely unusable paradigms.  scroll thruogh menus like its a big scrollbar?  no mouse wheel?  clicking doesnt work?  you have to nkow where all of the important menus are: input, folders, you have to load cores first is the biggest paradigm difference with almost every other app.  many more stupid quirks.  Works best with arrows enter backspace or gamepads. . once you figure it all out its really amazing.  looking forward to netplay.  had to set the starting directory to the roms folder in settings directories.   Had to download the 2003 mame core.  Had to get roms specificially from the 0.78 mame romset whatever that means.  thats how I got wrestlefest working with Tom.  If you want to use your only joystick to play as player two in your game, all of the menus stop working from that joystick.  Theres no obvius way to set port 2 to use the keyboard.
+	- I wanted to setup my inputs so I could have a ps4 controller and a keyboard that I coudl switch back and forth.  I set them both to the same input settings and al of a sudden the cursor moves twice in teh menu instead of just once.  So I tried reassigning just one of the arrow keys in port 2 and now no cursor or joystick movement works.  I restarted.
+	- So now I've setup the dual shock on input 1 and saved.  I also have keyboard setup on input 1. I also have the dual shock on input 2.  This way I can control both player 1 and two at same time.   Now if I the device index on input 1 it shoudl be keyboard input 1 and playstation 4 input 2.  Yes that worked.
+* OmegaRace 12/2/2020 I got the last high score but I think I could get even more with a bit of practice.  I did it I got hte top all time score!  it does save high scores which i think is bad ass
+
+
 	
 # Top notable purchases #
 (in no particular order)
 These are ones that I loved so much and am so happy I picked up.  
 
+Celeste
+the dragons trap
+* Lord of the Rings War in the North (the diablo game)
 * Hellbound
 * Signal from Tolva
 * Titanfall 2
 
 From the past
 * Killzone 2
+
+
 
 # With Cristi #
 * Biped (two player puzzle game where you have to work together)
@@ -1147,7 +1159,7 @@ From the past
 
 Most of these I dont want to badge.
 
-Ones to consider badging
+
 
 Have beat before
 1. Wonderboy The Dragons Trap
@@ -1157,7 +1169,6 @@ Have beat before
 6. Double Dragon SMS
 7. Golden Axe SMS
 8. Mario World
-
 
 
 Always wanted to
@@ -1173,7 +1184,8 @@ Always wanted to
 18. Castle Of Illusion GEN
 19. Lotus Turbo Challenge GEN (same as Lotus 2)
 20. Strider GEN
-21. TMNT Hyperstone Heist
+21. TMNT Hyperstone Heist GEN
+
 
 Want to now
 10. Shinobi SMS
@@ -1187,6 +1199,12 @@ Want to now
 18. Gauntlet IV GEN
 
 
+Would like to beat on hardcore mode someday (dont need to badge just beat)
+Zelda 2, Wonderboy 3, Dragons Curse, CastleOfIllusionSMS
+
+
+Would like to play with tom on netplay
+Pinball Fantasies, Scorched Tanks, 
 
 
 Beat with save states
@@ -1502,36 +1520,37 @@ Games which might be cool in Stereoscopic 3D
 ## Gamecube ##
 Games which might be cool in Stereoscopic 3D or VR
 
-Proven to be great
-O Burnout 2
-O Lord of the Rings - Return of the King
-
-
 
 ----------
+O Beyond Good and Evil
+O Hobbit in 3D!!!!  OMG!!!
+O Peter Jacksons King Kong
+O Lord of the Rings - Return of the King
+O Lord of the Rings - The Two Towers
+O Red Faction II
+---------- Shoulds - Would be proud of but would also be somewhat of a chore so use cheats
+O Zelda Twilight Princess
+O Zelda Wind Waker
+O Skies of Arcadia Legends
+---------- 
+O Metroid Prime (never beat this - maybe I could now in High Resolution 3D?  or in VR?) 
+O Baldurs Gate Dark Alliance
+O Rayman 3
+O F-Zero GX (The racing experience in stereoscopic!)
+O Burnout 2
+----------
+O Gauntlet Dark Legacy
 O Viewtiful Joe
 O Luigis Mansion (3DS?)
 D Super Mario Sunshine
-O Zelda Twilight Princess
 O Metal Gear Solid: The Twin Snakes (MGS on MGS2 Engine)
-O Beyond Good and Evil
-O F-Zero GX (The racing experience in stereoscopic!)
-O Skies of Arcadia Legends
-O Zelda Wind Waker
-O Hobbit in 3D!!!!  OMG!!!
-O Metroid Prime (never beat this - maybe I could now in High Resolution 3D?  or in VR?) 
-O Peter Jacksons King Kong
 O Tak and the Power of Juju
 O Timesplitters Future Perfect
 O Star Fox Adventures
-O Gauntlet Dark Legacy
-O Lord of the Rings - The Two Towers
 ----------------
 N Prince of Persia 1
 N Prince of Persia 2
 N Prince of Persia 3
-O Rayman 3
-O Red Faction II
 N Alien Hominid
 
 
@@ -1540,6 +1559,24 @@ N Alien Hominid
 ## Wii ##
 
 Games which might be cool in Stereoscopic 3D or VR
+
+Best Wii
+	- With Controller
+		- Klonoa (VR), DonkeyKongReturns, Rayman Origins
+	- With Wiimote as accessory
+		- SuperMarioGalaxy1&2, ZeldaSkywardSword, ZeldaTwilightPrincess
+	- Wiimote Aiming
+		- DeadSpaceExtraction, ResidentEvilUmbrella, ResidentEvil4, SinandPunishment:StarSuccessor
+		- Fun for a bit: GhostSquad, GunbladeNYandLAMachineGuns
+
+
+ Second Tier:
+- Wii - Should but feels like a chore so use cheats:
+	- ZeldaSkywardSword, ZeldaTwilightPrincess, ResidentEvil4
+- Wii - Try but not that excited because theyre not new so probably wont hold my attention long enough
+	- SuperMarioGalaxy1&2, DonkeyKongReturns, Rayman Origins
+
+
 
 
 Wiiners games with Traditional Controls
@@ -1669,9 +1706,11 @@ Lego Lord of the Rings Wii/3DS
 Lego Hobbit 3DS
 Luigis Mansion
 Starfox 64 3D
-Wario World
+Wario World GC
 Mario 3D Land
 
+
+ds
 
 On my mind atm 7/27/2020 later 10/18/2020
 ----------------------------
@@ -1825,8 +1864,8 @@ Burnout Paradise with Steering Wheel
 pec Ops: The Line is good if you want a different perspective on the whole jingoistic military shooter thing
 OwnInHumbleBundle: “Oxenfree takes the best parts of supernatural 1980’s teenage horror films and combines it with believable characters, beautiful set pieces, and a haunting VHS synth-pop soundtrack to create a masterpiece.”
 SuperfrogHDHB
-
-
+ViveportSpaceChannel5
+Nightmare on Itch looks amazing!!!
 
 Programming:
 Look at my steam list
@@ -1849,18 +1888,23 @@ Gal Gun 2 on Oculus
 Subnautica VR
 Sensible Soccer Amiga
 Alien Breed 3D HB
+Rock N Roll Racing Retro Achivements
 
 Replay (though less excited because I remember some annoying bits but it was still amazing)
 Luckys Tale
+
+
 
 
 For Exercise:
 Beat Saber
 Some other beat games
 Knockout
-Creed
+CreedViveport
 Duo
 Shooting Games in Rec Room
+
+
 
 
 PSVR
@@ -1921,5 +1965,29 @@ Serious Sam 3
 Level C:
 
 
+
+
+
+
+Games on my mind 12/4/2020
+---------------------------------
+Look at iOS games above, and the list immediately above and search for my other lists
+
+- Stereoscopic Gamecube
+	- BeyondGoodandEvil, TheHobbit, LordOfTheRings, 
+	
+- Stereoscopic Wii
+	- Klonoa, DeadSpaceExtraction, SinandPunishment:StarSuccessor
+
+- Retroarch
+	- Netplay:
+	- Retroachievements:
+	- ForFun:
+		- GalsPanic
+		
+- VR RPG
+	- SkyrimVR
+
+- 
 
 

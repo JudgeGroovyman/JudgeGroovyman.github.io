@@ -865,7 +865,7 @@ Ludum Dare Streamers
 Examples of good sales pages
 1. https://spacemace.itch.io/joggernauts
 2. [Example of a great way to make a github repo](https://github.com/BayatGames/SaveGameFree/blob/master/README.md)
-
+3. [Amazing ]
 
 # Github #
 Tips on making a great github repo:
