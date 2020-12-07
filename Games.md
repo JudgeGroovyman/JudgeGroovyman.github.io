@@ -1118,7 +1118,10 @@ Shit there are time outs in this game too!?!  Ok there are two continues.  THats
 	- I wanted to setup my inputs so I could have a ps4 controller and a keyboard that I coudl switch back and forth.  I set them both to the same input settings and al of a sudden the cursor moves twice in teh menu instead of just once.  So I tried reassigning just one of the arrow keys in port 2 and now no cursor or joystick movement works.  I restarted.
 	- So now I've setup the dual shock on input 1 and saved.  I also have keyboard setup on input 1. I also have the dual shock on input 2.  This way I can control both player 1 and two at same time.   Now if I the device index on input 1 it shoudl be keyboard input 1 and playstation 4 input 2.  Yes that worked.
 * OmegaRace 12/2/2020 I got the last high score but I think I could get even more with a bit of practice.  I did it I got hte top all time score!  it does save high scores which i think is bad ass
-
+* Guildmaster: Gratuitous Subtitle
+	- I love how when one player is in a tight corridor and you want another player to get past them they just kind of scoot around them like would happen in real life!
+	- I had this vision which is admittedly a little bit silly of when an arrow misses and shoots off into the blackness what if a noise was played ... specifically the alarmed noise of a cat reaawr!  or a glass breaking lol
+	- Would like an end turn key and a confirm key (you dont want to use these skills?) it would make the whole process be 100% combat and no menus combat action combat action combat action combat action.  
 
 	
 # Top notable purchases #
