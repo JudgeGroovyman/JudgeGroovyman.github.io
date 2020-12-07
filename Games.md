@@ -74,6 +74,17 @@ Some possible games
 1. MDK2
 
 # Games Cristi might like #
+
+SeriousSam4 Co-Op (Especially with Cristi)
+
+Raft
+No Mans Sky New Version
+Arizona Sunshine
+Serious Sam 3
+Spec Ops: The Line is good if you want a different perspective on the whole jingoistic military shooter thing
+
+Joggernauts(Racial)
+
 1. Minecraft
 2. Portal 2 with me 
 	* Portal 1 and 2 by herself and with me watching
@@ -1147,13 +1158,18 @@ From the past
 
 
 # With Tom #
+
+- Netplay: Contra, RockNRollRacing, TMNT2, TMNT3, SmashTV, Gauntlet, MicroMages, Rollerball, 
+
+
+
+* that modern Rock n Roll Racing game
 * Rocket League
 * Skyrim
 * Rec Room
-* Bridge Crew
-* That Strategy Board Game
+* StarTrekBridgeCrewVR
+* CatanVR
 * Now No Mans Sky!
-
 
 # For RetroAchievements #
 
@@ -1435,7 +1451,7 @@ pcsx2 apparently has 3d sbs!
 1. 
 
 ## WiiU ##
-WiiU games that might be able to be Stereoscopic
+Wii-U WiiU games that might be able to be Stereoscopic
 Update: not dolphin: CEMU wiht Reshade 3.0
 * Nano Assault Neo (Wii-U) Possibly in Dolphin could get stereoscopic working and this would be an amazing twin stick shooter in 3d!
 * Kirby Rainbow Curse WiiU Would be SO MUCH FUN (although would need a stylus somehow - wouldnt really work with mouse)
@@ -1522,36 +1538,15 @@ Games which might be cool in Stereoscopic 3D or VR
 
 
 ----------
-O Beyond Good and Evil
-O Hobbit in 3D!!!!  OMG!!!
-O Peter Jacksons King Kong
-O Lord of the Rings - Return of the King
-O Lord of the Rings - The Two Towers
-O Red Faction II
----------- Shoulds - Would be proud of but would also be somewhat of a chore so use cheats
-O Zelda Twilight Princess
-O Zelda Wind Waker
-O Skies of Arcadia Legends
+O Beyond Good and Evil, O Hobbit in 3D!!!!  OMG!!!, O Peter Jacksons King Kong, O Lord of the Rings - Return of the King, O Lord of the Rings - The Two Towers, O Red Faction II
+---------- Shoulds - Would be proud but also somewhat a chore so use cheats
+O Zelda Twilight Princess, O Zelda Wind Waker, O Skies of Arcadia Legends
 ---------- 
-O Metroid Prime (never beat this - maybe I could now in High Resolution 3D?  or in VR?) 
-O Baldurs Gate Dark Alliance
-O Rayman 3
-O F-Zero GX (The racing experience in stereoscopic!)
-O Burnout 2
+O Metroid Prime (never beat this - maybe I could now in High Resolution 3D?  or in VR?) , O Baldurs Gate Dark Alliance, O Rayman 3, O F-Zero GX (The racing experience in stereoscopic!), O Burnout 2
 ----------
-O Gauntlet Dark Legacy
-O Viewtiful Joe
-O Luigis Mansion (3DS?)
-D Super Mario Sunshine
-O Metal Gear Solid: The Twin Snakes (MGS on MGS2 Engine)
-O Tak and the Power of Juju
-O Timesplitters Future Perfect
-O Star Fox Adventures
+O Gauntlet Dark Legacy, O Viewtiful Joe, O Luigis Mansion (3DS?), D Super Mario Sunshine, O Metal Gear Solid: The Twin Snakes (MGS on MGS2 Engine), O Tak and the Power of Juju, O Timesplitters Future Perfect, O Star Fox Adventures
 ----------------
-N Prince of Persia 1
-N Prince of Persia 2
-N Prince of Persia 3
-N Alien Hominid
+N Prince of Persia 1, N Prince of Persia 2, N Prince of Persia 3, N Alien Hominid
 
 
 
@@ -1581,79 +1576,44 @@ Best Wii
 
 Wiiners games with Traditional Controls
 ------------------------------------
-C Klonoa
-O Sin and Punishment: Star Successor
-C MLB Power Pros
-C Nights: Journey of Dreams
+C Klonoa, O Sin and Punishment: Star Successor, C MLB Power Pros, C Nights: Journey of Dreams, GhostSquad
 -------
-C Muramasa: The Demon Blade
-C Rayman Origins
-C Geometry Wars: Galaxies (High Resolution, 3D, Could be awesome!)
-C Pinball Hall of Fame - The Williams Collection
-C Pinball Hall of Fame - The Gottlieb Collection
-C Pirates Plundarr
-C Conduit 2
-C Blast Works
+C Muramasa: The Demon Blade, C Rayman Origins, C Geometry Wars: Galaxies (High Resolution, 3D, Could be awesome!), C Pinball Hall of Fame - The Williams Collection, C Pinball Hall of Fame - The Gottlieb Collection, C Pirates Plundarr, C Conduit 2, C Blast Works
 -------
-C Kirbys return to dreamland
-C Lord of the Rings Aragorns Quest
-C Mushroom Men
-C NBA 2k13 (with 3D and traditional Controls and replays!!!)
-C Resident Evil 4 (Gamecube if no remote attached)(Or mouse for wiimote might be epic?)
-C Sonic Colors
-C Sonic Unleashed
-C Super Mario Galaxy 1
-C Super Mario Galaxy 2
-C TrackMania: Build to Race
+C Kirbys return to dreamland, C Lord of the Rings Aragorns Quest, C Mushroom Men, C NBA 2k13 (with 3D and traditional Controls and replays!!!), C Resident Evil 4 (Gamecube if no remote attached)(Or mouse for wiimote might be epic?), C Sonic Colors, C Sonic Unleashed, C Super Mario Galaxy 1, C Super Mario Galaxy 2, C TrackMania: Build to Race
 -------
-N Okami (ookami)
-N Boy and His Blob
-N Kirbys Dream Collection (Kirby 64 3D?)
-N Wario Land Shake It
-N Dragons Lair Trilogy
-N N Namco Museum Remix
-N Pitfall: The Big Adventure
-N Mortal Kombat: Armageddon
-N The legend of Spyro: The Eternal Night
-N Rodea: The Sky Soldier
+N Okami (ookami), N Boy and His Blob, N Kirbys Dream Collection (Kirby 64 3D?), N Wario Land Shake It, N Dragons Lair Trilogy, N N Namco Museum Remix, N Pitfall: The Big Adventure, N Mortal Kombat: Armageddon, N The legend of Spyro: The Eternal Night, N Rodea: The Sky Soldier
+
+
 
 
 Wii games that I already probably have on 3DS with traditional controls
 ------------------------------------
-C Centipede: Infestation(3DS)
-C Bit Trip Complete (3DS)
+C Centipede: Infestation(3DS), C Bit Trip Complete (3DS)
+
+
 
 Wii that use limited motion controls
 ------------------------------------
 (trivial map analog to wiimote pointer and another button to shake, or mouse and keyboard)
-C Donkey Kong Country Returns
-O New Super Mario Bros Wii
-D Super Mario Galaxy 1
-C Super Mario Galaxy 2
-N Metroid: Other M
+C Donkey Kong Country Returns, O New Super Mario Bros Wii, D Super Mario Galaxy 1, C Super Mario Galaxy 2, N Metroid: Other M
+
+
 
 Wii that use motion controls
 ------------------------------------
-N Punch Out
-N Zelda Skyward Sword (google for how to emulate motion controls?)
-N Kirbys epic yarn? (pointing to zippers)
+N Punch Out, N Zelda Skyward Sword (google for how to emulate motion controls?), N Kirbys epic yarn? (pointing to zippers)
+
+
 
 Wii that uses pointy controls
 ------------------------------------
 These would be awesome with VR Shooting Controls 
 Remember if VR Shooting isnt great: try playing them with mouse and keyboard controls
-O Sin and Punishment: Star Successor
-C Dead Space: Extraction
-C Medal of Honor: Heroes 2
-C Conduit 2
-C Ghost Squad
-C Gunblade NY and LA Machine Guns
-C Metroid Prime 3
-C Resident Evil 4 (Gamecube if no remote attached)(Or mouse for wiimote might be epic?)
+O Sin and Punishment: Star Successor, C Dead Space: Extraction, C Medal of Honor: Heroes 2, C Conduit 2, C Ghost Squad, C Gunblade NY and LA Machine Guns, C Metroid Prime 3, C Resident Evil 4 (Gamecube if no remote attached)(Or mouse for wiimote might be epic?), House of the Dead overkill
 ------------------
-N Resident Evil: Umbrella Chronicles
-N Transformers: Cybertron Adventures
-N N Resident Evil: Darkside Chronicles
+N Resident Evil: Umbrella Chronicles, N Transformers: Cybertron Adventures, N N Resident Evil: Darkside Chronicles, 
+
 
 
 Wii games Less Interesting with Traditional Controls
@@ -1661,53 +1621,36 @@ Wii games Less Interesting with Traditional Controls
 Do any of these work in stereoscopic? 
 
 
+
 New 
 ------------------
-O Disney Epic Mickey 1
-C Disney Epic Mickey 2
-C De Blob 2
-C Driver San Francisco
-C Excite Truck
-C Excite Bots
-O Odama (GC)
+O Disney Epic Mickey 1, C Disney Epic Mickey 2, C De Blob 2, C Driver San Francisco, C Excite Truck, C Excite Bots, O Odama (GC)
+
 
 
 On my mind atm
 ----------------
 Co Op Games:
-1. Kirby Wii
-2. DKC Wii?
-3. Lotr ROTK gamecube/wii
-4. Dead Space Extraction Wii
+1. Kirby Wii, 2. DKC Wii?, 3. Lotr ROTK gamecube/wii, 4. Dead Space Extraction Wii
+
 
 
 Lotr games
 -------------
-ROTK GC
-TTT GC
-ROTK GBA
-War in the North - like Diablo - hardly available anymore
+ROTK GC, TTT GC, ROTK GBA, War in the North - like Diablo - hardly available anymore
+
+
 
 2D 3D SBS Platformers
 ---------------------
-Shinobi III 3DS
-Kirby Wii
-Kirby 3DS
-New Sup 2 3DS
-New Sup Wii
-Donkey Kong Wii
-Donkey Kong Frozen 3DS
-Klonoa
+Shinobi III 3DS, Kirby Wii, Kirby 3DS, New Sup 2 3DS, New Sup Wii, Donkey Kong Wii, Donkey Kong Frozen 3DS, Klonoa
+
 
 
 3D Action Adventures
 ------------------------
-Lego Lord of the Rings Wii/3DS
-Lego Hobbit 3DS
-Luigis Mansion
-Starfox 64 3D
-Wario World GC
-Mario 3D Land
+Lego Lord of the Rings Wii/3DS, Lego Hobbit 3DS, Luigis Mansion, Starfox 64 3D, Wario World GC, Mario 3D Land
+
 
 
 ds
@@ -1717,94 +1660,51 @@ On my mind atm 7/27/2020 later 10/18/2020
 
  Games on iOS with MFi gamepad
 4. -------I know I can beat these------------
-4. Wonder Boy the Dragons Trap
-5. Shantae (Own)
-11. Geometry Wars 3 (own but only on mini ipad as it was taken down from teh app store)
-8. Rayman Adventures (Own)
+4. Wonder Boy the Dragons Trap, 5. Shantae (Own), 11. Geometry Wars 3 (own but only on mini ipad as it was taken down from teh app store), 8. Rayman Adventures (Own)
 4. -------These look awesome but new and I have some doubts------------
-8. Goblin Sword (own)
-9. Kick Ass Commandos (Wow this is amazing!) (own)
-12. Wayward SOuls (RPG like FF3 but Roguelike) (possibly too hard)
-6. Dan the Man (Own) great battle game
-16. Toon Shooter 2 (Own)
-17. Xenowerk (Own)
-18. Xenoraid (Own)
-15. Max (own)
-11. Binding of Isaac (Own)
+8. Goblin Sword (own), 9. Kick Ass Commandos (Wow this is amazing!) (own), 12. Wayward SOuls (RPG like FF3 but Roguelike) (possibly too hard), 6. Dan the Man (Own) great battle game, 16. Toon Shooter 2 (Own), 17. Xenowerk (Own), 18. Xenoraid (Own), 15. Max (own), 11. Binding of Isaac (Own)
 4. -------Play if you want Ive done a lot with these before------------
-3. VVVVVV (Own)
-7. Hyper Sentinel (Own)
-14. Goat Simulator (own)
-10. Horizon Chase (Own on PC but it plays perfect on here)
-8. Space Miner (own) (Note: even though I purchased this in the past, and even though gameclub registers that I have a controller, and even though it restores my purchases and unlocks the full version without a sub, the controller doesnt work)
+3. VVVVVV (Own), 7. Hyper Sentinel (Own), 14. Goat Simulator (own), 10. Horizon Chase (Own on PC but it plays perfect on here), 8. Space Miner (own) (Note: even though I purchased this in the past, and even though gameclub registers that I have a controller, and even though it restores my purchases and unlocks the full version without a sub, the controller doesnt work), 
 4. -------Less Longevity Below - still fun------------
-18. Death Worm Free (Own)
-9. Crossy Road (Own)
-7. Alto’s Adventure (Own)
-6. Slayin (Own)
-10. Silverfish DX (own) Bought for $4 - not really worth it.  Great arcade game somewhat like Geom wars (without the shooting).  but with just the one game mode its just too shallow
-9. Super Crate Box (own)
+18. Death Worm Free (Own), 9. Crossy Road (Own), 7. Alto’s Adventure (Own), 6. Slayin (Own), 10. Silverfish DX (own) Bought for $4 - not really worth it.  Great arcade game somewhat like Geom wars (without the shooting).  but with just the one game mode its just too shallow, 9. Super Crate Box (own)
+
 
 
 Games I figured out worked well on my own: Rayman Adventures, Shantae, Dan the Man, Horizon Chase, Hyper Sentinel, Crossy Road, Binding of Isaac
 
 
+
  Games on iOS without gamepad
-1. Spend another few tries to beat that dungeon strategy game
-2. Mario Run
+1. Spend another few tries to beat that dungeon strategy game, 2. Mario Run
 
  Dont: Games that SHOULD and its frustrating that they dont: Castle of Illusion, PacMan 256, Dig Out, APOX-X
 
 
 
  Little Indie
-2. Never Stop Sneaking - by the Dust developer and like Metal Gear Solid but a parody with a sense of humor
-1. Saving Princess - I love the look of this game, it looks like a cool modern metroid game -but I missed my shot on the app store.  still available for PC though on itch
-1. Crimsonland
-2. Dragon Sinker (Looks just like DW NES)
-3. Agent Aliens
-4. Gunslugs 2
-5. Gris
-6. Legacy Quest (Like diablo or lego Hobbit)
-7. Super Kung Fu All-Star (cool 3d combat)
-10.Sword of Fargoal
-11.Fez
+2. Never Stop Sneaking - by the Dust developer and like Metal Gear Solid but a parody with a sense of humor, 1. Saving Princess - I love the look of this game, it looks like a cool modern metroid game -but I missed my shot on the app store.  still available for PC though on itch, 1. Crimsonland, 2. Dragon Sinker (Looks just like DW NES), 3. Agent Aliens, 4. Gunslugs 2, 5. Gris, 6. Legacy Quest (Like diablo or lego Hobbit), 7. Super Kung Fu All-Star (cool 3d combat), 10.Sword of Fargoal, 11.Fez
 
 So Minigore or super crate box controller support costs ... $5/month?  Holy shit! Maybe becasue I bought the full version before it gave it to me for free? both of those work without any 5/month problem (Unless I'm already paying it???)
 
 
  Big Indie
-9. Dust: An Elysian Tail
-1. Limbo
-2. Batman The ENemy Within
-3. Dead Cells
-4. Aquaria
-5. Stardew Valley
-6. Bastion
-7. Transistor
-8. Crashlands
+9. Dust: An Elysian Tail, 1. Limbo, 2. Batman The ENemy Within, 3. Dead Cells, 4. Aquaria, 5. Stardew Valley, 6. Bastion, 7. Transistor, 8. Crashlands (DiabloGame)
+
 
 
  Big Commercial
-1. Final Fantasy VI (50h)
-2. Sonic CD 
-3. Secret of Mana (20h)
-4. Wonderboy 3 The Dragons Trap
-5. The Bards Tale
-6. Duck Tales Remastered
-11. Bioshock
+1. Final Fantasy VI (50h), 2. Sonic CD , 3. Secret of Mana (20h), 4. Wonderboy 3 The Dragons Trap, 5. The Bards Tale (20h) 6. Duck Tales Remastered, 11. Bioshock
 7. --------------
-1. Castlevania Symphony of the Night
-9. Minecraft
-10. Star Wars: KOTOR
+1. Castlevania Symphony of the Night, 9. Minecraft, 10. Star Wars: KOTOR,
 
 
 
 Investigate:
-Here are the ones I’m playing or played in the past and enjoyed: Playdead’s Inside, , Grimvalor, Dandara, The Witness, , Pascal’s Wager, Evoland, Evoland 2, , , Leo’s Fortune, Thumper, Don’t Starve, Oceanhorn, , , , The Silent Age, Kingdom: New Lands, Graveyard Keeper, Lovecraft’s Untold Stories, , Super Fancy Pants Adventure, LifeAfter.
-https://mfigames.com/games/console-remake/
+"Here are the ones I’m playing or played in the past and enjoyed: Playdead’s Inside, , Grimvalor, Dandara, The Witness, , Pascal’s Wager, Evoland, Evoland 2, , , Leo’s Fortune, Thumper, Don’t Starve, Oceanhorn, , , , The Silent Age, Kingdom: New Lands, Graveyard Keeper, Lovecraft’s Untold Stories, , Super Fancy Pants Adventure, LifeAfter.
+https://mfigames.com/games/console-remake/""
 
 * [Some VR iphone games with mfi](https://mfigames.com/games/vr/)
+
 
 
 Metroidvania 8/8/2020
@@ -1854,18 +1754,16 @@ Level A:
 
 
 Me totally most excited (Peak Experiences for me):
-Serious Sam 4 Co-Op (Especially with Cristi)
-3DS Stereoscopic (Metroid Samus Returns)
-Wii games Stereoscopic (Resident Evil 4, Super Mario Galaxy, Lord of the Rings)
+SeriousSam4 Co-Op (Especially with Cristi)
 Crisis zone or whatever
 3DSEN NES VR Games (Ivan IronmanStewarts Off Road)
-Moss
 Burnout Paradise with Steering Wheel
-pec Ops: The Line is good if you want a different perspective on the whole jingoistic military shooter thing
 OwnInHumbleBundle: “Oxenfree takes the best parts of supernatural 1980’s teenage horror films and combines it with believable characters, beautiful set pieces, and a haunting VHS synth-pop soundtrack to create a masterpiece.”
 SuperfrogHDHB
-ViveportSpaceChannel5
 Nightmare on Itch looks amazing!!!
+
+
+
 
 Programming:
 Look at my steam list
@@ -1873,12 +1771,15 @@ Look at my itch ownership list
 Look at my 
 Look at Sensible Soccer Amiga games - not GOAL until I get good at Sensible.  Playaveli and AmigaLive can both beat the computer at all levels and other people are much harder than the computer 
 
+
+
 Me wanting to replay or continue:
-Viral EX
+Moss
 Doom VR
 Quake 1 VR
 Half Life 1 VR
 Half Life 2 VR
+Viral EX
 Rez
 Thumper (could be super casual and fun while I'm watching videos or something)
 VVVVVV Stereoscopic
@@ -1890,6 +1791,9 @@ Sensible Soccer Amiga
 Alien Breed 3D HB
 Rock N Roll Racing Retro Achivements
 
+
+
+
 Replay (though less excited because I remember some annoying bits but it was still amazing)
 Luckys Tale
 
@@ -1897,13 +1801,14 @@ Luckys Tale
 
 
 For Exercise:
+ViveportSpaceChannel5
 Beat Saber
 Some other beat games
 Knockout
 CreedViveport
 Duo
 Shooting Games in Rec Room
-
+TimeCrisis in VR
 
 
 
@@ -1936,6 +1841,7 @@ WormsHB (with Matt Berry)
 BattleZone
 Dirt Rally 2
 
+
 High Class VR Games that I feel like I should:
 Defector
 Lone Echo
@@ -1944,6 +1850,9 @@ Vader Immortal
 Skyrim VR (with extensive MODS though I dont know which ones)
 Stormlands
 The invisible hours
+PixelRipped
+PistolWhip
+
 
 
 
@@ -1960,6 +1869,7 @@ Raft
 No Mans Sky New Version
 Arizona Sunshine
 Serious Sam 3
+Spec Ops: The Line is good if you want a different perspective on the whole jingoistic military shooter thing
 
 
 Level C:
@@ -1969,25 +1879,174 @@ Level C:
 
 
 
-Games on my mind 12/4/2020
+Peak Gaming Experiences 12/4/2020
 ---------------------------------
-Look at iOS games above, and the list immediately above and search for my other lists
+look at my list of amiga games, and the directory of 3DS and wii games on my pc, Go compress my videos on cristis computer
 
-- Stereoscopic Gamecube
+
+ VR
+- Stereoscopic Gamecube:
 	- BeyondGoodandEvil, TheHobbit, LordOfTheRings, 
 	
-- Stereoscopic Wii
-	- Klonoa, DeadSpaceExtraction, SinandPunishment:StarSuccessor
+- StereoscopicWii:
+	- Klonoa, DeadSpaceExtraction, SinandPunishment:StarSuccessor, Transformers:CybertronAdventures, GhostSquad,
+	- GunbladeNY&LAMachineGuns
 
-- Retroarch
-	- Netplay:
-	- Retroachievements:
+- StereoscopicPC:
+	- Mario3DLand, Kirby, NewSup2, DonkeyKongFrozen, VVVVVV, Starfox 64, 
+	- ForFun: SpaceHarrier3D, OutRun3D, SonicTheHedgehog3D
+
+- Actual 3DS:
+	- ProfessorLayton, KidIcarus, CursedCastilla, 
+	- Casual: CentipedeInfestation, 
+
+- Retro:
 	- ForFun:
-		- GalsPanic
-		
-- VR RPG
-	- SkyrimVR
+		- GalsPanic, HogansAlley, 
+	- Retroachievements: SmashTV NES, RockNRollRacing, Mario1, Mario2, Amagon, WonderBoy3:TheDragonsTrap
+	- 3DSen - Practice my retroachievements in this
+	- Amiga: CannonFodder, TheKillingGameShow, Turrican, Superfrog
 
-- 
+
+- Retro VR Gun:
+	- SMSGun: SafariHunt, GangsterTown (2gun), 
+	- SMSGun Try: OperationWolf, RescueMission, LaserGhost
+	- PSXGun: TimeCrisis(Cheats), ElementalGearbolt(2gun) 
+	- DreamcastGun Try: ConfidentialMission
+	- SaturnGun: VirtuaCop1(Cheats)
+
+
+- VR:
+	- StarWarsSquadrons, CrisisVRGade, BattleZoneVR, DoomVROsiris, VaderImmortal(buy)
+	- Try: TroverSavesTheUniverseVR, Quake1VR, NoOneLivesForever2, 
+	- TryShooter: 
+	- Exercise: ViveportSpaceChannel5VR, KnockoutLeague, BeatSaber,  
+
+
+- iOS Games with MFi:
+	- GeometryWars3, HorizonChase, MarioRun, RaymanAdventures
+	- Try: KickAssCommandos, DuckTales, DustAnElysianTale, NeverStopSneaking, Gris
+	- WithWalkthrough: GuildOfThieves, 
+
+
+- Racing:
+	- Wheel: BurnoutParadise
+	- Try: RoadToRedemption, GripVR
+
+
+- PC: 
+	- Nightmare(Itch), Terminator2019, , Psychonauts, HeavyMetalMachines
+	- Stories: BearWithMe, OxenfreeHB, SuperfrogHDHB, 
+	- 2D: SeriousSamDDXXL, SeriousSamTormental, SeriousSamsBogusDetour, TeslaVsLovecraft
+
+
+- Background:
+	- Replay: BadAssBabes, NexMachina, Refunct, Bloodstained, Titanfall,
+	- Fun: SpheresofChaos, RagdollMasters, FloatingPoint, VRKanojo, DeepSpaceWife
+		- FunDeeper: StreetFighter4(np), DeadOrAliveV(np), CitiesSkylines
+	- Finish: MasterSpy, AgeOfBarbarian, 
+	- VRActiveShooter: CrisisVRGade, BlastersOfTheUniverse, InDeath, Compound, ShootingGamesinRecRoom, 
+	- VRFinish: Windlands, Superhot, BlastersOfTheUniverse, DoomVFR(Easy), GalGun2onOculus, SeriousSam2VR, Redout, 
+		- Good: LoneEcho, Xion, Duo
+	- VRReplay: ViralEX, Rez, Thumper(SuperCasual), RoboRecall, Trackmania, BloodyZombies
+		- Long: HellbladeSenuasSacrifice, 
+
+
+Non Peak Gaming Experiences 12/5/2020
+------------------------------
+Games that are a burden unless I'm specifically looking for more peak experience and they feel right.
+
+- 2D   RagingJustice, Messenger
+	- Good: SonicGenerationsPC, EnterTheGungeonEpic, SonicMania, TheTextorcistEpic, 20xxEpic, PlanetAlpha, WormsHB(withMattBerry)
+	- DontOwn: Broforce, BoilingBolt, BlazingChrome, KatanaZero, StreetsOfRogue, MonsterBoyCursedKingdom, Gris, SuperGalaxySquadron(Forgiving)
+	- DontOwnGood: 
+- TPS: GhostbustersthevideogameEpic, RiseoftheTombRaider, Vermintide, MGRisingRevengeance, MiddleEarthTheShadowOfWar
+	- Good: BrutalLegend, CastlevaniaLords, MGSVThePhantomPain, Deathspank, AlienBreedTrilogy, Styx:MasterOfShadows
+	- DontOwn:
+	- DontOwnGood:
+	- Fun: LOTRWarintheNorth,
+- Stories: APlagueTale,  AERMemoriesOfOld, LittleNightmares, GirlfriendRescue, Valianthearts, 
+- FPS: Prey, MaxGunner(Itch$10LevelEditor), Vanquish, DoomEternal, FarCryBloodDragon, Destiny2,  TitanFall2Multiplayer, QuakeChampions, Metro2033, TownOfLight, 
+	- Good: ProjectSnowblind, Bioshock1, Bioshock2, BioshockInfinite, BorderlandsEpic, RedFaction, Wolfenstein2: NewColossus, QuakeDarkPlaces,  Borderlands2Epic, Fear2, Doom2016, FNAFVR, HardResetRedux, 
+	- DontOwn:  AmidEvil, Prodeus, Dusk, NoOneLivesForever1(Cheats), 
+	- DontOwnGood:
+	- DontOwn: 
+- VRShooters: JetIsland,  SeriousSam3VR, Windlands2, DeadEffect2, ZoneOfTheEnders2VR (Probably so damn cool),  SeriousSamTheLastHope,  ArchangelHellfire, 
+	- Good: BrookhavenExperimentVR, HalfLife1VR,  HalfLife2VR, VertigoRemastered, 
+	- DontOwn: PistolWhip, PistolWhip2, Stormlands, Boneworks,  Island359, Gunheart, Defector(RealLifeActionMovie), Vector36
+	- DontOwnGood: SpaceDragon, 
+- Fun: BeforeWeLeaveEpic, StreetFighter5(np), AvenColony, 
+	- Good: SpaceChannel5Pt2, DangerousGolf, HypnospaceOutlaw
+	- DontOwn: Starwhal
+	- DontOwnGood:
+- Exercise: QuiVR
+	- Good: Duo,
+	- DontOwn: SprintVector
+	- DontOwnGood: HolopointVR, CreedPathToGlory(VivePort), 
+- GunGames: TimeCrisisProjectTitan
+	- Good:
+	- DontOwn: TimeCrisis2 (2gun), CrisisZone, ResidentEvil4Wii, TimeCrisis3 (2gun),
+	- DontOwnGood:
+- VR: TheInvisibleHours, ToTheTop, RunOfMydan, ScannerSombre, Climbey 
+	- Good: ChronosVR, PixelRipped1995, TheBlu, Neverbound, 
+	- DontOwn: 
+	- DontOwnGood: 
+	- Fun: OrbusVR, NoMansSky(BuildHugeCastle)
+- Racing: 
+	- Wheel: Flatout2,
+	- NFS Most Wanted
+- Retro: WarioWorldGC, NinjaFiveO, Contra, NinjaGaiden, Castlevania, ShinobiIII, Sonic 1 3DS,
+	- Amiga Cytron, Gauntlet 2, Gauntlet 3, Killing Game Show, ThunderStrike, Turrican 3, Turrican 2, Walker, Lotus 2, Skidmarks, Vroom, No Second Prize, Valhalla(withfullwalkthroughs), InfocomGames(withFullWalkthroughs)
+	- Good: ChaosEnginePC, Faxanadu, Chrysalis, PeterJacksonsKingKongGC
+	- DontOwn: SnakeRattleRoll, IvanIronmanStewartsOffRoad, 
+	- DontOwnGood:
+
+- Finish: DungeonWarfare, 
+
+
+Wizards&Warriors, Wizards&Warriors2:Ironsword, DoubleDragonNES, GhostsNGoblins, 
+
+
+
+
+
+
+Grow Home with Vorpx 3D
+Everspace
+Transpose
+AirMechCommand
+Trackmania
+VanishingRealms
+
+SC6
+AvernumandAvadon
+
+BloodyZombies
+UntilYouFall?
+
+
+
+
+CHORE GAMES 12/5/2020
+----------------------------------------------------
+Games that seem or feel like a chore in some or any way but I still have good reason to play them, Play all of these games with step by step walkthroughs or cheats, Dont know how to list Zelda games: Use Walkthroughs, Use Cheats, etc.  Other games that seem like a chore, Games I will probably never finish: Spiderweb games that I started, MetroidPrime, I dont think I trust zelda and metroid games to not put things in places way out of the box of my brain and things like that dont please me honestly  I also dont trust them to not put me into situations that are too hard for me to handle.  Boss battles every so often should take many tries thats fine.  
+
+- Small PracticeBurdens: Contra, NinjaGaiden, Castlevania, ShinobiIII, Sonic 1 3DS, Volgarr, SwordofSodan
+- Retroachievements: Zelda2,
+- 3DSen Zelda2, 
+- Wii/GC Stereoscopic: TwilightPrincess, WindWaker
+- Stereoscopic 3DS: Ocarina
+- CastlevaniaGBA(Cheats), 
+- Shantae, Same with Shantae games although I love them so much 
+- Achievements: Volgarr the Viking	
+- Long VR RPG
+	- VanishingRealmsVR, SkyrimVR, SubnauticaVR, GTA5VR, EliteDangerousEpic, Minecraft, 
+- Sports:
+	- Amiga: The fact is about these I'm going to suck for a long time. GOAL!, SensibleSoccer, KickOff2, But I would love to get to the point where I could beat the computer reliably in goal on every level, but thats a big goal for starters Id like to beat the computer reliably on even the EASY level!  That would actually be a really fun goal and would let me feel really good about it.
+	- Championship Baseball - I would love to get good enough to take my 1989 cubs to the world series in this specific game
+	- C MLB Power Pros Wii
+- Stereoscopic 3DS: MetroidSamusReturns(15h), 
+	
+
 
 

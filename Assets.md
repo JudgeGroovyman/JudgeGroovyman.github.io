@@ -930,6 +930,7 @@ Paiting for Programming 3D and Pixel Art Especially Low Poly
 - Pixelmash (Own) (turns pictures into pixel art)(really special for making interesting pixel art although for simple editing its terrible)
 - -----
 - Blender ofc
+- MyPaint 2.0.0 -- Shockingly Awesome Free Painting App! can even use gimp brushes or something see gfs comments
 
 
  Best that I want:
@@ -1103,6 +1104,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?
 	- 3D Breakable Asteroids, ObjectExploder, Fracturing&Destruction, InventoryPro(HBorGH)
  2. Mesh Making Best:
 	- ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMeshFree, Magicavoxeltools(mesh to magicavoxel), PaintIn3D
+	- pifuhdPictureTo3DOnYoutube
  3. Mesh Making Ok:
 	- CorelCAD, MeshCreator (helps make meshes), Scriptinunitythensavetomesh, SorcarForBlender, Many more interesting ones in bookmarks, DualTexturedShader, SabreCSG, ChiselCSG, 
  4. Meshes:
@@ -1258,70 +1260,6 @@ Find the absolute best of all of my assets.  The top 50 maybe?
 
  
  
- https://clips.twitch.tv/HappyBlushingWeaselDoubleRainbow part 1
- https://clips.twitch.tv/PoliteEsteemedLemurVoteNay part 2
  
- https://clips.twitch.tv/BelovedWonderfulThymeNotATK Magnum winning tetris
- https://clips.twitch.tv/TastyFaithfulWheelPlanking  Magnum Too much mag
- 
- 
- https://clips.twitch.tv/ImpossibleDignifiedShrewOpieOP Jay super drunk
-https://clips.twitch.tv/DeadHelplessRhinocerosOMGScoots Jay parking at red light
-https://clips.twitch.tv/BoringFriendlyTarsierUnSane very important fruit stand
-https://clips.twitch.tv/HumbleBigStarFreakinStinkin Jay loses the cops like a boss
-https://clips.twitch.tv/ConfidentCrunchyRhinocerosMcaT Brads Paintkakke
-https://clips.twitch.tv/AntsyHeartlessUdonUWot Brads dog hypnosis
-https://clips.twitch.tv/RoughAggressiveChoughDoritosChip Cutest ASMR Explanation ever
- 
- Vissenekkus stream there was a nice string of comments at about 2h52m into the stream about the pixel art and the modern effects and aesthetic.  I can't point out all of the positive things he said about the game but I can point to a few things I noticed.
- 
- 
- https://youtu.be/IPKYyXJ7Qog the video
- https://youtu.be/psu0UEvfgF8 the song
- 
- https://clips.twitch.tv/ResourcefulAgreeableYakTheRinger Craftys first gift sub
- 
- 
- Courtesy Flush
- Pity Party
- Chunky Butter
- 
- 
- Craftys Discord
-
- https://discord.gg/VY2peg9J
- https://discord.gg/RhpP3QaT - broken link
- https://discord.gg/dmMFknX2 - broken link
-
-
- Magnums Discord
- https://discord.gg/dZh9F7C
- Magnums Donation
- https://streamlabs.com/magnumkneehi/tip
- www.streamlabs.com/magnumkneehi/tip
- 
-
- Brads Donation
- https://bradwendtross.com/tip
-
-
- Jays Discord (formerly Craftys Rafters)
- https://discord.gg/Nd5SsumPVW
- 
- 
- 
- dready82x used: /add_permitted_term a hoe.
- 12:05ModeratorPrime GamingJimPlaysGames: https://www.redbubble.com/people/gloomdready/shop
- 
- Suggestions for Brads Stream: He has a discord?  Brad should know he can ask mods to reject any redemption he doesnt want to do and it will refund their points.  Did everyone get their redemptions for mini painting?  If Not should I refund?   I added cunt and 'batty boy' (a homophobic slur) to the list of automod phrases 
- 
- 
- oswold, bootay_cheek_buster: bootay_sniffer: muff_munching_motorboater: DeflowerPower: slippery_willie:  monkee_spanker:
- 
- 
- 5:58
- 9:18
- 
- 3:20
  
  
