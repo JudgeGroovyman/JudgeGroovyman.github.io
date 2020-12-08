@@ -111,3 +111,25 @@ Handbrake lets you also change the resolution which makes the videos WAY Smaller
 Need a way to get between the folder you are in right now in the terminal and in the finder and vice versa
 
 actually you need a way to open a new finder window in the same folder instantly too but thats not a terminal issue
+
+# Editors #
+1. TextMate So Great
+	- Markdown mode seems to catch up slowly (maybe thats fixed). It kind of even seems to type slowly compared to bbedit.
+	- Great Bookmark features
+	- Great word wrap that automatically sticks to the window width.  (not as unique as I thought)
+	- Great simple macro features
+2. BBEdit (formerly TextWrangler)
+	- more responsive markdown text editing than textmate with built in preview menu item
+	- less inline markdown interpretation than textmate
+	- Macros arent easy to find if they are here
+	- Big Feature: View different parts of the same file in two different windows with instant update.
+	- Word wrap doesnt automatically respond to window width . nvm its a super obvious opttion that I missed but I missed because its only an option .
+	- Slight concern that an evaluation feature which I care for will disappear in 30 days.  Textmate is totally free with all of those features.
+	- Script editor is kindof a mess if thats the macro features.
+	
+	
+	
+	
+	
+
+
