@@ -1906,6 +1906,7 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 	- Retroachievements: SmashTV NES, RockNRollRacing, Mario1, Mario2, Amagon, WonderBoy3:TheDragonsTrap
 	- 3DSen - Practice my retroachievements in this
 	- Amiga: CannonFodder, TheKillingGameShow, Turrican, Superfrog
+	- MultiplayerWithTom: SmashTV(NES,SNES,Arc), Gauntlet(NES,Gen,Arc), TMNT2
 
 
 - Retro VR Gun:
@@ -1931,7 +1932,6 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 
 - Racing:
 	- Wheel: BurnoutParadise
-	- Try: RoadToRedemption, GripVR
 
 
 - PC: 
@@ -1940,11 +1940,19 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 	- 2D: SeriousSamDDXXL, SeriousSamTormental, SeriousSamsBogusDetour, TeslaVsLovecraft
 
 
+
+- Mac:
+	- Blood, Guildmaster
+	- Retroachievements: SmashTV NES, RockNRollRacing, Mario1, Mario2, Amagon, WonderBoy3:TheDragonsTrap
+	- Amiga: CannonFodder, TheKillingGameShow, Turrican, Superfrog
+
+
+
 - Background:
-	- Replay: BadAssBabes, NexMachina, Refunct, Bloodstained, Titanfall,
-	- Fun: SpheresofChaos, RagdollMasters, FloatingPoint, VRKanojo, DeepSpaceWife
-		- FunDeeper: StreetFighter4(np), DeadOrAliveV(np), CitiesSkylines
+	- Casual: NexMachina, Refunct, SpheresofChaos, RagdollMasters, FloatingPoint,  CitiesSkylines,
+		- FunDeeper: BadAssBabes, StreetFighter4(np), DeadOrAliveV(np), DeepSpaceWife, VRKanojo, 
 	- Finish: MasterSpy, AgeOfBarbarian, 
+
 	- VRActiveShooter: CrisisVRGade, BlastersOfTheUniverse, InDeath, Compound, ShootingGamesinRecRoom, 
 	- VRFinish: Windlands, Superhot, BlastersOfTheUniverse, DoomVFR(Easy), GalGun2onOculus, SeriousSam2VR, Redout, 
 		- Good: LoneEcho, Xion, Duo
@@ -1967,9 +1975,9 @@ Games that are a burden unless I'm specifically looking for more peak experience
 	- Fun: LOTRWarintheNorth,
 - Stories: APlagueTale,  AERMemoriesOfOld, LittleNightmares, GirlfriendRescue, Valianthearts, 
 - FPS: Prey, MaxGunner(Itch$10LevelEditor), Vanquish, DoomEternal, FarCryBloodDragon, Destiny2,  TitanFall2Multiplayer, QuakeChampions, Metro2033, TownOfLight, 
-	- Good: ProjectSnowblind, Bioshock1, Bioshock2, BioshockInfinite, BorderlandsEpic, RedFaction, Wolfenstein2: NewColossus, QuakeDarkPlaces,  Borderlands2Epic, Fear2, Doom2016, FNAFVR, HardResetRedux, 
+	- Good: ProjectSnowblind, Bioshock1, Bioshock2, BioshockInfinite, BorderlandsEpic, RedFaction, Wolfenstein2: NewColossus, QuakeDarkPlaces,  Borderlands2Epic, Fear2, Doom2016, FNAFVR, HardResetRedux, Bloodstained, Titanfall,
 	- DontOwn:  AmidEvil, Prodeus, Dusk, NoOneLivesForever1(Cheats), 
-	- DontOwnGood:
+	- DontOwnGood: 
 	- DontOwn: 
 - VRShooters: JetIsland,  SeriousSam3VR, Windlands2, DeadEffect2, ZoneOfTheEnders2VR (Probably so damn cool),  SeriousSamTheLastHope,  ArchangelHellfire, 
 	- Good: BrookhavenExperimentVR, HalfLife1VR,  HalfLife2VR, VertigoRemastered, 
@@ -1993,9 +2001,10 @@ Games that are a burden unless I'm specifically looking for more peak experience
 	- DontOwnGood: 
 	- Fun: OrbusVR, NoMansSky(BuildHugeCastle)
 - Racing: 
+	- Try: RoadToRedemption, GripVR
 	- Wheel: Flatout2,
 	- NFS Most Wanted
-- Retro: WarioWorldGC, NinjaFiveO, Contra, NinjaGaiden, Castlevania, ShinobiIII, Sonic 1 3DS,
+- Retro: WarioWorldGC, NinjaFiveO, Contra, NinjaGaiden, Castlevania, ShinobiIII, Sonic 1 3DS, Bangai-Oh(DualStick with upscale)
 	- Amiga Cytron, Gauntlet 2, Gauntlet 3, Killing Game Show, ThunderStrike, Turrican 3, Turrican 2, Walker, Lotus 2, Skidmarks, Vroom, No Second Prize, Valhalla(withfullwalkthroughs), InfocomGames(withFullWalkthroughs)
 	- Good: ChaosEnginePC, Faxanadu, Chrysalis, PeterJacksonsKingKongGC
 	- DontOwn: SnakeRattleRoll, IvanIronmanStewartsOffRoad, 
@@ -2023,6 +2032,7 @@ AvernumandAvadon
 
 BloodyZombies
 UntilYouFall?
+Tmnt NES
 
 
 
