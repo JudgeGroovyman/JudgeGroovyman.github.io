@@ -181,6 +181,12 @@ Trick for Mobile Platforms: disable HDR and check 'Use 32-bit Depth Display Buff
 
 
 
+
+
+
+
+
+
 <!-- 
   _                     _____      _                       _   
  | |                   |  __ \    | |           /\        | |  
@@ -475,9 +481,6 @@ Custom Models
 -->
 
 
-
-
-
 # Meshes #
 
 ### Optimization ###
@@ -672,7 +675,7 @@ I couldn't get it to do anything at all in Unity 2018.3.4f1  Further the authors
 Recommendation:  Supported Unity versions on the asset store say 4.0 or later however I think thats no longer accurate and needs to be changed to 4.0 through Unity 2017.
 
 
-# Procedural Generation Toolkit #
+## Procedural Generation Toolkit ##
 
 The [Procedural Generation Toolkit](https://github.com/Syomus/ProceduralToolkit) seems to do some things that make procedural generation more pleasant.  Looped arrays (so you can just keep adding 1 to the index I presume), Color gradients, and colors in HSV 
 
@@ -745,6 +748,12 @@ related procedural generation
 
 
 
+
+
+
+
+
+
 <!--
  __     ___      _               _   ____            _ _ _         
  \ \   / (_)_ __| |_ _   _  __ _| | |  _ \ ___  __ _| (_) |_ _   _ 
@@ -772,6 +781,8 @@ I followed the VRShooterKit authors video recorded instructions to make this bin
 VRSK132 Unity2019.2.8f1 SteamVR245
 
 
+
+
 <!--
    ___  _   _               
   / _ \| |_| |__   ___ _ __ 
@@ -790,13 +801,26 @@ VRSK132 Unity2019.2.8f1 SteamVR245
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
-   ___  _   _               
-  / _ \| |_| |__   ___ _ __ 
- | | | | __| '_ \ / _ \ '__|
- | |_| | |_| | | |  __/ |   
-  \___/ \__|_| |_|\___|_|   
-                            
+ __        ___                     _____       _____ _           _      _                 _       
+ \ \      / / |__   ___ _ __ ___  |_   _|__   |  ___(_)_ __   __| |    / \   ___ ___  ___| |_ ___ 
+  \ \ /\ / /| '_ \ / _ \ '__/ _ \   | |/ _ \  | |_  | | '_ \ / _` |   / _ \ / __/ __|/ _ \ __/ __|
+   \ V  V / | | | |  __/ | |  __/   | | (_) | |  _| | | | | | (_| |  / ___ \\__ \__ \  __/ |_\__ \
+    \_/\_/  |_| |_|\___|_|  \___|   |_|\___/  |_|   |_|_| |_|\__,_| /_/   \_\___/___/\___|\__|___/
+                                                                                                                                                                                                    
 -->
 
 
@@ -860,15 +884,28 @@ huge issue with the assetstore: all of the information that was on the page befo
 
 
 
-# Other #
-- [Cinemachine Camera in 2D](https://github.com/akashenen/2d-platformer-controller)  This has great cinemachine camera controls
+
+
+
+
+
+
 
 # ASCII Art #
 [Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
 [Ascii Art](http://patorjk.com/software/taag/#p=display&f=Standard&t=Virtual%20Reality)
 
 
+
+
+
+
+
+
 # Investigate #
+
+- [Cinemachine Camera in 2D](https://github.com/akashenen/2d-platformer-controller)  This has great cinemachine camera controls
+
 ## Humble Bundles ##
 - Humble Bundle: Ultimate Game Music Collection
 - uMMORPG
@@ -912,6 +949,18 @@ For Characters:
 - Hactually I can use the Simple Gems Ultimate to possibly make my own enemies!
 - Eventually the Meshtint enemies seem best by far.  A pack of those might go a long way.
 
+
+
+
+
+<!--
+     _         _     _____ ____                    _   ____       _       _   
+    / \   _ __| |_  |___ /|  _ \    __ _ _ __   __| | |  _ \ __ _(_)_ __ | |_ 
+   / _ \ | '__| __|   |_ \| | | |  / _` | '_ \ / _` | | |_) / _` | | '_ \| __|
+  / ___ \| |  | |_   ___) | |_| | | (_| | | | | (_| | |  __/ (_| | | | | | |_ 
+ /_/   \_\_|   \__| |____/|____/   \__,_|_| |_|\__,_| |_|   \__,_|_|_| |_|\__|
+                                                                              
+-->
 
 
 # Painting  #
@@ -1040,17 +1089,40 @@ https://www.pixilart.com
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+     _                 _     __  __           _              _     _     _   
+    / \   ___ ___  ___| |_  |  \/  | __ _ ___| |_ ___ _ __  | |   (_)___| |_ 
+   / _ \ / __/ __|/ _ \ __| | |\/| |/ _` / __| __/ _ \ '__| | |   | / __| __|
+  / ___ \\__ \__ \  __/ |_  | |  | | (_| \__ \ ||  __/ |    | |___| \__ \ |_ 
+ /_/   \_\___/___/\___|\__| |_|  |_|\__,_|___/\__\___|_|    |_____|_|___/\__|
+                                                                             
+-->
+
 # Nov 2020 #
 
-Go through my Assetstore art assets, did I already go through humble bundle and itch?
+
 
 Make a new spreadsheet of all of the features I need and compare all of the major competitors for the important things
 
 Sort most of my assets into purposes
 
-When all above is done:  Sort through my shopping cart and only pick the most important ones, Expensive ones and cheap ones.
-
-Find the absolute best of all of my assets.  The top 50 maybe?
+Find the absolute best of all of my assets.  The top 50 maybe?  Top several for each type of game?
 
 
 
@@ -1067,7 +1139,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?
  8. For Project Management: ProjectCurator, SuperUnityBuild, MissingReferencesFinder, UnityMissingScripts, ScriptAndCodeLineCalculator, 
  9. For Builds: UnityBuildManager, Screenshooter, Image2Text(StoreImageInCode) or Imagen2Text, A+AssetsExplorer, UnityOptimizerItch, DungeonScrawl, $25AutoMatt
  10. For Code: PubSubBM, AskOwlFibers or MoreEffectiveCoroutines, UnityHelper(change just x in transform, instantiatePrefabsWithGoodNames, capsulecast, RollingArray, Countdown, EasedLerpAwesome, PersistentSingleton, RandomRangeInInspector, RandomBag each element only once, xml, Freshness:2 Baggage:0 ) , Mathfs, GetComponentAttributes DI, AskOwlCustomAssets(Scriptable Objects on Steroids)
- 11. Components: AdvancedPolygonCollider, SensorToolkitHB, EnhancedTriggerBox, PaintIn3D, Fracturing&Destruction, 
+ 11. Components: Questzip, AdvancedPolygonCollider, SensorToolkitHB, EnhancedTriggerBox, PaintIn3D, Fracturing&Destruction, 
  12. For Debug: PeekHB ,Grapher, DebugTools, ConsoleEnhancedFree, CodeShark or InGameDebugConsole or FakeTerminal, 
  14. More in 'investigate' above, more in 
 
@@ -1101,7 +1173,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?
  Art: 3D Asset creation I own but I might forget about 
  ----------------------------
  1. Specifics: 
-	- 3D Breakable Asteroids, ObjectExploder, Fracturing&Destruction, InventoryPro(HBorGH)
+	-  ObjectExploder, Fracturing&Destruction, InventoryPro(HBorGH)
  2. Mesh Making Best:
 	- ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMeshFree, Magicavoxeltools(mesh to magicavoxel), PaintIn3D
 	- pifuhdPictureTo3DOnYoutube
@@ -1217,9 +1289,9 @@ Find the absolute best of all of my assets.  The top 50 maybe?
 	- AI: DonutStudiosAIandProceduralGeneration
 	- Levels: DonutStudiosAIandProceduralGeneration
  8. VerticalSpaceShooter: 
-	- ItchNov(SpaceVertical2DBackgrounds, SpaceTrapGameAssetPack, SpaceShooter2DGameKit, Spaceship,Space2DBackground,), SpritelibBM(centipede, invaders, asteroids, 1942  )
+	- 3DBreakableAsteroids, ItchNov(SpaceVertical2DBackgrounds, SpaceTrapGameAssetPack, SpaceShooter2DGameKit, Spaceship,Space2DBackground,), SpritelibBM(centipede, invaders, asteroids, 1942  )
 	- Superpowers(SpaceShooter,), KronbitsBM, UAS(2DSpaceKit, InfinitySquareSpaceProcedurallygeneratedSpace), 
- 9. HorizontalSpaceShooter: ItchNov(Spaceship2DSprites, SpaceShooterGameKitPixelArt, SpacePirates, AlienSpaceship, BossSpaceship, SpaceTrapGameAssetPack, SpaceShooterTileset, Space2DBackground,)
+ 9. HorizontalSpaceShooter: 3DBreakableAsteroids, ItchNov(Spaceship2DSprites, SpaceShooterGameKitPixelArt, SpacePirates, AlienSpaceship, BossSpaceship, SpaceTrapGameAssetPack, SpaceShooterTileset, Space2DBackground,)
  10. TopDownTank: ItchNov(TopDownTankGUI, TopDownTank2DKit, 2DTankGameAssets), Quaternius(AnimatedTankPack,), SpritelibBM(vehicles, tankbrigade )
  11. Match3: ItchNov(MonstersMatch3,4LocationsForTheGameMatch3)
  12. Platformer: 
@@ -1248,8 +1320,19 @@ Find the absolute best of all of my assets.  The top 50 maybe?
  	- SciFiEngineer
 	- 
  23. VR Elevator Action;
- 24. 
+ 24. Asteroids: 3DBreakableAsteroids,
+ 25. Finishing Gobblet
+ 	- 
+ 26. Most Games:
+ 	- ScriptInspector3, Heirarchy2, NaughtyAttributes, ToggleLock, OneLineInspector, UnityBuildManager, 
+ 	- DOTween, UVFreeShader, ComponentSaveSystem, Databox(CSV), 
+ 	- AdvancedPolygonCollider, EnhancedTriggerBox, 
+ 	- RollingArray, RandomBag, PersistentSingleton, 
+ 	- Simple full GUI: Fade
+ 27. What was the thing or idea that would be a better approach than having a whole scene
+ 28. Everything 2dD: 
  
+  	 
  
  Goals: 
  ----------------------------
