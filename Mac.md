@@ -122,7 +122,7 @@ actually you need a way to open a new finder window in the same folder instantly
 	- more responsive markdown text editing than textmate with built in preview menu item
 	- less inline markdown interpretation than textmate
 	- Macros aren't easy to find if they are here
-	- Big Feature: View different parts of the same file in two different windows with instant update.  Interesting note: In window one if you add a line window 2 scrolls down.  thats annoying because your view in one window shouldn't be affected by the changes in the other window.  You have chosen this view based on content not line number but the view is fixed to line number (or something like that) Emacs is amazing at this and doesnt have this problem.
+	- Big Feature: View different parts of the same file in two different windows with instant update.  Interesting note: In window one if you add a line window 2 scrolls down.  thats annoying because your view in one window shouldn't be affected by the changes in the other window.  You have chosen this view based on content not line number but the view is fixed to line number (or something like that) Emacs is amazing at this and doesn't have this problem.
 	- Word wrap doesn't automatically respond to window width . nvm its a super obvious option that I missed but I missed because its only an option .
 	- Slight concern that an evaluation feature which I care for will disappear in 30 days.  Textmate is totally free with all of those features.
 	- Script editor is kindof a mess if thats the macro features.

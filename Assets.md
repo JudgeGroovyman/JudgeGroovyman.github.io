@@ -1146,47 +1146,60 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 
  Capabilities: Assets that could improve most games that I own but I might forget about
  ----------------------------
- 1. SpeechEngine (AmigaSpeech),  DialogueSystem or RPGTalk, EasyTextLight, CodeShark or InGameDebugConsole, VoltageUI(Make your own Extensions and Tools), iosTTS
- 2. SpecificFX: LowPolyWindUAS, RealisticEffectsPack4HB(alsoDecals), TextAnimator, OffScreenTargetIndicator, ObiRope, BearFXExplosions(ItchRacial), PixelAnimationsAndEffectsHB,
+ 1. SpeechEngine (AmigaSpeech),  DialogueSystem or RPGTalk, EasyTextLight, DynamicText, CodeShark or InGameDebugConsole, VoltageUI(Make your own Extensions and Tools), iosTTS
+ 2. SpecificFX: Modular3DTextUAS, LowPolyWindUAS, RealisticEffectsPack4HB(alsoDecals), TextAnimator, OffScreenTargetIndicator, ObiRope, BearFXExplosions(ItchRacial), PixelAnimationsAndEffectsHB, DynamicBone or Jiggle, TailAnimator
  3. Shaders: UnityParticles, AllIn1SpriteShader, ShaderProjectBM(Waves, CurvedWorld, Toon, Scale, Black&White, StainedGlass, Pixelated), FacetedTerrainShaderBM,  UnityLibraryBM(SeeThroughWalls), TriplanarUVFreeBM, 
  4. FX&ShadersOk: SonarShader, AwesomeAsciiEffect, NeonSphere, WetStuff,  uShader2Free(VisualShaderScripting), AskOwlMarquee, DualTexturedShader,  SineWaveEffect, THORThunderstormHB, WhiteMageSpellsHB, WetStuffHB,  FlexibleCelShaderUAS, VertexBM, ShaderProjectBM(Water, Flag, FlatColor, Heatmaps) UnityLibraryBM(VerticalDistanceCameraFade,FresnelReflective,TransparentColor,TransparentColorGradient,Vertex,WaterBox,), CrestOceanBM
- 5. Scenes:  TransitionManager or BeautifulTransitions$12, Simple2DCutscenes, 
+ 5. Scenes:  SceneStreamer, TransitionManager or BeautifulTransitions$12, Simple2DCutscenes, 
  6. Cutscenes: FungusBM, LearnTimelineForTheHardWay, ManuallyUseCoroutines
  
  
  Frameworks I own but might forget about
  -------------------------------
- 1. FPS: PolygonFPS, EasyFPS, FPSMicrogame, UFPSUltimateFPSHB, LowPolyFPSPack, FirstPersonAllInOne, RealisticFPSPrefab (dead), FPSBuilderHB, FPSStarterKit (dead), DarkTreeFPS (own), FPSBuilderhb, StarterKitMovementCameraAI, FullBodyFPSController or $17CharacterControllerPro
- 2. TPS: EasyCharacterMovementHB or CharacterMovementFundamentals or  StarterKitMovementCameraAI or SciFiTopDownGameTemplate or FullBodyFPSController or UMmorpgHB, 
- 3. TPS Dont Own  $30KinematicCharacterController or $17CharacterControllerPro
- 4. 2D Platformer Kits Best: $80PlatformerPro2, $60CorgiEngine, $10PlatformerCodeToolkit, $17CharacterControllerPro, 
+ 1. FPS: DarkTreeFPSUAS, PolygonFPS, EasyFPS, FPSMicrogame, UFPSUltimateFPSHB, LowPolyFPSPack, FirstPersonAllInOne, RealisticFPSPrefab (dead), FPSBuilderHB, FPSStarterKit (dead), FPSBuilderhb, StarterKitMovementCameraAI, FullBodyFPSController or $17CharacterControllerPro
+ 2. TPS: EasyCharacterMovementHB or CharacterMovementFundamentalsUAS or   SciFiTopDownGameTemplate or FullBodyFPSController or UMmorpgHB, StarterKitMovementCameraAI
+ 4. 2D Platformer Kits Best: PlatformerPro2, CorgiEngine
  5. 2D Platformer Kits Other: $10HardcorePlatformer, 2DPlatformerGameTemplate, ThePixelMan, 2DGametoolkit, 2DPlatformerHunter, LamboUnityGame, FantasyTrip, Akashenen2DPlatformerController, CjddmutPlatformerController, 
  6. 2D Top Down Kits: $60TopDownEngine, MinimalSpaceShooter, Bolt2DTopdownKit,  StarterKitMovementCameraAI, 
  7. VR: TButt, VRTK, VRShooterKit
+ 8. SimpleKeyDoorSystem
  ------------Kits---------------
  8. Some frameworks provide enormous value: HeroKitGameMaker (save, ai, dialogue, pooling, collisions, ) LogicForge (Free, New last week, Hot reload, visual scripting, )
  9. Multiplayer: like uGameCore (player logins, teams, map change, rounds, spectating, chat, console commands, 2018 only), Mirror
- 10. Makinom, Bolt, FlowCanvasHB(LiveReload), GameFlow(AwesomeSimplestVisualScripting), GameFramework(Level Select, Unlock, Multiple Players, Overworld Maps, Several UI Themes, Tracking of scores and progress, Unlockable Items, In app purchases, dialogue system, $20BeautifulTransitions and object pooling, and prefs editor), $8QuickScriptsBM(Doors,TriggerBox, MovingPlatforms,Spawner,Teleporter, AnimatedLights,Spin,Hover,Swing)
+ 10. Makinom, Bolt, FlowCanvasHB(LiveReload), GameFlow(AwesomeSimplestVisualScripting), GameFrameworkFree(Level Select, Unlock, Multiple Players, Overworld Maps, Several UI Themes, Tracking of scores and progress, Unlockable Items, In app purchases, dialogue system, $20BeautifulTransitions and object pooling, and prefs editor), $8QuickScriptsBM(Doors,TriggerBox, MovingPlatforms,Spawner,Teleporter, AnimatedLights,Spin,Hover,Swing)
  
  
+ Assets that stick out as premium or really worth remembering
+ -------------------------------
+ 1. PlatformerPro2, CorgiEngine, DarkTreeFPSUAS, TopDownEngine, CharacterMovementFundamentalsUAS
+ 2. HotReload: Bolt, LogicForge, FlowCanvasHB
+ 3. ScriptInspector3, UVFreeShader, 
+ 4. Fracturing&Destruction, ObjectExploder
+ 5. Clayxels, ProBuilder, MeshCombineStudio2HB, PaintIn3D,  2Dto3DVoxelizer
+ 6. Polaris, Terra, Ferr2DTerrain, CurvedWorld2020, GaiaHB
+ 7. Ferr2DTerrain, 
+ 8. TextAnimator, Modular3DTextUAS
+ 9. LowPolyWindUAS, ObiRope, Jiggle, DynamicBone, TailAnimator
+ 10. AllIn1SpriteShader, FacetedTerrainShaderBM
+ 11. PolygonPacksHB, 
  
  Art: 3D Asset creation I own but I might forget about 
  ----------------------------
  1. Specifics: 
 	-  ObjectExploder, Fracturing&Destruction, InventoryPro(HBorGH)
  2. Mesh Making Best:
-	- ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMeshFree, Magicavoxeltools(mesh to magicavoxel), PaintIn3D
+	- ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMesh, PaintIn3D
 	- pifuhdPictureTo3DOnYoutube
  3. Mesh Making Ok:
-	- CorelCAD, MeshCreator (helps make meshes), Scriptinunitythensavetomesh, SorcarForBlender, Many more interesting ones in bookmarks, DualTexturedShader, SabreCSG, ChiselCSG, 
+	- CorelCAD, MeshCreator (helps make meshes), Scriptinunitythensavetomesh, SorcarForBlender, Many more interesting ones in bookmarks, DualTexturedShader, SabreCSG, ChiselCSG, Magicavoxeltools(mesh to magicavoxel), RealtimeCSG, 
  4. Meshes:
-	- DeformBM, MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer, DynamicBone(ForJiggles), ObiRope, DualTextured, ObjectExploder
+	- DeformBM, MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer, DynamicBone or Jiggle, ObiRope, DualTextured, ObjectExploder
  
  
  Art: 3D Level Design Tools I own but might forget about
  -----------------------------
  1. Level Tools Best: 
-	- EasySnap, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, LowPolyWindUAS
+	- EasySnap, DungeonArchitect, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, LowPolyWindUAS
 	- $40Monkey
  2. Level Generators 
 	Best: DonutStudiosAIandProceduralGeneration, DungeonizerFav, CurvedWorld2020, MapGen, MeshCombiner, LevelBuilder, MapMagic2, 
@@ -1196,6 +1209,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 	- Clayxels, ProBuilder, Blender, UModelerHB, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), UnityRgbaLevelGenerator(withMeshCombiner),  JustDrawThemAsPicturesAndImportThemToBlender, RealtimeCSG, MastBM
  5. Terrain: 
 	- Best: MapMagic2, GaiaHB, TerraWorld, AlphaxaonRealtimeTerrainBM, MCSCavesAndOverhangeHB,  ReliefTerrainPackHB, Videoaboutmakingbeautifulterrains, KahVeeTerrainGeneratorSS, Pre-made terrains islands in uas, DrParadox312UnityTerrainPainter, 
+	- FacetedTerrainShaderBM
 	- Ok: $25HexagonWorldGeneratorSS, $40LandscapeBuilderSS, $5BasicRandomTerrainGeneratorSS, $20-3DRealisticTerrainVol1BM, $6UnlimitedTerrainGenerator $5VoxelMaster(WithMeshCombiner),  UnityCookbookTerrainHeightPainter, MITRandomizedTerrainpopulatedwithAssets, BooLeetLowPolyTerrainGeneratorWithDecorations BlenderGIS, aidanProceduralTerrainGenerator, TCGJProceduralTerrainGenerator, VegetationEngineH, HowToMakeBeautifulTerrainInUnity, RunSwimFlyTerrainTools, NatureRendererHB, 
  6. Levels Ok: 
 	- BlenderWithScripting (ProceduralLevelsfromScripts), Bones3Voxels, TaurusDungeonGenerator, UnityPolygonMapGenerator, EdgarforUnity, DungeonTemplateLibrary, LevelGeneratorbyMoolt, CityGenerator,  SceneObjExporter, Magicavoxeltools(mesh to magicavoxel)
@@ -1254,11 +1268,11 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  Characters: 2D or 3D Character assets I own but I might forget about
  ----------------------------
  1. Animation: UnityAnima2D, Animancer or AnimatorControllerasCodeUAS or MecanimControl or AnimatorStateMachineUtility or SprytAnimatorLite. AdvancedPolygonCollider, GuplemEssentials, RagdollandTransitiontoMecanim, LockpickingKeylocksHB, GuplemEssentials
- 2. RagdollMecanimTransition (switchtofromragdoll)
+ 2. RagdollMecanimTransition (switchtofromragdoll), FullBodyFPSController
  3. 3DModels: 
 	- UAS(PolygonKnightsPack,), HeroicFantasyCreaturesFullPackVolume1HB(worth 349 already own!), PolygonPacksHB, StarSparrowModularSpaceship(Downloaded), ItchNov2020MegaBundle(DesertCactusAndTree, DesertStone, Mountains3D, TropicalPlants, Clouds,Volcanoes, MedievalFarm, AnimalsFarm3D, EnvironmentProps, MedievalBuilding, MedievalBuldings MedievalWeapons), Superpower3DCharacterPackBM, Quaternius(AnimatedRobot,AnimatedAlien,RPGCharacters,CuteAnimatedMonsters,UltimateAnimatedCharacterPack,AnimatedWomen,AnimatedMen,AnimatedEasyEnemy,AnimatedDinosaur,AnimatedMonster,Knight,FarmAnimal,FishPack,Zombie,AnimatedWoman,AnimatedAnimals,Animals) ... many more
  4. Models: 
-	- Clayxels, 3DCharactersVehiclesAndPropsUAS, 15-203DCharactersEnemiesUltimateFantasyHB, 2DRetroActRPGSpritePack, PaintIn3D, DynamicBone(ForJiggles), TailAnimator, AdvancedPolygonCollider, Superpowers3DVehiclesPackBM,
+	- Clayxels, 3DCharactersVehiclesAndPropsUAS, 15-203DCharactersEnemiesUltimateFantasyHB, 2DRetroActRPGSpritePack, PaintIn3D, DynamicBone or Jiggle, TailAnimator, AdvancedPolygonCollider, Superpowers3DVehiclesPackBM,
  5. 2DAI: 2DEnemyToolkit, PathBerzerker2d360PlatformerPathfinding, BloodstoneAI, ReGOAP, SteeringBehaviors, LovelyAgents, SensorToolkit, DonutStudiosAIandProceduralGeneration
  6. 3DAI: EmeraldAI, Planilo, NPBehave, CoordEDBT, StarterKitMovementCameraAI, DarkTreeFPS, FPSStarterKit(simpleAI), PolygonFPS, RealisticFPSPrefab, TopDownAI, ReactionAISteroidEdition, BreadcrumbAI, LowPolyAnimatedAnimals(Wander), CandiceAIForGames, RealisticFPSPrefab, SensorToolkitHB, 
  7. Sprites: SeveralInItchRacial, TonsInRpgGameDevelopmentAssetsHB(Creatures,Items, Sprites, Tilesets, Characters, Animations), 
@@ -1322,15 +1336,18 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  23. VR Elevator Action;
  24. Asteroids: 3DBreakableAsteroids,
  25. Finishing Gobblet
- 	- 
+ 	- ObjectExploder
+	 	
+ 	
  26. Most Games:
- 	- ScriptInspector3, Heirarchy2, NaughtyAttributes, ToggleLock, OneLineInspector, UnityBuildManager, 
- 	- DOTween, UVFreeShader, ComponentSaveSystem, Databox(CSV), 
- 	- AdvancedPolygonCollider, EnhancedTriggerBox, 
- 	- RollingArray, RandomBag, PersistentSingleton, 
- 	- Simple full GUI: Fade
+ 	1. ScriptInspector3, Heirarchy2, NaughtyAttributes, ToggleLock, OneLineInspector, UnityBuildManager, 
+ 	2. DOTween, UVFreeShader, ComponentSaveSystem, Databox(CSV), 
+ 	3. AdvancedPolygonCollider, EnhancedTriggerBox, 
+ 	4. RollingArray, RandomBag, PersistentSingleton, 
+ 	5. Simple full GUI: Fade
+ 	6. EasySnap, SceneStreamer
  27. What was the thing or idea that would be a better approach than having a whole scene
- 28. Everything 2dD: 
+ 28. Everything 2D: 
  
   	 
  
@@ -1341,7 +1358,24 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  3. Health, Death, Dialogue, SaveLoad, LevelSelect, Overworld, SceneTransitions, Pause, Checkpoints, SaveLoadLevelProgress, OverworldLevelSelect, Fracturing&Destruction, 
  4. GreatCharacterController, Shooting, MovingPlatforms
 
- 
+ PowerToolsBundle:
+ ----------------------------
+ Editor Console Pro
+Tail Animator
+Rainbow Folders 2
+The Vegetation Engine
+Dynamic Bone
+Nice Vibrations | Haptic Feedback for Mobile & Gamepads
+Obi Rope
+Path Painter™
+Lean Touch+
+Paint in 3D
+MicroSplat - Terrain Collection
+Poly Few | Mesh Simplifier and Auto LOD Generator
+DoozyUI: Complete UI Management System
+EnhancedScroller
+Dialogue System for Unity
+TerraWorld - Automated Level Designer
  
  
  
