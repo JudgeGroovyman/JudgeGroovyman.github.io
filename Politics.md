@@ -132,8 +132,23 @@ https://clips.twitch.tv/ArtisticVictoriousPeachSeemsGood
 
 
 
+1981 they identified all of the qualities of an authoritarian 
+trump ran in 2000 and attacked his opponents for the things he ran on this time totally inconsistent
+""
+"Id like to punch him in the face"
+"Be angry be very angry"
+"Have the families of terrorists killed"
+"waterboarding did not go far enough"
 
-
+Problematic that he would promise presidential pardons if they are convicted of breaking the law?  The law and order party supports the law and order president who specifically promised to overrule the law and then specifically did so to many specific law breakers.   
+They place great value on human life (abortion) then regardless of the deaths of hundreds of thousands of americans do not (covid19)
+integrity
+Labels of crooked hillary were accepted although there wasnt anything that would stand up in court whle the cilnton foundation is upstanding and efficient while it was found that donalds charity was used illegally and was dissolved.  there is no doubt about him being 'crooked donald' but they continually cheered
+Made a big deal about clintons emails, but when his kids were denied securityy clearances he granted them anyway.  
+He fired comey because 1. he did it before the investigation, 2. he did it after the investigation, 3. he did it regardless of the investigation, 4. he did it for different reasons dont ask
+Mullers work was 1. a hoax, 2. it was a gold standard for such an investigation, 3. crazy the work of 18 angry democrats out to destroy him
+trump says there was no interference, putin says there was no interference, therefore the cia, fbi, 450 page muller report, and bipartisan committee from republican led senate are all wrong and the republicans and trump who say there was no interference and it was a witch hunt are right.
+"First they came for the socialists, and I did not speak out—because I was not a socialist. Then they came for the trade unionists, and I did not speak out— because I was not a trade unionist. Then they came for the Jews, and I did not speak out—because I was not a Jew. Then they came for me—and there was no one left to speak for me."
 
 
 

@@ -368,7 +368,7 @@ https://ldjam.com/events/ludum-dare/47/escape-velokitty
 * [Populatio](https://ldjam.com/events/ludum-dare/47/populatio) my game!  really proud.  This was inspired and didnt take that long.  I forgot to mention in the notes is that my git repo is in the zip with the game so they can walk through the whole history of its development.  
 * [Mels Bells](https://ldjam.com/events/ludum-dare/47/mels-bells) This is an awesome rhythm game and with a few tweaks I think I would love it.  As is I beat it but it was super hard and I never felt any level of ownership of the skills required to beat the boss.  #inspiration
 * [Energy Loop](https://ldjam.com/events/ludum-dare/47/energy-loop) there are loads of other puzzlescript games with source probably in each of the game jams.  This isnt inspiration but I would be interested to see how they made this.
-* [Mousehard](https://ldjam.com/events/ludum-dare/47/mouseherd) really cool like the dreamcast game chu chu rocket about cats made in l√∂ve and I might enjoy looking at this source.
+* [Mousehard](https://ldjam.com/events/ludum-dare/47/mouseherd) really cool like the dreamcast game chu chu rocket about cats made in löve and I might enjoy looking at this source.
 * [Dante Slumbers](https://ldjam.com/events/ludum-dare/47/dante-slumbers) Totally pro.  This is nearly as polished as like an NES game and it looks and plays amazing.  the menus are great and its got a TON of character.  Code is on Github.  This person really knows their shit and are jam pros!  Also they have their own engine port or something on github called GLOV.js Examples: 
 * [Magical Marissas Trouble through Time](https://ldjam.com/events/ludum-dare/47/magical-marissas-troubles-with-time) a fun ball tilter pinball type thing with clunky (but possibly fixable) physics and colliders and stuff)
 * [DeedsLoop](https://ldjam.com/events/ludum-dare/47/deedzloop) made with catsoft game creator.  This had a really fun 3rd person controller with a cute player character.  unlimited doublejump and fun bouncy primatives and a colorful plasticy look and Id love to play a longer game in a fall guys like deal.
@@ -434,9 +434,9 @@ How did they do this?
 * [The Sysiphean Man](https://ldjam.com/events/ludum-dare/47/the-clockwork-men) this one is a masterpiece of presentation with cute pixely old guy sprite and a great time loop recording mechanic.  I wonder if the music really fits in this compo though.
 * [Cursed Temple](https://ldjam.com/events/ludum-dare/47/cursed-temple) Looks modern like hollow knight but with a time loop mechanic.  With a shallow difficulty curve I could play hours and hours of htis.  I dont want it to be too hard but just a little bit hard for a long time, bosses can be hard thats ok!
 * [Loopin](https://ldjam.com/events/ludum-dare/47/loopin-a-c64-action-puzzle-game) this is an actual C64 game made in C64 studio with c64 studio source code!
-* [Afterimage](https://ldjam.com/events/ludum-dare/47/afterimage) This contains one of the coolest mechanics Ive ever heard of.  You try to beat a simple platforming level, but to do that you will end up accidentally hitting a trap and dying, when you come back then you can double jump but when you do that the trap falls in wait for another player. And it keeps track of who left what trap where!  Made in L√∂ve!
+* [Afterimage](https://ldjam.com/events/ludum-dare/47/afterimage) This contains one of the coolest mechanics Ive ever heard of.  You try to beat a simple platforming level, but to do that you will end up accidentally hitting a trap and dying, when you come back then you can double jump but when you do that the trap falls in wait for another player. And it keeps track of who left what trap where!  Made in Löve!
 * [Robot Fight](https://ldjam.com/events/ludum-dare/47/robot-fight) super hard to believe this is a one man job (I have no actual doubts its just totally amazing).  Its a whole robot programming sim with cute pixel graphics and narrators and a story and huge human characters and lore.  wow.  Runs great in safari on the mac.  Really cool sort of chiptune NES or TG16 music going on too.  OMG There are even upgrades and unlockable robot technologies OMG.  And then you get to retry every level until you beat it (perfect) , plus its not just programming like "here are your commands" but actually "here are some of your commands and they are constantly changing and you have to pick them up at the right times"  and omg its got a sense of humor: "Wow congratulations on making so far in this unrigged competition" lol  #underrated  I beat the first two and moved on but boy is it good.  
-* [Repeater](https://ldjam.com/events/ludum-dare/47/repeater) my mouth is hanging open.  this is one of the coolest smoothest experiences I've had in the compo and one that most perfectly captures the theme and is super fun to play and thrilling when you figure out what to do because its so damn mysterious.  YOu dont know why and it doesnt matter but you are filled with awe and wonder since now you dont know around what corner will be another inexplicable mystery.  Plus the aesthetic is so appealing and its just fun to run and jump like this.  could this ever be a full game and then some.  I imagine like metroid many different tileset environments and each level is like this whole game where it starts out seeming pretty straightforward but loops, and then you finally find an exit, but perhaps you have to go through the loop a number of times for some lighting to change and then certain other triggers happen.  Wow I love the style here.  Also gamepads work on this game even in html 5!  (well they are advertised to ... lets find out! yup it sure does (at least on windows))  Note: On mac this doesnt run in Safari (it doesnt finish loading - usually that means theres a compression problem and I think if you search for that you'll find several solutions).  For feedback I'd say some tweaking to make the player more like metroid, and make the enemies knock back when hit (they just kept coming which meant you had to use a retreating strategy of sorts) Tips: use a gamepad if possible. Keep enemies just off the edge of the screen. first stand and shoot fast, if you dont see sparks (which indicates youre hitting something) jump and shoot. When going up dont try to shoot them lure them to the side and juke to the other side. When going up dont jump out of the hole (you‚Äôll get hit lots) without jumping as high as you can on the side to see whats up there and lure them down. keep trying and look for things to change and you‚Äôll win eventually!  About the spoiler: My spoiler is so vague that you will have to try it several times to even see what it means but if you have figured out the core mechanic and you are stuck then this might help and you‚Äôll probably understand what I‚Äôm talking about here.  SPOILER ALERT If anyone wants a hint heres a real vague hint: right left (change) right (change), up left up, right (a bit) left (change) right and down
+* [Repeater](https://ldjam.com/events/ludum-dare/47/repeater) my mouth is hanging open.  this is one of the coolest smoothest experiences I've had in the compo and one that most perfectly captures the theme and is super fun to play and thrilling when you figure out what to do because its so damn mysterious.  YOu dont know why and it doesnt matter but you are filled with awe and wonder since now you dont know around what corner will be another inexplicable mystery.  Plus the aesthetic is so appealing and its just fun to run and jump like this.  could this ever be a full game and then some.  I imagine like metroid many different tileset environments and each level is like this whole game where it starts out seeming pretty straightforward but loops, and then you finally find an exit, but perhaps you have to go through the loop a number of times for some lighting to change and then certain other triggers happen.  Wow I love the style here.  Also gamepads work on this game even in html 5!  (well they are advertised to ... lets find out! yup it sure does (at least on windows))  Note: On mac this doesnt run in Safari (it doesnt finish loading - usually that means theres a compression problem and I think if you search for that you'll find several solutions).  For feedback I'd say some tweaking to make the player more like metroid, and make the enemies knock back when hit (they just kept coming which meant you had to use a retreating strategy of sorts) Tips: use a gamepad if possible. Keep enemies just off the edge of the screen. first stand and shoot fast, if you dont see sparks (which indicates youre hitting something) jump and shoot. When going up dont try to shoot them lure them to the side and juke to the other side. When going up dont jump out of the hole (you’ll get hit lots) without jumping as high as you can on the side to see whats up there and lure them down. keep trying and look for things to change and you’ll win eventually!  About the spoiler: My spoiler is so vague that you will have to try it several times to even see what it means but if you have figured out the core mechanic and you are stuck then this might help and you’ll probably understand what I’m talking about here.  SPOILER ALERT If anyone wants a hint heres a real vague hint: right left (change) right (change), up left up, right (a bit) left (change) right and down
 * [Snaketroidvania](https://ldjam.com/events/ludum-dare/47/snaketroidvania) hey this has a timelapse too!  Holy crap this is a 5 star game.  Presentaiton is #1 Concept is #1 controls are #1 I love how fluid the added controls are like pushing forward to pause is perfect.  For feedback ideally there should be a separate button to switch directions since in this case its backwards which ever way the front of your snake is going and that means theres never a button for that function theres always a calculation in the brain which is confusing.
 * [Mobius Station](https:/./ldjam.com/events/ludum-dare/47/mobius-station) It sso cool that you walk one way and it flips upside down.  One amazing thing about Pico8 is it recognized my gamepad after it started up!  ITs such a great concept of moving things around in advance and then speed moving things when you press the button.  It means its kind of chill but hten thrilling.  I love that mechanic.  I got a really high score over 200 deliveries and had a blast and almost finished hte last one too!
 * [Electron The Electrical Engineer](https://ldjam.com/events/ludum-dare/47/electron-the-electrical-engineer) This is one of the best clearest and most innovative puzzle games Ive seen.  Its wonderful.  Its not too intense and its devilshly difficult - I couldnt even get past level 5!  I'm goign to try again though.  Wow it even remembers your progress game to game!!  Its so good!!!  I got to level 13 now!  I feel like the teleporter mechanic changes the logic of the game and while it def adds difficulty it removes all of the 2d planning I was doing and makes it harder not in a comfortable logical way.  I was just getting comfortable.  Its not wrong but I would have preferred a mode and some legs and longevity without any teleporter and maybe the teleporter is just for hard mode levels or something.  #highjamgameexpectations  You know what else is great about this game?  How to make the maps.  ALl the author has to do is draw one out that works including obstacles and then erase the path and leave a few of the path pieces intact ...
@@ -791,7 +791,7 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
   - Splash wave!
   - It seems to have an upgrade system of some sort which compels you to play it and beat it even at the easier levels
   - Today 3-5-2020 I beat it on Two star difficulty and got the second ending where the car falls apart 
-* Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic! 2-28-2020  - Not only is the 3D fantastic but the quality of life features are top notch.  Adjustable lives and difficulty, level select, save and load, replay save, saved high scores.  It‚Äôs really great! - It‚Äôs also got music playback in the menus which is great because the music is great  Update: 6/1/2020 I got it working on Citra and boy is it amazing in VR. I love it so much.  its pure fun!  Caveats: Theres no level select in this version.  the controls are good because using my xbox I can use the dpad and stay exactly where I left it instead of pulling back to center every time.  the scaling is amazing and the depth is so damn cool.  I love being able to see such clear detail on teh sprites.  I got to level 7 or 8 before I probably left autofire down too long and cancelled out of putting in another quarter (or maybe I ran out of continues!?!)  I've been playing on Easy and would like to experience the whole game on this VR sometime soon.  Its just great.  I tried playing it on the japanese 3ds rom and that one was slow as hell and wasn't close to playable.  I was nervous about the USA one but it works great.  7/17/2020 - I beat it in VR and it is so cool and so much fun.  Why do I like it so much? I think I'll describe that in the Virtual Reality note
+* Space Harrier 3D 3DS - 12/27/19 - This is really good. The controls are great with the pad or the dpad, but also there are touch controls which use the stylus which I think would work really well possibly better than the mouse on the Amiga port.  The graphics are arcade perfect and better than any port including Amiga.  The sound and music is great, and theres a level select when you unlock them!  Thats awesome!  That fixes the continue structure.  You only get 3 lives per level but thats ok thats a fair challenge (at least at this point on these earlier levels - could be a problem later but I dont know).  And the 3d is fantastic! 2-28-2020  - Not only is the 3D fantastic but the quality of life features are top notch.  Adjustable lives and difficulty, level select, save and load, replay save, saved high scores.  It’s really great! - It’s also got music playback in the menus which is great because the music is great  Update: 6/1/2020 I got it working on Citra and boy is it amazing in VR. I love it so much.  its pure fun!  Caveats: Theres no level select in this version.  the controls are good because using my xbox I can use the dpad and stay exactly where I left it instead of pulling back to center every time.  the scaling is amazing and the depth is so damn cool.  I love being able to see such clear detail on teh sprites.  I got to level 7 or 8 before I probably left autofire down too long and cancelled out of putting in another quarter (or maybe I ran out of continues!?!)  I've been playing on Easy and would like to experience the whole game on this VR sometime soon.  Its just great.  I tried playing it on the japanese 3ds rom and that one was slow as hell and wasn't close to playable.  I was nervous about the USA one but it works great.  7/17/2020 - I beat it in VR and it is so cool and so much fun.  Why do I like it so much? I think I'll describe that in the Virtual Reality note
   
 # 2020 Games #
 * Mickey Mouse Land of Illusion Game Gear 1/8/2020 - I got to the second or third level, its cool that theres an overworld map and its got a good continue structure with apparently unlimited continues.  On tihs level theres a bunch of clunky underwater controls and its prety unforgiving and makes it not too much fun.  I was hopingto have more fun with it and its not too hard and I know I could beat it I'm just not motivated.  I think it would have been great bitd.  
@@ -821,7 +821,7 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
   - Stage 4 patched plains - the perspective at the beginning is so cool!
   - This first clanky woods battle is really cool with several parts!
   - 2-2 is a cool shmup ina. City with an absolutely awesome boss.  I would absolutely play a full game like this
-  - 2-4 is a cool casino background hey and it‚Äôs the cool 3D pool table level great fun catchy tunes
+  - 2-4 is a cool casino background hey and it’s the cool 3D pool table level great fun catchy tunes
   - 3-4 has a cool snowmen heads you have to fill with ice and amazing creamsicle ice cream swirl cones falling on you
   - Overload ocean stage 5 has a really cool 3D background and foreground thing going up and down a lot which is awespme
   - Gigabyte grounds 3 has a cool Rube Goldberg machines
@@ -829,14 +829,14 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
   - 4-3 2020
   - Rhythm route 2 - huge pool balls in the front layer
   - Access ark 4 is awesome!  The environment is so damn cool
-  - The credits can be punched!  The whole final boss battles series is cool with great forgiving continue structure and let‚Äôs you load up on power ups before each boss if you die
-  - I beat it on 4/15/2020 and it‚Äôs really cool
+  - The credits can be punched!  The whole final boss battles series is cool with great forgiving continue structure and let’s you load up on power ups before each boss if you die
+  - I beat it on 4/15/2020 and it’s really cool
   - It unlocks a really cool speed run Survival mode called Meta knight mare mode which has a great bat mechanic that I love flapping those wings
 * Mario 3D land
-  - 2-4 has a Mario 1 theme even to the point that there‚Äôs and end sectionnthays awesome for 3D Mario 1
+  - 2-4 has a Mario 1 theme even to the point that there’s and end sectionnthays awesome for 3D Mario 1
   - 5-3 is like a Zelda dungeon with secrets and the Zelda sound and all
-  - 3-4 water level let‚Äôs you get a fireflpwer
-  - In 5-2 there‚Äôs a bonus room with a 1up near the top left and a fireflpwer below it some
+  - 3-4 water level let’s you get a fireflpwer
+  - In 5-2 there’s a bonus room with a 1up near the top left and a fireflpwer below it some
     - 5-2 has a cool place at the beginning where you can jump up and into the camera
     - And a hidden fireflpwer at the beginning
   - 5-4 is pretty good for 1ups and a fire flower
@@ -845,47 +845,47 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 * Altered beast 3D classics 2-29-2020
   - The 3D is fine
   - There is local Wireless multiplayer!
-  - It should have more difficulty options.  It doesn‚Äôt even have unlimited continues which blows my mind
+  - It should have more difficulty options.  It doesn’t even have unlimited continues which blows my mind
   - At least it has save states
   - I wonder if the non Japanese version is different with continues?
   - 
 * Sonic 3DS 3D classics 2-29-2020
-  - There‚Äôs a built in level select which I think is wonderful
-  - Then there‚Äôs a save and load 
-  - And some great 3D options where it‚Äôs full 3D layers going in or popping out a bit and also an option to be flat but on an old school 3D curved CRT 
+  - There’s a built in level select which I think is wonderful
+  - Then there’s a save and load 
+  - And some great 3D options where it’s full 3D layers going in or popping out a bit and also an option to be flat but on an old school 3D curved CRT 
   - I got through the third stage on just 2 lives including the boss!
-  - 4-11 I got through labyrinth zone on 3 lives but couldn‚Äôt beat the boss.  I could only hit him twice.  I bet there‚Äôs a strategy but so far I don‚Äôt like this boss 
+  - 4-11 I got through labyrinth zone on 3 lives but couldn’t beat the boss.  I could only hit him twice.  I bet there’s a strategy but so far I don’t like this boss 
   - 4-19  I got through whole labyrinth zone on 3 lives in fact lost one and gained one so ended up with 3!
   - 4-20 I got through labyrinth zone Again and then beat star light with 1 remaining
   - Man this game is so damn cool.  I never owned a genesis as a kid but I thought it was the coolest damn thing It was super high tech making all these amazing 3D (appearing due to parallax) graphics and amazing beautiful sounds.  I thought the volume on the console was wicked so you could play in private and I thought the curves were out of this world.  It was so cool.  This was over before I knew anything about SNES (and before it was released)
   - I rented sonic at least twice (which also meant I had to rent a genesis which I remember being $15 for the weekend)
   - I remember not getting very far and getting pretty frustrated.  I think if I had really just played it a little bit every day I would have eventually beat it
-  - The last time I remember renting it I remember getting to world 2-1 but not getti much further.  That‚Äôs about as far as I typically got back in the day.  
-  - I never figured out how the chaos emeralds worked only once or twice ever got one didn‚Äôt know how to activate the bonus levels (for me it seemed totally random to get the big ring actually I think I thought you had to be moving fast when Th e level ended) I never got any good at the bonus levels and never realized that those emeralds were something worth collecting and I don‚Äôt know if I could have anyway.  Actually I‚Äôm not sure I ever got entirely though the border surrounding the chaos emeralds
-  - So I didn‚Äôt get many one ups from the bonus stages and in the regular stages I wanted to go really fast and felt like if I‚Äôm playing this game right I‚Äôll be able to speed through each of the levels but I know now that‚Äôs not the case
-  - That‚Äôs also why level 2-1 puzzled me there‚Äôs no way to go fast
+  - The last time I remember renting it I remember getting to world 2-1 but not getti much further.  That’s about as far as I typically got back in the day.  
+  - I never figured out how the chaos emeralds worked only once or twice ever got one didn’t know how to activate the bonus levels (for me it seemed totally random to get the big ring actually I think I thought you had to be moving fast when Th e level ended) I never got any good at the bonus levels and never realized that those emeralds were something worth collecting and I don’t know if I could have anyway.  Actually I’m not sure I ever got entirely though the border surrounding the chaos emeralds
+  - So I didn’t get many one ups from the bonus stages and in the regular stages I wanted to go really fast and felt like if I’m playing this game right I’ll be able to speed through each of the levels but I know now that’s not the case
+  - That’s also why level 2-1 puzzled me there’s no way to go fast
   - If I had owned it or had more patience with it I could have beat it because now on 4-20 I got through labyrinth with 4 lives remaining and The next world all three levels and boss with 1 lives remaining
-  - I remember that last time I rented it something weird happened in my brain.  I found a trick in a magazine like start plus a or something when on the title screen and it sent me to a level select!  Today I have one on my 3DS built into the game but back then I didn‚Äôt know what to think of it.  I tried a few random levels and died quickly and finally I tried the final boss and it was really cool seei Ng the final boss but of course I died quickly several times and had to start over.  After thAt though ... I felt different about the game.  I felt like I had (inexplicably I know) seen or mastered the whole game or some feeling like that and I had much less desire to play it anymore.  There were two aspects as far as I could tell: 1.  Now I could play any part of the game all of the difficulty was removed (even though I hadn‚Äôt beaten all but like 4 it felt that way) and 2. I felt like I had pretty much beaten or unlocked or experienced all it had to offer.  It‚Äôs weird in hindsight but that was in my head and I still held it in high esteem but didn‚Äôt want to play it so much anymore. 
-  - In 2003 I played it again on DC or Xbox and remember thinking how stupid the 2nd world was how you couldn‚Äôt go fast at all. That‚Äôs kind of how I felt about the game until recently.
+  - I remember that last time I rented it something weird happened in my brain.  I found a trick in a magazine like start plus a or something when on the title screen and it sent me to a level select!  Today I have one on my 3DS built into the game but back then I didn’t know what to think of it.  I tried a few random levels and died quickly and finally I tried the final boss and it was really cool seei Ng the final boss but of course I died quickly several times and had to start over.  After thAt though ... I felt different about the game.  I felt like I had (inexplicably I know) seen or mastered the whole game or some feeling like that and I had much less desire to play it anymore.  There were two aspects as far as I could tell: 1.  Now I could play any part of the game all of the difficulty was removed (even though I hadn’t beaten all but like 4 it felt that way) and 2. I felt like I had pretty much beaten or unlocked or experienced all it had to offer.  It’s weird in hindsight but that was in my head and I still held it in high esteem but didn’t want to play it so much anymore. 
+  - In 2003 I played it again on DC or Xbox and remember thinking how stupid the 2nd world was how you couldn’t go fast at all. That’s kind of how I felt about the game until recently.
   - Spring zone zone 3 has the best music in the game imho the second part of the music is so catchy and cool and interesting and fun.
-  -  the pinball parts In this game we‚Äôre so bad ass because they were better more fun momentary pinball action (the bouncing and sounds and stuff) than any other game I‚Äôd played outside of an actual pinball machine.  They made it feel super modern to me like a game within a game and I loved thay
+  -  the pinball parts In this game we’re so bad ass because they were better more fun momentary pinball action (the bouncing and sounds and stuff) than any other game I’d played outside of an actual pinball machine.  They made it feel super modern to me like a game within a game and I loved thay
   - I remember one of the most stressful things in SMB was the situations where you had to perform the Difficult action perfect there was no way to get around it there was no safety net or backup plan.
   -   In most situations in SMB there was a safety net at least in design because In most situations you can be in control of whether you are large and then if you get Hit you just go small.
-  - For most jumps it would be if You Jump too late you die but if you jump a bit too early that can be ok so you don‚Äôt have to perform perfect ther is wiggle room.  Or if you undershoot you die but if you overshoot You land safely
-  -   There were some big jumps that didn‚Äôt give you any safety net tho like on I think 8-2 or 4-3 where there‚Äôs a big leap where you have to run over a little gap and then land on a single block and then quickly jump again while still running.  It‚Äôs pretty easy for me now but bitd that was very difficult and scary because you knew that there was no way to get into that situation and not have to perform perfectly to beat it
-  - Well sonic has a lot more situations where you have to perform perfectly to beat them.  Instant kills and unforgiving jumps and movements.  You have to make the jump just right and if you don‚Äôt well not only do you have to backtrack but you are often hit or killed and sometimes thrown into lava or knocked back down a cliff
-  - Something I just noticed consciously but I think I knew subconsciously in the past is that in some ways the Mario games are faster.  No the character doesn‚Äôt actually move faster, but the levels are designed with generally less waiting and more left to right so you can run more than many of the sonic levels where you have to take it real slow and careful
-  - Sometimes like on 2-2 the checkpoint can be behind you or out of the normal path which I don‚Äôt feel like Mario does to you
-  - Also the bricks in the second world aren‚Äôt as beautiful of a sexy checkerboard they aren‚Äôt as clean or modern as the bricks on the first level
-  - As of 4-20 I‚Äôve had this cart for about 4 yrs (since 2016 at the latest) and first played this game in 1990 but right now learning it and getting really good at it level by level with its beautiful sexy Ultra modern in 90s Graphics plus the incredible 3D parallax thay I love so much is one of the funnest and most satisfying gaming experiences of my life.  I‚Äôm loving it
+  - For most jumps it would be if You Jump too late you die but if you jump a bit too early that can be ok so you don’t have to perform perfect ther is wiggle room.  Or if you undershoot you die but if you overshoot You land safely
+  -   There were some big jumps that didn’t give you any safety net tho like on I think 8-2 or 4-3 where there’s a big leap where you have to run over a little gap and then land on a single block and then quickly jump again while still running.  It’s pretty easy for me now but bitd that was very difficult and scary because you knew that there was no way to get into that situation and not have to perform perfectly to beat it
+  - Well sonic has a lot more situations where you have to perform perfectly to beat them.  Instant kills and unforgiving jumps and movements.  You have to make the jump just right and if you don’t well not only do you have to backtrack but you are often hit or killed and sometimes thrown into lava or knocked back down a cliff
+  - Something I just noticed consciously but I think I knew subconsciously in the past is that in some ways the Mario games are faster.  No the character doesn’t actually move faster, but the levels are designed with generally less waiting and more left to right so you can run more than many of the sonic levels where you have to take it real slow and careful
+  - Sometimes like on 2-2 the checkpoint can be behind you or out of the normal path which I don’t feel like Mario does to you
+  - Also the bricks in the second world aren’t as beautiful of a sexy checkerboard they aren’t as clean or modern as the bricks on the first level
+  - As of 4-20 I’ve had this cart for about 4 yrs (since 2016 at the latest) and first played this game in 1990 but right now learning it and getting really good at it level by level with its beautiful sexy Ultra modern in 90s Graphics plus the incredible 3D parallax thay I love so much is one of the funnest and most satisfying gaming experiences of my life.  I’m loving it
   - Update 6/2/2020 I got this working in Emulation and gods is it amazing!  It pulls me into the green hill zone like I've never been able to be there with so much depth and I can see every pixel huge and its like Sonic is the size of a dog which is so damn cool.  I made it so deep it gave me a bit of motion sickness haha.  I love it.  Update 6/14 have to have new 3DS emulation on and no graphical filters or anything.  The sound isnt absolutely perfect frankly just almost imperceptibly skippy.  citra nightly 1554
 * New Super Mario 2
   - I love this!
-  - One thing I don‚Äôt love is how it blurs when the 3D is deeper.  I understand why they did that and it‚Äôs a cool enough feature but I wish you could just turn it off.  I like to be able to focus on whatever i want at any depth and this doesn‚Äôt let me.  Yeah it‚Äôs more realistic but it‚Äôs less interesting to my eyes and brain and heart
-  - I don‚Äôt love how you have to beat a castle to save
+  - One thing I don’t love is how it blurs when the 3D is deeper.  I understand why they did that and it’s a cool enough feature but I wish you could just turn it off.  I like to be able to focus on whatever i want at any depth and this doesn’t let me.  Yeah it’s more realistic but it’s less interesting to my eyes and brain and heart
+  - I don’t love how you have to beat a castle to save
   - They give you lots of one up opportunities at least
   - 1-4 has some cool ways to get one ups
-  - 2-4 there‚Äôs a pipe where you goomba jump for unlimited
+  - 2-4 there’s a pipe where you goomba jump for unlimited
   - 2-midcastle great place for leaves
 * Kid Icarus Uprising 3D
   - Wow here are some of the reasons why this is one of the best games ever made
@@ -900,37 +900,37 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
     - Great voice acting
     - Teaches you things
     - Breaks the fourth wall sometimes with pixelated jokes like the 3 headed dragon
-  - It plays a funny song when reapers see you that seems totally out of place but it‚Äôs from the NES game!
+  - It plays a funny song when reapers see you that seems totally out of place but it’s from the NES game!
   - Huge beast bosses
   - Exciting flying
   - Shows you direction to go in
   - Hearkens to the old game with most of the same enemies and power ups and bosses and even the music 
   - The bickering hydra heads are hilarious 
   - The game has somewhat of a teen anime sense of humor
-  - I suck at this game.  The intensity slider has to be low or I die.  I still don‚Äôt know how to avoid the metroids while flying I‚Äôve basically never avoided one.  There are lots of secrets I have no idea how to get. Like on level 3 or 4 there‚Äôs a pit that has a partial ring around it that looks like it needs to be rotated or something to get to the other side where there‚Äôs a treasure chest.  I can‚Äôt figure itnout
+  - I suck at this game.  The intensity slider has to be low or I die.  I still don’t know how to avoid the metroids while flying I’ve basically never avoided one.  There are lots of secrets I have no idea how to get. Like on level 3 or 4 there’s a pit that has a partial ring around it that looks like it needs to be rotated or something to get to the other side where there’s a treasure chest.  I can’t figure itnout
   - Level 5 is a really cool futuristic low poly world with tons of voice acting character and some really brilliant And interesting level designs
   - Chapter 6 has a great Spanish guitar song and a pretty large intricate level
-  - This game is a must buy if you have any interest in how cool the 3D can be on this system.  It‚Äôs the best example and it would be a great AAA game on any system even without the stereo
+  - This game is a must buy if you have any interest in how cool the 3D can be on this system.  It’s the best example and it would be a great AAA game on any system even without the stereo
   - Spoiler Alert One of these levels was like the final battle but then when I beat it the credits started rolling but then a worse boss interrupted them and the game started again :)
   - On level 10 I got turned into a shrimp and eaten
-  - On 11 it‚Äôs a scary nuclear bomb!
+  - On 11 it’s a scary nuclear bomb!
 * 3D Gunstar Heroes
   - It was so cheap at like $5.99 and so good
   - I beat the first stage on my first try
-  - It‚Äôs forgiving the way I‚Äôve got it set I set it easy mode and with double life I think
+  - It’s forgiving the way I’ve got it set I set it easy mode and with double life I think
   - I would have died without that double life but I wonder how far back I would go or how many lives I have.  I wonder about the continue structure
-  - The 3D is actually really great I‚Äôve got it in pop out mode but it does take more eye adjusting than most of the games I‚Äôve played on here 
-  - I think that makes it pop more but there‚Äôs a side border for both eyes that‚Äôs visible 
-  - I‚Äôve gotten through most of the other levels without more than a couple retries and now I‚Äôm on probably stage 6 a horizontal shooter level
-  - The 3D parallax when you‚Äôre on the Spaceship is really cool and the rotating power station boss is awesome! This would have blown my mind if i ever could have gotten to it bitd 
+  - The 3D is actually really great I’ve got it in pop out mode but it does take more eye adjusting than most of the games I’ve played on here 
+  - I think that makes it pop more but there’s a side border for both eyes that’s visible 
+  - I’ve gotten through most of the other levels without more than a couple retries and now I’m on probably stage 6 a horizontal shooter level
+  - The 3D parallax when you’re on the Spaceship is really cool and the rotating power station boss is awesome! This would have blown my mind if i ever could have gotten to it bitd 
   - The last boss rush was tough but still only took me a few tries.  This mode is super fair.
-  - I‚Äôm really proud that I beat this game.  It‚Äôs so good
+  - I’m really proud that I beat this game.  It’s so good
   - The ending cinematic was fun and even slightly touching they included some emotion.  I loved it!
   - I have no idea if I ever would have been able to beat this bitd. 
   - It does seem to have unlimited continues and the final boss for example it starts you right there and even gives you a weapon upgrade 
 * About 3ds
-  - This is the first stereoscopic system and the tech is really cool!  It‚Äôs hard to imagine how it even works!  
-  - It is unique because it won‚Äôt be around forever and once the displays are dead they basically can‚Äôt be replaced.  You will still be able to play the games but in 2030 you‚Äôll be able to play ps3 wii nds switch even NES but it‚Äôs not certain you‚Äôll be able to play 3DS
+  - This is the first stereoscopic system and the tech is really cool!  It’s hard to imagine how it even works!  
+  - It is unique because it won’t be around forever and once the displays are dead they basically can’t be replaced.  You will still be able to play the games but in 2030 you’ll be able to play ps3 wii nds switch even NES but it’s not certain you’ll be able to play 3DS
 * BlasterMaster Zero 3DS
   - Demo
   - Not stereoscopic
@@ -938,21 +938,21 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
   - Seems to be unlimited lives and checkpoints everywhere
   - Controls are tight and the game is just like NES!
   - The music is epic and Deeply reminds me of playing NES games
-  - Weird thing about the colors is underground whether 2d or 3D when you‚Äôre moving the brown background blurs in such a way that the whole screen seems to go dark.  It‚Äôs distracting and disconcerting 
-  - The overhead areas are cool but I don‚Äôt think they could have been done on NES. They have parallax and are SNES worthy.  Update: the nes overhead areas looked amazing for the time with a huge character.  These look better but wow!  Nice work sunsoft!
+  - Weird thing about the colors is underground whether 2d or 3D when you’re moving the brown background blurs in such a way that the whole screen seems to go dark.  It’s distracting and disconcerting 
+  - The overhead areas are cool but I don’t think they could have been done on NES. They have parallax and are SNES worthy.  Update: the nes overhead areas looked amazing for the time with a huge character.  These look better but wow!  Nice work sunsoft!
   - I beat the boss of area one!  This is a really fun game!  It took Only three tries and there was a checkpoint immediately before
   - I got an upgrade to my gun!
   - I like how the two modes control so differently
-  - It was cool that once I got my new weapon I could go to a few new sections of the same large map that I couldn‚Äôt get to before and that in face those weee the only places left to go really once the boss was beat
+  - It was cool that once I got my new weapon I could go to a few new sections of the same large map that I couldn’t get to before and that in face those weee the only places left to go really once the boss was beat
   - Great game
-  - Not special on 3DS.  The steam version has some co op gameplay!  Wow the switch version has that feature too!!  Nice!  The co op is a crosshairs for the second player to shoot the enemies like operation wolf or something.  That‚Äôs really cool!  Or in boss mode it‚Äôs kind of pvp
-  - I had much fun with area 1 so I think I‚Äôll play area 3 too.  (Update: no I didn‚Äôt end up enjoying 3 tonight anyway) I don‚Äôt know but I don‚Äôt think I‚Äôll buy this but who knows it‚Äôs clearly fantastic and worth it :). I suspect I found this back when I was looking for Metroidvanias
-  - Apparently there‚Äôs a second game this one from 2017 and the new one from 2019 
+  - Not special on 3DS.  The steam version has some co op gameplay!  Wow the switch version has that feature too!!  Nice!  The co op is a crosshairs for the second player to shoot the enemies like operation wolf or something.  That’s really cool!  Or in boss mode it’s kind of pvp
+  - I had much fun with area 1 so I think I’ll play area 3 too.  (Update: no I didn’t end up enjoying 3 tonight anyway) I don’t know but I don’t think I’ll buy this but who knows it’s clearly fantastic and worth it :). I suspect I found this back when I was looking for Metroidvanias
+  - Apparently there’s a second game this one from 2017 and the new one from 2019 
 * Leander
   - Amiga
   - 4-6-2020
   - Escape quits losing all lives with no continue and no mercy!
-  - In my cracked version I have unlimited bombs and coins but not life (I could have selected life but didn‚Äôt)
+  - In my cracked version I have unlimited bombs and coins but not life (I could have selected life but didn’t)
   - You can select twin button joystick
   - You can pick how many lives (Max 5) and credits (Max 3) you get and the difficulty of the game in the options
   - I really wish you could go down through platforms to lower platforms 
@@ -960,11 +960,11 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
   - 4-7-2020
     - I played for many hours and had much fun
     - I got pretty good
-    - I don‚Äôt understand the weapon upgrades
+    - I don’t understand the weapon upgrades
     - The dragon on 1-3 or 4 is far too brutal
-    - I found a big problem because due to some copy protection I couldn‚Äôt beat level 1-4
-    - A platform just didn‚Äôt exist
-    - And I couldn‚Äôt get any version that was rumored to work to actually work on my Mac uae fsuae 
+    - I found a big problem because due to some copy protection I couldn’t beat level 1-4
+    - A platform just didn’t exist
+    - And I couldn’t get any version that was rumored to work to actually work on my Mac uae fsuae 
     - And I tried a lot
     - It was all depressing because I wanted to keep playing
     - Next day I got another version working and had fun
@@ -973,14 +973,14 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
     - But I got through the first 4 levels pretty quick probably 45min
     - Then I got through the rest of world 1!
     - The jumping on flying bags was silly. It requires such perfect timing that I think it should be much more forgiving
-    - In the beginning of world 2 I found a part where I had to jump on a platform which floated up from spikes but the timing was so carefully critical that it wasn‚Äôt so much fun anymore
+    - In the beginning of world 2 I found a part where I had to jump on a platform which floated up from spikes but the timing was so carefully critical that it wasn’t so much fun anymore
     - Continue Structure: 5 lives, 3 continues. Each life you start off right where you were.  Each continue you start at the beginning of the stage (1.3, 2.4, whatever).  Thats not too unfair.  You lose your weapon when you get hit or die (not sure which)
     - Hey If you have the infinite lives password in and then hit F8 the game pauses and then hold F6 and hit the fire button and it skips to the next level!
 * Magic Pockets
   - I had some fun playing up to level 7 or 8 with heavy use of save states
   - 4-6-2020
   - Amiga
-  - The power ups were too complicated and the enemies too sort of random (their powers and behavior weren‚Äôt the same for a given enemy)
+  - The power ups were too complicated and the enemies too sort of random (their powers and behavior weren’t the same for a given enemy)
 * Miles & Kilo
   - This is a cool game!  The continue structure is great and it lets you do as many continues and lives as you want
   - The 3D is subtle but I like it
@@ -994,13 +994,13 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 
 * Chaos Engine
   - I read something that said that Navvie and Priest were the best duo
-  - Had to do some controller configurations and while it wasn‚Äôt hard it wasn‚Äôt particularly user friendly
+  - Had to do some controller configurations and while it wasn’t hard it wasn’t particularly user friendly
   - I beat level one without dying!  I never did that before!
   - Beat level 2 but died like 3 times
   - Very hard, its silly that continues dont restore your life.  you can't see enough of the screen to get anywhere without knowing whats coming in advance.  I still love it and wish I had bought it when I was a kid above and beyond most other Amiga games I should have bought this because I knew I would love it.  I think I felt some guilt that I hadn't caught up with all of the Amiga classics (at that point) I really didnt know what other games were out there.
 * VROOM Galleon VR 4-18-2020
-  - Expecting a game? You‚Äôll be disappointed
-  - Expecting a pretty cool VR experience you‚Äôll have fun.
+  - Expecting a game? You’ll be disappointed
+  - Expecting a pretty cool VR experience you’ll have fun.
   - I played For 45 min or so and would like to play again sometime
   - The sharks were cool
   - The water was cool
@@ -1115,6 +1115,18 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 * The Ground Gives Way 8-26-2020
 	This is a good simple short roguelike, but I dont like it because it doesn't have what I'm looking for.  In particular I dont want hunger, or the complexity of identification, nor do I want to be scared to make every move.  Still kudos to the authors.
 * Project Osiris (10/17/2020) Awesome.  Makes a weird noise on sewer level.  (11/20/2020)  The sewer level has great difficulty.  i dont remember what difficulty I picked but its taken me a number of tries to get through but I'm making progress every time.  On level 4 The Courtyard in the first room there are curved stairs to the left and behind them is a little room.  If you run in there the breed can't get to you directly for some reason. They bounce on the stairs like a pinball until they happen to get through the little section.  General: health pickups flash the screen a bit too much and without being conscious of it they distract and make me wonder if I'm getting hit.  The shotgun is underpowered imho.  I can't seem to use it with success at all (even in close quarters) maybe its just me but in doom I can use the shotgun and here I cant. 
+	- 12/19/2020 I JUST BEAT the courtyard level (maybe number 4) and it was a lot of fun.  there were lots of keys to pick up and find and then get into other parts fo the level.  Lots of bad boys.  I loved it.  I used my trackball and i'm getting decent with it.
+	- its so classy that the cursor is the amiga cursor.  also its awesome that. 
+	- 12/20/2020 On level 6 ist awesome how you get the green key and if you keep exploring you find a teleporter that not onlly takesy ou back to near where you started but puts you in a position where you are staring right at the green key door
+	- I'm thinking that the red guys when they touch you they attack a bit too fast imho.  If you run out of ammo and theyre by you they dont just hit you once but over and over and kill quickly.  I wonder if this is how it worked in the original ab3d.   I also wonder about how slowly the weapons change.  I wish they changed faster but maybe its a part of the original to change this slow.
+	- On level 7 The Furnace I really like this level.  I'm on attempt #5 or so but every time I get further which to me is the sign of a great game. 
+	- On Level 9 the surface zone I had to try it probably 15 times I got really good at it though.  each battle was a process of learning how to do it in a way taht allowed you to succeed.
+	- Level Training Area I found a secret in some water in a corner down low about half way through.  Barely saw it.  I beat it but it probably took like 15 tries and it was fun.
+	- I've been playing all the way through the levels but I'm oing to look and see how many there are.  IF its just 1-3 more then I'll keep going if not I'll start saving when I get a key.  ok there are 16 and I'm on 11 ... 
+	- Level 12 is a cool spiral where the enemies can come out from anywhere.  its called the pit and was good but there wasn't enough ammo for me.  I ended up barely making out certainly not with enough to kill all of the enemies at teh end (not just gun ammo but more powerful)
+	- Level 13 Strata didnt take too many tries and was fun and interesting. on this level I didnt have to actually beat all of the enemies and probably should have skipped more.  Might go play it again to save ammo.  yeah i played it like 3 more times and beat it the last time with full life and loads of fancy ammo took 6min	
+* GZDoom
+	- Interesting mouse centering, if the game is playing (project osiris for example) and you click the menu bar to drag the game it turns on drag mode (on mac at least) and then instantly recneters the mosue in teh window which menas the mouse gets dragged to where the center of the window was when youc lciked which means teh window get smoved there too.  hit escape to enter the menu to avoid this
 * Bleed 11/25/2020 I got this from the racial bundle and its really fun!  2D shooter wiht wasd and then shoot with the mouse and theres slow time and triple jump and cool levels and weapon upgrades and bosses its great!
 * Alien Syndrome 12/2/2020 I got this working in retroarch and its fun and I have good memories of it.  THe parallax on level 2 especially is awesome.  I remember it mostly from c64 actually because it was a game I could make real progress on.  in this arcade version you can continue but ONLY if the secondplayer is alive still and even then theres a hardcore time limit so its really tough.  Still I really like the basic idea here: captured shipmates you are trying to rescue on many different ships and planets and you get weapon upgrades and maps from the wall.  The enemies ai is not too interesting on level 1 and 2 at least they just move back and forth if they are the basic ones and the others chase you from off screen. Then you get a boss after each level.  I got past level 1.
 * Retroarch 12/2/2020 Its so damn clumsy but also so great.  1. fullscreen mode doesnt allow for multitasking at all :(.  mouse barely works and the ways it does are completely unusable paradigms.  scroll thruogh menus like its a big scrollbar?  no mouse wheel?  clicking doesnt work?  you have to nkow where all of the important menus are: input, folders, you have to load cores first is the biggest paradigm difference with almost every other app.  many more stupid quirks.  Works best with arrows enter backspace or gamepads. . once you figure it all out its really amazing.  looking forward to netplay.  had to set the starting directory to the roms folder in settings directories.   Had to download the 2003 mame core.  Had to get roms specificially from the 0.78 mame romset whatever that means.  thats how I got wrestlefest working with Tom.  If you want to use your only joystick to play as player two in your game, all of the menus stop working from that joystick.  Theres no obvius way to set port 2 to use the keyboard.
@@ -1123,6 +1135,7 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 	- Trying to get light gun games to work with the mouse with limited success.  For Hogans alley for example setting it to mouse does technically work but the movement of the mouse is totally off.  Maybe it needs to be fullscreen?  well in OpenEMU it works perfectly with no configuration
 	- Tons of recurring problems with inputs that just dont happen with openemu.  For whatever reason mac killed the bluetooth id of my ps4 controller so now its got two and neither are the same as before.  the game remap files that I had no longer work because they point to the old ps4 controller.  its really broken. 
 	- While playing wonderboy in the samurai castle I was doing fine not great but fine.  I switched to make some notes and when I switched back my attack button didnt work anymore :( i got quickly juggled and killed in the 3 seconds it took me to figure out what was going on.  Keyboard stopped working to control the menus too.  had to abandon my run.  That soured me prettty bad,  update: right after I wrote that I switched back adn everything worked again.  doesnt inspire confidence or Trust..  switched back again and it doestnt work.  update: now its worse.  now I cante ven press f1 to activate the menu and it deactivated on its own.  also I checked and there are no external devices around here being pressed.  also maybe it has to do with teh app its switching TO and from.  That may be it.  I had a quickview window up in finder.  closed it and it started working again.   It might have to do with switching to this app. If I get back into the game and it auto switches out of the f1 menu or even out of the pause menu.  if it happens I can switch to finder adn then to retroarch and back 3 times and it seems to be fixed. how to know if its fixed?  if the cursor keys work in the f1 menu (also if the f1 menu doesnt work same problem). 
+	- Dual Shock problem.  Playing on hardcore. While I'm playing i hit pause and get a snack.. coming back my ds4 is off.  Turn it on.  retroarch says its back but it no longer controls the game.  Do i have to set all controls to keyboard only an duse an external mapper?  Will that weven work?
 * OmegaRace 12/2/2020 I got the last high score but I think I could get even more with a bit of practice.  I did it I got hte top all time score!  it does save high scores which i think is bad ass
 * Guildmaster: Gratuitous Subtitle
 	- Review: Wow this is a great fun fantasy strategy game with a distinct and super entertaining sense of humor.  I just beat it and had fun from start to finish.  If it had been strictly a strategy game it would still be great but the developer hired a brilliant youtube comedian to write the dialogue and it shines and makes every intermission between levels (where most of the dialogue is located) a pleasure.  The progression is cool being based on a few statistics and the equipping of gear in your party and one of the coolest quality of life features is the awesome 'auto-equip' function which completely smooths over the process while still allowing for customization and allows the main focus to remain on the combat and the entertaining dialogue. The quirky hilarious dialogue is primarily presented in the form of conversations between the guildmaster and their guild between quests.  After every quest you will see that some of your guild members have something to say and when you talk to them about the previous mission they have a hilarious conversation of some sort every time.  The creativity of the humor and story doesn't wane as the game progresses the dialogue maintains solid high quality entertainment all the way through (even through the ending).   I love how as I progress the guild is starting to fill out with people.  I love seeing more and more people in my home base.  Reminds me of suikoden which I loved.   The developer is a cool and approachable person and he is active on twitch (where he streams twice a week), youtube (where he has been making videos for about 10yrs), and twitter as @jimplaysgames and on his own website at jimmakesgames.com.  
@@ -1185,6 +1198,110 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 	- The potion should always refill all life.  When it only refills 2 it really stinks and causes problems. 
 	- A few days later Dec 14 after maybe 15 runs on the samurai dragon I beat him without getting hit.  It was an amazing accomplishment and I'm really proud.  I was previosuly stocking up on potions and stuff before makign teh run but I had gotten good enough that most of hte time I could get through teh cave and castle on one life and since there was a secret at teh end and since i had to make it without gettin ghit it didnt materr how much life I had by the end of the castle as long as I was alive.  I did it!  I onlyhad one boomerang too (the castle is easier with a stockpile of two) otoh I was finding strategies to get through teh castle without getting hit much and in 2 rooms without even fighting anyone  there were only a few rooms taht were still tricky
 	- Its Dec 15 and I think I badged it!  I'm about to go check but the final one was ot figure out how to switch to human.  To do that I got the tasmanian sword, held down the v key and jumped and slashed at the top of teh jump and when I landed it switched and I cycled all the way through to human.  I entered the code that was in themanual to get to this position where I could do this.   (which I had assigned to be button 2. I actually had all 4 buttons for p1 assigned to aszx in the shape of the xbox controller buttons and all 4 buttons for p2 assigned to dfcv in the shape and then it automapped button 2 to v aka the A button on the right)
+* Knight n Grail - (12/31/2020)
+	- this game is so cool.  I first learned about this game a year ago from pacbillys video about it and wanted to play it then, but then a few weeks ago I saw someone elses video about it and didtn remember pacbillys video.  pbs was the first 2064 video so I had watched it several times.  I bought the game today for just $5 and got it working in vice with up to jump on my ds4.  
+	- Update: Sound problems are a mac problem somehow.  Sound wasnt working at first but when I reloaded a snapshot it worked, but was scratchy and the second time worked great.   Update: switching away from the vice window and back I lose sound.  Update: going into the vice menu and back out a few times seems to reset it sometimes, but it still gets scratchy and then fades to nothing every few minutes.  If theres no sound changing the frequency seems to reset it.  save load quickstate is the most reliable way to fix it.  Update: Im almost done with the game and this has been a constant problem.  I just realized that the sound with the crackling and all is the same problem I had with Project Osiris getting otu of the water in the GZDoom engine.  This means it certainly wasn't a problem specific to gzdoom.  rumor had it that it was a thing to do with the hertz of the output in the computer.  
+	- I like the floppy disc sounds but I had to set them to 8% volume
+	- The combat is super satisfying.  Wow an automap and equip screen when you press space???
+	- I noticed that it seems like you can program both joysticks to the same device and keys.  That could be fun for gauntlet!  
+	- It seems to expect the joystick to be in port 2.  Every time i start vice I have to do all of the joystick stuff again.  Probably a result of my ps4 wireless.  When the ps4 controller shut off it seemed to crash vice actually.  
+	- Everytime I start I have to load the disk, setup the controller, map all of the buttons, settings dont seem to save unfortunately, then I can load my save state..
+	- I've been saving when I shoot an orb and quicksaving when I get to a new area.  
+	- Got to Wyvern Caverns!
+	- I figured something out that is obvious in hindsight.  When you're playing and you want to hit the space bar (I havent mapped it) but you can hit it with the bottom of your joystick or your knuckle. Its like a two hand motion instead of a button press.  I always imagined putting the joystick down or holding it with just one hand in order to do that.  
+	- I beat the wyvern boss!  I thought it was cool that you had to have the earth armor or you couldn't really beat him.  OTOH I have the water armor and still got hit by the wyverns blue shots and that seems weird.   Got a double jump!  KnG3.sav  After that boss if you go the right way (and possibly before that boss) you get to a rune stone the rune of rebirth where you can save to the disk!
+	- I like all of the little clues they give when you push down in front of the glowing stones.  They are like ... poems
+	- just spent 30 minutes getting 'enjoyable' the controller mapping software for mac working to remap a ps4 controller button to my keyboard space bar!  It seemed to be working but then just never did shit.  looking in lots of forums where lots of people think its just totally broken, i found that you have to just delete it from accessibility and input monitoring in system prefs security tab and then re-add it and then un check and recheck it and then after like a minute or two of changed commands it started working.  now it works great to press space bar for the menu which is super convenient.  
+	- To get input working way better i setup a joystick keyset in c64 emulator and then set left and right in enjoyable to left and right on the keyboard and then up and down in enjoyable to nothing on the keyboard and a few buttons to up and down for jump and activating the stones and floating  and fire in enjoyable to fire on the keyboard and then you know what else ... even after all that the c64 emulator ViCE was still opening the menu with the fire button overriding what i set in enjoyable so i had to remap that to fire in the joystick buttons ettings even though it should have been using the keyset and not the joystick mappings.  anyway now it works and feels like a super solid console game!  Update: VICE seems to automatically use the PS4 hat switches for menu commands so when I used enjoyable to map the hat switches to the arrow keys then it was taking joystick input PLUS cursor inputs.  Instead I made the game use the numeric keypad keys so enjoyable only maps to those now.  Now the only problem is that the x button ALWAYS brings up the menu.  if you save your joystick settings which is below the screen on the settings page, you can look at them and then change them.  whats cool about this is you can even set any joystick button to activate anything in the menu!  you just have to figure out the path to that menu item and there aren't any examples of that.  I believe I will be able to remove the offending lines, but when these are loaded they are loaded as 'patches' to the existing settings.  I want to clear them all ... hmm ... nope it didn't work to merely remove them.  Ok I couldnt really figure it out so i reset to defaults and then loaded my specific settings and joystick setttgsin.  i dont know where the default joystick settings are kept or i probably could have solved it.
+	- Learned a lot about settings and joysticks and keyboards tonight.
+	- I'm just trying to find out how to open the big door it says I need the golden sword.  So I'm just going to walk every corner of the castle and shoot every wall and I've found like 3 secrets so far.  I dont know how to get a trasure chest that is high up not too far to the left of the big spiky door..   I found a secret at the bottom to the right with a big spike pit and I dont know how to get over it.   When I got up to the top left I remembered this weird circle that said "bring all swords to me and Ill give you something for free" and if I had taken a note about that earlier I would have known right where to go.  That gave me the golden sword!  I found it!  As it turns out it was pretty close to the teleporter and if I had just gone that way and looked around I probably would have found it.   
+	- Ok!  I got the bad ending!  Before I did I got a map which revealed the whole map and there is a chunk more that I never got to.  	
+	- controls double jump worsk, but theres a slight occasioanl hitch, meaning probably ever 10-20 times it just doesnt double jump when Im counting on it.  Thats after remapping my controls so I cant push up or down.  
+	- Progress: Now I have found three places where I need a higher jump but I got something called like eagle flight or something but apparently that has to do with seeing secrets.  
+	- omG i baet it with the good ending its so cute and its aweseome that the music is different and catchy and up beat in this ending!   i actually ahd everything but didnt end it right once and had to do the whole ending part again!
+* Super Mario Bros Cart (1/1/2021)
+	- Wow this is so cool.  What I would have given for this game on C64 back in the day on a cartridge not just a disk.  wow ... it plays near perfect, some slowdown.  Totally tiny differences in controls and screen pixel size.  its really great
+	- Surprised that holding up and pressing the fire button continues the game where you left off like holding a and pressing start on NES
+	- The run jumping like off of little platforms isnt perfect compared to the NES game but thats a nit.  
+	- It jsut feels like sometimes when i push the jump button it just doesnt.  Input polling slowdown perhaps?  Gauntlet was slow on the trigger but didnt have slowdown
+	- For good reason I'm sure, the enemies dont come from the side of the screen.  like on 8-1 in the middle there are 3 koopas in a row and you're running and not expecting them to be there but then one or two tiles in from teh right they finally show up too late to respond. 
+	- wow vice has netplay!!!
+* Gauntlet C64
+	- background.  One of the first games my parents ever bought specifically for me.  I was so enamored of this game every time i saw it in the arcade so when i figured out somehow that i could get it for my c64 i was so excited.  i remember sitting in the back of my parents station wagon opening the box on the way home and reading the manual.  i got it home and threw it in and enjoyed it but i really didnt play it that much.   i remember a feeling of disappointment and fear about it and now i think i know why.  I played it a few times and died and went back to the beginning fo teh game and the first time that happened it broke my damn 9 year old heart.  All of my progress lost?  i have to do something i cant do just to be able to explore the depths of this dungeon?  i should be able to beat this game but i'm not even good enough to survive for a few leevels.  i expected that you could put in more quarters to continue and my heart was broken by that too. i didnt understand the pattern of playing to practice and drawing maps and taking it seriously and figureing otu strategies i didnt think thats how games worked.  i nievely thought games were about exploration and having fun and taht i would be able to make significant progress and yeah if i died i would try a few more times until i beat it!  i was excited to explore the depths of that dungeon and i got way into the fantasy of it.  i didnt know the pattern of expecting to die and trying again and getting slowly better as the weeks go by.    most importantly i didn't understand that playing with the second player would give me effectively unlimited lives.  Also frankly I dont even know if we had two joysticks (yeah we did atari style). also I wanted people to play with me but I basically never did.  Did I ask anyone?  I have no idea.  Did anyone ask me?  no.  I didnt know that one player can tank and in this game the enemies target the first person they see more than the other player even when the other player gets closer. 
+	- this is fun.  The shooting doesnt seem to be responding every time.  the loading takes for freaking ever.  the crack allows for unlimited life and level skip walls.  i remember if you stand there long enough teh walls change for you.  i dont like how unresponsive the shooting is but the movement is really quick and snappy and preciee i like that.  And the enemies look awesome i think the artists did a great job downscaling and recoloring the sprites especially the ghosts. iin hte cracktro theres a full manual and even a cool story by someone who played this for two months every monday with his local friends who traded disks in the 80s.   i think it even talked about instructions like about each of the mechanisms and enemies and characters and how to play it even has tips.  Because of the shooting slowness this isn't instantly that fun even though i want it to be.  
+	- had to use the tilde key to continue from the cracktro it said to press the arrow but i remember that maybe it was up there.
+	- When you die you start over at level 1 :(  at least theres no long loading.  BUT if before you die you push start on the 2player controller you can continue as that player.  Is there a hidden credits counter behind the scenes?  I dont know but this is still much better than just one life.  So as long as you keep an eye on your life you can beat the freaking game!  That makes it fair and like the arcade! (as long as theres no hidden credits counter which would be super shitty).  I fired it up again and am enjoying myself much more now.  
+	- it appears that I dont have control over both players  even if I set both joysticks to keyset 2.  thats annoying.   BuT I can dual stick control both players with the triggers for fire and thats super fun!
+	- What happens if one player goes down the exit and the remddaining one dies???  Answer: You go to the next level!!!  what happens to p1 keys when p1 dies?  does p2 get them?  Looks like no not att all.  My elf had 5 keys and when he died one key popped out.  maybe thats just to throw a bone?  
+	- I'm having so much fun!  I'm elf and warrior and am on level 8!  Now I'm on 10 and shots stun the other players.  Is that true for the rest of the game?  Wow the stun lasts forever!  10-15s??? maybe you have to shake or shoot it off?  Nope level 11 doesnt stun!
+	- I always thought the lobbers were weird.  I didnt know the word lob so it reminded me of log which didnt make sense. and also they look like little worms with snake arms so I didnt know wth they were except for the illustrations and descriptions in the manual.  
+	- I do remember feeling pretty good about some of the strategies I used like being scared of death and running and trapping him somewhere occasionally.  Now I can do that without much trouble.  Its fun manipulating the ai.  
+	- Lots of slowdown on level 11 and 12 13 is back up to full speed
+	- lvl 16 crashed but it was different level the next time!  It has crashed ttwice now and boy thtat woudl have been a problem back in the day. not only the reloading time but you couldnt save at all back then so I would have to startt from the beginning :(  The treasure room the players move SO FAST.  No slowdown at all with just treasures. Interesting I cant be sure but it seems to crash after the treasure rooms.  Certainly did on the one around 30.  Twice in a row actually.  Three times.  But now i'm on 34 and saving every level in case it crashes. THe crash is usually: Level end go black -> disk activity -> activity stops but screen stays black (excep tfor names at bottom).  Its crashing repeatedly after level 62 or so.   Got past it when I killed one character.  DOnt know if that was related.  Near the end of the game its crashing between every 2-5 levels.  sometimes several times in a row.
+	- I think its cool that in the arcade if you just sit there for a minute the walls turn to exits.  This assures you wont get stuck somewhere.  I'm glad this made it to the home version too.
+	- I'm having success with making my elf my main character and my warrior into a tank.  
+	- I remember learning that you could somewhat trap death in mazes and that you could somewhat influence the teleporters for you to squash him!
+	- i think the treasure rooms timer moves way too fast
+	- Another strat is to put p1 at one end of the room and p2 at near the other end, then move p1 1 square towards p2 and then have p2 move one square further basically slowly increasing the fog of war.  p2 might have to backc up first to make it scroll
+	- its scary how fast death moves when there are no other enemies on the screen
+	- A strategically placed key from one of your party's deaths can be a great blocker of enemies.  An interesting side effect of this is one time one of my characters died in a hallway and the other one had full keys.  There were no doors.  Would have had to wait for the exit walls then..
+	- Sometimes in like the 50s levels a single encounter with a swarm can cost 300-500 health!
+	- the game is programmed pretty well because i'm on 62 or so and there are tons of enemies and the slowdown is the worst Ive seen, and while it does affect the players speed and shot speed, it doesn't affect that nearly as much as the enemies movement and attack which is correct.  The enemies movement and attack should absolutely be slower than the players if something has to give and I find it hard to believe that it is unintentional.
+	- Found a weird problem: I accidentally typed something not realizing i was in the game window.  it involved the m key for map and then I hit enter so it mapped 'autostart image' to whatever key I typed next.  The next key I typed was pressing the joystick left and then it was burned.  I cant un-do this.  I accidentally did it with the other direction too.  those keys were burned then (wasdf) so I changed the keyset to tfghj instead and now it works (as long as i dont accidentally do it a few more times).  the real problem here is I have no idea how to actually unmap that.  I could do it by resetting ALL of my settings to default and i will if I need to but theres got to be a better way and ideally while your game is still running
+	- I found out there is a 1 pixel difference bettween poison cider and regular cider.  poison has a rounded handle regular has a sharp handle (its only one pixel so its hard to tell)
+	- Another cool strat is if you find a invisibility one player distracts the bad boys and the other comes in aroudn the side and kills them all from behind. 
+	- another strat is when you are overwhelmed pull your second player back to a distance to off screen as many enemies as possible.
+	- I thought i would pop open the monitor and see what it was like!  well it was no information at all but f12 didnt work anymore (VICE keyboard menu is f12) so i typed quit and the whole thing crashed!!!  good thing I was done!
+	- Beat it!  I read that the game goes on infinitely but there are 125 unique levels so I played to 126 and stopped. Ive got lots of saves.  This was great fun and I feel fulfilled.  I would have had to start over probably 25 times if I had been on real hardware which would have been endlessly frustrating.  I say that fully acknowledging that if it were running on real hardware theres a decent chance it woudlnt be crashing (the crashing could be related to the emulation - perhaps the model of C64 I've been using).  there hasn't been any reliable crashing.  still Idid it!  I'm proud and fulfilled!!!
+* Idris Alpha C64 (1/3/2021)
+	- Jeff Minter game!  I cant get it running.  Fire doesnt do anything.  Maybe pal/ntsc problem?
+	- the disk version just doesn't seem to accept joystick start input.  it gets to the main menu ok though.  I played it a bit a few years back and didnt love it so I think I 'll give up.  Wait there might be a tape?
+	- one interesting thing it blanks the s whenever a key is pressed thats really a bad ass way to respond to input.  
+	- I tried the tape and am giving up.  	
+
+* Simpsons Arcade C64 (1/4/2021)
+	- I used the exact same input settings as for gauntlet with my ps4 controller (basically: set tfghj to p1 and okl;' to p2 and then use Enjoyable to send those keypresses from the sticks and trigger button) 
+	- I'm concerned about the continue structure but the crack has unlimited lives option.  if its not unlimited continues built in then thats just bs.  	- If I autoload it loads INSTANTLY even though its on a disk!  I didnt know that and I wonder if it would work with other games too?
+	- Its super playable!  Ive only fought a few guys but at least as 8 bit games go the fundamental fighting is good and playable and fun!  PLUS I'm playing 2p at once marge and lisa and its fun!  
+	- The intro and cutscenes are pretty damn incredible honestly.    The bosses are big.  The balloon boss is so big and looks so great!
+	- the in game graphics are totally serviceable. the characters are about as clear as they could be expected to be and although theyre not perfect they're good representations like marge's face doesn't look GOOD per se and her eyes are kind of messed up but the animation of her hair is great!  her vaccuum isn't big enough graphically imho but it works just fine.  
+	- The control scheme they came up with is workable enough for one button.  Jump by holding the button down.  Whats interesting is how much more dynamic games could have been for amiga and c64 with standard 2 button support.  holding the button to jump makes it so you cant reasonably be expected to use fast paced dynamic action and it means it cant be attacked just like the arcade game.  So you can't like practice the arcade game by playing this, but you can enjoy a simpsons game with the same story and set pieces and with different but fun fighting mechanics.  Its not responsive enough to expect repeated precise split second actions compared to beat em ups on other systems.  It seems pretty forgiving for me playing with unlimited lives, but if there were limited lives and continues, and this control sloppiness and imprecision thats pretty silly and doesnt let you go into the game just beating people up and kicking ass.  
+	- The sound is kind of terrible but maybe a good job of copying the song from the arcade but its grating. ALso just like with Knight n grail it is turning off a lot.  OH!  Maybe that means its also being distorted by the same problem?  Maybe its not as bad as it sounded to me.
+	-  I seem to be doing best by standing both players in the same place and spamming attack and then moving.  
+	- If you are on top of screen and press left or right thats fine but if you are using a joystick (which people would have been in 1993) and if it registers up and right it will get stuck on hte wall it doesnt slide . kind of a minor thing but clumsy and means when I'm playing both characters and lose attention for a sec they get stuck on the wall and dont move and get hit.
+	- attention to detail: in moes tavern theres a coin op simpsons game.  It only has pictures of the players who are playing rn.  on the outdoor level theres an animated waterfall!
+	- On the dreamland level the enemies which are in the air are really annoying with this control scheme and too hard to hit with precision.  Throughout its hard to kknow when you are hit or when they get hit.  its all sloppy and thats ok as long as they dont make it so hard as to expect precision which the air enemies and some bosses are.
+	- This game didnt crash once.  If I had bought this and given it a chance by not comparing it too harshly to the arcade, and if it had unlimited continues I would have enjoyed myself and it would have been worth the money!
+	- The third burns boss phase isnt fair.  Is there a way to beat it without dying over and over?  I have my doubts
+	- VICE Seems to save the keysets in the actual settings themselves.  
+	- When you beat the game or die and get a high score it does save those to disk and they are saved for next time even after a reset.
+	- Update: I just tested it without the cheat and you get 4 or 5 lives and then its game over. no continues at fucking all.  Facepalm
+* Adventures of Batman and Robin Batvantage Rom Hack 1/5/2021
+	- wow what a game!  I watched Pugman and Chippants play this on PugmanPlays on youtube and it was so cool, but so terribly frustrating I found out there is a rom hack that fixes the game by giving the players max weapon power and it sure does!  its still challenging when it gets to teh swamp level which is where i used my first continue.  All of the bosses were easy and on the shooting level I even gained a few lives because it was so fun and easy.  All of it is fun.  it would be no fun at all with underpowered weapons.  the devs really messed that part up imho.. 
+	- https://www.youtube.com/watch?v=F7_EufEtknI
+	- Wow I beat it today 1/6/2021 it was fun!  I think I could beat the whole game on 2 continues with a bit of practice.  The mushroom swamp level was by far the hardest.  Only the final boss took more than 1 life.  
+* DocXMaS c64  1/5/2021
+	- Damn this is cool but its broken by having only 5 lives.  thats a really confusing design decision.  It restarts you in teh room like modern games but doesnt give you unlimited lives
+* Blockheads c64 1/5/2021
+	- This is a great / terrible super difficult platforming game where I cant even beat level 1 ... i could but its super hard and not fun
+* luna a witch em up c64 1/5/2021
+	- I like it but ... one life???
+* RainbowEdgeRun C64 1/5/2021	
+	- Its really fun and addictive, but its one life so not that compelling
+* Santron c64 1/5/2021
+	- Really fun!  Satisfying to play.  Pacbilly kicked ass at this.  Its only got 3 lives tho so the playability is super limited :( sad imho.  it could have been great.  same with many of these c64 games.  I really like figuring out the patterns and getting better but without SOME checkpoints I feel like its a waste putting my time inot this ... hmm I could use save states ...hmm ...
+	- A funny quirk of using enjoyable with this ds4 controller: if you set the analog button on the bak to low and hi of the same letter then it never goes low.  If you want to hold down akey constantly then thats a way to do it..  its got  alow and hi setting I wonder if I can set the hi setting to turn it off and the low to turn it on.  I noticed if you set r1 and r2 low and hi to the same key then you can turn it on with the analog and off with the digital
+	- I got to level 2 pretty easily.  I really like this game.
+* Gauntlet Tengen NES 1/10/2021
+	- This is fun. its clumsier than hte c64 in some ways the graphics are less ... i dont know. but it usually moves faster and its fun.  Apparently there is an actual end at 100 and eacch treasure room acctually if you escape you get hta much life back up to 980 atm theres an achcievement at level 10 and I am on that level now so I should be able to get it.  it actually seems do able ..then agin apparently the last 25 levels are brutal and a game in and of themselves.  then again tehre is apparently a password system?  maybe when you pause?	
+	- level 10 800 life 555-218-8L8	
+	- level 11 666-w66-663
+	- The retroachievements were not enabled. If you turn them off and then on even if your password is wrong they will say they are enabled.  
+	- The treasure rooms are way more fair.  its not too hard to find the exit in these
+	- I hate the bouncy axe and hope that it goes away immediately because it means that I am defenceless for a long time while its bouncing around doing nothing.  ive lost a ton of life to having that "weapon powerup"
+	- I'm on level 10  - got it!  I beat level 10 with like 80 life to go i got 100 more power right before the end of the level.  holy crap 5s into level 11 I'm dead!!! 
+	
+	
 	
 # Top notable purchases #
 (in no particular order)
@@ -1203,6 +1320,15 @@ From the past
 
 
 # With Cristi #
+
+* Strange Brigade (Like indiana jones or uncharted but co op and with a narrator)
+* Vermintide 2
+* A way out (Unique cinematic co op omly puzzle solving experience with connect 4)
+* Darksiders Genesis (well written)
+* Battleblock Theater (Pugman would love this)
+* Sniper Elite 4
+* Killing Floor
+* Risk of Rain 2 
 * Biped (two player puzzle game where you have to work together)
 * Temtem
 * Portal 2
@@ -1752,7 +1878,7 @@ On my mind atm 7/27/2020 later 10/18/2020
 4. -------Play if you want Ive done a lot with these before------------
 3. VVVVVV (Own), 7. Hyper Sentinel (Own), 14. Goat Simulator (own), 10. Horizon Chase (Own on PC but it plays perfect on here), 8. Space Miner (own) (Note: even though I purchased this in the past, and even though gameclub registers that I have a controller, and even though it restores my purchases and unlocks the full version without a sub, the controller doesnt work), 
 4. -------Less Longevity Below - still fun------------
-18. Death Worm Free (Own), 9. Crossy Road (Own), 7. Alto‚Äôs Adventure (Own), 6. Slayin (Own), 10. Silverfish DX (own) Bought for $4 - not really worth it.  Great arcade game somewhat like Geom wars (without the shooting).  but with just the one game mode its just too shallow, 9. Super Crate Box (own)
+18. Death Worm Free (Own), 9. Crossy Road (Own), 7. Alto’s Adventure (Own), 6. Slayin (Own), 10. Silverfish DX (own) Bought for $4 - not really worth it.  Great arcade game somewhat like Geom wars (without the shooting).  but with just the one game mode its just too shallow, 9. Super Crate Box (own)
 
 
 
@@ -1786,7 +1912,7 @@ So Minigore or super crate box controller support costs ... $5/month?  Holy shit
 
 
 Investigate:
-"Here are the ones I‚Äôm playing or played in the past and enjoyed: Playdead‚Äôs Inside, , Grimvalor, Dandara, The Witness, , Pascal‚Äôs Wager, Evoland, Evoland 2, , , Leo‚Äôs Fortune, Thumper, Don‚Äôt Starve, Oceanhorn, , , , The Silent Age, Kingdom: New Lands, Graveyard Keeper, Lovecraft‚Äôs Untold Stories, , Super Fancy Pants Adventure, LifeAfter.
+"Here are the ones I’m playing or played in the past and enjoyed: Playdead’s Inside, , Grimvalor, Dandara, The Witness, , Pascal’s Wager, Evoland, Evoland 2, , , Leo’s Fortune, Thumper, Don’t Starve, Oceanhorn, , , , The Silent Age, Kingdom: New Lands, Graveyard Keeper, Lovecraft’s Untold Stories, , Super Fancy Pants Adventure, LifeAfter.
 https://mfigames.com/games/console-remake/""
 
 * [Some VR iphone games with mfi](https://mfigames.com/games/vr/)
@@ -1844,7 +1970,7 @@ SeriousSam4 Co-Op (Especially with Cristi)
 Crisis zone or whatever
 3DSEN NES VR Games (Ivan IronmanStewarts Off Road)
 Burnout Paradise with Steering Wheel
-OwnInHumbleBundle: ‚ÄúOxenfree takes the best parts of supernatural 1980‚Äôs teenage horror films and combines it with believable characters, beautiful set pieces, and a haunting VHS synth-pop soundtrack to create a masterpiece.‚Äù
+OwnInHumbleBundle: “Oxenfree takes the best parts of supernatural 1980’s teenage horror films and combines it with believable characters, beautiful set pieces, and a haunting VHS synth-pop soundtrack to create a masterpiece.”
 SuperfrogHDHB
 Nightmare on Itch looks amazing!!!
 
@@ -1989,7 +2115,7 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 - Retro:
 	- ForFun:
 		- GalsPanic, HogansAlley, 
-	- Retroachievements: SmashTV NES, RockNRollRacing, Mario1, Mario2, Amagon, WonderBoy3:TheDragonsTrap
+	- Retroachievements: SmashTV NES, RockNRollRacing, Mario1, Mario2, Amagon, WonderBoy3:TheDragonsTrap, TenGen Gauntlet NES, 
 	- 3DSen - Practice my retroachievements in this
 	- Amiga: CannonFodder, TheKillingGameShow, Turrican, Superfrog
 	- MultiplayerWithTom: SmashTV(NES,SNES,Arc), Gauntlet(NES,Gen,Arc), TMNT2

@@ -126,10 +126,22 @@ actually you need a way to open a new finder window in the same folder instantly
 	- Word wrap doesn't automatically respond to window width . nvm its a super obvious option that I missed but I missed because its only an option .
 	- Slight concern that an evaluation feature which I care for will disappear in 30 days.  Textmate is totally free with all of those features.
 	- Script editor is kindof a mess if thats the macro features.
-	
-	
-	
-	
-	
 
+	
+	
+# Making .commands #
+ Start it with #!/bin/zsh
+ then `` # name of this mod without spaces for save file
+name=CK_SpaceHunter_V1.1
+# location of the folder this is running from
+here=${0%/*}
+
+${here}/GZDoom.app/Contents/MacOS/gzdoom -iwad DOOM.wad  -file ${here}/DTWID.wad ${here}/${name}.pk3 -saveDir ${here}/Saves/${name} ``
+
+# Enjoyable #
+This software is GREAT.  Program your game to read from the keybaord and then your controller to write to the ekyboard 
+
+just spent 30 minutes getting 'enjoyable' the controller mapping software for mac working to remap a ps4 controller button to my keyboard space bar!  It seemed to be working but then just never did shit.  looking in lots of forums where lots of people think its just totally broken, i found that you have to just delete it from accessibility and input monitoring in system prefs security tab and then re-add it and then un check and recheck it and then after like a minute or two of changed commands it started working.  now it works great to press space bar for the menu which is super convenient.  
+
+Much more about this software in the Games note esp wrt C64 games but just search for enjoyable
 

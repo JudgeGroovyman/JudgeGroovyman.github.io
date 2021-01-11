@@ -62,7 +62,11 @@ Listen while charging?
 
 
 
-
+# Cars #
+1. Simple: Autotrader has free carfax
+2. Medium: Subscribe to consumer reports for $10 for one month while you are shopping so you can find out statistical reliability
+3. Advanced: To be thorough get an independent inspection done.  either take it somewhere on a test drive or dfw has mobile mechanics that will go to your car and inspect it before you buy.  Expect to pay $150-200
+4. Super Advanced: Warranty companies are shoppable too because some never pay out and some pay out no problem.  comparison shop those too.  In my experience dealership warranties for older used vehicles are not worth it.  exception: 30-90 day may be worth it in case of major problems that no one knew about.
 
 
 
