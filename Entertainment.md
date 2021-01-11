@@ -181,6 +181,12 @@ Cool Movies you might not know about:
 3. Mr. Right (hilarious hitman movie)
 4. The Accountant (cool hitman movie about autism)
 
+Inbox:
+
+1. Onyx Equinox
+2. Attack on Titan
+
+
 
 ## Star Trek: Enterprise ##
 * 2x7 The Seventh: at 15min they have a funny lunch where acting captain Trip is trying to eat but is repeatedly interrupted with critical decisions to make and its actually a great example of what leadership is like.

@@ -2099,13 +2099,13 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
  VR
 - Stereoscopic Gamecube:
 	- BeyondGoodandEvil, TheHobbit, LordOfTheRings, 
-	
+
 - StereoscopicWii:
 	- Klonoa, DeadSpaceExtraction, SinandPunishment:StarSuccessor, Transformers:CybertronAdventures, GhostSquad,
 	- GunbladeNY&LAMachineGuns
 
 - StereoscopicPC:
-	- Mario3DLand, Kirby, NewSup2, DonkeyKongFrozen, VVVVVV, Starfox 64, 
+	- Mario3DLand, Kirby, NewSup2, DonkeyKongFrozen, Starfox 64, 
 	- ForFun: SpaceHarrier3D, OutRun3D, SonicTheHedgehog3D
 
 - Actual 3DS:
@@ -2130,8 +2130,8 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 
 
 - VR:
-	- StarWarsSquadrons, CrisisVRGade, BattleZoneVR, DoomVROsiris, VaderImmortal(buy)
-	- Try: TroverSavesTheUniverseVR, Quake1VR, NoOneLivesForever2, 
+	- StarWarsSquadrons, CrisisVRGade, BattleZoneVR, DoomVROsiris, VaderImmortal(buy), 
+	- Try: TroverSavesTheUniverseVR, Quake1VR, NoOneLivesForever2, NecroMutex
 	- TryShooter: 
 	- Exercise: ViveportSpaceChannel5VR, KnockoutLeague, BeatSaber,  
 
@@ -2144,18 +2144,23 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 
 - Racing:
 	- Wheel: BurnoutParadise
+	- Controller: Need for Speed Most Wanted
+	- VR: GRiD, 
+	- VR Again: Trackmania
+	- VR Finish: Redout
+	- VR Dont Own: BallisticNG
 
 
 - PC: 
-	- Nightmare(Itch), Terminator2019, , Psychonauts, HeavyMetalMachines
+	- MiddleEarth:ShadowOfWar, Psychonauts,
 	- Stories: BearWithMe, OxenfreeHB, SuperfrogHDHB, 
 	- 2D: SeriousSamDDXXL, SeriousSamTormental, SeriousSamsBogusDetour, TeslaVsLovecraft
 
 
 
 - Mac:
-	- Blood, Guildmaster
-	- Retroachievements: SmashTV NES, RockNRollRacing, Mario1, Mario2, Amagon, WonderBoy3:TheDragonsTrap
+	- Blood
+	- Retroachievements: SmashTV NES, RockNRollRacing, Mario1, Mario2, Amagon, WonderBoy3:TheDragonsTrap, (look at the retroachievements list and pick from there)
 	- Amiga: CannonFodder, TheKillingGameShow, Turrican, Superfrog
 
 
@@ -2166,10 +2171,10 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 	- Finish: MasterSpy, AgeOfBarbarian, 
 
 	- VRActiveShooter: CrisisVRGade, BlastersOfTheUniverse, InDeath, Compound, ShootingGamesinRecRoom, 
-	- VRFinish: Windlands, Superhot, BlastersOfTheUniverse, DoomVFR(Easy), GalGun2onOculus, SeriousSam2VR, Redout, 
+	- VRFinish: Superhot, BlastersOfTheUniverse, DoomVFR(Easy), GalGun2onOculus, SeriousSam2VR, Redout, 
 		- Good: LoneEcho, Xion, Duo
-	- VRReplay: ViralEX, Rez, Thumper(SuperCasual), RoboRecall, Trackmania, BloodyZombies
-		- Long: HellbladeSenuasSacrifice, 
+	- VRReplay: ViralEX, Rez Infinite, Thumper(SuperCasual), BloodyZombies
+		- Long: RoboRecall, HellbladeSenuasSacrifice, 
 
 
 Non Peak Gaming Experiences 12/5/2020
@@ -2186,9 +2191,10 @@ Games that are a burden unless I'm specifically looking for more peak experience
 	- DontOwnGood:
 	- Fun: LOTRWarintheNorth,
 - Stories: APlagueTale,  AERMemoriesOfOld, LittleNightmares, GirlfriendRescue, Valianthearts, 
-- FPS: Prey, MaxGunner(Itch$10LevelEditor), Vanquish, DoomEternal, FarCryBloodDragon, Destiny2,  TitanFall2Multiplayer, QuakeChampions, Metro2033, TownOfLight, 
-	- Good: ProjectSnowblind, Bioshock1, Bioshock2, BioshockInfinite, BorderlandsEpic, RedFaction, Wolfenstein2: NewColossus, QuakeDarkPlaces,  Borderlands2Epic, Fear2, Doom2016, FNAFVR, HardResetRedux, Bloodstained, Titanfall,
-	- DontOwn:  AmidEvil, Prodeus, Dusk, NoOneLivesForever1(Cheats), 
+- FPS: ProjectSnowblind, Vanquish, DoomEternal, FarCryBloodDragon, Destiny2,  TitanFall2Multiplayer, QuakeChampions, Metro2033, TownOfLight, 
+	- Good: Prey, Bioshock1, Bioshock2, BioshockInfinite, BorderlandsEpic, Wolfenstein2: NewColossus, QuakeDarkPlaces,  Borderlands2Epic, Fear2, Doom2016, FNAFVR, 
+	- Replay: HardResetRedux, Bloodstained, Titanfall, RedFaction, 
+	- DontOwn: MaxGunner(Itch$10LevelEditor), Nightmare(Itch),   AmidEvil, Prodeus, Dusk, NoOneLivesForever1(Cheats), 
 	- DontOwnGood: 
 	- DontOwn: 
 - VRShooters: JetIsland,  SeriousSam3VR, Windlands2, DeadEffect2, ZoneOfTheEnders2VR (Probably so damn cool),  SeriousSamTheLastHope,  ArchangelHellfire, 
@@ -2213,16 +2219,15 @@ Games that are a burden unless I'm specifically looking for more peak experience
 	- DontOwnGood: 
 	- Fun: OrbusVR, NoMansSky(BuildHugeCastle)
 - Racing: 
-	- Try: RoadToRedemption, GripVR
+	- Try: RoadToRedemption, GripVR, HeavyMetalMachines
 	- Wheel: Flatout2,
 	- NFS Most Wanted
 - Retro: WarioWorldGC, NinjaFiveO, Contra, NinjaGaiden, Castlevania, ShinobiIII, Sonic 1 3DS, Bangai-Oh(DualStick with upscale)
 	- Amiga Cytron, Gauntlet 2, Gauntlet 3, Killing Game Show, ThunderStrike, Turrican 3, Turrican 2, Walker, Lotus 2, Skidmarks, Vroom, No Second Prize, Valhalla(withfullwalkthroughs), InfocomGames(withFullWalkthroughs)
-	- Good: ChaosEnginePC, Faxanadu, Chrysalis, PeterJacksonsKingKongGC
+	- Good: ChaosEnginePC, Faxanadu, Chrysalis, PeterJacksonsKingKongGC, SudekiXBOX
 	- DontOwn: SnakeRattleRoll, IvanIronmanStewartsOffRoad, 
 	- DontOwnGood:
-w
-- Finish: DungeonWarfare, 
+- Finish: DungeonWarfare (DONE)
 
 
 Wizards&Warriors, Wizards&Warriors2:Ironsword, DoubleDragonNES, GhostsNGoblins, 
