@@ -147,8 +147,12 @@ Labels of crooked hillary were accepted although there wasnt anything that would
 Made a big deal about clintons emails, but when his kids were denied securityy clearances he granted them anyway.  
 He fired comey because 1. he did it before the investigation, 2. he did it after the investigation, 3. he did it regardless of the investigation, 4. he did it for different reasons dont ask
 Mullers work was 1. a hoax, 2. it was a gold standard for such an investigation, 3. crazy the work of 18 angry democrats out to destroy him
-trump says there was no interference, putin says there was no interference, therefore the cia, fbi, 450 page muller report, and bipartisan committee from republican led senate are all wrong and the republicans and trump who say there was no interference and it was a witch hunt are right.
+Trump says there was no interference, putin says there was no interference, therefore the cia, fbi, 450 page muller report, and bipartisan committee from republican led senate are all wrong and the republicans and trump who say there was no interference and it was a witch hunt are right.
 "First they came for the socialists, and I did not speak out—because I was not a socialist. Then they came for the trade unionists, and I did not speak out— because I was not a trade unionist. Then they came for the Jews, and I did not speak out—because I was not a Jew. Then they came for me—and there was no one left to speak for me."
+They would repeal the bill of rights
+leadership conference on civil and human rights year by year tampering with rights
+"when you approve of these things at the water fountain and gym you apply benediction to the injustice"
+Someone Pardoned Nixon after he resigned :(
 
 
 
