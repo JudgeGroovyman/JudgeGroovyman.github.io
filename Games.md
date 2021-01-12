@@ -1300,7 +1300,13 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 	- The treasure rooms are way more fair.  its not too hard to find the exit in these
 	- I hate the bouncy axe and hope that it goes away immediately because it means that I am defenceless for a long time while its bouncing around doing nothing.  ive lost a ton of life to having that "weapon powerup"
 	- I'm on level 10  - got it!  I beat level 10 with like 80 life to go i got 100 more power right before the end of the level.  holy crap 5s into level 11 I'm dead!!! 
-	
+	- I'm on the spider level with valkyrie on normal mode and ive tried it 5 times and all of a sudden its not fun anymore.  its too hard.  the boss was hard but thsi is even harder.  
+* Heavy Metal Machines PC 1/11/2021
+	- Wow this is cool.  A MOBA which reminds me on paper of rocket league but its like rock n roll racing and really cool.
+	- The weapons are all different and interesting so I had a hard time figuring out how to use them.  
+	- Gamepad support works just fine, but switching between mouse and gamepad is clumsy/buggy.  I bump a key with the cable of my gamepad and all of a sudden mouse takes over and I cant play with gamepad until it decides to recognize it again.  
+	- the weapons are hard to figure out.  Each character has unique weapons and I think to enjoy this I'm going to need to figure out one character that I like that has the weapons I want.  Frankly I want simple missiles, mines, and boost!
+	- in order for me to like this I'm going to have to play it a lot.  Actually since its not a huge game maybe I could get really good at it in time?  maybe I could become one of the best?
 	
 	
 # Top notable purchases #
@@ -2155,7 +2161,8 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 	- MiddleEarth:ShadowOfWar, Psychonauts,
 	- Stories: BearWithMe, OxenfreeHB, SuperfrogHDHB, 
 	- 2D: SeriousSamDDXXL, SeriousSamTormental, SeriousSamsBogusDetour, TeslaVsLovecraft
-
+	- Try:  VRKanojo,
+	- DontOwn: SongsForAHero, 
 
 
 - Mac:
@@ -2166,15 +2173,25 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 
 
 - Background:
-	- Casual: NexMachina, Refunct, SpheresofChaos, RagdollMasters, FloatingPoint, SongsForAHero, CitiesSkylines,
-		- FunDeeper: BadAssBabes, StreetFighter4(np), DeadOrAliveV(np), DeepSpaceWife, VRKanojo, 
+	- Casual: 
 	- Finish: MasterSpy, AgeOfBarbarian, 
-
-	- VRActiveShooter: CrisisVRGade, BlastersOfTheUniverse, InDeath, Compound, ShootingGamesinRecRoom, 
 	- VRFinish: Superhot, BlastersOfTheUniverse, DoomVFR(Easy), GalGun2onOculus, SeriousSam2VR, Redout, 
 		- Good: LoneEcho, Xion, Duo
-	- VRReplay: ViralEX, Rez Infinite, Thumper(SuperCasual), BloodyZombies
-		- Long: RoboRecall, HellbladeSenuasSacrifice, 
+
+
+- Comfort PC:
+	- PC: Gauntlet, NexMachina, Refunct, SpheresofChaos, RagdollMasters, FloatingPoint, HorizonChase, 
+	- PC FunDeeper: BadAssBabes, StreetFighter4(np), DeadOrAliveV(np), DeepSpaceWife, 
+	- PC Bigger: CitiesSkylines
+
+
+- Comfort VR:
+	- VRActiveShooter: CrisisVRGade, BlastersOfTheUniverse, InDeath, Compound, ShootingGamesinRecRoom, 
+	- VRReplay: ViralEX, Rez Infinite, Thumper(SuperCasual), BloodyZombies, RoboRecall
+		- Long: HellbladeSenuasSacrifice, 
+
+
+
 
 
 Non Peak Gaming Experiences 12/5/2020
@@ -2228,10 +2245,18 @@ Games that are a burden unless I'm specifically looking for more peak experience
 	- DontOwn: SnakeRattleRoll, IvanIronmanStewartsOffRoad, 
 	- DontOwnGood:
 - Finish: DungeonWarfare (DONE)
+- Games that hurt my feelings:
+	- Online: HeavyMetalMachines, QuakeChampions, Poker, Street Fighter 4, TitanFall2 Multiplayer, 
+	- 
 
 
 Wizards&Warriors, Wizards&Warriors2:Ironsword, DoubleDragonNES, GhostsNGoblins, 
 
+
+Wake & Break
+"Seaweed Caroline" lost to "Coral Reefer" but only by chance
+"Axe Wound" lost to "Crevice"
+"Frostbite" barely won to "Steep"
 
 
 
