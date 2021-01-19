@@ -784,6 +784,7 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 * Red Faction 2 -  5.1hrs on record in Steam. Short and sweet just how I like it.   Heres the review I posted on Steam in its entirety: "This is a great game and I had a blast playing it in 2019.  To address the mixed reviews I think I understand what is going on here. When you hold this title up against its predecessor there are some things missing from this title which I think warrant some peoples complaints namely: there's not much of the game that is destructible which is sorely missed since it was such a huge aspect of the first game, and its shorter than the first game (it was a perfect length imho but to each his own). Those are valid complaints when you compare it with the first game and I guess I just wish they had named it something other than Red Faction because when you look at the game without comparing it to its predecessor its great! What you get in place of those aspects that are missing is a more exciting action packed game with more interesting NPCs, great voice acting (the great actor Jason Statham voices one of the characters!), excellent vehicle levels to add variety and interesting boss fights. The story had twists and turns which kept it interesting all the way through. This whole game was cinematic. The gunplay is excellent. All of the weapons feel appropriately powerful and make a big impact which makes the basic shooting in the game (which is the core of the gameplay) feel fantastic. Its a joy to play and I had a blast. I played it in 4k with max settings and it looked better than I expected it to tbh." 
 * Red Faction 1 - Well I played about half way through but theres a game breaking bug!  You can't enter the submarine at all.  It falls and crashes because the overhead release is on a frame count timer not a real time timer.  Apparently the open source Red Faction engine can play it and would let me finish.  I think I would like to because it was so good bitd and I had so much fun playing the first few hours.  
 * Gauntlet Slayer Edition 12/18/19 - I beat this today!  I first played it a few months ago and it took me a while to get into but once I figured out the elf and the controls I've been having lots of fun.  I beat it on Easy.  Continue structure is perfect.  You can replay any level and you have to unlock the next levels by beating one of the current levels.  When you die you have to wait a few seconds and then you can respawn in exactly the same location (at least on easy mode) the elf is a dual stick shooter and I had a blast. 
+	- jan 14 2021 - Ive been playing again because its fun and cool and because I played on C64 and NES.  Ive been playing as a valkyrie and shes cool.  I actually think my 8bitdo has a problem though!  its the sf30 pro and whats weird is when I'm trying to move up and left the player moves just slightly slower than in any otehr direction.
 * Hellbound Demo - 12/18/19 - I've played for 53 minutes and in my last game I beat it in 16 minutes (par was <2 but thats ok) and I loved it.  Its the same formula as doom but with updated graphics and shooting that are wonderful and with a really interesting map.  Interesting to me in the perfect way: finding keys finding the best way to come at the enemies to get the drop on them and not have them overwhelm you and unlocking doors to find the exit.  I loved it.  
 * Project Warlock Arctic Attack - 12/18/19 - I liked this ok but I feel like I am supposed to like it more.  I loved the great retro look and feel.  it felt big and scary and intense and interesting, but having just played hellbound I dont know ...I'm not done and plan to play it some more and wouldn't be ashamed to buy the full version.
 * Out Run 3D 3DS - 12/26/19 - This is really good. the controls are great and well mapped and I dont feel cheated by them.  I think I'm doing something wrong though because I am not making any big mistakes and still can't beat the second leg.  I get close every time.  I'll keep trying.  The 3d is fantastic.  I can't tell whether the continue structure is good here because it seems like you can select your leg but I don't see that working unfortunatley so that may just be for fastest times on that leg.  This is really cool.  You can change the settings to make it pretty easy.  Now I can just tap the brakes and beat it in a few minutes with ending A
@@ -998,6 +999,14 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
   - I beat level one without dying!  I never did that before!
   - Beat level 2 but died like 3 times
   - Very hard, its silly that continues dont restore your life.  you can't see enough of the screen to get anywhere without knowing whats coming in advance.  I still love it and wish I had bought it when I was a kid above and beyond most other Amiga games I should have bought this because I knew I would love it.  I think I felt some guilt that I hadn't caught up with all of the Amiga classics (at that point) I really didnt know what other games were out there.
+  - Jan 14 2021
+  - If this had unlimited continues I would so much love this game.  But theres no cheat for that :(  in the guide ni the steam community the author says that this version is superior because the game is saved after every level so you can retry one level at a time.  i mean thats true but its still far too picky.  Theres a HUGE life bar down at the bottom and you get one eighth of it to start?  So weird and unpleasant.  
+  - I'm on the 4th level with no lives lost and full health but only by playing each level like 30 times to try to get through it with full health and no lives lost. 
+  - For some reason when I fire it up today my controller works in the menu with the stick but then in game the keys are mapped to wasd and escape to fire??? how strange! 
+  - whoa selecting leaderboards crashes the game!
+  - ok a guide that I'm seeing says that theres an options menu when its not in fullscreen mode.  I thought there was something like that.  alt enter to switch to from fullscreen.  lets try it yeah it works great.
+  - I activated 360 movement which means its easier to line up my shots which is nice since Im not just moving in 8 dir.
+  - that bastard ai player STOLE my extra life!!!
 * VROOM Galleon VR 4-18-2020
   - Expecting a game? YouÕll be disappointed
   - Expecting a pretty cool VR experience youÕll have fun.
@@ -1307,7 +1316,9 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 	- Gamepad support works just fine, but switching between mouse and gamepad is clumsy/buggy.  I bump a key with the cable of my gamepad and all of a sudden mouse takes over and I cant play with gamepad until it decides to recognize it again.  
 	- the weapons are hard to figure out.  Each character has unique weapons and I think to enjoy this I'm going to need to figure out one character that I like that has the weapons I want.  Frankly I want simple missiles, mines, and boost!
 	- in order for me to like this I'm going to have to play it a lot.  Actually since its not a huge game maybe I could get really good at it in time?  maybe I could become one of the best?
+	- Atm I do not like this but I want to like it SO MUCH.  
 	
+
 	
 # Top notable purchases #
 (in no particular order)
@@ -1352,7 +1363,7 @@ From the past
 * Arizona Sunshine
 * Any other cool Looting game (google for the best ones and see which she likes best)(Skyrim, Monster Hunter, Destiny 2, etc)
 * WoW Retail (so easy to level up - classic is 4-8x slower to make progress)
-
+* Planetside 2
 
 # With Tom #
 
@@ -2299,7 +2310,88 @@ Games that seem or feel like a chore in some or any way but I still have good re
 	- Championship Baseball - I would love to get good enough to take my 1989 cubs to the world series in this specific game
 	- C MLB Power Pros Wii
 - Stereoscopic 3DS: MetroidSamusReturns(15h), 
-	
 
 
+
+
+January 14 2021
+-------------------------------------------------------
+
+WII  Yay WIIIIIIII
+
+--------------------- Some Wii shooter games: 
+Dragon Quest Whatever Mirror
+Cybertron Adventures
+--------------------- Good Possibilities
+Resident Evil Darkside Chronicles
+House of the Dead Overkill
+House of the Dead 2 and 3 Return Wii
+Dino Strike
+Jurassic the Hunted
+Metroid Prime: Trilogy (this could be so immersive and i might finally finish what I started?  maybe there are cheats? YES Gecko Codes!!!)
+Punch Out
+Driver San Francisco
+Zelda games (Gecko Cheat Codes???)
+
+
+
+--------------------- Other Unchecked Possibilities
+Goldeneye 007
+MIB Alien Crisis
+007 quantum
+Call of Duty: Black Ops (Great ratings, epic single player campaign, No Local Co Op)
+Call of Duty 3
+Call of Duty 4: Modern Warfare
+Call of Duty: World at War (2p Local Co Op)
+Call of Duty: Modern Warfare 3
+Medal of Honor Vanguard
+----------------- Possibly Hidden Gems
+Deadly Creatures
+A boy an dhis blob
+Red Steel 1 and 2
+No More Heroes
+MadWorld
+Fragile Dreams
+Dragons Lair Triloy
+Data East Classics
+Monster Stunt Racer
+------ 
+Dawn of Discovery
+The Munchables
+Kid Adventures: Sky Captain
+Wicked Monsters Blast!
+Battleship
+Pitfall: The Big Adventure
+Back to the Future The Game
+Michael Jackson the Experience
+Ready 2 Rumble Revolution
+
+
+Some interesting or meaningful games on Wii for hoarding
+Muramasa Demon Blade
+Mushroom men the Spore Wars
+Pinball hall of fame The Williams Collection
+Pirates Plundarrr
+Medal of Honor Heroes 2
+MLB Power Pros 2008
+Geometry Wars Galaxies
+Klonoa
+Excite Truck
+Excite Bots
+Resident Evil Umbrella Chronicles
+Donkey Kong Country Returns
+
+
+
+
+Friction in games
+Baggage in games
+a word for the intensity due to having to die and restart the game if you lose
+a word for the intensity due to having to die and restart the level  if you lose
+a word for the intensity due to having to retry this event  if you lose
+a word for the intensity due to having to spend kind of a lot more time again if you lose
+A word for the cheapness of having to have died here before to survive
+
+Get Wii Sports
+and Mario Kart
 
