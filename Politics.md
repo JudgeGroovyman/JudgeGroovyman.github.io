@@ -158,7 +158,7 @@ Told on day 1 by obama the number one threat biggest issue is paul manafort
 told from the beginning that the biggest threat to national security was white nationalism
 
 Senate (mcconnell) chose to not hold a hearing to approve secretary of homeland security who is critical for the safety during the peaceful transition of power.  so while there is mass unrest from the hog horde and they are planning attacks the republican senate is intentionally impeding the peaceful transition of power.  at 12:01 bidens cabinet takes over and security from teh hog horde becomes his responsibility but theyve blocked him from having presidential security
-The discgraced defeated impeached white supremacist in chief donald trump
+The discgraced defeated impeached white supremacist in chief donald trump is a living breakthing impeacheable offence.  
 scared to death that we will go back to the time before donald trump when hundreds of thousands of people were crossign the border - wisconsin rep Glenn Grothman
 he used the biggest megaphone in the world to spread outright lies to discredit the fairest election in american history
 if insurrection and attack on the capital is not an impeachable offense I dont know what is.  whatwould have to happen?
@@ -174,8 +174,9 @@ on the sun belached bones of history are written those pathetic words "too late.
 the religion of climate change 
 any president who obstructs the college or attacks judges or the court system where there is no evidence to supports their contentions undermines the publics trust and confidence in teh judicial process.  - butterfield NC
 he took an oath to defend the country againsta ll enemies foreign and domestic, but when he saw this happenning he did nto call the national guard. 
-great speech abou thard work of the real grievances in america mr canon from california - ro khanna
+great speech abou thard work of the real grievances in america mr canon from california - ro khanna #gobackto
 healing requires accoutability
+he said "there are good people on both sides" after a tragedy he did not condemn or denounce.  he called them patriots and said they were special and he loves them but he did not denounce them or condemn them except for when he said to be peaceful and then.   1 week later he broke with his message of anger divisiveness and hatred and delivered a single clear message, with no contrition, and no responsibility taken, and no comment on his clearest messgae that the election was stolen which is the real driving force behind the riots.  6 ddays later he said that everything he did was fine.  The message given not too long after the riot he was hours later saying he didnt believe it.
 if we pursue this then from this day forward impeachment will always be a political process
 where he goes in history you go in history unless today you make a stand
 our oaths are worthless without accoutability - rep from hawaii
@@ -187,18 +188,39 @@ If we were on the eve of a rep pres and his dem pred said thes ame thing and inc
 "If you cankeep it. and the way we keep it is by saying no to actions and words that do not promote the keeping of that republic"
 peaceful transition? Tthere has not been a peaceful transition, youre not living in the same country i am
 more members of the presidents own party voting to impeach him than clinton or andrew johnson
-republicans complained of there not being process, no witnesses, but just last year when its complicated they saw no witnesses and said the process should be streamlined
+republicans complained of there not being process, no witnesses, but just last year when its complicated they saw no witnesses and said the process should be streamlined.  also when republicans want things streamlined for their own purposes they will do so regardless of all proces including the claims of their own lips mcconnell and graham from 2016 about the supreme court. 
+* until theres a full acknowledgement taht the election wasnt stole we shoudl remain concerned about violence from the right
+z its not just about violence generally but an attack on american democracy.  
+z it was rushed because the people deciding were rushed by a mob. these people were there.    the real division in this country was stoked by the president. 
+z we have to get out of the process of making political decisions and follow through on the oaths that we made
+z where was the outrage over looting and rioting over racial justice?  that is a false equivalency. there is a big difference between burning a part of a city vs attacking the part of the government that represents the voice of the people while flying the flag of traitors upsetting and taking back a legitimately fair election.  Racial justice due to george floyd and decades and centuries of facts and oppression with desperately ineffective results vs a month of the republican party and president and right wing media spreading a consistent lie with no evidence and rallying the hogs around that lie and then those hogs attacking the capital as a result
+z "Theres never been a greater betrayal of his office and oath to constitution" - liz cheney
+z america does not negotiate with terrorists (white supremacists) 
+z not all republicans are white supremacists ... but all white supremacists are republican.
 
+z hes handing out awards to some country singers while he was being impeached
+z rigged pushes the bar, apocalypse pushes the bar, destroying our country pushes the bar, a thousand other words by him push the bar toward anger, fear, desperation, that the election was stolen and is handed to someone who is going to destroy america, stand back and stand by pushes the bar, peaceful pulls the bar back, the words sent out during the impeachement pulls the bar back.  when you as a leader do not show decisiveness no one can know what you mean or believve. . are we meant to follow his latest indications?  Are we meant to hear and take to heart his most passionate and most oft repeated statements and indications?    
+he made a statement on jan 13 during his impeachment condemning violence and it was good.  Had he made it in 2015 and maintained that message throughout then we would know where we stand.  
+he is calling for listening to each other and rising above the rancor.  he himself tried to censor members of congress from certifying the electoral college votes and then call his removal from twitter as a freedom of speech violation.
+he has used twitter as the most powerful bullhorn in the world for his message of hatred division and authoritarianism and tried to create division and undermine the election, Republicans have used their platform to amplify the same message and therefore create the same division and undermine the same election
 
+giuliani told them we are oging to have "trial by combat" at the same rally.   when trump says nothing to counter that message at his own rally then that remains the final word of authority from the rally.
+200 people identified who were in the capital.  filed charges on 30.  why did they not round them all up instantly/
+donald trump 
+republican lawmakers are terrified not only from trump but from trumps base (the hog horde)
+caesar sayez sent bombs
+this is not the one isolated incident in which he has incited violence.  
+if you share factual information and it makes people so made that they riot have you incited a riot?  are you responsible in any way for the riot?  if you lie and it makes people so mad they riot have you incited a riot? are you responisble in any way for the riot? 
+he has amplified the violent message.  
 
+Republicans1yr ago: "Naah no witnesses the senate trial.  Regardless of the severity of the issue, and the 450pages of documentation we dont need due process.   streamlined.  Done.  NOT GUILTY!"
+1yr ago in the senate: "Due process? naaaah we dont need witnesses.  Aquitted!  Streamlined!  Perfect!"
 
+This looks legitimate so I want to know more: Another article says she was 'vote harvesting', was she changing votes?  Did it get close to affecting the outcome in some county?  How did it affect the outcome? How widespread was it?  how many votes did it affect?  Ken Paxton (currently indicted for fraud) and project veritas being involved puts a stink on the credibility so we need to know more.  Did this go any distance toward correcting other parties election interference?  Did we ever find out how many ballots were illegally collected by the church in Austin?  is this related?  Does it make someone feel better about this election in some way?  Did someone say there was zero election fraud?  I've never heard that.  
 
+Trump will always promise his support, demand his loyalty, and then not pay you with his support or his money (see giuliani)
 
-
-
-
-
-
+How to know what party to vote for?  no matter what you think is the right policy or the right party: is the party's policies making the average americans lives better or not?  See the democrats vs republicans in december 2020 stimulus checks
 
 
 
