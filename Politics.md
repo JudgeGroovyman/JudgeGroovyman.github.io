@@ -154,11 +154,40 @@ leadership conference on civil and human rights year by year tampering with righ
 "when you approve of these things at the water fountain and gym you apply benediction to the injustice"
 Someone Pardoned Nixon after he resigned :(
 
+Told on day 1 by obama the number one threat biggest issue is paul manafort
+told from the beginning that the biggest threat to national security was white nationalism
 
+Senate (mcconnell) chose to not hold a hearing to approve secretary of homeland security who is critical for the safety during the peaceful transition of power.  so while there is mass unrest from the hog horde and they are planning attacks the republican senate is intentionally impeding the peaceful transition of power.  at 12:01 bidens cabinet takes over and security from teh hog horde becomes his responsibility but theyve blocked him from having presidential security
+The discgraced defeated impeached white supremacist in chief donald trump
+scared to death that we will go back to the time before donald trump when hundreds of thousands of people were crossign the border - wisconsin rep Glenn Grothman
+he used the biggest megaphone in the world to spread outright lies to discredit the fairest election in american history
+if insurrection and attack on the capital is not an impeachable offense I dont know what is.  whatwould have to happen?
 
-
-
-
+the hog horde did not emerge out of a vacuum.  
+he purposely seeded the false belief  debased our democracy creating american carnage
+he is unrepentant
+the RNC convention should be held responsible as well for the attack on the capital due to their consistent strongly worded lies about Joe Biden representing the apocalypse and then upholding the lies about the fairest election the country has ever seen.  
+If you want truth why did you support trumps lies about the election?
+if you want peace and unity why did your party create consistent fear of apocalypse under Joe Biden?
+on the sun belached bones of history are written those pathetic words "too late. we moved too late to save our great nation" - Rep David Scott from GA
+"Has anyone of the thousands been brought here to answer wether they acted because of our president" - mast from FL
+the religion of climate change 
+any president who obstructs the college or attacks judges or the court system where there is no evidence to supports their contentions undermines the publics trust and confidence in teh judicial process.  - butterfield NC
+he took an oath to defend the country againsta ll enemies foreign and domestic, but when he saw this happenning he did nto call the national guard. 
+great speech abou thard work of the real grievances in america mr canon from california - ro khanna
+healing requires accoutability
+if we pursue this then from this day forward impeachment will always be a political process
+where he goes in history you go in history unless today you make a stand
+our oaths are worthless without accoutability - rep from hawaii
+when there is an attack on our democracy ... we will respond to that threat and do what what is necessary to strengthen our democracy
+how can the chairman lie to the american public about having more than ccircumstantial evidence that the prsident colluded with the russians abou tthe 2016 elections?
+the republicans are looking at this as if this was a one time speech 
+I rise in support of impeachement and in oppoosition to the gaslighting that is happening in this chamber todays
+If we were on the eve of a rep pres and his dem pred said thes ame thing and incited his followers his mob to descened upon the capital we would be joining them not making comparisons.   mr veasy from texas
+"If you cankeep it. and the way we keep it is by saying no to actions and words that do not promote the keeping of that republic"
+peaceful transition? Tthere has not been a peaceful transition, youre not living in the same country i am
+more members of the presidents own party voting to impeach him than clinton or andrew johnson
+republicans complained of there not being process, no witnesses, but just last year when its complicated they saw no witnesses and said the process should be streamlined
 
 
 
