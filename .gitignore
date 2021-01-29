@@ -1,2 +1,14 @@
-Inbox
-*BBEditPreviewTemp.md.html
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+_posts/2021-01-28-welcome-to-jekyll.markdown
+_config.yml
+404.html
+about.markdown
+Gemfile
+Gemfile.lock
+index.markdown
+_config.yml
+_config.yml
