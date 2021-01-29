@@ -1,4 +1,19 @@
+# Jekyll #
 
+- To debug my githubpages (where this is hosted) I had to follow [these steps](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll) to install jekyll (easy per documentation no issues)
+- Then when Jekyll was installed I did  ``jekyll new jekylltest --force`` and could have done that in my judgegroovyman.github.io folder instead of jekylltest because apparently it only overwrites jekyll files
+- I accidentally installed Jeckyll too haha
+- then ``bundle exec jekyll serve`` seems to serve a site and then I can go to the .md file but its not interpreted into html :(
+- it doesnt show any errors either
+- livereload doesnt work ``--livereload`` at the end 
+- it seems like it copied all of the .md files over but I dont see any 
+- Interesting this claims each of my files might need a yaml front matter section at the top.  They dont for github pages so ...
+- Ok on Github it says I might have to [edit a gem file](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll)
+- in that gemfile it says to run ``bundle update github-pages`` after I've done that but that doesnt work. ``Could not find gem 'github-pages'.``
+-  some googling suggests trying ``bundle update jekyll`` and then ``bundle install`` and yeah!  that seemed to work 
+- AND it has an error which will let me figure out what to do about my site!! bingo!
+- well kind of bingo.  it says games.md is the problem and it says its because there are some invalid non-utf-8 characters, but it doesnt say what they are or what line or anything
+- after 3 failed experiments I ended up in notepad++ Encoding menu -> Convert to ANSI and then Convert to UTF-8.  
 
 
 # Cool uses and abuses of web design #
