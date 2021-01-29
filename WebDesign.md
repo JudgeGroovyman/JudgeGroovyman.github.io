@@ -9,12 +9,14 @@
 - it seems like it copied all of the .md files over but I dont see any 
 - Interesting this claims each of my files might need a yaml front matter section at the top.  They dont for github pages so ...
 - Ok on Github it says I might have to [edit a gem file](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll)
-- in that gemfile it says to run ``bundle update github-pages`` after I've done that but that doesnt work. ``Could not find gem 'github-pages'.``
+- in that gemfile it says to run ``bundle update github-pages`` after I've done that but that doesnt work. ``Could not find gem 'github-pages'.``  ended up using ``gem "github-pages", "~> 211", group: :jekyll_plugins`` but the 211 needs [updating from here for github-pages version](https://pages.github.com/versions/)
 -  some googling suggests trying ``bundle update jekyll`` and then ``bundle install`` and yeah!  that seemed to work 
 - AND it has an error which will let me figure out what to do about my site!! bingo!
 - well kind of bingo.  it says games.md is the problem and it says its because there are some invalid non-utf-8 characters, but it doesnt say what they are or what line or anything
 - after 3 failed experiments I ended up in notepad++ Encoding menu -> Convert to ANSI and then Convert to UTF-8.  
-
+- That was all in a copy of my main folder. now I'm doing it in my actual github folder and its working pretty well I just had to run bundle update after changing the gemfile.
+- livereload still doesnt work tho oh well.
+- going to gitignore most of these new jekyll files because I dont want them on githubpages
 
 # Cool uses and abuses of web design #
 * Ash made [his site](https://ash.ms/) look and behave like windows 95 and in a tiny super fast footprint
