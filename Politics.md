@@ -224,3 +224,28 @@ How to know what party to vote for?  no matter what you think is the right polic
 
 
 
+Make weird the new normal -the black friend
+
+
+Precedent for impeachement?  You mean the precedent you set in the 90s when you impeached Clinton for lying about sexual misconduct (which has no effect on the american people) while ignoring the thousands of lies by president trump which had enormous specific consequences for the american people.  Did you put trump under oath?  He would have lied 
+Newt attacked Clinton because of his deeply held religious beliefs while divorcing his two wives when they got into hospitals.  
+
+J Edgar Hoover
+Primary activities of FBI were to disrupt the civil rights movement and they did this by doing that and intentionally letting violent right wing white supremacy groups like kkk slide
+Whether facts exist to substantiate or not
+Called King an Evil Abnormal Beast in a blackmail note, then called him a phony after winning a nobel peace prize
+when 4 yrs of inveestigation was complete and they had a rock sollid case against thte KKK for the birmingham bombings  hoover said sttop the investigation, doccuments to be sealed and withheld from prosecutors.  4 children died and This means further violence and terrorism happened because they went free
+
+
+
+"If you're happy and youre getting laid youre not blowing shit up" - bill maher
+
+
+
+
+
+
+
+
+
+
