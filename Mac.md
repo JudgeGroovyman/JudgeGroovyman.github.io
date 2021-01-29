@@ -12,12 +12,13 @@ What about "DungeonGenerator is damaged and cant be opened you should move it to
 ## Perfect instructions on getting mac apps working ##
 
 Update:
-``Follow these simple steps to get AmigaLive with the "FS-UAE Launcher" properly running.
+Follow these simple steps to get AmigaLive with the "FS-UAE Launcher" properly running.
 
 Click "OK" if you are prompted to give access to files for "AmigaLive" or "FS-UAE Launcher".
 You can also enable this under "System Preferences", "Security & Privacy", "Privacy", "Files and Folder" and enable access to both "AmigaLive" and "FS-UAE Launcher"
 
------------------------------------App Translocation / Gatekeeper Path Randomization-----------------------------------
+### App Translocation / Gatekeeper Path Randomization ###
+
 Starting with macOS Sierra (10.12), any application distributed outside the Mac App Store runs from a randomized path.
 This causes AmigaLive and FS-UAE Launcher not to function properly until you perform either of the following solutions.
 
@@ -39,7 +40,7 @@ sudo xattr -r -d com.apple.quarantine "/path-to-AmigaLive/FS-UAE/FS-UAE Launcher
 
 Solution 3 (Reported by user with Catalina):
 sudo xattr -cr "/path-to-AmigaLive/AmigaLive.app"
-sudo xattr -cr "/path-to-AmigaLive/FS-UAE/FS-UAE Launcher.app"``
+sudo xattr -cr "/path-to-AmigaLive/FS-UAE/FS-UAE Launcher.app"
 
 
 
