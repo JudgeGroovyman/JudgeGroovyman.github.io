@@ -133,6 +133,9 @@ Masterpieces
 1. Bon Iver
 2. Tegan and Sara
 
+Richard Marx 2019
+- Two songs sound like Civil Wars songs: Not in Love, and This One (this one sounds like it was written with them!)
+
 
 # Books #
 ## Transformers More than Meets the Eye ##
@@ -439,3 +442,5 @@ Preacher on dead zone 5x4 37:00
 * Funny Quote from AVGN
     * Predator  The Nerd: (sarcastically) Wow, they sure followed the movie pretty closely. You know the plot: A special forces team led by Alan "Dutch" Schaefer dressed in hot pink go on a mission to rescue hostages in Central America. They are hunted by piranha balloons, plants that spit fireballs, Lolos or Shy Guys, chickens with skull masks, giant bacteria, Metroids, and birds that crap blood. 
 
+* Stargate Sg1
+	- 1x1 So much sexism and bullying when Sam Carter shows up :( she handles it great but its so sad anyone has to deal with shit like that especially when its on a daily basis. I wish I had watched this show in 1994 or so I loved the movie in the theaters, but I watched for a few minutes and didnt like Hammond and didnt like that MacGyver is an asshole in this.  haha "It took us 15 years and three supercomputers to macgyver a system like this for the gate on earth".  I was surprised by the full frontal nudity I dont remember that at all
