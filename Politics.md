@@ -241,11 +241,36 @@ when 4 yrs of inveestigation was complete and they had a rock sollid case agains
 "If you're happy and youre getting laid youre not blowing shit up" - bill maher
 
 
+Post Quarantine
+Hugs are painful
+People come near and you jump back 6ft
+everyone forgot how to hold farts
+"How to exist in polite societty again"
+jammies not allowed outside the home
+Dont wear a pair of pants more than 1 time depending on fabric
+people are going to ttouch me???
+Dont pick your nose 
+if noone is wearing masks how can I judge peoples character?
+check for boogers
 
 
 
+Feb 3 We Learned
+If evangelicals can ignore lot giving up his daughters to rape in sodom story and his wife is the only one who gets punished and he is considered righteous, 
+and if god punishes the wife for looking but not the man for giving up his daughters to rape, 
+if they can overlook foreskins and genocide and rape and child sacrifice this then it is dangerous because they are capable in fact trained to overlook those things and trust the bible and their interpretation god 100% without reconciling those things with what they claim god is saying
+and then it makes sense that they can overlook all the things trump did just like they overlook what god did
 
+if they are ok with god doing these vengeful rageful petty face saving things then why wouldnt they support trump?
+then it makes sense that if you picture
 
+athiests resolve cognitive dissonance with science and logic
+non evangelical protestants resolve cogntive dissonance by saying 'yeah some of this is wrong' or 'whoever wrote that got it wrong' or some other explanation
+evangelicals when confronted with cognitive dissonance dont resolve it and thats the danger.  they can wholeheartedly move forward without resolving cognitive dissonance.  They can dismiss any cognitive dissonance.  Thats dangerous.  they still believe those things are literal and exact and correct.    "Who am I to doubt god I still believe the bible is the word of God" or "Who am I to judge what Trump has done" same story. 
 
+So lots of religions are fucked up for shame reasons and distortion reasons, but evangelicals are fucked up because of the way they think.
 
-
+ Meme: If infanticide makes you squeamish then you might not want to keep reading your favorite book.  Spoiler alert: he's a big fan.
+ 
+ "Have you ever noticed that the ones who have the closest relationship and strongest trust and faith in God as their protector are also the ones who have the most guns"
+ "If you are faced with a problem and are told to pray away your gay, why arent people told to pray away the intruder in their home or pray away their corrupt government"
