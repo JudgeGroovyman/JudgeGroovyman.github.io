@@ -2122,7 +2122,7 @@ Mac: Big Sur Specifically (Civ 6 is out)
 
 - Turn Based A:  Divinity 2 (mac), Haven (win only otherwise perfect in every way), For the King (Civ + FF)(OWN ALREADY),  Civilization VI (OWN try now for free) (unstable on big sur), 
 
-- Turn Based B: Demise of Nations (Free, Good tbs civ like game, mac ios crossplay, 4x, Co op, tough AI), Wargroove (Win Only super accessible Advance wars with Co Op DLC Double Trouble), LOTR (Turn Based Digital Co Op Card Game $10 in humble bundle),
+- Turn Based B: Demise of Nations (Most Accessible, Free, Good tbs civ like game, mac ios crossplay, 4x, Co op, tough AI), Wargroove (Win Only super accessible Advance wars with Co Op DLC Double Trouble), LOTR (Turn Based Digital Co Op Card Game $10 in humble bundle),
 
 - Turn Based C: Age of Wonders 3 (scenarios and random maps are co op not campaign), Civ V (Mac, 10yo, tons of mods, very popular, co op shared research not money),  Wasteland 3 (Baldurs Gate Post Apocalyptic),  Baldurs Gate 3 (?high system requirements?),  Baldurs Gate 1 (RT with Pause Anytime to think, old interface), Baldurs Gate 2 (?Mac?, Better keyboard interface?), Endless space/legends (co op but no co op teams), 
 
@@ -2130,14 +2130,14 @@ Mac: Big Sur Specifically (Civ 6 is out)
 
 - Not Sure:  Diablo 3 (arpg is great ?mac?), PoE (arpg is great ?mac?), Hammerwatch (arpg looks lovely ?mac?), Magicka, sacred 3, Vikings, Stronghold Crusader (RTS), Star Wars Empire at war (RTS),  Dwarfheim (RTS City Builder Co Op), Flotilla (Space Strategy), Starcraft or Warcraft 3?
 
-- Sim A: Mindustry (Mac, Turnbased, Co op, Cheap), Factorio,   Anno 1404  and anno 2070 (Co Op not tagged but  widely praised on reddit as unique and excellent),   Tropico 6 (mac Co op), 
+- Sim A: Mindustry (Mac, Turnbased, Co op, Cheap), Factorio (mac),   Anno 1404  and anno 2070 (Co Op not tagged but  widely praised on reddit as unique and excellent),   Tropico 6 (mac Co op), 
 - Sim B: Construction Simulator 2015 (should be great), Rimworld (Unofficial Co Op mod), KingdomsReborn (Win, Co Op City Builder, early access probably not ideal for that reason), ymir, Satisfactory (Win Only),
 
 - Tower Defense A:  Deathtrap (Coop Campaign, not listed as co op, said to be 5/5 mustplay),   Warstone TD (Mac, Co Op (not campaign), beautiful, cartoony),  XMorph Defense (demo, like bloons but you always control the helicopter, transformers setting),  Terrorhedron ($2, not listed as co op), PixelJunkMonsters1 (mac saved his relationship (in duo defenders review)),2(prob most like bloons), McDroid (Arcade TD, mac, Campaign), Warcraft 3 TD (Starcraft too), 
 
 - Tower Defense B: DuoDefenders (near Perfect, $3, made for lovers, mac, real time somewhat), Tower Wars (love the aesthetic, steampunk, mac), Fortification Tower Defense (indie, lan co op),   Orcs Must Die 2, Iron Brigade (4/5 from Double Fine), ElementTD2, 
 - Tower Defense C: Bunker Defense Demo, Fortified (cool 1950s Cold War setting, not listed as co op), Sol Survivor, LegionTD2 (Only against bots I think)
-- Tower Defense Investigate: CastleStorm, No Heroes Here, Particula
+- Tower Defense Investigate: CastleStorm, No Heroes Here, Particula, Path of Exile Blight Content (free)
 
 - FPS Co Op Tower Defense A: Hypercharge Unboxed (Free Demo!  like toys! looks really cool. Devs really care about this game)), Dungeon Defenders 1(Mac),2,Awakened 
 - FPS Co Op Tower Defense B:  Sanctum1,2, 
@@ -2150,13 +2150,46 @@ Mac: Big Sur Specifically (Civ 6 is out)
 - Peak Tower Defense Experiences:  Warstone TD, PixelJunk Monsters 1 or 2( saved a marriage), 
 - Peak Chill Experiences: Anno 2070 or 1404, Factorio, Tropico 6, Civ VI
 
-1. https://store.steampowered.com/app/983970/Haven/
-2. https://store.steampowered.com/app/48240/Anno_2070/
-3. https://store.steampowered.com/app/1281630/Anno_1404__History_Edition/
-8. https://store.steampowered.com/app/749800/PixelJunk_Monsters_2/
-10. https://store.steampowered.com/app/408410/XMorph_Defense/ (demo)
-11. https://store.steampowered.com/app/523660/HYPERCHARGE_Unboxed/ (demo)
-12. https://store.steampowered.com/app/310510/Deathtrap/
+- Complex Turn Based or Sim
+14. https://store.steampowered.com/app/338810/Demise_of_Nations/ (mac should work well on both, most accessible turn based)
+6. https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/ (own, mac but only your computer if you dont update, and even then only maybe)
+5. https://store.steampowered.com/app/492720/Tropico_6/ (mac but not on your laptop and only maybe on mine)
+2. https://store.steampowered.com/app/48240/Anno_2070/ (Windows)
+3. https://store.steampowered.com/app/1281630/Anno_1404__History_Edition/ (Windows)
+15. https://store.steampowered.com/app/527230/For_The_King/ (mac should work well on both)
+
+
+- One of the best turn based co op games ever (check the reviews)
+1. https://store.steampowered.com/app/983970/Haven/ (Windows)
+
+
+- Deep turn based
+7. https://store.steampowered.com/app/562500/Warstone_TD/  (mac but only your computer if you dont update)
+9. https://store.steampowered.com/app/243780/PixelJunk_Monsters_Ultimate/ (mac but only your computer if you dont update, local co op)
+10. https://store.steampowered.com/app/408410/XMorph_Defense/ (Windows demo)
+11. https://store.steampowered.com/app/523660/HYPERCHARGE_Unboxed/ (Windows demo)
+12. https://store.steampowered.com/app/236110/Dungeon_Defenders_II/ (Windows Free)
+13. https://store.steampowered.com/app/427520/Factorio/ (mac demo maybe on your mac probably on mine)
+14. https://store.steampowered.com/app/1127400/Mindustry/ (mac  $6)
+
+on Feb 8 we watched trailers
+--------------- She liked these tied:
+haven
+Dungeon Defenders
+factorio
+-------------- These she liked but decidedly less
+Hypercharge
+Pixeljunk
+--------------- These were cool and ok for someone else
+XMorph Defense
+Warstone
+--------------- she didnt like this
+mindustry
+
+
+laundry
+1877coinmach 500-bmg 
+
 
 
 Cristi High Sierra 10.13.6
@@ -2164,16 +2197,14 @@ Cristi High Sierra 10.13.6
 16gb
 iris pro 1536
 
+Cristis Mac
 WHOA!  Cristi might be able to run these games!
-6. https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/ (own, mac but only your computer if you dont update, and even then only maybe)
-7. https://store.steampowered.com/app/562500/Warstone_TD/  (mac but only your computer if you dont update)
-9. https://store.steampowered.com/app/243780/PixelJunk_Monsters_Ultimate/ (mac but only your computer if you dont update)
 
-5. https://store.steampowered.com/app/492720/Tropico_6/ (mac but not on your laptop and only maybe on mine)
-4. https://store.steampowered.com/app/427520/Factorio/ (mac demo maybe on your mac probably on mine)
-14. https://store.steampowered.com/app/338810/Demise_of_Nations/ (mac should work well on both)
-15. https://store.steampowered.com/app/527230/For_The_King/ (mac should work well on both)
-16. https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/ (mac should work well on both)
+
+4. 
+
+
+
 
 - ----------------------
 - Peak for lovers: Haven or DuoDefenders
