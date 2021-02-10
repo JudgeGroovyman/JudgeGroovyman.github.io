@@ -3,6 +3,7 @@
 	- Many people have it to some degree (some dont even notice, like I used to get an apparently random headache and later realized that it was probably some level of VR motion sickness) but 
 	- Solving it: for most of those people playing something that makes them sick for 1-5 minutes per day every day will feel much less motion sick in a week or two.  In my wifes case this worked in about 1 week where at first she couldn't even watch me play Snake Pass on a monitor from 6ft away but a week later she was sliding around quickly for literally hours on end in VR.  this would likely work for people who get motion sickness on boats but in that case once you're experiencing the motionsickness on a boat its too late to get off any time soona nd you are subject to that same motion for the next 20min while you get back to land. In VR you can just pull the helmet off, which brings me to my next point, 
 	- How not to solve it: Playing through your sickness isn't a good way to solve motion sickness.  During this training phase don't overdo it, pull off the helmet at the first sign of any discomfort or sickness or headache or after 5 minutes is up for the first few days.  After the first few days experiment with more than 5 min.  If you stop playing VR and then come back to it a month later you may have to break yourself back in over the course of a few days to get used to it again.
+	- Cristi got through it.  The simplest way is to play something that makes you sick every day but don't expect to make progress, just subject your body to it for one to five minutes and then pull the headset off and put the game away.  In two weeks it should be a different ballgame entirely and you should be able to play a bunch. 
 2. Gatekeeping VR.  Motion Controls and roomscale are required to experience 'true VR' and if you arent doing 'true VR' then VR is a waste of money.  "VR isn't primarily about the motion controls, it's about feeling like you exist in a fictional game world." - Stereo3DProductions https://www.youtube.com/watch?v=1pf7T9txKsM
 	Gatekeeping VR is small minded
 	Virtual Reality devices aren't perfect Ready Player One level immersion yet and it will be a long time before we see anything like that mainstream.  Virtual Reality devices today are amazing tools that give you options for an enormous variety of immersive and entertaining and thrilling and chill experiences.  If you gatekeep yourself by deciding in advance what is and isn't true VR before you try things then you are hampering your experiences.  If what you want is motion controls, thats great, and I love them, but I dont always love them, sometimes I love the relaxing compact and unobtrusive nature of using a keyboard and mouse or gamepad control scheme and there are tons of VR experiences for which this is a great option if not the best option.  Gatekeeping someone elses experiences by saying its not true VR if it doesn't have motion controls gets under my skin because is limiting the breadth interested members in our community and attempting to limit the enjoyment and degree to which those in the community can leverage their devices to have peak experiences.  Besides gatekeeping VR based on motion controls isnt accurate since even with motion controls what we have today is not true VR (think the Matrix).  Motion controls are more VR than a gamepad, but they are not always more immersive and they are not always the most applicable or best control scheme.  Its only immersive if it doesn't get in your way so for someone used to a gamepad or keyboard and mouse who wants to have that experience but feel like they are in a 3d world then even a little bit of 6dof head tracking is instantly and deeply immersive, and if the control scheme is second nature then theres nothing to take you out of that immersive world.  If you're not used to using keyboard and mouse or gamepad then motion controls are a great place to start since you already know how to move your arms around so many in game motions are instantly second nature.  You can't replace motion controls with a gamepad, nor can you entirely replace the benefits of a gamepad (small size, long play comfort, ease, posture posture required, precision for some games), or a keyboard and mouse (many of the same advantages as the gamepad but with even more precision and more options (keys)), with motion controls.   I love motion controls. I also love keyboard and mouse.  I also love gamepads.  They're different and they're all great.    Basically if you can get immersed without VR then you will be more immersed with VR.
@@ -36,6 +37,8 @@ Interesting Where did you hear the 30%?
 P.S. If you asked Gabe Newell of Valve back in 2015 he would say [0% get sick if you use the Vive](https://www.theverge.com/2015/3/5/8153101/valve-boss-gabe-newell-says-noone-gets-sick-using-vive-vr) lol
 
 This study doesnt say what they were doing but whatever twisted shit they were doing and whatever hardware they used made 77% of women report that they felt motion sickness.   What does taht mean?  was it bad or lingering or just slight?  They drew some big conclusions from that that I believe are unwarranted, and things have changed a lot since 2015 or 2016 https://www.researchgate.net/publication/311394218_The_virtual_reality_head-mounted_display_Oculus_Rift_induces_motion_sickness_and_is_sexist_in_its_effects
+
+Also see above motion sickness in myths
 
 # History of Virtual Reality #
 
@@ -333,7 +336,7 @@ I think this game is why now playing amiga games up to jump isnt so foreign to m
 		- in RE4 when my mote ran out of batts well ... I was aiming and shooting and it just kept doing that and before I could change the batteries and re sync it had beat the first phase of the boss lol
 		- Sometimes it gets jumpy on parts of the screen (esp on the bottom) but just now I angled the monitor down just a few degrees and it made a big difference and is totally solid screenwide now.  I wonder if the bottom of the sensor bar doesnt quite show the led at the correct angles?  I wonder if it was upside down or if the sensor bar was angled a little forward toward the player if that might help or maybe even nearly 90deg?  or I wonder if it was on the bottom of the tv instead of the top?  Regardless its rock solid atm!  
 		- Update: Its rock solid from certain distances and not from others.  Get 6-12 inches too close and its jumpy in parts.  back up that amount and its rock solid again.
-		- the wiimote nunchuk that I have here when doing sniping in RE4 is shitty to aim.  Moving around it is fine.  I wonder if its aftermarket crappy?  I dont know or how to tell.
+		- the wiimote nunchuk that I have here when doing sniping in RE4 is shitty to aim.  Moving around it is fine.  I wonder if its aftermarket crappy?  I dont know or how to tell.  Update: this might be a configuration thing in dolphin.  I might be able to make it much more sensitive and therefore more fun.
 		- I heard a rumor you can use a ps4 or xbox controlelr as a nunchuk which would be great because the sticks on those are so much better
 		- Right click the game and open save folder to see the gamesaves.  They are tiny for example for RE4 they are 64k each.
 		- Tearing.  You know whats interesting almost every game that has any 2d screens has some tearing in the 2d.  La mulana has some.  its tearing between tiles perhaps because of their slightly askew precision placement on screen but it doesnt show up if its not upscaled.
@@ -363,6 +366,7 @@ I think this game is why now playing amiga games up to jump isnt so foreign to m
 	- As of 1/28/2021 I'm often sick by watching some of these games in 3DSBS.  At least 3D ones still make me motion sick.  RE4 in particular ran at 30fps and probably needs to run at 90, plus theres constant spinning around the camera as a part of gameplay.  Other games might work better, and I wonder if it would be less motion sick in vr?
 	- I found out that ripping a 5 min 3dsbs video with nvidia and then compressing it to 1280x720 at 90peakfps h.264 looks pretty good when it comes out the other end.  I am trying 90constantfps rn.
 	- How to know if SBS is supported without headset on?  Turn in on in 2D mode and crank up the depth and swap eyes and look for ANY change. 
+	- Sound: FIXED When I'm in VR the sound works great.  When I'm out of VR the sound works great.  When I'm in VR but then want to switch back to desktop ... Dolphin seems to have decided to send the sound somewhere that doesnt exist anymore and no sound settings can change that.  But ... do you know what can?  Hit the X on the game window to threaten to close the game then click no to go back to the game.  It resets it!  
 * Medal of Honor heroes 2 Wii Dolphin 1/14/2021
 	- Crashes before it starts.  did it twice.  I give up.
 	- the cutscenes were strangely interlaced and didnt look right. 
@@ -519,6 +523,7 @@ I think this game is why now playing amiga games up to jump isnt so foreign to m
 	- im at 5-2 and 17h32m and its a great game.
 	- DONE!  I beat it on 1/27 at 11:21pm logging 20:27:41. I got a few crappy videos of the ending and my stats screen. What a bad ass movie of a game.  I could have beat it with unlimited ammo without too much trouble, but it would have been harder and less fun overall.  It makes you a bad ass.  Great game played this way.  A masterpiece. 
 	- There are tons of bonus features.  You can go back and watch all fmvs, you can play a bonus game, separate ways, assignment ada, and the mercenaries.  Capcom absolutely delivered the goods with this game with amazing content.
+	- I remember buying this at ToysRUs and I talked to the salesman who I made friends with and he said it was probably the best game he had ever played.  Now I see what hes talking about.
 * Bloons 6 1/17/2021
 	- Playing this on Mac with Cristi and it is so damn fun!  We both got to lvl 20 in a few hours playing and watching each other and sharing info and now we should be able to play co op which will be so cool!
 * MotoHeroz 1/28/2021
@@ -527,15 +532,114 @@ I think this game is why now playing amiga games up to jump isnt so foreign to m
 * La-Mulana 1/28/2021
 	- I'm slightly intrigued, certainly more than before i fired it up.  I really like the jumping and whipping controls.
 	- Not sbs compatible.
-
-Artichokes
-Capers
-Olives (full large cylindrical olives)
-Anchovies (a long stringy looking fish on each piece)
-
-
-# Motion Sickness #
-Cristi got through it.  The simplest way is to play something that makes you sick every day but don't expect to make progress, just subject your body to it for one to five minutes and then pull the headset off and put the game away.  In two weeks it should be a different ballgame entirely and you should be able to play a bunch. 
+* Wave Race Blue Storm Dolphin Gamecube 1/29/2021
+	- This screams Excite Truck to me even if it plays quite different.  I suspect there was a related team.  It seems really good but certainly didnt draw me in in 2021 at all, however given the beautiful water effects and the fish and dolphins and sun and high res player textures (for the time) I bet this would have blown my mind in 2002 and especially if I had bought a gamecube and this game on launch day I would have loved it and would have played it all the way and it probably would have become beloved for me.
+* Ikaruga Dolphin GC 1/29/2021
+	- I remember buying this for Gamecube soon after it came out and I was so excited because Bangai-Oh had been one of my favorite games ever so I wanted more from that dev.  When I got it home I found a brutally hard bullet hell game with an interesting mechanic and it completely discouraged me.  I thought it looked amazing but had little fun with it and I think I returned it to gamestop in a day or something.
+	- I beat the first level on practice mode with 1 continue.  Does it have unlimited continues?  I remember it being discouraging but maybe it sets you back if you continue?
+	- Interesting.  I did pretty good!  Got to level 3 on 3 continues!  beat level 1 without losing a life.  all on easy mode ofc.
+	- that should mean I unlocked practice mode on 2 and maybe 3.  
+	- Its not as hard as I remember.  Probably when I played it back then I didnt know the mechanic and was thinking bangai-oh and its so totally different it discouraged me instantly with a tough as nails game with no progression.
+	- I am proud of myself for getting that far even to level 3 of 5 on my first real try! 
+	- Theres also multiple ways to practice: practice the whole level, practice just one section, watch a demo of it, play it slow thats pretty awesome imho.  this game is all about learning it and helping you learn to beat it in one sitting and thats pretty awesome imho.  
+	- On level 3 my final continue was all due to me hitting the walls d'oh!
+	- Also interesting I didnt beat the level 2 boss I ran out of time!
+	- This will be awesome in 3D! (but possibly sickening - is it 60fps?  NOT LIKELY)
+	- one thing funny is it didnt autosave unless you set it to do so.  You have to manually go save or set it to autosave.  weird but thats how things were for a while.
+	- Later I am less impressed.  I tried it again and I can't get past level 3 yet.  But theres no way to practicelevel 3.  If they had been serious about practicing to win when you had unlocked getting there they would have let you practice it.  They are making it so you have to get to that level with enough lives to try it a few times and then you will die and have tgo play the whole game again. Progress isnt as enabl3ed as I thought.  Not bad but not great either and I am a bit sour about it.
+* Monster 4x4 Stunt Racer Wii Dolphin
+	- It looks like it is emulating properly behind an enormous fundamental graphics incompatibility because every bit of the graphics is split and broken even the splash screens. thats whether I run it as an nkit.gcz or iso
+* Mad World Wii Dolphin 1/29/2021
+	- This looks amazing already.  I bet it looked great on wii but with this upscaling it looks fantastic.  the textures are almost perfect.  Most of the things that make wii games look old arent here so it looks so great. 
+	- Cool futuristic apocalyptic gritty attitude. super bloody and gory.  Story is like running man or smash tv.  
+	- Wow this might be the best 3d beat em up I've ever played!  I feel like it would be better to teach thes things as the game goes on instead of in one big set at the beginning.  Still the tutorial is pretty good.  The music is pretty cool for the setting, the voiceovers are good and mature although get repetitive.
+	- its cool that you get extra points for making it more violent.
+	- I beat a bull mini boss and a huge eddie guy who said "Ill murderize ya" and it was fun combat!  i lost a few lives but havent had to continue yet and I've picked up a few red balloon extra lives. and now I'm back to the map!  i beat the whole first level!
+	- Again its only 6h long so this could be a lot of fun beating things up like this.
+	- Looking at it a few hours later it was really cool and I'm glad I played that level but I dont feel compelled to play anymore.  I am not particularly curious what more they have in store.  I know it will be gory and bloody, but I have already been able to use all of the moves.  So I guess I actually wish it was shorter and I might play through more.  Not complaining but also probably not playing again.
+	- At first I thought it would be hashtag again but not anymore
+* Odama GC Dolphin 1/29/2021
+	- Microphone into slot 2?  I seem to remember it came with a mic maybe.  Oh wow you can set that in gamecube options.  Well at least the warning went away.  I dont know how to triger it becasue the intput setting didnt register any buttons. Wait xinput shoulder l worked.  lets see if that works in game
+	- Whoa in the lore it defines Nintendo!  
+	- I remember playing this back in the day once and I thought I would love it but didnt end up loving it afterall.  Actually I remember it beign clumsy and frustrating.
+	- Well this is so clumsy.  The microphone doesnt work yet, the graphics are kind of terrible.  the idea is interesting but the pinball is slow and clunky and theres nothing discrete or controllable about it.  Its not fun for me.  
+* Soul Calibur Legends 1/29/2021
+	- WOW This combat is fukin fun!  Maybe its the motion plus but this is responsive slashing side and up and down.  My wiimotes back in the day just didnt respond like this.  they always felt clumsy and slow.  What if it was tv lag?  what if not only did my wiimotes led sensor bar not point quite right and I was too far so the aiming was bad but what if there was kind of enormous lag somewhere in the system probably in the tv itself?  That might have made most of these games less fun!  then again other systems didnt have problems and even mario galaxy didnt have any problems ... hmm.  still this is fantastic. #history
+	- I set it to easy mode
+	- This is like an epic movie and I love stuff like this.  I owned this 10yrs ago.  I wish I had given myself permission to play this and enjoy it.
+	- the controls and combat are really nothing like soul calibur so if you are looking for more soul calibur forget this.  If you want a movie like simple motion controlled combat game based on the same universe lore and backstory this is your game!
+	- I love this.  I'm smiling like a kid.  Why do I let myself enjoy this now and not then?  expectations?  Other demands on my time?  Restlessness?  I thought I should be doing something else all the time.  Right now I can play this if I want to.  
+	- I think in this game easy mode actually IS easy!
+	- #Again
+	- 1/31/2021
+	- playing later its fun but the controls are somewhat sloppy.  I dont understand the dodge like at all.  And it says to shake the chuk and swing wiimote at same time for some special move but its sloppy.  I'm getting more used to it and liking it anyway honestly.
+	- The jumping over darts in the hallway is bullshit.  Especially when you have to jump over spikes and darts.  The jump just isnt precise enough for this kind of expectation.  its forgiving on life at least on this level so its not a big deal at all just sloppy
+	- More than having a problem with the sloppiness on these levels (which is not holding me back and is still super fun) it just concerns me a bit that on later levels it is going to expect more from these sloppy controls and is goign to get stupid
+	- I hit plus and it fast forwarded through the dialogue haha I missed some stuff that way on accident
+	- Thinking back I can see why people would have complained and why I might not have been happy about this.  Its imprecise.  If you want a fun combat game with motion controls for immersion and fun and wehre anyone can pick up and play then this works great!  If you want a fighting game with deep fighting mechanics and precise responses this is just not that game and I can see why expecting that if you had bought this it would have been jarring, frustrating, disappointing and even kind of outrageous.  It is a spin off rather than a soul calibur game but it looks similar enough.  If they had done it with regular controls it would have been a bit different. as it is I love the controls and I knew exactly what I was getting into so this is great fun. 
+	- If this had actually normal soul calibur controls I would have perhaps loved this game even more ... maybe not though.  "Fight through all of these enemies without dying and you get the next part of this deep story."  this way it wanted to mix the combat controls with adventure movement controls.  
+	- I like that there is weapon upgrades, tag team player selection (so you have two lives) and also multiple characters.  I like that the story is so deep.
+	- Part of the thing that makes movement seem so artificial here is its only 8 directions
+	- oh its got some puzzles like flames putting out and rotating statues!
+	- Movement
+		- boob jiggle physics are interesting.  If you just tap the stick down ivy will turn towards you and jiggle her boobs
+		- Chuk left swing left is one cool special move.  Chuk left swing right is a different special move  I'm starting to get the hang of the moves.  I can totally see why people would think they were not discrete (like I did) and they are certainly not as discrete as button presses, but I'm starting to think they aren't bad after all.  This combat seems more discrete than skyward sword imho
+		- Chuk swing while dodging does a guard impact and I was playing against astaroth who was cheap.  I did a guard impact at just the right time and he was blocked but the IMMEDIATELY attacked again before I could attack as ivy.  Cheap.
+	- Another thing about motion controls is they are taxing in relativity.  As much as you want to think that swinging your arms about for a few minutes isnt taxing ... well ... maybe its not for a professional wrestler like Dolph Ziggler but for me and I believe for most people it is enough motion that after a while it can be felt.  Its not enough that you cant do it, but its a certain level of fatigue that just doesnt exist when moving yoru hands tiny emounts to press buttons which can be done for much longer without fatigue.  its the same when a gamepad player is learning to use a mouse keybaord and vice versa but both of those require an order of mag less motion and therefore fatigure than this does. It also means you have to have a bit of space and be arranged such that you can swing your arms therefore your posture can't be quite as slouchy as it can playing witha  gamepad and I dont mean that derisively because there is value in relaxing with a game and a gamepad and totally resting most of yoru body and thats great this is just different
+	- I'm not sure what the strat is for that dragon boss fafnir.  It seemed like it was just flail about and I think if I had done that I would have had an easier time and thats what I did at the end, but I was trying to figure out how to hit him without getting hit myself and ... well ... I dont have any idea.
+	- I like that in this vienna stage there are lots of ways you can go from any area but there are just forcefields blocking you off except from where you can go at any time.  Need to beat more enemies, no exit.  all enemies beat?  oen of the exits opens and it says "Go help at the east gate" but theres only one way to go.  I like that.  it doesnt try to explain the forcefields and I think thats smart.  in the indoor levels its exactly the same but with doors.  it would be a great situation to use for secrets somehow.
+	- Its cute how in the game they have to travel to asia and africa and its casual trips "we need to go to egypt" "take us to the mountain where they took you before in asia" lol
+	- 2/6/2021 ok its fun and all and it is, and it does make me wave my arms around in ways they are not accustomed to so a few of my lesser used muscles are getting worked and thats a good thing, but tbh its a little boring. Thats not just a bad thing because its fun to play this while I'md oing something else kind of like that transformers game and I love it for that.  it IS fun and I'm unlockiing characters and weapons (sor to fbut dont understand the weapon upgrades at all) but if it got frustrating there woudlnt be a whole lot to make me want to proceed.  I'm at 2h15m according to the save file and apparently its an 8hr game?  Well I've got a lot left then.  As long as it doesnt decide to add some stupid new mechanic that pisses me off endlessly I shoudl be able to enjoy it at this level through to the end and come away with fond memories of it.  I do LOVE how I can progress through the story and that part is fantastic.  THe levels are super derivative although the puzzles are changing (if not legit challenging).
+	- 3DSBS I tried it a little while ago and its at 50fps which is weird and I was only in there for a few minutes but the 3d was great indoors actually and I hope to do more later (I might have an ear infection or something because in the last few weeks I'm all of a sudden way more motion sick than ever before)
+	- This mummy tomb boss is pretty cheap with the fire collision going further than the visuals.  Its not clear on any of these bosses exactly what to do to beat them so you just flail and it works haha.  Its possible I would hate this game on hard mode.
+	- I'm not totally sure about this but I think the graphics on this are worse than Soul Calibur for DC even though that game came out 8yrs before it?  I could be wrong maybe if I saw that upscaled I wouldnt think so.  I looked at a video of the x360 upscaled original soul calibur and I think its about the same which isnt really a great sign for this game.
+* Namco Museum Remix wii 1/30/2021
+	- FIXED THe carnival arcade games dont display properly like super pac man is super distorted.  it actually plays just fine but the graphics in the arcade emulation inside the game are distorted.  The outer edge of the screen has a pretty picture that is clear.  sound is great.  turning off scaled EFB copy didnt help. oh!  Turning off 'force texture filtering' Fixed the glitch and distortion!!! you can do it while you are in the emulated game no problem.
+	- In the carnival arcade emulations its weird because to select things you usually use a but to quit the game in game you have to go to the menu and use z
+* Frogger Hyper Arcade Wii 1/30/2021
+	- Holy crap a unity splash screen on the Wii???
+* Transformers Cybertron Adventures Wii 1/30/2021
+	- Wow this is amazing I love it so much instantly.  I cant imagine a more fun game in some ways.  light guns. racing.  Easy mode thats actually easy.  This is wonderful!  i just beat the first level and hardly took any damage (probably because it was in easy mode)
+	- This along with Soul Calibur Legends and probably DQ Mirror are three gems that I should have played when I had a wii that if I had given them the tech attention and my own permission I would have loved them dearly.  But I can love them now!!!
+	- Theres actually an autobot campaign and a decepticon campaign
+	- The first level I did great but was just getting used to the controls which were a bit foreign to my hands so it might take me a bit to figure them out.
+	- #Again  
+	- I just played chapter 2 and its so exciting like being in a movie.  
+	- The sniper rifle in this wii shooter works better than any others.  I'm not sure why others dont work this way: aim where you want to zoom.  hit zoom.  The zoom goes right where you were aiming.  Adjust from there and fire (or just hold down fire and it fires for you).
+	- 60fps throughout. 
+	- Its a really nice low poly but high-large-detail environment
+	- Also this is the only light gun shooter with cover like time crisis!  I love that about it.  Best game on Wii?
+	- A few complaints: Unskippable cutscenes?  at least they are good with optimus voice actor.  Checkpoints are unclear. 
+	- Its not too hard in certain parts to run off the road and have to restart a battle section or two before that.  Final boss battle I got the boss half way down then accidentally ran off the confusing road and had to start it all over.  not a big deal since its the final boss.
+	- I used missiles on the final boss and it worked!  i beat the autobot campaign at 11:35 probably took me 4h and it was awesome all the way through.  I had to try the final boss 3-4 times only once because I took too much fire on accident.  Thi sis all on easy mode ofc.
+	- Most effective seems to be: sniper rifle: cover, aim at enemy, hold zoom, release cover, fire. theres a timing there that gives you headshots.
+	- SBS3D INteresting: 60fps is nice but 60s and I'm feeling funny in my tummy - im pretty susceptible to motion sickness these days for some reason - But there is a weird artifact: all of the glow from the lights and the road and things is on two planes and one of those planes is basically on the hud so the 3d is definitely not without artifacts or flaws.  Its not a playability issue and I played a driving part with megatron and it was really cool.  It all looked great.  it didnt perform well at 8x upscaling but it did at 4x
+	- PLUS for each of the levels you beat there are 4 challenges to try to accomplish in that level later.  This is a fantastic game.
+	- I'm having lots of fun playing this while watching tv.  Its a really good and interesting game for that.  and rn I'm playing on easy but playing on normal or hard I might have to try harder and make it even more interesting!  I feel like compared to any resident evil or dead space or even that sin and punishment this is more casually fun light gun gaming than any of the rest.  I love it.
+	- Beat 2/5/2021 #win Interesting: When you beat the campaign on autobot and decepticon it resets to 0 and then gives you a 1 and I dont knwo what that means :) lets see if it seems different. I couldnt tell a difference in the first autobot mission.
+	- Its cool because starting it over even though it was just a few days ago the story isnt so memorable that I remember it and thats good because now on the second play through i'm catching way more about the story and putting it all in context.  
+* Midway Arcade Treasures 1 2 3 GC 1/30/2021
+	- Wow the robotron on here is arcade perfect.  its wonderful and the controls are excellent mapped to my 8bitdo
+	- Wow it even saves your high scores!!!  Lovely!
+	- Championship Sprint is really fun on the first track anyway and the graphics are awesome!  the controls work pretty well but maybe too sensitive but you can go really fast and I bet some people could get really good at it
+	- MK2 made me rage quit it must be set on super hard or i'm tired because I couldnt beat first fight
+	- Treasures 3 didnt run. frame rate was 5
+	- Total Carnage in 2 is really cool!  I used prbably 30 continues to get to and beat the first boss but its pretty fun and super brutal and bloody.  its cool how they use sprites so abundantly and for explosions and everything.  This had to be fun to make if  you ask me.  When you shoot the boss sometimes it blasts flames otu the other side like its really hurting him which I think is cool.  Of course its super cheap and would be zero fun with limited lives.
+* Frogger Hyper Arcade Edition Wii 1/30/2021
+	- THis is a great frogger based party game for 1-4 players (with ai players) where you like try to step on as many squares last before goign through the end portal.  Its really fun!
+* House of the Dead Overkill Wii 1/31/2021	
+	- The B movie aesthetic is through the roof fantastic.  
+	- The shooting is a little bit too fast paced. If it were just 10% slower I would have more fun.  I could line up my shots better and hit some more headshots and it would be more fun that way.  Cheats?  I like it when I get the slow down powerup.  thats great.
+	- the pause menu has a heartbeat.  thats bullshit.
+	- THe jerky movement causing misses and especially missed headshots may have seemed interesting to the devs and certainly makes it 'harder' but its randomness removes any discrete nature of whether I can aim for their head and hit it and that is fundamentally not FUN for me. 
+	- I cant help but compare to resident evil and I prefer that.
+	- The arcade nature of this is great and it could be fun with a friend to play through with all the great b-movie qualities.  There are collectables and civilians to save from zombies which I think is really cool and adds nice replay.
+	- Something bizarre is going on in this game too.  All of my getting hit with no exceptions were due to unnecessary and involuntary reloading.  The bullets are listed off to the left so I know there were more.  Fire twice.  Involuntary reload.  get hit.  reload again.  get hit again.  fire twice. reload again.  wtf.  Am I accidentally triggering this???
+	- This brain boss is -5 fun.  super slow long un fun battle without any clear indication of him getting hit.  constantly getting hit due to reload.  hes vulnerable for a moment?  reload.  when I can fire again hes invunl again.  bullshit
+	- I beat the first boss and said out loud "that was terrible.  What a terrible game".  Its probably not terrible for everyone but jesus for me ugh.
+	- Well at least it has upgradeable and collectable weapons so you can upgrade to less recoil (which I didnt mention is bullshit too) and can upgrade to less reload (accidentally did recoil before reload d'oh)
+	- I remember buying house of the dead 2 on Dreamcast and the gun and being so excited ... and then so let down.  kind of for the same reasons.  Really its the reasons of jerky swaying randomized movement that can't be controlled for skill its just for me constantly and deeply frustrating hindering all enjoyment of the shooting.  I remember loving the heads and limbs exploding and thinking that was really cool, but also that it had none of the depth or excitement of time crisis or any of the feeling of mastery.  A playstation game being way better than the best dreamcast gun game?  say it isnt so!  its so. :( 
+	- I hate this game.
 
 # Games that aren't obvious #
 1. Heavy Metal FAKK2 (VorpX) - I haven't tried this but it sounds like tons of fun since I played this and had much fun with it for a while bitd.  I want to play this actually very much.
@@ -757,4 +861,7 @@ https://en.wikipedia.org/wiki/List_of_gun_games
 7. Transformers Cybertron
 8. 
 
+
+
+Soul Calibur Legends
 

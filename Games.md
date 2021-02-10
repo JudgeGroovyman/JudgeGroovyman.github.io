@@ -2546,6 +2546,23 @@ Centipede Infestation
 
 Download: Centipede Infestation, Namco Museum GC, Namco Museum Remix or Megamix Wii, Midway Arcade 1 & 2, Taito Legends, Capcom Classics, 
 or download the mame roms for those games
+Tak and the power of JUJU
+pinball
 
+ Wii Sports
+and Mario Kart
+
+ Wii Sports
+and Mario Kart
+
+Sort the games into Arcade Night so we can run them all
+pacman party too
+=======
 Add to VR note: Some sickness comes during loading instantly.  tis quite disruptive even to relatively strong stomachs.  I bet some peoples reports of VR making thme sick is because their computer paused for a few instants while it was loading 
+
+
+
+Frogger Hyper Arcade Edition (wiiware Investigate)
+Frogger Returns (wiiware Investigate)
+Transformers Cybertron Adventures
 
