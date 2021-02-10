@@ -1082,6 +1082,7 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 		- Probable but in rankings: Suggestion: I would like to see players top 10 (if not more) as well as world top 10.  I would like to see players numeric rank in world rankings (even if estimated).  A common flaw in modern games though is it doesnt save any record of how you did previously.  I mean it does if you get on the leaderboard, in this case only the top 10 are visible but that is pretty absurd.  Top 10 in the world or ... you will never know what your score was in the past, whetehr you beat your previous best, how close you were to your previous best, whether you were above your previous median, or even what your personal top 10 are so you can try to get somewhere in there.  
 		- Video Settings Bug: Changing resolution doesnt apply until you quit.  If it said that when you hit apply or in the notes on that screen it would go a long way to making it ok that it doesnt do it immediately.
 		- Cool improvement: When weapon is fists when hes running he makes a cool motion, when he jumps he shouldnt tuck in his fists he should spread them out just a bit kind of like wings.  That would feel more natural to see someone do that when they jump.  or maybe since the FOV isnt big enough to see arms spread, just flatten both hands and put one off to the side and the other out in front like they're doing a slight superman move.
+			- Update 2/5/2021 I havent played it much or at all since I beat it but I'm kind of sad, The team said that since they havent even close to made enough revenue to keep going the team will all be going different directions in 2021 and wont be developing hellbound anymore.  I dont blame them but its sad.  I think it is a great game.  They rationalized their levels (which are absolutely beautiful I might add) saying that they didnt do any of it procedurally it was all by hand making it more organic and I see what they mean, however I wonder if that cost them too much.  They said that was one of their main focuses and although I dont know how I wonder if they could have done some of it procedurally or something?  I really liked it though and am glad I bought it and played it when I did.  
 * Spelunky 8/22/2020
 	- I simultaneously thought I would like this game a lot and wanted to not like it.  I spent 30 min with it and didnt end up liking it.  Its not a fun game for me to PLAY in.  I just died too easily and I didnt feel flow to the levels.  I couldn't just goof around for even a few seconds or I would die.  I didnt get very far because I don't have the attention or care to plan each step very carefully.  I'm sure if I spent more time with it I would improve and get further and it would become easier to get further, but this just isn't the kind of game I like to play.
 * TOME4 8/23/2020
@@ -2527,11 +2528,12 @@ and Mario Kart
 Sort the games into Arcade Night so we can run them all
 pacman party too
 =======
-Add to VR note: Some sickness comes during loading instantly.  tis quite disruptive even to relatively strong stomachs.  I bet some peoples reports of VR making thme sick is because their computer paused for a few instants while it was loading 
 
 
 
 Frogger Hyper Arcade Edition (wiiware Investigate)
 Frogger Returns (wiiware Investigate)
 Transformers Cybertron Adventures
+
+C64 that I might be able to beat is Ghosts N Goblins.  Zeus can do it in a few minutes.
 
