@@ -1154,3 +1154,29 @@ Magic Candle
 
 Transformers armada energon cybertron (prime is the best one) 
 
+
+A set of fair games that would have been great for a kid like me 2-8-2021
+-------------------------------------------
+- Gauntlet3 (Continue structure?)
+- Silkworm, SWIV, Hybris, Battle Squadron
+- Cannon Fodder
+- Turrican 1,2
+- Shadow of the Beast 2,3
+- Kick Off 2 (or Goal or Sensi but not two of them - just focus on one)
+- Lotus 2,3(this one pissed me off somewhat), Jaguar XJ220 (is this one fair?)
+- Llamatron, Megaball, Scorched Tanks
+- Pinball Dreams, fantasies, illusions, or slam tilt
+- Deluxe Pacman and Deluxe Galaga
+- Lemmings
+- RoadRash
+Most of these need to be evaluated for continue structure
+- Giana Sisters and its followup heavy and ____?
+- Agony (easiest shmup on Amiga)
+- Killing Game Show (if continue structure ok) it had that awesome rewind!
+
+My 
+- Dragonstone
+
+
+
+

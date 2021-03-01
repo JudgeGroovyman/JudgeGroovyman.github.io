@@ -457,3 +457,10 @@ Preacher on dead zone 5x4 37:00
 
 * Stargate Sg1
 	- 1x1 So much sexism and bullying when Sam Carter shows up :( she handles it great but its so sad anyone has to deal with shit like that especially when its on a daily basis. I wish I had watched this show in 1994 or so I loved the movie in the theaters, but I watched for a few minutes and didnt like Hammond and didnt like that MacGyver is an asshole in this.  haha "It took us 15 years and three supercomputers to macgyver a system like this for the gate on earth".  I was surprised by the full frontal nudity I dont remember that at all
+* Transformers War for Cybertron 2x3
+	- The quintisson is a really cool creature.  A walking committee with 5 personalities all expecting concensus.
+	- Its a really cool sci fi idea that the spacebride has been open for a long time but only because a space station is halfway through it and stuck there.  
+	- "We are the only obstacle that blocks our way forward" - Alpha Trion  
+	- "Sometimes you have to blow scrap up" - Also Alpha Trion lol
+	- 2x4 and 2x5 WOW so much throwback!  Scorponok looks EXACTLY like the toy!  AND Galvatron and the galvatron conversion scene was in there.  Its so cool!  A tiny bit of Unicron!
+	
