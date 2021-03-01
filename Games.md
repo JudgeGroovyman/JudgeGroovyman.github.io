@@ -1317,7 +1317,14 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 	- the weapons are hard to figure out.  Each character has unique weapons and I think to enjoy this I'm going to need to figure out one character that I like that has the weapons I want.  Frankly I want simple missiles, mines, and boost!
 	- in order for me to like this I'm going to have to play it a lot.  Actually since its not a huge game maybe I could get really good at it in time?  maybe I could become one of the best?
 	- Atm I do not like this but I want to like it SO MUCH.  
-	
+* Revenge of the Titans mac 1/16/2021 
+	- I got this from a humble bundle years ago and the version I'm using is from 2015.  They said in a steam convo that the libraires they used are far too old to be updated so they arent going to be able to make a mac fix because they cant pay the bills as is so they cant afford to go fix an old game and I get that.  Steam has a problem though not being able to distinguish between 'mac compatible' and 'mac compatible now'.  same wiht windows obviously though to a lesser degree.  Each game should have a minimum os and a max os and if its ccompatible with the latest then the max os stands, but otherwise allow users to report if its not compatible with os updates.   I could get a steam key from my humble bundle if I want to. 
+	- regardless I just beat the easy campaign on earth and it was fun.  The final boss level I didnt like because it was too open, but many of the other levels I liked.
+	- I had to move hte download and had to use the chmod trick but then it worked.
+	- however it crashed every 10 min or so after every few levels.  If I just restarted it after every level it was fine.  I lost half a level like 3 times not a big deal.
+	- I liked it and there was TONS more customizations in the skill tree that I could go for if it were more stable 
+	- I think I like tower defense where the entry and exit points are discrete and especially where I dont have to defendd two fronts because I cant think that way and still have the same kind of fun.
+	- I got about halfway through the moon level. 
 
 	
 # Top notable purchases #
@@ -2130,7 +2137,7 @@ Mac: Big Sur Specifically (Civ 6 is out)
 
 - Not Sure:  Diablo 3 (arpg is great ?mac?), PoE (arpg is great ?mac?), Hammerwatch (arpg looks lovely ?mac?), Magicka, sacred 3, Vikings, Stronghold Crusader (RTS), Star Wars Empire at war (RTS),  Dwarfheim (RTS City Builder Co Op), Flotilla (Space Strategy), Starcraft or Warcraft 3?
 
-- Sim A: Mindustry (Mac, Turnbased, Co op, Cheap), Factorio (mac),   Anno 1404  and anno 2070 (Co Op not tagged but  widely praised on reddit as unique and excellent),   Tropico 6 (mac Co op), 
+- Sim A: Mindustry (Mac, Turnbased, Co op, Cheap), Factorio (mac),   Anno 1404  and anno 2070 (Co Op not tagged but  widely praised on reddit as unique and excellent),   Tropico 6 (mac Co op),  Kingdom Two Crown (Chill Co Op Game, mac)
 - Sim B: Construction Simulator 2015 (should be great), Rimworld (Unofficial Co Op mod), KingdomsReborn (Win, Co Op City Builder, early access probably not ideal for that reason), ymir, Satisfactory (Win Only),
 
 - Tower Defense A:  Deathtrap (Coop Campaign, not listed as co op, said to be 5/5 mustplay),   Warstone TD (Mac, Co Op (not campaign), beautiful, cartoony),  XMorph Defense (demo, like bloons but you always control the helicopter, transformers setting),  Terrorhedron ($2, not listed as co op), PixelJunkMonsters1 (mac saved his relationship (in duo defenders review)),2(prob most like bloons), McDroid (Arcade TD, mac, Campaign), Warcraft 3 TD (Starcraft too), 
@@ -2187,9 +2194,6 @@ Warstone
 mindustry
 
 
-laundry
-1877coinmach 500-bmg 
-
 
 
 Cristi High Sierra 10.13.6
@@ -2217,6 +2221,10 @@ WHOA!  Cristi might be able to run these games!
 - (Later) Peak Action Tower Defense: Deathtrap(5/5 campaign), XMorph Defense (Like Transformers, Free demo available),  HyperCharge Unboxed (like playing in a kids toy room), Dungeon Defenders (1,2,or awakened)
 - (Later) Maybe Peak: Tropico 6, Demise of Nations, Wargroove, LOTR, Terrorhedron (only $2),
 - (Later) Peak Co Op Action Adventure Games: Trine, Portal 2, Monster Hunter World, 
+
+With Marshall: Deathtrap, Hypercharge Unboxed, 
+
+
 
 
 - Investigate: Total War Warhammer, Dark Quest 2 mac, Faeria mac, Wayward (looks 8 bit) mac, Democracy 3 (single player but perfect), Conclave, 
@@ -2323,7 +2331,7 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 		- Long: HellbladeSenuasSacrifice, 
 
 
-
+- New: Popup Dungeon
 
 
 Non Peak Gaming Experiences 12/5/2020
@@ -2565,4 +2573,18 @@ Add to VR note: Some sickness comes during loading instantly.  tis quite disrupt
 Frogger Hyper Arcade Edition (wiiware Investigate)
 Frogger Returns (wiiware Investigate)
 Transformers Cybertron Adventures
+
+
+For me Feb 15: 
+Nope not now: Ring Runner, Renegade Ops, one of those three city builder games, 
+iron brigade, mcdroid, CastleStorm, No Heroes Here, Tower Wars (love the aesthetic, steampunk, mac)
+satisfactory, Fortification Tower Defense (indie, lan co op), Orcs Must Die 2, Bradbarian
+
+
+Baseball where I'm losing as many games as I can still win world series
+win: Particula (no catalina), warstone((no catalina)), terrorhedron (win), ElementTD2 (win), defense zone 2 (no catalina), defense grid (win), 
+Sleep Tight (Dual Stick shooter with childhood toys)
+Rise to Ruins (Mac, Would take too long)
+Space Run (create spaceships tower defense) (not on catalina)
+
 

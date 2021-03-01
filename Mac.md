@@ -6,6 +6,9 @@ macfix
 with
 1. `chmod +x Clone-Kitchen.app/Contents/MacOS/*` removes the "this application can’t be opened" problem
 2. `Right click -> Open -> Cancel -> Right Click -> Open -> Open` to get around the security of the mac gatekeeper
+3. If it still doesnt work then move it to the desktop (or anywhere) and try it again.
+
+Worked with Revenge of the Titans fromhumble bundle.  although its crashing every several levels :(
 
 
 What about "DungeonGenerator is damaged and cant be opened you should move it to the trash"?  The above ideas dont fix it.  I also had that problem with the mac version of aoz studio

@@ -2103,19 +2103,117 @@ Checkout Free Guitar Amp VSTs
 
 
 
+Feb 28 2021
+
+Fell in love with the quad cortex.  Probably best to sell literally everything else.
+
+What would I need/want to keep?
+I would want to sell all of my amps, tube amp, all of my pedals, all of my racks and pedalboard
+1. Sell the 
+
+How to setup a station for the qc?  
+A folding chair, a nice table, several guitar cables running to the ground that can be clipped back onto the table.  
+just pick up the expression pedal and looper (zoom?) put them on the ground no cables to plug or anything.
+A built in power strip with a single long cable that I can easily plug into the wall.
+Two little speakers mounted on stands.  pc speakers?
+Compromise: 1 bluetooth triangle speaker mounted on a bendable mic stand which sticks up 
+from the table with all cables routed really well and has power plugged into it already
+or batteries for the floor devices so no power?
+
+One thing I want to do: 1. a device to play backing tracks so it will plug into a 
+headphone amp or little mixer on the desk that the qc also plugs into right before it gets to the speaker
+and an easy way to run it out to the speaker.  
+(this could be an old phone or ipod touch but it should be built into the rig somehow)
+and 
+
+Also want the bluguitar amp1 actually.  Kind of want it more.   Its even less baggage.
+
+
+Keep the zoom to be a looper maybe?  Would it work as just a looper and a wah pedal?  
+well ... mine doesn't have wah but I could get that one.
+yeah it should, and that would be in front of the quad cortex.  
+And I will undoubtedly compare the two which would be fun.
+
+
+What would I be missing out on:
+
+What if I wanted to finish my guitar projects?
+1. Finish adjusting the nice prs action
+2. Buy a $150 reactive load and use the speaker sim that I have with the tube amp
+3. Get a good sound with that with the zoom as a compressor
+4. Get a good sound with that tube amp with the zoom amp sim as a preamp (fx loop or input)
+5. get a good sound with that with the peavey as a preamp (fx loop or input)
+6. Get a good sound with that behringer tube overdrive
+7. Get a cool stereo chorus thing going 
+8. Get a cool stereo dual or triple or quadruple overdrive thing going.
+9. Figure out an EQ pedal between the guitar and any of the fx or anything else.  
+10. Some amazing preamps (like those fet ones) especially plugged into a tube powersection.
+11. All of my fun experiments, all of the baggage associated with them.
+12. All of the other guitars I could buy
+13. All of the other amps I could buy
+14. the awesome orange micro amps that cristi loved the look of so much
+
+
+Leftover things
+
+
+1. Play more often just for fun (jamming to backing tracks)
+2. Setup a simple rig with the zoom so I can play super easily and then work the qc and amp1 or both into THAT rig
+3. play more rocksmith especially the guitar solos
+4. Practice some of the solos I care about every day.  
+	Study them and learn them by writing out the tab by hand 
+	Write my own and rip and expand on them (this sounds best)
+	Write my own based on some of my favorite solos that I cant play 
+5. Setup a super simple way to record without my laptop being around ... 
+6. Fix the battery in my laptop so I can use it for hours from my chair and studio
+
+
+
+-------------------------------------
+
+1:46am
+
+
+Simplest 1: 
+1 quad cortex.  eq pedal on the desk, great looper and wah that effortlessly move to the ground (maybe a little pedalboard for just those two things)
+What looper/wah?  Maybe the zoom that I have with an external expression pedal?  maybe even a sustain pedal? (Some have polarity switches)
+Record into my laptop with a simple usb cable from the qc
+Simplest 2: 
+Same setup but with two or three or four zooms and a chorus pedal (one on the floor for wah and looper)
+Simplest 3:
+Guitar -> stereo chorus pedal -> Zoom + vypyr (with wah) -> tube amp -> triangle speaker
+
+
+
+
+What minimum would I have to do:
+1. buy qc
+2. buy a table
+3. buy a chair
+
+
+What would be best:
+1. Sell the prs
+	How to get the best price?  Should be good on reverb $2300 free shipping.
+2. Sell everything else for cheap - or give it away to kyle or something
+
+
+
+Further Interesting gear:
+eq pedal
+chorus pedal
+keyztone exchanger pickup sim
+...
+keely darkside workstation?
+amp1
+more zooms
+korg for expression pedal wah
 
 
 
 
 
-
-
-
-
-
-
-
-
+look at 'other cool pedals' above
 
 
 

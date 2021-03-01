@@ -586,5 +586,28 @@ US Masters all
 Reverend 
 
 
+## March 2021 ##
+
+1. Eart makes an amazing headless for $299 that looks beautiful and is blue and I love it.
+2. Headless: Kiesel, NK, Eart, other obvious ones (ibanez, steinberger), Agile, Aguda, Strandberg boden,
+3. Lightweight: Harmony Rebel Flame, Musicman Majesty, 
+
+
+
+Do I want to keep this PRS S2?
+1. Sell the PRS and the PRS SE, keep the S2
+1.5 Upgrade the pickups in the s2?  If so to what?
+2. Get the eart guitar?  
+3. Get a Dean Zelinsky guitar 
+4. and get a PRS X
+5. and something super solid with just wood finish (that NK guitar fits the bill) or the s2 singlecut satin or a satin gibson sg or the s2 vela satin (HOT!)
+6. Also another guitar with an evertune bridge
+7. and get one that has a super solid strong maple neck.
+8. Also An S2 Mira or Starla taht weighs under 6lbs the s2 mccarty is frost blue and sometimes 6.5lbs
+9. I love the idea of a super lightweight telecaster.  Youcan't break that.
+
+
+
+
 
 	

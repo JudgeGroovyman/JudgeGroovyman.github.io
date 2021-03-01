@@ -1,3 +1,5 @@
+https://patorjk.com/software/taag/#p=display&f=Standard&t=
+
 <!--
   _____                    _       _            
  |_   _|__ _ __ ___  _ __ | | __ _| |_ ___  ___ 
@@ -1101,7 +1103,44 @@ https://www.pixilart.com
 
 
 
+<!--
+   ____      _                                
+  / ___|   _| |_ ___  ___ ___ _ __   ___  ___ 
+ | |  | | | | __/ __|/ __/ _ \ '_ \ / _ \/ __|
+ | |__| |_| | |_\__ \ (_|  __/ | | |  __/\__ \
+  \____\__,_|\__|___/\___\___|_| |_|\___||___/
+                                              
+-->
 
+Could perhaps use timelines or my own coroutines (thats a fine option) 
+but this feels better to me. It feels like they have figured out some of the pitfalls.  
+
+
+* [Shiroi Cutscenes](https://github.com/LunariStudios/ShiroiCutscenes) MIT license
+
+INstalling it
+I guess they have some unity dlls in their code download?  Maybe i installed it wrong?  Maybe because their installation instructions dont make sense at least with the zip file that I downloaded from github.  Lets try cloning.  Nope the clone has the same dlls.  Lots of errors in my Unity 2019.4.12f1 but lets see if those go away if I remove the shiroi.  I backed out shiroi entirely and cleaned up mmy unity and then tried to install it with the package manager but there was no unitypackage, so I'm trying renaming the folders..  Nope huge problems no matter how I do it.  Cant find itoken or worse.  Now trying a later branch called editor overhaul which I think is not going to work because I think they are trying for a visual editor.  ok it looks like the files in the libraries folder are required which makes sense but they are named unityengine.dll and unityeditor.dll and that conflicts with unitys libraries.
+Ok I'm giving up.  Probably I could use the visual studio project and build my own DLLs and then it would work ... maybe?  Nope tried that too ... Giving up.
+
+
+<!--
+  _____                         
+ |_   _|_      _____  ___ _ __  
+   | | \ \ /\ / / _ \/ _ \ '_ \ 
+   | |  \ V  V /  __/  __/ | | |
+   |_|   \_/\_/ \___|\___|_| |_|
+                                
+-->
+
+
+Going to use [Uween](https://github.com/beinteractive/Uween/tree/master) since its clearly MIT licensed.  Was using dotween and it is good but disadvantage is the license is not 100% clear and is instantly changeable by them at any time because its on the web and not in the repo.  Practically speaking this is probably not an issue, however this MIT tween library gives me an important peace of mind.  If performance becomes an issue I will re-evaluate.
+
+This was a competitor however it claims an mit license but then adds non mit rules on the readme file about redistribution which makes me uncomfortable.
+
+Uween imported into 2019.4.20f1 perfectly with no errors.  Plus its only 154k
+
+
+  
 
 
 
@@ -1202,7 +1241,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 	- EasySnap, DungeonArchitect, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, LowPolyWindUAS
 	- $40Monkey
  2. Level Generators 
-	Best: DonutStudiosAIandProceduralGeneration, DungeonizerFav, CurvedWorld2020, MapGen, MeshCombiner, LevelBuilder, MapMagic2, 
+	Best: ProceduralCaveGenerator(GH), DonutStudiosAIandProceduralGeneration, DungeonizerFav, CurvedWorld2020, MapGen, MeshCombiner, LevelBuilder, MapMagic2, 
 	Good: ExportRandomFantasyCitytoJSONBM, KretoskarUnityProceduralLevelGenerator, DungeonDiggerTileLevelGenerator
 	- Coolestthingstodivedeep: WFC, $45Archimatix, CreateFreeRandomLowPolyWorldswithYourVoiceBM(anything.world) UAS(InfinitySquareSpaceProcedurallygeneratedSpace)
  4. Level Designers Best:  
@@ -1377,6 +1416,20 @@ EnhancedScroller
 Dialogue System for Unity
 TerraWorld - Automated Level Designer
  
- 
- 
- 
+
+<!--
+  ____  _             _   _             ____       _       _   _____ 
+ / ___|| |_ __ _ _ __| |_(_)_ __   __ _|  _ \ ___ (_)_ __ | |_|___ / 
+ \___ \| __/ _` | '__| __| | '_ \ / _` | |_) / _ \| | '_ \| __| |_ \ 
+  ___) | || (_| | |  | |_| | | | | (_| |  __/ (_) | | | | | |_ ___) |
+ |____/ \__\__,_|_|   \__|_|_| |_|\__, |_|   \___/|_|_| |_|\__|____/ 
+                                  |___/                                                                
+--> 
+
+Added UWeen(MIT) and NaughtyAttributes(MIT) and ScriptInspector3(UAS) and UVFreeShader(UAS)
+Details of the first three are above
+UVFreeShader is taking a freaking eternity to import from the asset store.  ugh.  3 minutes maybe?  4?  probably 5 min now I'm trimming it down.  1. I'm getting a texture from cc0textures.com and deleting all of the existing ones from the uvfree download.  2. I'm deleting most of the shaders that came with it so they never have to all compile again.  Interesting it has inconsistent line endings warning.   I deleted everything except 2 shaders and the editor folder: pbr standard and metalliic top bottom.  Note: I deleted a lot including non batching variants and terrain variants.  Added Metal0381k from cc0textures. 
+Now I'm installing "savegamefree" from github..  I was about to install one of the several save game systems I have bought on uas but this is MIT licensed.  To be fair one of those is too but I have a better feeling about tthis one.  There was also a really good one on there called advanced save that I could use but this looks best.  There are two warnings: One about unity 2019 not supporting samsungweb player, and the other about unity 2017.2 and beyond having a slightly different command for web requests.  I dont think I'll be able to make and test fixes for these right now, I wasn't planning on testing that web requestt at all.  Its just 566k  I fixed the warnings and submitted pull requests for both.
+
+Now that im really into it Naughty attributes has a constant runtime error. `The target object is null. Check for missing scripts.`  The thing is I haven't used it at all yet its just sitting there. Maybe its installed wrong?
+
