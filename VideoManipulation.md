@@ -1,4 +1,3 @@
-# Splitting Videos 
 
 # Converting Videos #
 Format Factory seems to work pretty well on Windows.
@@ -49,3 +48,18 @@ http://img.youtube.com/vi/0D5bWfZDIgA/0.jpg
 
 Thats the image for this video
 https://www.youtube.com/watch?v=0D5bWfZDIgA
+
+
+# Joining on Mac #
+
+1. AVITools is trialware and doesnt seem to allow joining in the trial version.  It might work for $5.99 but I have no idea.  Its annoyances sure do work.  You have to wait a while to select a second file, and you cant drag files and drop without registering.  Ok I found the join feature on a separate tab and with a separate list and it onlyy works for avi files so worthless.
+2. MergeSX Crashed a lot, free version puts a huge watermark, but seems to work for certain video formats, and totally crash for others.  I did get one video merged with a huge watermark.
+3. https://www.mp4joiner.org/en/ is working pretty well for starters.  Does re encode but that should be ok.  It crashed after 5min of my first converstion.  The second one worked just fine but aspect ratio is a problem.
+
+# Splitting Videos  on Mac #
+1. movavi split movie 2 - super clumsy but totally works
+2. mp4splitter you set split points and then turn parts on or off.  I like this one even though there is some clumsiness in it too.
+
+
+
+

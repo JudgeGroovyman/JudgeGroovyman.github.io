@@ -270,6 +270,7 @@ Games
 2. http://www.vst4free.com/index.php?plug-ins=Guitar/Amp
 3. https://bedroomproducersblog.com/2012/02/21/bpb-freeware-studio-best-free-guitar-amp-simulator-vstau-plugins/
 
+see pete thorns celestion video and also the IRs section in the amps.md
 
 # Songwriting #
 ## Some song structures ##
@@ -296,3 +297,8 @@ Builds up anticipation for the chorus with instumentation or a filter or build u
 
 intro
 
+
+# AUs for Garage Band #
+
+How to find and install AUs in garageband
+https://www.youtube.com/watch?v=1zWVHq8P7sE

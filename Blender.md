@@ -90,11 +90,12 @@ Doesnt alwyas work. Sometimes select a face, select similar faces by normal inse
 ## Sprite to 3D ##
 Make it black and white (actually I had better success maxing and minniing brightness and contrast in preview, then saving and reloading and adding green tint) then in inkscape path->trace bitmap and I think single pass autotrace works, then you might have to delete the bitmap and you can tell the diff because when you select one of them it says at the bottom whether it is an image or a path
 then import the svg and scale it up in blender by 100 maybe (compare to a reference cube) then on the right in the path tab change resolution down to 2-4 or whatever to make it more low poly, 
-then geometry->extrude .01 or so or geometry->bevel depth .0002m or so (To make a tile its probably offset .001 extrude .004 bevel depth .001)
+then geometry->extrude .01 or so or geometry->bevel depth .0002m or so (To make a tile its probably offset .0001 extrude .004 bevel depth .001)
+
 then select one of hte top faces and select -> similar -> byy normal and then faces->beautify faces
 then object -> Convert ot mesh from curve then wireframe and drag select all of the sides then fatten them with 
 
-
+Triick: When editing path in blender: offset.01 extrude .01 beveldepth .001 makes a cool outline mesh with neat intersections
 
 ## Other cool things ##
 1. Join a bunch of cubes.  a Mesh/Vertex/Face Menu -> Clean Up -> Merge by Distance

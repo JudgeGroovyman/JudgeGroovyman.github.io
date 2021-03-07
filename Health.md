@@ -1,3 +1,22 @@
+
+# Working Out #
+
+Pain Threshold vs Pain Tolerance:
+High Pain Tolerance is withstanding a lot of pain.  Pain threshold is how much stress does your body have to go through before you start registering (feeling) the beginnings of the pain.  They are kind of opposites.
+
+Imagine as your body and muscles go through stresses (between 1 and 10) and start sending signals of those stresses back to your nervous system and brain, at what point 1-10 does your brain register those stresses and signals as 'pain'?  2?  5?  8?  (thats your pain threshold).
+Once they begin to register as pain, how much can you experience and live with and survive and endure before nope-ing out?  (thats your pain tolerance).
+
+My Theory: Something about the nervous system or body chemistry varies and determines our pain threshold such that even as kids they dont feel pain as early.   Imagine that Tom has a pain threshold of 2 (PT2) and Sam has a pain threshold of 7 (PT7).  Tom and Sam are playing in the sandbox in the same way and both of their muscles are doing the same motions but soon those signals begin to register to Tom (PT2) as pain and he will begin to do less and less scooping and stacking and standing and crouching and leaning and twisting, where Sam(PT7)s muscles dont register as pain yet so he keeps going (thereby naturally and without trying building more basic muscles than Tom(PT2)).  
+This applies to the heart as well so over time Sam (PT7)s heart will gain more power and enable him to naturally and without trying to do active physical things longer and generate even more natural muscle, so these things snowball.
+
+Theres a big catch that amplifies this in both directions: when you are building muscle there is a natural level of soreness associated with (as I understand it) the tearing and healing/building/rebuilding of those muscles and that soreness can register as pain.  It typically builds over time and then lessens in a curve like the shell of a turtle (likely weighted towards the earlier side), for SamPT7 as that turtle shell peaks he experiences the soreness as pain but then it restores back down to below 7 and he experiences it as simple soreness sensation again.  For TomPT2 The entire turtle shell is experienced as pain.  This matters for two reasons 1 (less significant) this means the whole process of doing the workout and the healing from it is more unpleasant for Tom PT2 than Sam PT7, but 2 (Much more important) is sleep: if your body is experiencing pain it wont/cant sleep as deep as it could/would otherwise, you might even fall asleep just fine but your body needs deep sleep to truly restore itself and heal itself and grow and thrive, so for SamPT7 the night after he has worked out his body has already ceased sending pain signals and he gets deep sleep, his muscles recover and the pain goes away faster and he is well rested and able to work out the next day, otoh for TomPT2 the pain is still being experienced by his body/brain/nervous system and the deep sleep doesnt happen as much or as deep as is needed to heal/restore those muscles quickly plus he doesnt get the deep sleep he needs to have the basic energy and alertness he needs the next day to get a good active workout then.
+
+caveats: 
+1. fortunately this soreness lessens over time as your muscles strengthen so this can be somewhat overcome in time for Tom but the process is vastly different with higher interference with his life.
+2. these things are averages so its not that every active day leads to bad sleep, but just that the advantages and disadavantages snowball and build in both directions.
+
+
 # ADHD #
 
 Making Adderall last longer: 

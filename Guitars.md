@@ -607,6 +607,14 @@ Do I want to keep this PRS S2?
 9. I love the idea of a super lightweight telecaster.  Youcan't break that.
 
 
+Options for playing
+1. Play more often just for fun (jamming to backing tracks)
+3. Play more rocksmith especially the guitar solos
+4. Practice some of the solos I care about every day.  
+	Study them and learn them by writing out the tab by hand 
+	Write my own and rip and expand on them (this sounds best)
+	Write my own based on some of my favorite solos that I cant play 
+
 
 
 
