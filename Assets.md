@@ -1168,7 +1168,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 
  QoL: Assets to improve QoL that I own but I might forget about
  ----------------------------
- 1. Some from my current TPS: DOTween, EasiestBoundingVolumes, PrimitivePlus, UVFreeShader, ComponentSaveSystem, Databox (CSVandGoogleSheets), ScriptInspector3
+ 1. Some from my current TPS: DOTween, EasiestBoundingVolumes, PrimitivePlus, UVFreeShader, ComponentSaveSystem, DataboxHB (CSVandGoogleSheets), ScriptInspector3
  2. HotReload: Moonsharp (LUA out of date but works) or Bolt ors 
  3. Guplem Essentials is pooling and super easy scriptable animations
  4. SharpNEAT (train an AI to test my games for me)
@@ -1396,6 +1396,8 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  2. FX CameraandUIShake, Audio, Parallax, MusicTracks(one per level Mario)s, ColorEffectsforSpritesandText, SwayingOrBouncingInWind
  3. Health, Death, Dialogue, SaveLoad, LevelSelect, Overworld, SceneTransitions, Pause, Checkpoints, SaveLoadLevelProgress, OverworldLevelSelect, Fracturing&Destruction, 
  4. GreatCharacterController, Shooting, MovingPlatforms
+
+
 
  PowerToolsBundle:
  ----------------------------

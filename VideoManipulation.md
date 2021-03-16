@@ -58,8 +58,25 @@ https://www.youtube.com/watch?v=0D5bWfZDIgA
 
 # Splitting Videos  on Mac #
 1. movavi split movie 2 - super clumsy but totally works
-2. mp4splitter you set split points and then turn parts on or off.  I like this one even though there is some clumsiness in it too.
+2. mp4splitter you set split points and then turn parts on or off.  I like this one even though there is some clumsiness in it too.  Update: at least when dealing with 5-10s clips it often leaves out the video content and just delivers mp4 audio :(
+3. Motion works pretty good: find clip start, cmd-d, i, space to play until the end, o, down, repeat.  Fwd and back to scan, shift fwd and back to go 10s, Shift i and Shift o to jump to selection in out.   You can create a new document by importing from the movie then it sets up resolution and stuff for you
 
 
+for mp3s this works
+`find *.mp4 | sed 's:\ :\\\ :g'| sed 's/^/file /' > fl.txt; ffmpeg -f concat -i fl.txt -c copy output.mp4; rm fl.txt`
+it takes kind of a long time though ... d'oh!  I was feeding the file back into itself on accident through the list from a previous attempt lol  so no it doesnt take a long time its super fast.
+The word 'file' needs to be at the beginning of every filename in the list which is weird imho.
+might have to use `-safe 0`
+1. `find *.mp3 | sed 's:\ :\\\ :g'| sed 's/^/file /' > fl.txt` to make the list 
+2. `mate fl.txt` to reorder things (and fix dollar signs and parens)
+3. ` ffmpeg -f concat -safe 0 -i fl.txt -c copy output.mp3`
+use `shuf fl.txt > fl2.txt`  to randomly shuffle the lines in the file `brew install coreutils` or something to install shuf
 
 
+update: This doesnt always work.  They dont import into garageband.  they die.  Quicktimeplayer isnt 100% comfortable with them either although it does play ythem.  smartconverter switches them to m4a no problem.
+have to brew doctor and brew update and brew upgrade ffmpeg to do that
+I also had to ``sudo chown -R $(whoami):admin /usr/local/* && sudo chmod -R g+rwx /usr/local/*``
+I also had to do something wiht updating ``xcode-tools --install`` or something
+
+
+What looks best of all is ffmpeg-concat which is a github which concats with GL Transitions!!!

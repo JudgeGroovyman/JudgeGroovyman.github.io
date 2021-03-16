@@ -16,6 +16,7 @@ caveats:
 1. fortunately this soreness lessens over time as your muscles strengthen so this can be somewhat overcome in time for Tom but the process is vastly different with higher interference with his life.
 2. these things are averages so its not that every active day leads to bad sleep, but just that the advantages and disadavantages snowball and build in both directions.
 
+Update: This https://www.youtube.com/watch?v=_qMNB2HWYs8 conflicts
 
 # ADHD #
 
@@ -80,6 +81,34 @@ https://www.uspharmacist.com/article/natural-powerful-antioxidants
 1. Castor Oil (easiest & best)
 2. GAPS diet with bone broth and meat with a specific difficult diet for several months
 3. 
+
+
+
+digestive superfoods
+cabbage (because of Lglutamine)
+L-Glutamine shields from mycotoxins (5000mg of lglutamine)
+Marshmallow (with lglutamine nourish and protect and soothe the gut)
+Capers (because of quercetin) (need 500mg of quercatin a day)
+————————————
+Quercetin 500mg
+LGlutamine 5000mg
+Marshmallow 150mg
+https://joeelo.s3-us-west-1.amazonaws.com/gutconnect-vanilla-supp-facts.png
+The long sales video:
+https://www.yourgutreboot.com/GC-mom/?source=a2f262cc-eb8f-4d8e-8914-da0960e49faf&s5=d0e95gr9l1d0mk262k8pcd8g&s2=OutBrain
+
+
+
+Kudzu burdock milk Thistle
+irish sea moss
+spirulina
+barley grass
+Wheat Grass
+acv concentrate
+
+Also if I want alkabalance
+https://www.sourcenaturals.com/products/GP1816
+https://app.unitednaturals.com/checkout/gutconnect?source=a2f262cc-eb8f-4d8e-8914-da0960e49faf&s5=d0e95gr9l1d0mk262k8pcd8g&s2=OutBrain&VIDEO=-ALT-irgQ&LANDING_PAGE_ROUTE=GC-mom&TRAFFIC_SOURCE=a2f262cc-eb8f-4d8e-8914-da0960e49faf&DOMAIN=www.yourgutreboot.com&BRAND=gutconnect&hide_coupon=1
 
 
 
