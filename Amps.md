@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
                                           _____         _       _     
      /\                           ___    |  __ \       | |     | |    
@@ -247,6 +248,7 @@ Other Options
 # Big Tube Amps #
 This section keeps track of good big tube amps which can be amazing however are also almost certainly not what I want for my needs and purposes (as of 2019/2020 at least)
 
+- $800 Fender Blues Deluxe (45lbs 1x12 classy tweed)
 - $200 Peavey Classix VTX Head (Vintage 1980s, Beautiful cleans, super weighty, probably would need tlc)
 - $220 Blackstar HT5RH (27lbs, 20Wx9Dx9H, Amazing)
 - $275 Vypyr Tube 120H Head (40lbs)
@@ -365,21 +367,26 @@ Dont know the size of these boobies
 
 Everything from the headphone section above plus the following
 
-## Gold Medals ##
-- $150 Joyo Bantamp: Bluejay (Fender cleans, FX Loop, Headphones on rear, )
-- $260 VHT Special 6 Ultra Head (17.5lbs, 15Wx8Dx9.5H, Great Fender Cleans, FX Loop, Line out, Footswitchable, Amazing handwired, wattage select, quotes below)
-- $200 Mooer little monster (all tube, 8Wx5Dx5H headroom for days, [great with pedals](https://youtu.be/6Wqn6i5iCec?t=1857))
+## Gold Medals Round 2 ##
+- $599 Blackstar Studio 10 (33lbs, Lovely Classic Teal Green, FX Loop, Speaker cable accessible, emulated out)
 - $450 Fender Pro Junior (22.85lbs, 2lbs more than my cube but the tone is reportedly so sweet and the pedal takeability is unrivalled)
-- $400 Orange OR15 (17lbs, 16Wx9Hx7D Buffered FX Loop, 7/15W, Orange Case with handle)
-- $400 Vox AC4 Combo (23lbs, 16", Classy cream or blue)
+- $500 Vox AC4C1-BL (20lbs, 16") (Also sold in classy creme)
+- $550 Orange Rocker 15 Terror (15lbs, attenuator from 15/7/1/.5W "From Bedroom To Headroom”)
+- $999 Victory BD1 (28W Lunchbox, FX Loop)
+- ------
+
+
+## Gold Medals ##
+- $260 VHT Special 6 Ultra Head (17.5lbs, 15Wx8Dx9.5H, Great Fender Cleans, FX Loop, Line out, Footswitchable, Amazing handwired, wattage select, quotes below)
 - $400 Fender Blues Junior (31lbs, Great tone my workouts will help though)
-- $550 Orange Rocker 15 Terror (15lbs, attenuator from 15/7/1/.5W "From Bedroom To Headroom)
+- $649 Orange OR15 (17lbs, 16Wx9Hx7D Buffered FX Loop, 7/15W, Orange Case with handle)
 - $600 Fender Princeton (34lbs)
+- $150 Joyo Bantamp: Bluejay (Fender cleans, FX Loop, Headphones on rear, )
+- $200 Mooer little monster (all tube, 8Wx5Dx5H headroom for days, [great with pedals](https://youtu.be/6Wqn6i5iCec?t=1857))
 - $600 * Mesa Transatlantic 15 (12lbs, 6Hx12.5Wx7D, Lunchbox, Wattage Configurable by Channel)
 - $650 PRS Mark Tremonti 15W
 - $800 * Mesa Boogie Mini Rectifier (900 used, 12lbs)
-- $800 Mesa Boogie Express 5:25 (25W, 9.25Hx19Wx11.25D, Fits on my shelves barely, Great cleans (equal to or better than the mark), less Distortion)
-- $750 Victory BD1 (28W Lunchbox, FX Loop)
+- $800 Mesa Boogie Express 5:25 (27lbs, 25W, 9.25Hx19Wx11.25D, Fits on my shelves barely, Great cleans (equal to or better than the mark), less Distortion)
 - $1200 Rectoverb (Wonderful)
 - $1229 Victory V40 'The Duchess'
 
@@ -489,19 +496,23 @@ Everything from the headphone section above plus the following
 -->
 ## Tiny Solid State Amp heads ##
 
+## New Winners ##
+- $200 Quilter Interblock 45 (45W, amp power amp, takes pedals great, aux in, headphone out)
+- $120 Quilter MicroBlock 45 (33W, Power amp, takes pedals great, aux in, headphone out, [Great Tones](https://youtu.be/qoXGA-C-kjs?t=248)
+- $250 Quilter 101R (50W, "A Quilter 101R is a great pedal platform amp that can play at any volume. The limiter really allows you to smash the preamp without getting too much breakup, giving it that same feel as a cranked Fender Twin.", needs cab sim for headphone out)
+- $499 BluGuitar Amp1 Tube Amp Head (Truly not a sim.  Actual legit amp. 60w, 2lbs, headphone out legendary tone)
+- $400 h&k ampman to list (all analog)
+- H&k spirit mini amps
+- $849 V4 Victory Dutchess - Pedal Amp - 4 tube preamp, 180 watt Ss poweramp, FX Loop, 500ma/9v pedal power plug on the back to power another pedal, balanced line out, footswitch for tremolo, fx loop, 4ohm 180w, Will run happily without an amp load (says so on their ad site) 
+- $99 Quilter Phantom Block (Not an amp.  Plug your pedalboard tone into this.  Sends a balanced XLR signal out to FOH or a PA using phantom or pedal power)
+
+
 
 ### Winners ###
 - ---------------------------------------------------------------------
 - $60 EHX 5mm Power Amp (2.5W, Volume, Bright switch)
-- $120 Quilter MicroBlock 45 (33W, Power amp, takes pedals great, aux in, headphone out, [Great Tones](https://youtu.be/qoXGA-C-kjs?t=248)
-- $200 Quilter Interblock 45 (45W, amp power amp, takes pedals great, aux in, headphone out)
-- $250 Quilter 101R (50W, "A Quilter 101R is a great pedal platform amp that can play at any volume. The limiter really allows you to smash the preamp without getting too much breakup, giving it that same feel as a cranked Fender Twin.", needs cab sim for headphone out)
-- $499 BluGuitar Amp1 Tube Amp Head (Truly not a sim.  Actual legit amp. 60w, 2lbs, headphone out legendary tone)
-- $400 h&k ampman to list (all analog)
 - $100 Hotone Siva Boogie (Shiva Clean) (5w, Bogner Shiva clean tones, huge headroom, perfect mini pedal platform, FX Loop)
-- $100 Hotone Freeze B (5w, Headphones, Friedman sounds, fx loop) Chapmans Favorite when he was playing it.  They sent the wrong one: the Eagle and its ok but the headphone out doesn't sound that good.  Its slightly speaker simulated but not great.  lets try it with my speaker sim:
-- H&k spirit mini amps
-- $849 V4 Victory Dutchess - Pedal Amp - 4 tube preamp, 180 watt Ss poweramp, FX Loop, 500ma/9v pedal power plug on the back to power another pedal, balanced line out, footswitch for tremolo, fx loop, 4ohm 180w, Will run happily without an amp load (says so on their ad site) 
+- $100 Hotone Freeze B (5w, Headphones, Friedman sounds, fx loop) Chapmans Favorite when he was playing it.  They sent the wrong one: the Eagle and its ok but the headphone out doesn't sound that good.  Its slightly speaker simulated but not great.  lets try it with my speaker sim?
 
 
 ### Second Place ###
@@ -515,7 +526,6 @@ Everything from the headphone section above plus the following
 - $150 Joyo Zombie - Mesa Heavy not much clean
 - $150 Vox MV50 (50W, NanoTube, Headphone Out, Tiny, AC sounds great, Cool VU Meter to keep sounding consistent, many varieties)
 - $700 Milkman The Amp (50W, one tube, headphone out with cab sim, sounds amazing!)
-- $150 Quilter Phantom Block (Not an amp actually but lets you use phantom power to get your pedalboard to the PA)
 
 
 ### Runners Up ###
@@ -585,7 +595,7 @@ Everything from the headphone section above plus the following
 
 - good solid state amps https://youtu.be/0GZ0522lv5s peavey bandit, jc, fender deluxe + 112, studio pro 112, gig worthy, sound great in a live mix, sound awesome with pedals, and they just work.
 
-$900 Fender Tone Master Deluxe Reverb (Blonde is hot!  )
+- $900 Fender Tone Master (Tonemaster) Deluxe Reverb (Blonde is hot!  XLR Out for noise free recording, Only 23lbs)
 
 - $50 Peavey Rage 158
 - $200 Yamaha THR10X (6lbs I instantly loved the original when I plugged in a few years back.  I thought it was tube but I just loved the whole package.  This one is tuned towards modern metal) 
@@ -656,7 +666,7 @@ more tutees
 - Katana Sneaky Amps "Katana's additional amps and effects, (some call sneaky amps) are accessible using the non-boss software KATANAFxFloorBoard."
 - Katana not GT100 "I had a Gt100 for a couple years and I could not make amp models work for me all that time, direct to the board or through effects loop return on my amp with cab modeling bypassed. I connected effects loop send of my katana head to the same amps effects return and it was thick, creamy, punchy, alive.. so according to my observations, it's not. Maybe modeling part shares some guts but there is something more going on with Boss now."
 - Katana - That Pedal Show during their wet dry videos talk about the inherent tiny delay in the katana and all other digital amps.  Its not noticeable to the ear on its own (note: I believe it is noticeable to the brain and thats 75% of the reason tubes are considered better is their instantaneous response to the fingers) but its noticeable when you get to working in stereo with other non delayed amps
-- "Not gonna lie, this was very frustrating for me, and took quite some time. So try this, open your DAW of choise i personally use reaper. You need ASIO4ALL. Enable ID:Core Amplifier and try both 44.1kHz and 48kHz. I personally set ASIO buffer size to 224 Samples. But this might not work for everyone. Tick 'Always Resample 44.1 - 48kHz' And just see if the crackles gets worse or not. Then just try increasing or deacresing buffer size. When i was trying to fix this i had to find a really percise buffer size that worked for me. And if i change my buffersize just a littlebit i start to get crackles again. So just try changing it by very little."
+- Blackstar ID:Core "Not gonna lie, this was very frustrating for me, and took quite some time. So try this, open your DAW of choise i personally use reaper. You need ASIO4ALL. Enable ID:Core Amplifier and try both 44.1kHz and 48kHz. I personally set ASIO buffer size to 224 Samples. But this might not work for everyone. Tick 'Always Resample 44.1 - 48kHz' And just see if the crackles gets worse or not. Then just try increasing or deacresing buffer size. When i was trying to fix this i had to find a really percise buffer size that worked for me. And if i change my buffersize just a littlebit i start to get crackles again. So just try changing it by very little."
 
 
 
@@ -781,7 +791,7 @@ Like the preamp section of an amp but in a pedal.  Most of these can feed a powe
 1. $299 Keeley Tone Workstation (Compression, Drive, Overdrive, Boost, the entire front end of the signal chain)
 1. $499 V4 Victory Kraken/Copper/Sheriff/Countess/Jack Pedal Preamp, 4 tubes, even the valves have a 2 year warranty (theyve heavily tested them)(v4 Victory Jack or "v4 Victory The copper" or "v4 Victory The sheriff" same deal, maybe the countess), built in treble boost
 1. $499 Carvin Legacy Drive (Steve Vai)
-
+1. Blackstar HT Pedal Tube Series
 
 
 ### Second Place ###
@@ -1671,15 +1681,18 @@ Mini Amps
 Amps
 1. Peavey Vypyr (All VIP Series iirc, USB-B, Some like my VYPYR30 have USB out on the front)
 1. Blackstar ID:core 10 (8lbs, sends DI signal too!  can re-amp!  mac sw not supported on catalina, was real exciting until i figured that out, but theres no support and I cant trust it now)
+1. Blackstar HT1 (USB Audio with speaker emulation)
+1. Blackstar HT5 (USB Audio with speaker emulation)
 1. -----
 4. Marshall Code ($250)
 5. Fender mustang ($150), or used GT or mustangIv2 (configuration software doesnt work)
-5. Fender mustang GT40, GTX50, GT100, GTX100 and GT200 all have USB out and also iOS configuration
+5. Fender mustang GT40 (18lbs vypyr is 23lbs!), GTX50, GT100, GTX100 and GT200 all have USB out and also iOS configuration
 6. Boss Katana ($249 for 50w $349 for Head has USB-B) (configuration wont work on latest macos :( drivers might arent supported but are in 10.15.  Tone Studio)
 7. Line6 Spider V ($129)
+8. $430 Blackstar Silverline Standard 1x10 (USB 4ch with dry)
 1. -----
 1000. Vox VT (Update: no usb recording :( )$180 and the software and options and panel looks freaking amazing on this one)
-#Dude
+<!-- DUDE1 -->
 
 Other
 Mixers and headphone mixers and amps on amazon
@@ -1689,10 +1702,10 @@ Mixers and headphone mixers and amps on amazon
 1. Boss GT1000Core: Last updated Oct2020, M1 macs not yet supported
 1. Zoom: Zoom software (at least for the gce3) works on mac.  Confirmed on my mac.    
 10. Blackstar: id:Core and:series have great software but its based on microsoft silverlight so doesnt and wont work on mac :( I tried installing it on my mac and after forcing me to install mono several times (and i already had it installed) and restarting it still wouldnt install the actual software.  
-1. Fender Mustang: Fender Tone software works on mac Big sur.  
+1. Fender Mustang: Fender Tone software works on mac Big sur.  PLUS theres an iOS app with great reviews for GT and GTX
 10. Vox VT doesnt have usb recording.  Tone Librarian software doesnt work on Big Sur :( (tested - it has 0 on its icon and wont run
 1. Comments: It seems like most of these neglect to update their software for their older units but I dont exactly blame them since many of their customers (windows users) wont have the same set of problems.  Most of them that have mac compat at least have it compatible with the latest OS for their latest products.  Blackstar seems to be the exception here.  
-1. NuxMG30 and MG300 QuickTone software works on Mac (tested both)
+1. Nux MG30 and MG300 QuickTone software works on Mac (tested both)
 1. Here this guy [uses nux mg300 to play rocksmith](https://www.reddit.com/r/rocksmith/comments/kd8u4f/play_rocksmith_with_nux_is_awesome_great_sound/) "Connect pedal via usb,install asio drivers, configure nux interface in rs_asio.ini Download and run QuickTone, in the usb settings choose the dry mode.In this mode you send clean tone from your guitar directly to rocksmith. Run Rocksmith and turn off your guitar sound in the mixer. Choose preset in nux or make your own sound - and play rocksmith. And thats all! Nux is mixing rocksmith output with fx tone in stereo, all feutures in rocksmith 100% working, great sound modelling with impulse response, no latency problem!"
 1. Comments: None that I am aware of (even line6) are compatible with M1 macs yet.  I wonder who the first will be?  I suspect Line6 or Fractal, 
 1. Yamaha THD apparently earlier versions used to have wet dry 4 channel audio with a steinberg driver https://www.jazzguitar.be/forum/recording-music-software/79906-usb-out-yamaha-thrii.html
@@ -1700,7 +1713,7 @@ Mixers and headphone mixers and amps on amazon
 1. Mooer GE300 software says its only ycompatible with 10.15 and does seem to run on Big Sur although couldnt find the device so it instantly closed. 
 1. Valeton GP100 software works on Big Sur.  in Taylor Danleys video he shows how to make the usb signal dry too!
 1. [Using XSonic XTone with iPad](https://thesweetsetup.com/playing-guitar-from-my-ipad/)
-
+1. Fractal FM3 Editt software is updated in March 2021 and is compatible with Catalina which is a promising note about them keeping it up to date with future versions of macos and the m1
 
 
 
@@ -2350,7 +2363,6 @@ I'm having more fun using garageband as a looper actually and its super easy to 
 	1. $149 Fender Mustang LT25 (No wah, mac compatible?, )
 	2. $349 Boss Katana Head
 	2. $249 Boss Katana 50 26lbs
-#Dude
 	3. $129 Blackstar ID:core 10 (Sends DI signal too!  can re-amp later, no mac software)
 	4. $799 Yamaha dual head?
 1. Just a somehow super quiet interface and plugins
@@ -2415,7 +2427,6 @@ Ideals
 
 
 
-
 Mar 16 2021
 Yesterday I made a spreadsheet that is helping me get this all through my head
 
@@ -2429,18 +2440,76 @@ Yesterday I made a spreadsheet that is helping me get this all through my head
 	1. Advantages: Lowest possible baggage
 	2. Disadvantages: Cost.  Not sure which one since there are disadvantages to each.  
 4. I like the idea of using the amps I have here in parallel
-	1. Advantages: No cost.  Start today (almost).  Fantastic tones and responsiveness.
+	1. Advantages: No cost.  Start today (almost).  Honestly great tones and responsive
 	2. Disadvantages: Complexity of setup.  Inflexibility of setup.  
 5. I like the idea of several amps or amp sims on a rack or table or floor
 	1. Advantages: Loads of flexibility.  Relatively low baggage.
 	2. Disadvantages: Cable baggage.  Complexity of interface.  
+6. I like the idea of having an epic unit on a rack so I can twiddle with the dials with a little floorboard pedal 
+
+
 	
 Start with $300 for an interface and $100 for an ABY
 - $900-1200 Option: (Atomic Amplifire or BluGuitar Amp1 or H&K Tube amp or Laney IRT Pulse) in parallel with both into an interface (Boss GT001)
 - $100 for accessories for hooking up (Vypyr VIP1, Vypyr 30, Cube 30, H&K Tube, Zoom G1xfour, Pinnacle, Cab Sim, HotTone Eagles Heart, Joyo American Sound, Behringer Vintage monster)
 - $150 for (Vypyr VIP1, Vypyr 30, Cube 30, Mustang, Blackstar )
-- 
+- TODO test phone with guitar and irig in the car away from our apartment with garage band
+- $350 for (Boss Pocket GT, NuX Mighty Plug, Fender Micro Mustang) 
+
+
+<!-- DUDE2 -->
+
+
+Coolest amp in the world Blackstar HT Club 40 Mark II - 40-watt 1x12" Tube Combo Amp - Black and Blue Edition but 53lbs 
+
+All the things I want:
+1. Two large but super lightweight premium ultra classy amps stacked on top of each other
+2. Two tiny amps on different sides of the room for stereo
+3. Two stereo amps for an incredible array of combined tones
+4. Footswitch that doesnt get in the way at all
+5. Pressure pedal for wah
+6. One small unit
+7. Simple transparent clean into laptop for plugins
+8. Configure via ipad
+9. Configure via mac
+10. Configure via windows
+11. Configure via M1 mac
+12. Simple amp with all controls simple on the front
+14. Amp controls at eyey level pedals on the floor wireless or great routing
+15. High gain sounds better than the vypyr
+16. Clean sounds better than the Zoom
+17. Two devices with Midi switching so it switched both to my favorite sounds
+18. Looper fully controllable from the floor
+19. Easy to push midi switches for controlling my rig
+20. A single table or rack workstation with or surrounding my laptop.
+21. Getting some of the inexpensive devices to sound like angels singing
+22. Maximizing what I have right now to make an amazing rig
+23. Not having to sell anything because I’ve leveraged it so extensively
+24. Extensive Drum Machine
+25. Several FX Chains and tones merged into my tube amp
+
+Devices I want all at once because they are cool:
+1. Amplifire (Satchel!)
+4. Fender Tonemaster Deluxe Reverb Blonde (XLR, 23lbs)
+999. ----- Want because its Sexy
+2. $399 Fender Pro Jr (23lbs)
+2. $499 Vox AC4C1-BL (20lbs, Beautiful Classy Blue)
+2. $899 Blackstar HT Club 40 Mark II Black and Blue Edition (Beautiful Baby Blue 53lbs)
+2. $599 Blackstar HT20R MkII (classy Trafalgar Blue 41lbs)
+2. $599 Blackstar Studio 10 (33lbs, Lovely Classic Teal Green)
+2. Helix
 
 
 
-x
+
+
+
+
+
+
+
+
+
+
+
+
