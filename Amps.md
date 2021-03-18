@@ -611,7 +611,7 @@ Everything from the headphone section above plus the following
 - $900 Fender Tone Master Deluxe Reverb (23lbs, Blonde is hot!  XLR Out for noise free recording)(Tonemaster)
 - $350 Boss Katana 100 Head ($350) (19.4lbs, 18.5Wx8.5Hx9D, Small speaker built in, external foot controller with external expression pedal from the footswitch)
 - $230 Boss Katana 50 (25lbs, 18.5", GA-FC Foot Controller with Expression pedal, and Boss Tone Studio Software) (Great tones, PC configurable, "Boss is a pedal company and seems to have gone to great lengths to make a modeler that plays well with pedals")
-- $514 Boss Nextone Stage (Mac software, USB Dry signal)
+- $514 Boss Nextone Stage (30lbs Mac software, USB Dry signal)
 
 - $450 Roland JC-22 (29lbs, 9Wx9Dx7H, stereo, stereo FX Loop, 2x6.5" speakers, Footswitch for chorus and reverb, lunchbox, headphones)
 - $500 Roland Blues Cube Hot (28-33lbs some are blonde, one channel, 210 or 112, so classy, great tones, 59 tweed bassman, simple footswitch, phones, line out, USB Recording, built in attenuator, one channel, some models have a boost (Boss drive special), no fx loop)
@@ -1596,6 +1596,7 @@ Headphones with low impedance (<25Ohms) require little power to deliver high aud
 - "I agree that changing the IRs in the Amplifire makes a big difference. They are stock matched cabs in this video, but when I've recorded and gigged with the AA3 I've used third party cabs, usually Michael Britt's."
 - "Saw a clip today of the Axe II, Amplifire and Zoom G3n doing Plexi tones. Once the same OwnHammer impulse was added, they all sound spot on to each other" [AXEFX vs Amplifire vs Zoom G3x](https://www.youtube.com/watch?v=EtZlAzVQ7EE)
 - “You can get the Two Notes Wall of Sound plugin just by buying one impulse response from them (which I think one of them is around $12) and the WoS plugin gives you the option to add a power-amp section along with the speaker impulse. So you wouldn't lose anything by not using the amp's power section. “”
+- “To quickly audition blends, you can record the Amplifire with cabs turned off, put it on loop in your DAW, then use a free IR convolver like NadIR that can load dual IRs and experiment.”
 
 # Lightweight Cabs #
 
@@ -1629,8 +1630,8 @@ Ola cares about Latency and about Noise (EIN [EIN Tests and samples](https://you
 
 Dedicated
 
-1. $199 SSL [-130.8EIN](https://youtu.be/DOT5eFx_G3s?t=256) ... otoh Ola said it was ['really really loud'](https://youtu.be/3bsCb6WFInw?t=345).  Its better than the Audient in a 500 reamp test
-1. *$199 Audient ID4 -130 (AMAZIING)
+1. $199 SSL 2[-130.8EIN](https://youtu.be/DOT5eFx_G3s?t=256) ... otoh Ola said it was ['really really loud'](https://youtu.be/3bsCb6WFInw?t=345).  Its better than the Audient in a 500 reamp test
+1. *$199 Audient ID4 -130 (AMAZIING) (use the wheel as a controller) (one video comparison reported that it lost more tone after 500 reamps than the SSL)
 1. *Native Instruments Komplete Audio 2 -129EIN (audio 1 has same EIN)
 1. *$79 Behringer UMC202HD (-129.1EIN one of the lowest noise performances out ther eis the UCMC202HD [testing the noise of the umc202hd](https://www.youtube.com/watch?v=YquAMkHJYjA&t=233s))
 1. $250 XSonic XTone (high quality tone, expression pedal, midi, control ipad or anything else)
@@ -2483,6 +2484,7 @@ Start with $300 for an interface and $100 for an ABY
 - TODO Test recording with my windows and then sending to the mac.  
 - TODO Check Peavey headphone jack far away from electricity for the same hum/whine
 - TODO Get a shielded cable
+- TODO Test the Vypyr 30
 
 <!-- DUDE2 -->
 
@@ -2519,61 +2521,99 @@ All the things I want:
 
 
 Devices I want all at once because they are cool:
-1001. -----
-2. Peavey Piranha + Orange MicroTerror
-2. Tech21 Trademark 10 (11lbs XLR Out)
-2. Blackstar ID:Core 10 (USB dry)
-2. Nux Mightyplug (iOS Controls, USB)
-2. Fender Micro Mustang (iOS Controls, USB)
-2. Fender Mustang LT25 (15lbs, USB, Mac Controls)
-2. Fender Mustang GT40 (17.3lbs, USB, iOS Controls)
-2. Quilter Phantom Block (Pedal tone to XLR)
-3. $300 Boss GT001 (Guitar dry signal, double amping, XLR for tube amp, synth)
-3. Blackstar ID:15 TVP (25lbs, USB Dry)
-3. Boss pocket GT (iOS Controls, USB)
-3. $300 Amplifire (Satchel!) 
-3. $350 Laney IRT Pulse (USB Dry)
-3. $350 Boss Katana 100 Head (20lbs)
-3. $250 Boss Katana 50 (26lbs)
+
+
+
+999. ----- Already In Apartment
+1. $99 Zoom G1xFour
+1. $150 Peavey Vypyr VIP1
+1. $350 H&K Tubemeister (XLR Silent)
+
+
+
+999. ----- For this Apartment now
+3. $300 Boss GT001 (USB Dry, Mac Controls, Double amping, XLR for tube amp, synth)
+
+
+
+999. ----- Apartment Studio Version A
+3. $200 Audient ID4 Interface
+100. ----- Tiny
+2. $89 Zoom GCE3 (Mac control, USB)
+3. $260 Boss pocket GT (iOS Controls, USB)
+1. $350 Laney IRT Pulse (Tube, USB Dry)
+00. ----- Amps
+2. $130 Blackstar ID:Core 10 (USB dry)
+2. $150 Tech21 Trademark 10 (11lbs XLR Out)
+3. $270 Fender Mustang GT40 (17.3lbs, USB, iOS Controls)
+5. $920 Laney L5 Studio Lionheart (Classy blue, USB Dry out, Silent, New)
+100. ----- Flat Amps
+4. $720 Boss GT1000Core (Mac Control, USB Dry, Dual Amp)
+
+
+
+999. ----- Apartment Studio Version B
 3. $200 SSL2 Audio Interface
-4. $600 BluGuitar Amp1
-4. $700 Yamaha THR100HD (11lbs, Dual amps, classy)
-4. $900 Fender Tonemaster Deluxe Reverb Blonde (XLR, 23lbs)
-4. $720 Boss GT1000Core
+100. ----- Tiny
+2. $89 Nux Mightyplug (iOS Controls, USB)
+2. $99 Fender Micro Mustang (iOS Controls, USB)
+3. $300 Peavey Piranha + Orange MicroTerror
+100. ----- Amps
+2. $150 Fender Mustang LT25 (15lbs, USB, Mac Controls)
+3. $399 Ibanez TSA5TVR (18lbs, classiest amp ever: cream and teal)
+3. $460 Blackstar ID:15 TVP (25lbs, USB Dry)
+100. ----- Flat Amps
 4. $750 Line6 HX Stomp XL
-4. $600 Zoom G11 (Software + iOS, Usb Dry )
-5. $999 Laney L5 Studio Lionheart (Classy blue, USB Dry out, Silent)
-5. $1029 Boss GT1000
+5. $999	Fractal FM3 (Mac Control, USB Dry, Dual Amp)
+
+
+
+
+999. ----- Apartment FlyRig Version A
+2. $200 Quilter Interblock 45 (45W, takes pedals great, aux in, headphone out)
+2. $99 Quilter Phantom Block (Pedal tone to XLR)
+999. And one of these
+3. $300 Amplifire (Satchel!, XLR Out) 
+4. $600 Zoom G11 (Mac Control + iOS, Usb Dry)
+5. $1029 Boss GT1000 (Mac Control, USB Dry, Dual Amp, iOS)
+999. ----- Apartment FlyRig Version B
+1. $200 Wampler Pinnacle
+2. $849 V4 Victory Dutchess (180W, Tubes)
+2. $99 Quilter Phantom Block (Pedal tone to XLR)
+
+
+
+
+999. ----- Want In a Medium Studio
+100. ----- Tiny
+100. ----- Amps
+3. $499 Vox AC4C1-BL (20lbs, Beautiful Classy Blue)
+3. $599 Blackstar Studio 10 (33lbs, Lovely Classic Teal Green, FX Loop, barebones)
+3. $399 Fender Pro Jr (23lbs)
+2. $250 Boss Katana 50 (26lbs)
+3. $350 Boss Katana 100 Head (20lbs)
+3. $514 Boss Nextone Stage (30lbs Mac software, USB Dry signal)
+4. $679 Blackstar HT20R MkII (36lbs, classy Trafalgar Blue, USB Audio, XLR)
+4. $900 Fender Tonemaster Deluxe Reverb Blonde (XLR, 23lbs)
+4. $700 Yamaha THR100HD (11lbs, Dual amps, classy)
+100. ----- Flat Amps
+4. Olas best Guitar Interface
+2. $300 Zoom G9.1ut (Tubes)
 5. $1699 Line6 Helix
 
 
-999. ----- Want In Apartment
-
-
-999. ----- Want In a Small Studio Room
-
-
-999. ----- Want In a Medium Studio Room
-
-
-
-
-999. ----- Want In a Huge Studio Room
-2. $300 Zoom G9.1ut (Tubes)
-2. $399 Fender Pro Jr (23lbs)
-3. $399 Ibanez TSA5TVR (18lbs, classiest amp ever: cream and teal)
-2. $499 Vox AC4C1-BL (20lbs, Beautiful Classy Blue)
-2. $899 Blackstar HT Club 40 Mark II Black and Blue Edition (Beautiful Baby Blue 53lbs)
-2. $599 Blackstar HT20R MkII (classy Trafalgar Blue 41lbs USB Audio)
-2. $599 Blackstar Studio 10 (33lbs, Lovely Classic Teal Green)
-2. $800 Mesa Boogie Dual Rectifier (100W, 26Wx10Dx10H)
+999. ----- Want In a Huge Studio Room where money is no object
+100. ----- Tiny
+100. ----- Amps
+2. $899 Blackstar HT Club 40 Mark II Black and Blue Edition (Beautiful Baby Blue 53lbs, )
+2. $1200 Mesa Boogie Dual Rectifier (100W, 26Wx10Dx10H)
 2. $1600 Mesa/Boogie Rectoverb head (19lbs, classy blue and tweed so beautiful)
 2. $2100 Mesa/Boogie California Tweed 6V6 4:40 Tube Combo Amp (Baby Blue, 49lbs)
+100. ----- Flat Amps
 2. $2400 AxeFX3 (dual amps, this just has everything)
 
 
-
-
+idea: sell amazon wraparound bridges on ebay and reverb for every specific model of guitar
 
 
 
