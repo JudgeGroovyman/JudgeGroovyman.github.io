@@ -265,12 +265,54 @@ Games
 
 # Amp Sims #
 
+[Why Guitar Amp Sims Matter](https://www.musicianonamission.com/guitar-amp-simulators-vs-real/)
+"Why? Four reasons.  1) You don’t have to worry about room acoustics. 2) You don’t need a microphone. 3) You don’t have to worry about noise. 4) If time is a constraint, you have a wide range of tones available in a matter of SECONDS."
+
+Eliminating the latency problem is possible: https://youtu.be/FRrzLXuMtRo?t=294 2.16ms via quad cortex
+
 ## Investigate These Amp Sims ##
 1. https://www.musicianonamission.com/guitar-amp-simulators-vs-real/
 2. http://www.vst4free.com/index.php?plug-ins=Guitar/Amp
 3. https://bedroomproducersblog.com/2012/02/21/bpb-freeware-studio-best-free-guitar-amp-simulator-vstau-plugins/
 
-see pete thorns celestion video and also the IRs section in the amps.md
+
+ Paid Plugins
+1. Free [Bluecat Amp](https://www.bluecataudio.com/Products/Product_FreeAmp/) for cleans, classic, and modern
+1. $299 [Bluecat Axepack](https://www.bluecataudio.com/Products/Bundle_AxePack/) this is everything: Amp Sim, FX, Pickup sim, Feedback Sim (for infinite sustain), and more!
+1. Free Neural DSP demo
+1. $129 Neural DSP Soldano or Nolly or PBO Granophyre or Fortin Cali last two both have 10/10 reviews!
+2. Free [STL Ignite Emissary](https://www.stltones.com/products/stl-ignite-emissary-plug-in-bundle) Best free metal plugin.
+4. $10/mo STL Ignite AmpHub
+5. Test them all with big Sur
+1. ------
+4. $65 [Marshall Valvestate](https://honestampsimreviews.com/2020/09/29/audiority-solidus-vs8100/) 10/10! wow!
+2. $250 https://overloud.com/products/th-u-full (Multiple amps I think. tons of options)
+3. $399 Helix native ($99 if you have an hxstomp)
+4. $199 BlueCat Axiom (multiple lines mixing, amp sim, pickup sim, two amp sim channels that can be mixed, 44fx in 32 slots, )
+1. * $79 [Acoufiend](https://www.bluecataudio.com/Products/Product_AcouFiend/) for a fernandes sustainer in an effect!  like standing by the amp!
+1. $99 Bluecat Destructor (Demo inserts .5s of glitch per minute)
+1. $10/mo Ignite AmpHub
+1. $19 [Kuasa Vermillion]https://www.kuassa.com/products/amplifikation-vermilion/https://www.kuassa.com/products/amplifikation-vermilion/) Great fender tones
+
+4. Free [Auditory L12x](https://honestampsimreviews.com/2020/03/09/audiority-l12x/) is a great little Marshall sim
+1. Free [Bluecat Amp](https://www.bluecataudio.com/Products/Product_FreeAmp/) for cleans, classic, and modern
+1. Free [Chorus, Flanger, EQ, Spectrum Analyzer, Amp Modeler, Phaser](https://www.bluecataudio.com/Products/Category_0_Freeware/)
+3. Free Ignite NadIR IR Loader (comes with emmissary)
+1. $30 Ignite Libra IR Response Convolver (8 cabs mixed)
+4. Some [Free plugins and cab sim](https://plugins4free.com/dev/258/)
+5. Free amazing [Heavy Metal Tone](https://www.youtube.com/watch?v=t8EDqv3BvV0)
+6. https://ml-sound-lab.com/collections/amp-sims/products/amped-roots
+
+ Pedals
+1. Auditory dr drive is a great free overdrive plugin
+1. Fuse Big Sur is a great free fuzz pedal sim
+1. Schrammel ojd boutique overdrive free gpl 
+1. Chow centaur free klon clone
+1. [Ignite TPA1](https://honestampsimreviews.com/2019/07/28/ignite-amps-tpa1/) is the free power amp sim (probably not needed so much anymore)
+
+ IRs
+1. [Top Freeware IRs](https://honestampsimreviews.com/top-freeware-plugins/)
+1. see pete thorns celestion video and also the IRs section in the amps.md
 
 # Songwriting #
 ## Some song structures ##
@@ -306,6 +348,12 @@ https://www.youtube.com/watch?v=1zWVHq8P7sE
 Amp Sims
 https://www.gearslutz.com/gear/scuffham-amps/s-gear
 
+best guitar amp sim plugins apparently by far are from Neural and STL
+
+From Neural "Try the fortin cali and you;ll be blown away"
+"To my ears the nembrini sounds more organic and has better low end.  The neural sounds too digitally perfect.  I use an evh phase 90 into nembrini and it sounds so good.  Glad someone else agrees"
+
+Theres a comparison of amplitube vs neural and its no contest neural
 
 # Recording Guitar with Garageband #
 
@@ -375,3 +423,31 @@ What if I plugged it into an externally grounded usb hub?
 What if I changed the interface settings in audio/midi settings? 
 Can I get low noise from ANY audio interface?  Pretty low noise from the vypyr vip1 actually.  twingreen, Pregain7, high9, post1, fxbypass, itsa  low volume but its pretty quiet and you can play high gain amp models with decent sound and not really usable but not god awful noise.  lots of noise sizzle.  Its jsut -91 on the noisie gate to get rid of it.    It mostly sounds like pickup noise.  when the pickups are down there is less noise but not no noise theres still a hiss.  Turning the volume all the way down on the vypyr and its gone entirely.  
 What if I plugged into the american sound (battery powered) and from there into the usb cable?  Super noisy but a different sound than straight into the guitar but not better.  
+
+
+
+
+
+
+
+
+
+Song structures
+The opening jam here is what I would like my songs to be like
+https://www.youtube.com/watch?v=Zd0nMtcwJS0&lc=UgyYDw8SyM9XFdjsnIJ4AaABAg
+
+
+Two Parts
+1	2	3	4	5	6	7	8	
+Chord 1 Chord 2 Chord 2 Chord 2
+strum	strum 	little catchy lead
+x8
+
+
+Measure 1	2	3	4	5	6	7	8
+Chord   1     3       4       2   5  
+
+
+
+
+

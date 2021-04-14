@@ -70,3 +70,25 @@ and Turn off keep warm
 When its done I'm not sure whether to let it sit there to depressurize or pull the plug to let the steam escape but i think pulling the plug is best
 
 to make water with bullion: put it in the instant pot and put it on saute to boil it.  
+
+
+
+# Lemon pancakes like German pancakes #
+
+1 1/2 cups all-purpose flour 3 1/2 teaspoons baking powder 1 teaspoon salt
+1 packet lemon sugar free pudding
+
+2/3c half and half (for cakes)
+1/3c filtered water (for cakes)
+1c half and half (for pudding)
+1c filtered water (for pudding)
+
+1/4c lemon juice 
+10drops steviaclear (mix with bitter lemons) 2 eggs 3 tablespoons butter, melted
+
+(Add the second batch of half and half and water to make it just watery enough)
+(If too watery add a bit more flour)
+
+
+Optional 1/2 tablespoon white sugar (6g for the whole batch)
+

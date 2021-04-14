@@ -2195,7 +2195,7 @@ Warstone
 mindustry
 
 New Mar 4
-Parkitect (mac, online co op)
+Parkitect (mac, online co op g)
 
 
 Cristi High Sierra 10.13.6
@@ -2589,5 +2589,53 @@ win: Particula (no catalina), warstone((no catalina)), terrorhedron (win), Eleme
 Sleep Tight (Dual Stick shooter with childhood toys)
 Rise to Ruins (Mac, Would take too long)
 Space Run (create spaceships tower defense) (not on catalina)
+
+
+
+
+Mar 22 2021
+
+Evergreen Games:
+1. Serious Sam 1,2,3 VR (while watching TV), Compound
+1. Cities Skylines (First Person Mod, Always morning mod)
+1. Viral EX VR, Rez VR, Xion, Duo, 
+2. Deep Space Wife (sequels), Bad ass Babes, 
+1. Experience Again: Alien Breed Impact 1,2,3, 
+5. Wii Baseball series win!
+
+Which of The games to practice and win below are important? Redout VR, Blasters of the Universe, Burnout Paradise (with wheel), Age of Barbarian
+
+
+
+New Game Excitement Right Now Games:
+1. Bad ass Babes 2 Patreon
+2. Sorority Camp Slashers Patreon
+3. The Masters (Bruce Lee and Ip Man) Patreon
+
+
+Games to practice and could win
+1. ----- How long playing once a day?
+1. Racing: Redout VR (how far in am I?  I love this one.), Thumper VR (two months), Rush (two months),  
+2. VR:  The Climb (2wks), Everspace VR (2wks), Xortex in The Lab (1 week), Blasters of the Universe (2 weeks)
+3. Street Fighter V (with mod and Fighting stick), Street Fighter 4, Dead or Alive 5 
+	1. How to have more fun with these games?  Get really good with like one player? Watch one video a day and then go play one time?  Use the fighting stick?
+4. Racing Wheel: Burnout Paradise with the wheel (once a day for two months), Steam VR Racing Wheel Games (once a day for 6 months)
+4. Pointless Fun: V-Racer Hoverbike (1 week), Racket NX (1 week), Table Tennis(6 months), 
+5. Shooting:  In Death (1 week for level 1), Gal Gun 2 (2wks), 
+6. 2D: Volgarr the Viking (once a day beat it in a month), Age of Barbarian (once a day beat it in a week)
+7. Amiga: Killing Game Show (one month), Cannon Fodder (two months),
+8. Chaos Engine PC (make maps)
+
+
+
+Second Tier For ANY Reason:
+1. Experience Again (kind of long): Beyond Good and Evil (High Res, 3D Stereo), The Hobbit (High Res, 3D Stereo), Portal 2, Red Faction 1 (with open source patch), Hellblade VR, Bloody Zombies, 
+1. X-Morph Defense DLC 
+1. Assassins Creed Odyssey looks so cool!
+1. No Mans Sky VR (with extensive creative mode building of weird structures just as art)
+3. SkyrimVR (with extensive Mods)
+5. City Builders (epic games store) or Transport Builders
+
+
 
 

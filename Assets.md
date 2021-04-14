@@ -1222,23 +1222,26 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  10. AllIn1SpriteShader, FacetedTerrainShaderBM
  11. PolygonPacksHB, 
  
+ 
+ 
  Art: 3D Asset creation I own but I might forget about 
  ----------------------------
  1. Specifics: 
 	-  ObjectExploder, Fracturing&Destruction, InventoryPro(HBorGH)
+	- DynamicBone or Jiggle or TailAnimatorHB, ObiRope,
  2. Mesh Making Best:
-	- ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMesh, PaintIn3D
+	- Crocotile, ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMesh, PaintIn3D
 	- pifuhdPictureTo3DOnYoutube
  3. Mesh Making Ok:
 	- CorelCAD, MeshCreator (helps make meshes), Scriptinunitythensavetomesh, SorcarForBlender, Many more interesting ones in bookmarks, DualTexturedShader, SabreCSG, ChiselCSG, Magicavoxeltools(mesh to magicavoxel), RealtimeCSG, 
  4. Meshes:
-	- DeformBM, MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer, DynamicBone or Jiggle, ObiRope, DualTextured, ObjectExploder
+	- DeformBM, MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer, DualTextured, ObjectExploder
  
  
  Art: 3D Level Design Tools I own but might forget about
  -----------------------------
  1. Level Tools Best: 
-	- EasySnap, DungeonArchitect, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, LowPolyWindUAS
+	- EasySnap, DungeonArchitect, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, LowPolyWindUAS, KenShape($3OnItch)
 	- $40Monkey
  2. Level Generators 
 	Best: ProceduralCaveGenerator(GH), DonutStudiosAIandProceduralGeneration, DungeonizerFav, CurvedWorld2020, MapGen, MeshCombiner, LevelBuilder, MapMagic2, 
@@ -1247,7 +1250,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  4. Level Designers Best:  
 	- Clayxels, ProBuilder, Blender, UModelerHB, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), UnityRgbaLevelGenerator(withMeshCombiner),  JustDrawThemAsPicturesAndImportThemToBlender, RealtimeCSG, MastBM
  5. Terrain: 
-	- Best: MapMagic2, GaiaHB, TerraWorld, AlphaxaonRealtimeTerrainBM, MCSCavesAndOverhangeHB,  ReliefTerrainPackHB, Videoaboutmakingbeautifulterrains, KahVeeTerrainGeneratorSS, Pre-made terrains islands in uas, DrParadox312UnityTerrainPainter, 
+	- Best: MapMagic2, GaiaHB, TerraWorld, AlphaxaonRealtimeTerrainBM, MCSCavesAndOverhangeHB,  ReliefTerrainPackHB, Videoaboutmakingbeautifulterrains, KahVeeTerrainGeneratorSS, Pre-made terrains islands in uas, DrParadox312UnityTerrainPainter, TriplanarAndTerrainShaders(UAS, floor, differnet walls, different tops of walls), EasyTriplanarPro (Grows grass over the curve!!!), 
 	- FacetedTerrainShaderBM
 	- Ok: $25HexagonWorldGeneratorSS, $40LandscapeBuilderSS, $5BasicRandomTerrainGeneratorSS, $20-3DRealisticTerrainVol1BM, $6UnlimitedTerrainGenerator $5VoxelMaster(WithMeshCombiner),  UnityCookbookTerrainHeightPainter, MITRandomizedTerrainpopulatedwithAssets, BooLeetLowPolyTerrainGeneratorWithDecorations BlenderGIS, aidanProceduralTerrainGenerator, TCGJProceduralTerrainGenerator, VegetationEngineH, HowToMakeBeautifulTerrainInUnity, RunSwimFlyTerrainTools, NatureRendererHB, 
  6. Levels Ok: 
@@ -1313,7 +1316,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  4. Models: 
 	- Clayxels, 3DCharactersVehiclesAndPropsUAS, 15-203DCharactersEnemiesUltimateFantasyHB, 2DRetroActRPGSpritePack, PaintIn3D, DynamicBone or Jiggle, TailAnimator, AdvancedPolygonCollider, Superpowers3DVehiclesPackBM,
  5. 2DAI: 2DEnemyToolkit, PathBerzerker2d360PlatformerPathfinding, BloodstoneAI, ReGOAP, SteeringBehaviors, LovelyAgents, SensorToolkit, DonutStudiosAIandProceduralGeneration
- 6. 3DAI: EmeraldAI, Planilo, NPBehave, CoordEDBT, StarterKitMovementCameraAI, DarkTreeFPS, FPSStarterKit(simpleAI), PolygonFPS, RealisticFPSPrefab, TopDownAI, ReactionAISteroidEdition, BreadcrumbAI, LowPolyAnimatedAnimals(Wander), CandiceAIForGames, RealisticFPSPrefab, SensorToolkitHB, 
+ 6. 3DAI: EmeraldAI, Planilo, NPBehave, CoordEDBT, StarterKitMovementCameraAI, DarkTreeFPS, FPSStarterKit(simpleAI), PolygonFPS, RealisticFPSPrefab, TopDownAI, ReactionAISteroidEdition, BreadcrumbAI, LowPolyAnimatedAnimals(Wander), CandiceAIForGames, RealisticFPSPrefab, SensorToolkitHB, APathfindingPro(FreeVersionAtWebsite,CodeMonkeyVideoGreat), SeveralMITMultithreadedAStaronGithub, 
  7. Sprites: SeveralInItchRacial, TonsInRpgGameDevelopmentAssetsHB(Creatures,Items, Sprites, Tilesets, Characters, Animations), 
 	- ItchNov2020MegaBundle(Kits(MonstersMatch3,Runner,Jump, UnderwaterWorld,TDSPixelArt2DKit, TopDownTank2DKit,SpaceShooter2D,SpaceShooterPixelArt,PixelArtPlatformer2DGameKit), CharacterSprite(ManyPacks), Character, Zombie(ManyPacks), 2DGame___Sprite(ManyPacksDragonGoblinTons), 2DWeapons, TopDownShooter(Monster,Zombie,MainCharacters,ZombieGameKit), Robot, Icons, , other, Sky,City, VerticalSpace, Forest, Mountain,  ), Spaceship, Weapons, FantasyGameMainHeroes, NPC, TowerDefenseTileset,  4DirectionNPCSprites,  CharactersForPlatformers, Monsters,Boss,PixelArt
 	- Bookmarks(ShadowOfTheWyrm, AnimatedPixelHero)    UAS(RetroActSpritePack(GameboyRPG))
@@ -1399,9 +1402,9 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 
 
 
- PowerToolsBundle:
- ----------------------------
- Editor Console Pro
+PowerToolsBundle:
+----------------------------
+Editor Console Pro
 Tail Animator
 Rainbow Folders 2
 The Vegetation Engine
@@ -1434,4 +1437,91 @@ UVFreeShader is taking a freaking eternity to import from the asset store.  ugh.
 Now I'm installing "savegamefree" from github..  I was about to install one of the several save game systems I have bought on uas but this is MIT licensed.  To be fair one of those is too but I have a better feeling about tthis one.  There was also a really good one on there called advanced save that I could use but this looks best.  There are two warnings: One about unity 2019 not supporting samsungweb player, and the other about unity 2017.2 and beyond having a slightly different command for web requests.  I dont think I'll be able to make and test fixes for these right now, I wasn't planning on testing that web requestt at all.  Its just 566k  I fixed the warnings and submitted pull requests for both.
 
 Now that im really into it Naughty attributes has a constant runtime error. `The target object is null. Check for missing scripts.`  The thing is I haven't used it at all yet its just sitting there. Maybe its installed wrong?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+ ____  ____  _  _  ____  _  _  ____  ____  ____ 
+(  _ \(  __)( \/ )(  __)( \/ )(  _ \(  __)(  _ \
+ )   / ) _) / \/ \ ) _) / \/ \ ) _ ( ) _)  )   /
+(__\_)(____)\_)(_/(____)\_)(_/(____/(____)(__\_)
+
+-->
+
+ 1. PlatformerPro2, CorgiEngine, DarkTreeFPSUAS, TopDownEngine, CharacterMovementFundamentalsUAS
+
+
+
+ 2. HotReload: Bolt, LogicForge, FlowCanvasHB
+ 3. ScriptInspector3, UVFreeShader, 
+ 4. Fracturing&Destruction, ObjectExploder
+ 5. Clayxels, ProBuilder, MeshCombineStudio2HB, PaintIn3D,  2Dto3DVoxelizer
+ 6. Polaris, Terra, Ferr2DTerrain, CurvedWorld2020, GaiaHB
+ 7. Ferr2DTerrain, 
+ 8. TextAnimator, Modular3DTextUAS
+ 9. LowPolyWindUAS, ObiRope, Jiggle, DynamicBone, TailAnimator
+ 10. AllIn1SpriteShader, FacetedTerrainShaderBM
+ 11. PolygonPacksHB, 
+ 
+
+
+
+
+
+
+
+<!--
+ /$$$$$$           /$$                          
+|_  $$_/          | $$                          
+  | $$   /$$$$$$$ | $$$$$$$   /$$$$$$  /$$   /$$
+  | $$  | $$__  $$| $$__  $$ /$$__  $$|  $$ /$$/
+  | $$  | $$  \ $$| $$  \ $$| $$  \ $$ \  $$$$/ 
+  | $$  | $$  | $$| $$  | $$| $$  | $$  >$$  $$ 
+ /$$$$$$| $$  | $$| $$$$$$$/|  $$$$$$/ /$$/\  $$
+|______/|__/  |__/|_______/  \______/ |__/  \__/
+                                                
+-->
+
+
+
+
+Crocotile3D is like Picocad for making low poly 3D models
+Ken shape $3.99 and magicavoxel and assetforge and qubicle (drying up?)
+
+Wings3d and blender of course
+
+
+
+
+
 

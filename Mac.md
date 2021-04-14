@@ -119,9 +119,11 @@ actually you need a way to open a new finder window in the same folder instantly
 # Editors #
 1. TextMate So Great
 	- Markdown mode seems to catch up slowly (maybe thats fixed). It kind of even seems to type slowly compared to bbedit.
+		- in part thats because bbedit isnt doing much to format the display.  I could remove the plugins for mate and probably be the same speed, or make my own plugin which is faster and does less on purpose (forget about resizing or something).  
 	- Great Bookmark features
 	- Great word wrap that automatically sticks to the window width.  (not as unique as I thought)
-	- Great simple macro features
+	- Great simple macro features (THE BEST)
+	- the one killer feature that this doesnt have ... well I just found out it DOES HAVE IT!  Two windows with one file!  I havent tested it extensively but it does absolutely display text in one instantly when you type in the other.  thats amazing!  how did I get there?  basically I opened a file then opened another window and used the file browser built into the sidebar to open the other file.  If you open a new window and then use the open command well it just points you back to the window you already have open, but the file browser WORKS!!!
 2. BBEdit (formerly TextWrangler)
 	- more responsive markdown text editing than textmate with built in preview menu item
 	- less inline markdown interpretation than textmate
@@ -130,7 +132,10 @@ actually you need a way to open a new finder window in the same folder instantly
 	- Word wrap doesn't automatically respond to window width . nvm its a super obvious option that I missed but I missed because its only an option .
 	- Slight concern that an evaluation feature which I care for will disappear in 30 days.  Textmate is totally free with all of those features.
 	- Script editor is kindof a mess if thats the macro features.
-
+	- ended up buying BBedit for $50 and am not really pleased.  I dont blame them since they gave a generous demo, but its just things I wasnt attentive enough about and yet still is disappointing that theyre not htere.  The killer app feature is multiple views of one file, and markdown doesnt slow down and thats really nice, otoh 
+	- This doesnt havve any reasonable macro feature! wtf!  whats that you say?  theres applescript support?  great.  nice.  Thats useful enough for large projects.  but thats not a macro imho thats a script/program.  Macros you can record and playback and this has nothign like that?  its bizarre to me honestly.  There was a part of me that was sure beyond a shadow of a doubt that this had macros and I just hadnt seeen them in the menus yet.  I am having to copy and paste my text to textmate, make my mass macro changes and pasta it back.  
+	
+	
 	
 	
 # Making .commands #

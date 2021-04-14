@@ -1,4 +1,6 @@
 # Guitars #
+
+
 ## Setup ##
 
 No matter what you buy or where budget for a setup.
@@ -67,7 +69,8 @@ ______                     _
 15. Sozo barely known brand some models made in usa and no one knows them so they sell cheap.  A christian brand.  Not Recommended. Not enough information.
 16. Hard Luck Kings.  These are really cool and Inexpensive and highly regarded.  They will pro setup for $150 extra which is convenient, but not a particularly good deal. Oh!  Its on sale for $40.  
 17. Hagstrom Swede.  These are really cool with cool features and typically at a good price.  
-
+20. Sawtooth are great Michael Angelo related guitars with great features
+21. AIO Wolf is a great mid priced budget brand some have 25" scale neck
 
 
 [List of guitars made in Korea at World Musical Instrument Co](https://www.thegearpage.net/board/index.php?threads/list-of-guitars-made-by-world-musical-instrument-co-ltd-korea.1702997/))
@@ -81,6 +84,7 @@ Some very small brands:
 ### Semi-Boutique ###
 
 Its hard to describe this range in fact I've never heard of anyone talk about it before but I would describe it as upper-mid level guitars without a big name brand and without being terribly fancy/expensive, but some incredible quality and value can be had here
+17. CMG - US Builder for near LT$1k with thick masked flame binding (OMG So beautiful)
 1. [Haywire Custom Guitars](https://reverb.com/shop/haywire-custom-guitars)
 2. Gordon Smith (a cool somewhat bare bones brand from the UK)
 3. U.S. Masters (amazing quality and innovative features but I belive they aren't being made anymore)
@@ -96,9 +100,11 @@ Its hard to describe this range in fact I've never heard of anyone talk about it
 13. [Doodcraft](https://reverb.com/shop/dood-craft-guitars)
 14. Tagima $700+ Made in Brazil (Added Feb 2020)
 15. Gianand Ribelle - really cool ash, chambered option, custom configurable less than $1k for basic model (Added Feb 2020)
-16. Texas Toast - Daily Driver like a Tele LT$1k (Small builder) - otherwise they are boutique
-17. CMG - US Builder for near LT$1k with thick masked flame binding
+16. Texas Toast - Daily Driver like a Tele LT$1k (Small builder) - otherwise they are boutique - They just went to $1250 but are still awesome.  They are also advertised to be light
 18. Burny (MIJ or MIK)
+19. Sire
+
+
 
 Heres a video about great guitars like this [Great Non-Gibson Gibsons](https://www.youtube.com/watch?v=4aljGgg70Pg)
 
@@ -120,6 +126,15 @@ Heres a video about great guitars like this [Great Non-Gibson Gibsons](https://w
 13. Bailey
 14. Kiesel
 16. Prestige
+17. Vigier
+18. reiver
+19. * Ormsby ($1-2k and so beautiful some in australia some in world music pty)
+20. Kiiras Beautiful handmade finnish guitars with youtubes on how they are made, Starting at $1400
+
+New Set:
+Moar $3000 So super thin they are sexy as hell and apparently ring out better than any gibson.  I love them.
+Aristides S series 060s are super sporty sexy with cool angles special non-wood material! $3000
+Ver
 
 I don't know a lot about most of these in fact the only one I've played with my own hands is Warrior (I think!?!) but they are generally highly regarded and many of their guitars look and sound amazing!  I am unlikely to buy one of these personally unless I find a specific reason to.
 
@@ -254,14 +269,56 @@ Some other keywords to use to find values:
 18. Nitro
 19. Hardshell Case (HSC, OHSC)
 20. Upgraded
+19. Plek
+20. stainless steel
 
-## Lightweight ##
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Lightweight #
+
+Backstory: In 1994 my parents bought a Peavey Detonator for me and it was awesome.  I wore the frets on that thing way down and eventually (because I didnt know how to maintain it or how string gauges and physics worked or how to take it to someone to get it really repaired properly) I got angry at it and in 2006 or so after years of being frustrated at myself that I wasnt good at guitar anymore I kind of put it away.  I thought that I needed a guitar with a "faster neck" in order to play fast and I thought I needed a guitar that "had more resonance" or "natural sustain" or something in order to play my favorite songs and sound great.    Turns out I was wrong and some combination of maintenance, repair, information, and practice would have been just fine/great but I didnt know that then and I was not satisfied.  It did lead me to attempt to repair it myself to save money (Should have just spent $150-250 for someone to fix it but alas) and probably ended up twisting the neck/truss rod too far (it creaked and might have popped idk) but It didnt play well anymore.  So I went on the search for the solution to all of my problems and found the Carvin DC127 and got an amazing deal on it (I think $240 shipped) and it was so beautifuland bad ass.  It played fast, it had low action, but after a few days I realized it had a problem: when I fingered a G chord my finger woudl slip off the g string because the fret was so rounded off.  That was annoying and I felt clumsy and felt like I should be able to worka round taht with my playing.  I tried to get that fixed at a guitar store to no avail but thats another story. A few months later I realized that it had another problem.  It was heavy as a ton of bricks.  I could play my peavey all night long standing up with a small strap on no problem, but the carvin after an hour it dug into my shoulder and after a few hours my back started to hurt.  It must have weighed 10 pounds (or so I thought) I looked for options to fix it and some people suggested getting nice straps which I did and that helped with the shoulder somewhat but not the back.  Other people said that heavy gutiars had better sustain so I should steel through the pain well that advice was crazy making and just made things worse and made it hard to accept myself as I was.  To be clear my back is not strong and I'm dealing with that even in 2021 but at the time I didnt know that and didnt realize that part of the reason I could play the peavey all night long and the carvin for just an hour or two was that I played the peavey all night long when I was 18 and the carvin when I was 28.  I didnt work out at all back then and sat at a desk all day long every day and it was catching up with me but I didnt realize it yet.  So I kept searching for a better perfect guitar never really admitting to myself that my back was not really ready to own and regularly play a 'heavy' guitar.  I read online about how les pauls were 13lbs but thats what made them sound great (I know its not as simple as that whatsoever now but I didnt know that at the time) and I kept struggling with finding a great guitar that was lightweight all the while thinking that the best guitars were only the heavy ones so that made me feel like I was going to have to compromise and I could never get the calculus of that compromise right for me and my needs in my particular physical situation.  I didnt understand what was necessary for good/great tone, or how to find it, and ignorantly believed myths and didnt have anyone to talk to about it face to face or bounce ideas off of.  So for years I would research for months and then find a great deal and buy a new guitar thinking this is going to be 'the one' but it never was and in hindsight there couldn't have possibly ever been a guitar that satisfied that itch.  I was not able at the time to figure out what was important to me and choose based on those values.  Then add into that that there were tons of guitars which were works of art or classic looks which got my blood pumping and I wanted all of those or replicas of them (although also in hindsight getting a replica would never have scratched the itch for the real thing).  and in the process I ended up getting some guitars which were heavier than that carvin and others which were lighter.  I eventually got a scale and to my eternal horror found out that the carvin is actually super average weight or below average.  IIRC the Peavey was 6.5-7lbs and the Carvin was a back breaking 1lb heavier than the Peavey.  What felt like an anvil to my brain based on what my back was telling it was actually only one pound of difference.  That blew my mind.  From some perspective one pound shouldnt make that much of a difference, and for some people it wont make any difference but for me it was a world of difference and mattered a lot.  It sitll does matter to me (more than ever now that I'm older even though fortunately I've started working out and my back is improving and strengthening over time) but now I know my values and what is important and what can be compromised and how to shop in a way that minimises the compromises and maximizes the benefits to my values and needs and it feels wonderful making decisions like this.  I didnt know how before but now I do.  Not to mention I also now know (mostly) how to maintain guitars on my own and also (mostly) when to take it into a professional and also (mostly) how to get what you really want out of that interaction with a professional.  actually ... that last part I dont know very well tbh ... yet.   Oh yeah and somewhere along the way I bought a 60lb tube amp and realized that weight really matters with amps too.  Had a funny experience with that too because I sold my carvin sx200 2x12 because it was so heavy and hard to transport.  Turns out it was like one of the lightest 2x12 cabinets you could possibly acquire lol it sounded great and was a great amp and I sold it for not nearly enough money.  Otoh I am proud of myself for downsizing even if not every decision was ideal and that was one of the worst and truly not that bad or that big of a deal.
 When I bought my most recent guitar (Nov 2017) I was in a bit of a pinch but was really satisfied with what I got.  In recent months I've thought about how heavy/light it is and felt like it was quite nice and light, although I might like one that is even lighter.
 
 Last week when I ordered a new guitar online I decided to do some measurements and used my wifes postal scale and it measured to be 6lbs and 3oz and after looking around online I realized that is super light!  Its not common for guitars to be that light and I was really exciteds.  
 
 Well this week when I got my new guitar I put it on the same scales and they didnt register it, so I tried my old guitar and they didnt register it either!?!  I guess that scale is broken for 5lb+ things (I tested some other things too).  I bought a new scale and unfortunately it says that my old guitar weighs more than I thought: 7lbs and 4oz or 7.25lbs!  Thats actually kind of shocking to me because of all of the guitars Ive been looking at online and mentally dismissing in the last week as "too heavy" and "way heavier than my current guitar so why bother".
+
+
+My particular PRS S2 Mira 6lb7.0oz or using the hanging scale its 6.4lbs
+My particular PRS Standard 7lb5.0oz
+Warmoth lightest weight warmoth guitar body rn is 3lb1oz from there 3lb11oz and most in 4lb
+
 
 ### Woods ###
 Some notably lightweight woods are paulownia and korina
@@ -290,6 +347,8 @@ Once you find a seller that lists the weight, in most cases all of the guitars t
 1.[TheMusicFarm Ebay Store](https://www.ebay.com/sch/Electric-Guitars/33034/m.html?item=401767141958&epid=24020160663&hash=item5d8b301246%3Ag%3AfvoAAOSwSztc2t9z&_ssn=themusicfarm&_pgn=2&_skc=50&rt=nc)
 2. [Tokyo Music Gear Garage](https://reverb.com/shop/tachikawa-music-gear-garage?product_type=electric-guitars&price_max=1000&page=2)
 
+
+
 ### Lightweight Models ###
 
 Gibson SG Standard 6.1lb, 6.2lb, 6.1lb, m
@@ -302,9 +361,9 @@ Paul Reed Smith
 PRS SE
 PRS SE Mira 5.8lb, 
 PRS S2 Mira (often less than 7lbs)
-PRS S2 Vela 5.7lb, 5.8lb, 5.8lb, 6lb, 
+PRS S2 Vela 5.7lb, 5.8lb, 5.8lb, 6lb, 5.4lb
 PRS S2 Standard 6.6lb
-Danelectro '59 4.9lb
+Danelectro '59 4.9lb, 6.19lb, 
 Paul Reed Smith X series
 Paul Reed Smith (especially Mira, Stella, Vela)
 Michael Kelly (especially Enlightened)
@@ -323,6 +382,92 @@ Tom ANderson TopT 6.6lb, 6.4lb,
 ESP LTD Black Metal 6.4lb, 
 Peavey T-15 at least one is just 6.3lbs but T-60 is heavy
 Epiphone Les Paul Special II 
+Paul Gilbert Mikro Ibanez
+Yamaha Rgx a2 is made with lightweight technology and is just 5.5lbs
+
+
+1000. ----- And some more lightweight options:
+5. PRS SE Mira Metallic Blue (Love that color - like my first Peavey!  Often < 6.5lbs 5lb5oz, 6lb7oz, Seems to be mostly above 6lbs tho)
+18. PRS SE Zach Myers (Beautiful Blue coming May 2021) (8lb3oz, 7.21lb, 7.16lb, 7lb2oz, 7lb8oz)
+8. Harmony Juno (many<7lbs Blue with brown back) (6lb5oz, 6lb3oz, 6lb5oz, 6lb5oz, 6lb4oz, 6lb7oz, 6lb5oz)
+9. Harmony Rebel (so solid bolt on SG style many <7lbs 6lb6oz, 6lb11oz, 7lb1oz)
+10. Schecter Reaper (so solid ash looking, many <7.5lbs)
+11. Fender 70th anniversary Esquire (many <7lbs)
+12. Ibanez Premium
+14. Epiphone Les Paul ES are light and <6.5lbs
+17. Sterling Majesty are usually <6.5lbs
+19. Les Paul Axcess Custom
+20. ESP X-tone xtone PS-1000 Semi Hollow
+21. Epi Les Paul Ultra
+22. Gretsch Jets (Duo Jet, Pro Jet, etc.) (7lb11oz, 8lb4oz, 8lb2oz) and LTD EC-1000 have LP-style bodies and I think weigh in the ballpark of 6-7 pounds. Gretsch jets are heavily chambered
+23. Gibson Les Paul Studio Lite 6.5lbs (one of my favorites!)
+24. Gibson Les Paul Special Tribute Humbucker Vintage Cherry Satin 6.8lbs
+25. Korina or basswood or 6lbs
+26. Epi Flying V (sometimes <7lbs)
+27. Fender Player LEad II (often <7lbs)
+28. Gibson SG (often <7lbs)
+29. Ibanez RGA
+18. PRS SE Standard (often <6.5lbs)
+Also Semi Hollow and Hollowbodies are often lightweight.
+
+7. Fender Brad Paisley Worn Telecaster (reliably under 6lbs) (or esquiire)
+
+6. PRS SE Pauls Guitar Aqua (So beautiful - many are <6.5lbs)
+17. PRS S2 Vela (Often <6lbs, 5.4lbs)
+18. PRS Starla (7lb4oz, 7lb2oz)
+19. PRS SE Standard ( 7lb6oz, 7lb13oz, 7lb11oz, 7lb9oz)
+20. PRS SE Tremonti (8lb6oz, 9lb1oz) 
+15. Ernie Ball Music Man Majesty are usually <6.5lbs
+16. Strandberg Boden is usually <6lbs
+17. Gibson SG Standard Tribute <6.6lbs, 5.9lbs (Maple Neck?)
+
+
+Almost anyy guitar made of Paulownia is super lightweight:
+I think cort had one
+Suhr has some high end ones (5lb9.28oz, 6lb4oz, 6lb7oz, 6lb3oz, 6lb7.6oz, 6lb0.1oz, 6lb9.6oz, 6lb3.7oz, )
+Dean Evo
+
+Woods:
+Basswood is often lightweight too but not as reliably as paulownia, empress wood is apparently lightweight too 
+
+19. Lyxpro telecaster (Paulownia $109 Weight not listed)
+
+17. $1400 PRS S2 Vela (Often <6.5lbs, 5.4lbs (confirmed with the seller), 6lb4oz)
+16. $1600 Strandberg Boden is usually <6lbs  4lb5oz, 5.6lbs $1500 new  Some are $1400 used, theres a blue white peavey color, and tons more
+18. $1200 PRS Mira, Vela, Starla X (probably all under 7lbs ... some under 6, 6lb2.88oz, )
+19. $800 PRS SE Blue Mira (6lb1oz, 6lb3.2oz, 6.35, 6.7, 6lb5.5oz, 6lb14oz, 7.2lb, 5lb11.4oz, 6.7lbs, Same color as my original Peavey which I loved and really suited me and I can identify with)  Will never lose more than a certain amount of money no matter how I treat it.  Relatively easy to replace.
+
+Glarry strat is 5.51 lbs and after Phil on youtube upgraded his it was only 6lbs
+
+Harmony Rebel Flame, Musicman Majesty
+
+Cort G100 REALLY want these: probably super light, HH, Hardtail, STB, just $150!!!
+
+Stagg makes Set Plus which is a paulownia Tele ((with humbucker)), also the stagg SBP which is a precision bass pbass also made of paulownia
+
+Dean Evo and Vendetta XM are paulownia and very light.  I wonder if there is like V XM also made of paulownia?  Dean VX  is basswood so it might be light Theres a beautiful sunburst actually that I would love.  STB too Michael Shenker V Bolt On is basswood.
+
+[Material and wood densities] (http://www.apsimplepsaltery.com/appendices/material_densities/)
+
+Micro Guitars (usually lightweight)
+1. Paul Gilbert Mikro (small tinyy guitar)
+1. Dean Playmate Avalanche J (small tinyy guitar)
+1. Reverend Terz (21.5" scale by billy corgan)
+
+7 Strings: Dean Vendetta XM 7 string
+
+Fender LImited edition lightweight ash
+
+Tokai lightweight 
+
+apparently G&L usa legacy empress has lightweight body 6lb7oz
+
+5.2lbs Gmarsh paulownia blue tele $1900
+
+$1200 5lb the 11oz BA Ferguson Flyweight Shirley, Surfside Blue el paso
+
+Some Strandberg Bodens are 4lb5oz 4lb5oz Strandberg Boden Masvidalien Cosmo - Black Space | Sweetwater
+
 
 
 #### Reddit Post ####
@@ -399,7 +544,37 @@ There were 20 of these ranging between 7.3lbs and 9.6lbs
 
 
 
-## Marketplaces ##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Marketplaces #
 1. [eBay](www.ebay.com)
 2. [Reverb](www.reverb.com)
 3. [Craigslist](craigslist.org)
@@ -415,6 +590,8 @@ Musicgoround has some good prices: some guitars are merely fair prices but other
 ## Cleaning ##
 
 People online get into some seriously religious debates about cleaning guitars.  Woods, finishes, fretboards, strings, etc.  As a result there is no one answer to this stuff but lots of things to try.  
+
+[10 guitar hacks you need to know](https://www.youtube.com/watch?v=4lWMkADBlCw)
 
 ### Things to be aware of ###
 Some chemicals and or oils can stain some fretboards. This can happen because you rub it on the board, or even just because its on your fingers when you play.  This can be a cool look but its worth knowing that its possible.
@@ -435,17 +612,58 @@ strings certainly have a tonal lifespan and undoubtedly start to sound dead afte
 This worked very well for me and made the strings feel like joy.
 
 
-## Unique ##
-Reverend Terz
-Billy Corgan apparently asked them to make this 21.5" scale guitar.  I want it!  https://www.reverendguitars.com/guitars/billy-corgan-terz
 
-Dean Zelinsky LaVoce
-In addition to its really special neck shape and feel its a lightweight skinny and beautiful les paul with special electronics (single coil, humbucker, and acoustic).  
 
-# Acoustic #
-- Seagull are best
-- Solid top if possible
-- Easiest to play is best
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # For Me #
@@ -494,8 +712,52 @@ Some part of me would like to have all of these but the baggage with having many
 - Dean exile satin blue burst
 - Guitar finish that blue striped Unfinished les Paul from a few years  ago
 - Dean select ocean burst quilt v
+- ESP 256 Cobalt Blue
 
 
+Some of the sweetest tele teles telecasters out there
+0. BEST:  CMG Mark (Masked Binding!!!)
+7. Fender Brad Paisley Worn Telecaster (reliably under 6lbs) (or esquiire)
+1. -----
+2. Dean Zelinsky Dellatera
+1. Reverend Greg Koch Signature Gristlemaster Electric Guitar - Blucifer - so cool with the design and the amazing color and wood thiicknesses I love it - also other Reverends
+9. $3000 Suhr Telecaster Paulownia (Super Lightweight!)
+7. Michael Kelly (Blue Jean Wash or other classic finish)
+4. Obviously G&L ASAT or Z3 (some are 6.5lbs!)
+2. Gmarsh paulownia blue tele 5.2lbs $1900
+1. -----
+1. Charvel pro mod so cal robins egg blue is a great tele with fishmans locking tuners and greatt appointments an dlook for $900
+5. diamond dbz maverick
+6. Custom ones light weight like warmoth but not
+8. Carvin / Kiesel
+8. sx vtg (lighter than classic vibe - same quality level says intheblues)
+8. Stagg makes Set Plus with humbucker for $180
+
+
+
+
+
+
+And a few more sweet sexy axes for my Large Studio Plan:
+1. Dean Zelinsky LaVoce Junior (Beautiful blue and teal, thin body, 7-7.5lbs, Z-Glide)
+2. Sire Larry Carlton Strat
+3. Gibson SG
+4. Some sexy headless models even on Amazon
+6. PRS SE Pauls Guitar Aqua (So beautiful - many are <6.5lbs)
+7. Sire Larry Carlton Les Paul BLUE Flame Burst!!!  Probably not that lightweight
+8. Diamond DBZ have like 20 utterly beautiful guitars
+9. Woudl be cool to finally own a Switch Vibracell guitar.  Apparently they sing
+10. Always wanted a Peavey T60 or T15.  Thats like the solidest thing thats ever been called a guitar!
+11. Always wanted A US Masters guitar.  I feel really bad that they went under.  I wonder if I would have bought one ... I wonder how much it would have mattered to them?  I wonder if anyone is using their patents?
+12. Always wanted a Peavey USA Firenza!
+15. Always wanted a Parker Fly if not one of the import Parkerss
+15. Ernie Ball Music Man Majesty are usually <6.5lbs
+17. Gibson SG Standard Tribute <6.6lbs, 5.9lbs (Maple Neck?)
+18. Always wanted PRS SE Soapbar II Blue
+20. Cort basswood or paulownia guitars G100 (probably the best cheap guitar in the world.  Would love to make this into a premium axe somehow)
+21. Ibanez Paul Gilbert Mini
+- About Peavey Firenzas "Leakesville Firenzas" were made in Peavey's short-lived Leakesville factory between 1997 and 2002. The Leakesville factory was a dedicated guitar making facility located in Leakesville MS, about a two-hour drive south of Meridian.  To date your Leakesville Firenza, the best method is to remove the neck and look inside the neck heel. Most, but not all, Leakesville Firenzas will have the date of assembly written inside the neck heel in pencil." Some are ash and are 8lbs, others are basswood iirc.   Mira X might be made of Obeche.  I had a beautiful Dean Korina Czech V that was quite light too.
+22. [Reverend Terz](https://www.reverendguitars.com/guitars/billy-corgan-terz) - Billy Corgan apparently asked them to make this 21.5" scale guitar.  I want it!  
 
 
 
@@ -506,6 +768,140 @@ Some part of me would like to have all of these but the baggage with having many
 10. Natural Blonde Grain Les Paul
 12. PRS Hardtail Blue Jean 10 top, Natural Binding, Light Mahog back, maple neck, 6.5lbs, that chimes acoustically like a piano and has sustain for days
 13. US Masters
+
+
+Also really want a guitar with a trem king actually two of them.  Ideally with 25” necks
+
+
+## Unique ##
+Dean Zelinsky LaVoce
+In addition to its really special neck shape and feel its a lightweight skinny and beautiful les paul with special electronics (single coil, humbucker, and acoustic).    I think they are super thin too.
+
+# Acoustic #
+- Seagull are best
+- Solid top if possible
+- Easiest to play is best
+
+
+# Short Scale Strats #
+Also really want a guitar with a trem king actually two of them.  Ideally with 25” necks
+One of the Earl Slick Teles is short scale
+
+Beautiful ash Earl slick guitar with filtertrons and 24.75 scale and great video on guitar max
+
+# Inbox #
+
+
+Ebmm makes an amazing strat the best I played at the show in 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Playing #
+
+Options for playing and learning and learning to shred
+1. Play more often just for fun (jamming to backing tracks)
+3. Play more rocksmith especially the guitar solos
+4. Practice some of the solos I care about every day.  
+	Study them and learn them by writing out the tab by hand 
+	Write my own and rip and expand on them (this sounds best)
+	Write my own based on some of my favorite solos that I cant play 
+5. Play and write great leads with my computer on while looping
+6. Play Rhythm and then stick a lead in the middle like Thomas Blug in his viideo about 
+7. Make or get interesting Tool midi or beats and write new riffs and songs to them
+8. Play with quinns app 
+9. Write my own solos to my favorite songs
+10. Write tab for your own exercises
+
+
+Tips:
+- Hollis at 7:59 pm Live from the Studio
+	- "you just have to get good at finishing things"
+	- "try something new, play the piano"
+	- "This is the only thing I really like to do"
+- Great video by Rober Baker "Whyy yoyu cant play faster and how to fix it" "For Speed you're not learning to play fast in enough different ways"
+- [Learning to Improvise by Thomas Blug - How he taught himself ](https://youtu.be/ypRoV1nlCug?list=PLOdoSON10TXAQzSx6v67v-4VdENWWhqN1&t=4541)
+
+
+- My Exercises
+	- the simple lick in robert bakers play faster video with all three different pickings
+
+I can write and learn to play fast by jamming to just a drum beat and recording it and then extraction and enhancing what I did and making it into a song and learning that song
+
+In this [Paul Davids](https://www.youtube.com/watch?v=qls1HQ-FaGM) he shows a cool arpeggiio that is now my favorite
+
+-----------------------------------------------12---15----------------------
+-------------------------------------10---13--------------------------------
+----------------------------9---12-----------------------------------------
+-------------------7---10--------------------------------------------------
+----------7---10-----------------------------------------------------------
+--5---8-------------------------------------------------------------------
+
+And Cory Wong says to do arpeggios based on the circle of fifths going counterclock which is a super fun exercise!
+
+
+
+Training:
+Paul Gilbert has an amazing site with hundreds of videos answering peoples questions
+Tim Pierce has an amazing 100+hr course
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Mods #
@@ -523,31 +919,478 @@ Easiest mods to make it great quick
 [From a cool short scale guitar](https://reverb.com/item/32645313-short-scale-guitar-w-warmoth-ebony-mustang-neck-fender-bridge-strat-grey-lomic)
 "Duncan Designed JB/Jazz (HB-102) with logos removed. Here's a little tone secret: If you use 1 Meg pots or only 1 500k Volume (as I have here), it opens up the sound of Duncan Designed pickups to where they sound almost identical to an actual JB/Jazz. They're my go-to for my personal guitars."
 
-# Kits #
+# Kits and Parts #
 - BYOGuitar.com
 - Guitarfetish.com
-- Warmoth.com (search reverb for this)
+- Warmoth.com (search reverb for this too)
+- https://www.mojotone.com
+
+Bodies and Necks and Instrument Parts and Gear
+- ------
+- [SoloMusic](https://www.solomusicgear.com/?ref=1931)
+- StewMac
+- GFS
+- Amazon
+
+Search reverb for paulownia and youll find a bunch of strat and tele bodies
+
+Oripure has loaded pickguards too
+
+
+
+# Pickups #
+Cheap ones
+possibly roswell, wilkinson, Foxnovo, possibly dragonfire, Probucker, Guitarheads, Belcat, mighty mite, Warman, entwhistle
+Loads of weird ones on Amazon that might be great who knows, 
+Apparently: [Allot of the pickups sold by GFS are made by Artec](https://reverb.com/news/upgrade-your-pickups-for-very-little-money)
+Good ones from Amazon Wilkinson:B083ZXFX9J  Tonerider:B0056XUCPY Eruption:B01LGF1DQ2 $45OriPure: B07KM11DMX $17PurpleInvaders: B019SWTZTC  $26FleorZebra: B074DB9LBW  $36FleorHighOutput: B073CR2P97 
+
+I love the Fleors we just put in blue steel
+
+[This guy](https://www.youtube.com/watch?v=gTLKv5atzLQ) says barenkuckle aftermath are the most fun to play or practice with and his favorite and then listen to that EMG57/66 set wow they sound awesomes and that the diimarzio fusion edges sound great, and that they apparntely come with some lower end ibanezes stock, 
+
+Bargains
+Tonerider and GFS pickups and Iron Gear pickups 
+
+Commercial Quality Level 3
+carvin/kiesel, Duncan Designed
+
+
+High Quality Level 4
+certain seymour duncan and Dimarzio
+
+Boutique Quality Level 5
+Wilde Bill Lawrence
+Bare Knuckle are 120-200 or more, Rio Grande, Mojotone (USA Handwound), Warp Core(Handwound from Tuscon)
+Planet Tones are only $60 and are handmade in USA
+Frogdog $80 handmade in USA
+Planet Tone Pickup Co. 
+
+
+Single Coil Pickups
+9. DiMarzio Super Distortion S
+2. DiMarzio Tone Zone
+3. Duncan JB Jr
+4. Super Distortion (P90 Soapbar sized)
+
+Want: JB, Super Distortion, Duncan Distortion, Pearly Gates, Tone Zone, The Breed, 
+Want: PRS HFS, Interesting ones from all kinds of other brands.
+
+ Oripure pickups sound great and are $35 each
+
+
+
+# Pickup-Swapping-Guitars #
+
+- Relish guitars have pickup swapping feature.  From $1299 (Sexy metallic blue with basswood body and open back for super easy pickup swaps) to $4500 for the guitar.  about $250 for a seymour duncan mounted in one of their special mounts.    That ultimately means we couldnt test cheap pickups in this on our own unless we figured out how to re-use their mounts and they are pretty expensive and not sold separately.  Thesee are sexy as hell though and I would like to be able to swap some of these pickups in thesee cages.  YOu can get a set of cheaper ones for $299 but can they be easily swapped IIN to the cages?  Could i setup a plug systme IN the cagese to swap them in?  I [really like these guitars though](https://www.youtube.com/watch?v=Nus7V9l_dHc)  I want to know how to add a new pickup to that rack.  Apparently thats not what they want you to do.  You send them the pickups and they mount them or buy them for $250 each from sweetwater.  Somnium is more expensive and doesnt look as cool but also doesnt pull that crap
+	- Update: In [Darrell Brauns Pickup Comparison](https://youtu.be/EtFVRaCumBg?t=131) he shows how they are soldered in and its EASY you woudl just have to map which pin goes to which cable.  THEN after that you can probably figure out how to remove and replace the mount onto other humbuckers.  I could totally do this and it would be fun.  ALSO I could probably setup soem kind of solderless thing in that bracket too so it would be even easier.   Sweetwater says it voids the warrarnty on the bracket /pickup if you do that.  Of course it does.  i woudlnt expect them to honor that warranty at that time.  Theyy are $150 for crappy pickups ($300 for a set) which is cheaper than the Somniums
+- Somnium has pickup blocks that let you swap them yourself.  USA Guitars  $2100 to $2800  The cartridges are $195 but each guitar comes with three of them.  
+-----
+Reveho Slite (coming soon)  $1800 is an amazing COLLAPSIBLE guitar with apparently easily swappable pickups and beautiful wood and an amp built in!  it folds into a suitcase! OMG Less than 6.6lbs!!! USB C 
+Fern Phoenix (Coming Soon) is a wooden configurable guitar 
+Boaz One (Coming Soon) is a <$500 israeli guitar with $169 modules for pickups and a kickstarter but isnt released yet.  Built in amp and stand in one version.
+-----
+Gyrock guitars has a rotating pickup thing!  Instant pickup swap mid song.  Cost?  How to put new pickups in?  comes with 10 sd pickups ...  wait ... does this actually say $16,000 dollars??? 
+Some old [taylors were easily moddable](https://www.youtube.com/watch?v=dYpzjkNgLfo)
+
+
+# Mod: Pickup Swapping #
+- GFS makes a plug for swapping pickups - OMG its only like $5-10 bucks per part!  
+	- many parts are sold out but it looks like its a standard 2.5mm TRRS jack and if so I could probably get some splitter from ebay and just cut it and strip it, or use a 2.5mm to 3.5mm adapter.  Note: It might already be 3.5mm
+- Mojotone makes a solderless tele wiring harness foor $80
+- Seymour Duncan Liberator is $30 for a solderless volume pot
+- Obsidian makes a [solderless harness](https://obsidianwire.com/?aff=5) of really high quality (darrell braun affiliate link)
+- Frog Dogs makes parts
+- Hard Luck Kings makes prewired pickguards
+- planet tone makes prewired pickguards
+----- 
+- Given a fully routed strat we could make a bunch of fully wired pickguards which [just had a plug to the input jack](https://www.tdpri.com/threads/rule-the-tones-many-guitars-in-one.630170/)
+- "Even Cheap Harley Bentons kits have a solderless system...No that complicated !"
+- Make My Own Relish 1: I like the idea of a large cavity strat but we put magnets in there and female plugs and then with some simple solderless make plug and magnets screwed into the pickup we can loosen the strings, unplug, pull out, plug drop in, tighte the strings.  OR MAYBE we could do all thtat with a trem bend?  That would just be lucky probably
+- MMO Relish 2: route the back of a large cavity strat so I can drop the pickups ini from the back.  
+- Some great workable pickup adding systems: 
+	- [Female 2.5mm 4 wire tinned split](https://www.amazon.com/gp/product/B07ZT7GH98/)  		   
+	- [Male 2.5mm 4 wire split](https://www.amazon.com/dp/B07ZT85PN7/)
+	- [2.5mm breakout jack seems like what GFS uses](https://www.digikey.com/en/products/detail/sparkfun-electronics/BOB-11570/6006052)
+	- -----
+	- [Cerrxian female 3.5mm 4 pole solderless TRRS](https://www.amazon.com/dp/B07BHBQ5YV/) 
+	- [Cerrxian male 3.5mm 4 Pole Stereo Solderless TRRS](https://www.amazon.com/dp/B06W2K9XMM/)  
+	- [Poyiccot male 3.5mm solderless Speaker Wire Adapter short cable](https://www.amazon.com/dp/B07PQTKMM7/)
+	- -----
+	- [3.5mm female Soldering terminal](https://www.digikey.com/en/products/detail/sparkfun-electronics/BOB-11570/6006052)
+	
+Could also use telephone connectors or something like those.  Also could use the connectors like the ones on motherboards for speaker and led lights, those are called [dupont connectors](https://www.youtube.com/watch?v=jET1QTP1B7c&t=81s) which you use with a crimping tool, and there are kits with tons of these connectors for just a few dollars.  I believe thats what EMG uses for their quick connect and would work well.  Also related is 'pin headers'.  if I could get two female ones and use tiny male to male jumpers that would work but i cant find those jumpers, maybe I can pull them out of the pin headers or realign where the plastic is on those headers? Maybe the jumpers used in LED strip light connectors would work? 
+Another possibility is using a bunch of male to female dupont wire jumpers and cutting them (you can get 90 for $10) apparently 8mm from pin 1 to pin 4.   some LED Connectors come with the jumpers that look compatible (unconfirmed though)
+Other keywords:  bullet connectors, bullet crimp connectors, heat shrink spade connectors, Apparently white is the color code for connectors for the size of wire for guitars,
+guitars use awg22 or 26,27,28 probably right out of the pickups its 28 and then 22 for most of the rest of teh wiring.   
+Also 4pin fan or GPU fan or motherboard fan adapters or extension cables might work.  
+Also low voltage wire connectors, brightfour quick solderless wire splice, quick connector, quick disconnector, screw terminal connector, spring wire connector, [Wago lever compact connectors](https://www.amazon.com/gp/cart/view.html?ref_=nav_cart),  universal compact wire terminals
+Theres also solderless heat shrink butt connectors some are crimped and some have solder in there so you heat them up and the solder flows to make the connection between the wires.  If you did this right you could cut at the point of solder and then ppull it all off of the wire somehow.  
+Also molex
+Also EMG have a quick connect disconnect system as well as GFS and as well as gibson and epiphone and others.
+
+# Mod: Installing an Active Acoustic EQ into an electric guitar #
+- OMG I so want to route out and install an acoustic guitar active EQ unit with 9v battery compartment into one of my guitars!!!  THIS Is a BIG DEAL and I think would be a game changer for most people and so damn cool.  I wonder if I could even do a different one for each of the two pickups?  I wonder if the tone knob could be replaced with a more interesting EQ circuit and then I could have one per pickup?  I wonder if I could mount one of these it into the pickguard of a strat without routing out all that much more wood?
+
+# Mod: Tone Controls #
+- Another option is affecting the capacitor on the tone control.  Apparently that makes a big difference  THeres a Black Ice battery free overdriivve.  I wonder if there is a circuit with several capacitors and maybe a push pull that gives you tons of tone options?  3300pF cap is [a favorite of premier guitar](https://www.premierguitar.com/articles/27869-mod-garage-swap-that-tone-knob-for-a-warmth-control) and that article also has other options like 6800pF sounds interesting too
+- I wonder if you could add a push pull to the volume knob to get a 20% passive volume boost for solos?  Maybe with the active EQ I could lower the volume in the standard position volume pot, increase it back to normal with the active EQ, and then boost by puttting the regular vvolume back to normal in the push pull setting?
+- TIP: You can also set tone control to standard of 6 and then set your amps EQ accordingly to get some of the tone back.  and then hit the tone to 10 for a treble boost.  I dont think this is smart though because it seems like the ccut from the tone pot removes the frequencies and you cant merely add them back if they arent there in the signal to the amp..   I think this idea shows some promise though.
+- Similarly mounting a headphone amp inside a guitar would be clever like a fender mustang headphone amp INSIDE the fender pickguard so the controls were sticking out and so you could plug into the cables would be so cool.  Kind of like the kay synth guitar
+- "I prefer the acoustic sounds with my Wilde "Q-Filter" over the Piezo sound, and that guitar would benefit from the mid-dip sounds it offers."  Bill lawrence wilde q filter is awesome and is like unwinding your pickup with the tone knob rather than doing a coil split.
+- Installinig a Boost with Bartoliniis the chip https://bartolini.net/product/tc/
+- orange drop .0223uf/100v cap 
+- Instead of cts pots (too expensive but nice)Bourns audio for half price
+- Instead of sprague orange drops get Vishay orange drops for a fifth
+- [using a desoldering gun is awesome](https://youtu.be/mLJC11rF0c8?t=879)
+
+
+
+# Mod: Make a V out of a strat #
+Want to have some guitar where I pull abunch of wood out of the bottom where the strapp button is so I can play it like a V and so it relievves some weight.  And see what difference it makes to the tone
+
+# Mod: Sustainer #
+Also I want to have a Sustainiac on my guitar built in, could it run off the same 9v battery compartment provided by the acoustic EQ? 
+Ebow
+(also Acoufiend is a $79 plugin that does this)
+
+# Mod: Piezo #
+Also I want to have a piezo installed somehow with maybe a switch to that mode or a built in blend or soemthing?
+
+
+# Mod: Trem King #
+I want one of these so bad
+Also really want a guitar with a trem king actually two of them.  Ideally with 25” necks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Youtubers #
 
 
-### Hidden Gems ###
+### Best Players ###
+- [JayLeonardJ](https://www.youtube.com/user/JayLeonardJuatco) (30K) pro or former pro player with some of the sweetest funkiest chops youve ever seen, plus hes always got a positive attitude.  I first saw him play in [this awesome video](https://youtu.be/qoXGA-C-kjs?t=50)
+- [Tom Quayle](https://www.youtube.com/channel/UCIdgYPVJaj-quogXe_gX6Bw)’s playing is so great like in the [soldano video](https://www.youtube.com/watch?v=FRrzLXuMtRo)
+- [Brett kingman](https://www.youtube.com/channel/UCBHoPcJMiFe6CuVY2X7I0YQ)  I first heard him rock in [this hotone amp video](https://youtu.be/f7VITwAEWP8?t=96) but I [this amplifire video](https://www.youtube.com/watch?v=2Etz6R-wLy8&t=12s) has some amazing chops and tone
+- [Jonathan koh](https://www.youtube.com/channel/UCGRld0AJM88o9hZuv-3rgWw) probably [one of his best songs](https://youtu.be/f9CdSi2PLDw?t=237) I could listen that for hours
 
+https://www.youtube.com/c/MartinMillerGuitar/featured
+A bunch of htem were in this [play a plexi on 10 video](https://www.youtube.com/watch?v=zKTi8l8Yuxg)
 
 ### Medium Size Audiences ###
-- JayLeonardJ (30K)
 
+German guy who plays classic tube amps real loud johan segeborn
+Obvious ones
+
+Semi obvious
+Eytsch
+In the blues
+
+Leo gibson 
+Tim Pierce is a legit Studio Session Guitar player (Michael Jackson for example)
+
+- Michael Nielsen (funny video editing and scripts and interesting content)
+- Max is low key hilarious (sword box opening! also check his description and comment points) and has really cool demos
+
+Csguitars awesome has the "ALL THE GAIN" Metal zone video and I love his style and accent
 
 
 ### Well Known ###
 - [Chords of Orion](https://www.youtube.com/watch?v=V0_DmwHjW9A) (100K)
-- [Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU) (102K) This guy is a legend having worked with important artists like Chris Cornell, Melissa Etheridge, and is a Ton Conoisseur
+- [Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU) (102K) This guy is a legend having worked with important artists like Chris Cornell, Melissa Etheridge, and I think Bryan Adams, and Don Henley and is a Tone Conoisseur and Guitar Nerd
 - [Rhett Shull](https://www.youtube.com/watch?v=J02heFTwEXY&t=483s) (149K)
 - [JHS Pedals](https://www.youtube.com/watch?v=SVbceQGhbdM&t=641) (193K) This is the pedal maker (Josh) creating interesting humorous and creative videos
 
 ### Youtube Superstars ###
 - [Rob Chapman](https://www.youtube.com/watch?v=ZmlGvHmQZH0) (734K) The Entertaining and Humorous shredder Rob Chapman shows off gear.  
+Andertons 
+
+### Best Teachers ###
+Tom Quayle
+
+
+
+### Catch up ###
+Tom Quayle
+Tim Pierce
+BluGuitar
+
+### inbox ###
+
+Gerry Trevino has some of the most musical listenable and accessible demo music on YouTube
+
+Gerry Trevino is one of the best metal game music players, the other is the one who did the vvvvvv songs
+
+Great Teachers:
+- Robert Baker
+
+Evan hopper is one of the best riff composers on YouTube 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Bass Guitars #
+
+
+Amp:
+
+
+
+Amps: With #1 and #2 you can record directly into his Mac, with #3 and #4 yyou can't record as easily but can still rock out!  I have #1 and like it but #2 is sexy too
+
+#1: $125 Used Peavey VIP1 - https://www.guitarcenter.com/Used/?Ntt=peavey%20vip&Ns=pLH  
+
+#2: $230 Fender Rumble LT - https://www.amazon.com/dp/B07N2897CX 
+
+#3: $55 Joyo tiny amp.   https://www.amazon.com/dp/B07RXYC3YM
+
+#4: $119 Fender Rumble 25 https://www.amazon.com/dp/B00HWINLAE
+
+$99 for Captain Chords
+
+
+Bass Guitar Price Ranges: 
+
+#1: Something Amazing for $750,
+
+#2: Something Good or possibly great for $500, or 
+
+#3: Something impressive-for-the-price-and-totally-musical-and-fun for $300
+
+Suggest:
+Wait until they are in stock:
+
+
+Something Amazing for $750
+1. $750 Used USA Fender from the 90s (High quality and will never lose its value)
+1. $750 New Schecter Stiletto Custom 5 (Amazon) Beautiful and really high quality
+1. $750 New G&L Tribute M2000 or L2000
+1. $700 New Sterling Bass (Amazon)
+1. $750 New Fender Jazz Bass or P-Bass
+1. -----
+1. $600 One G&L Tribute M2500 HSC
+1. $750 For several used Ibanez beauties
+1. -----
+1. $750 For one of several Carvin basses (reverb)
+1. Yamaha  a2 is super lightweight and what that twitch guy plays
+
+Something Good for $500
+1. ----- Best New
+4. $429 Squier Classic Vibe Jazz (one in SLC at GC, Amazon, Sweetwater, Financing Available, Free Shipping)
+1. ----- Best Used
+5. $325 * One Squier Classic Vibe Jazz
+1. $450 * One G&L Tribute M2000 Beautiful
+4. $475 * One MIJ 1985 Ibanez Roadstar
+4. $445 * One Ibanez Roadstar 2 1987 (Jan 1987 I believe)
+1. -----
+2. $400 Sterling  (SLC GC)
+5. $500 Yamaha BB434 (best bass under $500 + financing)
+1. $500 Yamaha TRBX504
+5. $500 Ibanez New from Sweetwater (tons + financing)
+1. -----
+5. $500 Warwick Rockbass
+10. $400 Ibanez Old MIJ
+16. $400 Peavey USA Old Bass (not easy to sell)
+5. $400 G&L Tribute used
+14. $400 Schecter Omen Extreme 4 (SLC GC)
+15. $350 Ibanez Soundgear used Reverb
+1. -----
+1. $500 Michael Kelly
+
+Something just fine and impressive for the price and totally playable and musical and fun for $300
+11. $279 Squier Affinity Jazz Bass (SLC GC)
+Xaviere
+12. $200 Ibanez Talman new
+12. $300 Xaviere
+12. $200 Harley Benton (some for <$200 shipped)
+
+
+
+Something Legendary and brand new for $1000
+1. $1000 Ibanez Bass Workshop 
+1. $900 Ibanez BTB745 5-String Beauty Woods
+9. $900 Schecter Stiletto Studio (they have one at GC in slc)
+1. [$800 for FGN Japanese Beauty Bass]
+1. -----
+1. [$700 Greco](https://zemaitisguitarcompany.com/collections/greco)
+2. [$900 Dean Zelisnky](https://deanzelinsky.com/guitars/bass)
+10. [$1000 Fender JMJ Road Worn Mustang] A retro reliced short scale 
+1. $1000 Reverend new Reverb
+
+
+Fancy above $1000
+1. $1300 EBMM Stingray Used
+10. $1400 Ibanez SR2405W
+1. $1100 Fender Geddy Lee
+1. Carvin (beautiful but not a bargain and can't resell)
+1. US Masters (beautiful but not a bargain and can't resell), 
+
+https://www.guitarcenter.com/Salt-Lake-City?N=18171#narrowSideBar
+https://www.guitarcenter.com/Orem?N=18171#narrowSideBar
+https://www.guitarcenter.com/Riverdale?N=18171#narrowSideBar
+
+
+
+Are you opposed to getting him involved in the choice in some way?  
+Is there any way you can reveal it to him and ask him which one he wants?  If so I can get together some photos and then you can order the one he wants
+I could say "Thinking of getting Cristi a new bass ... which one do you think is sexiest?"
+Does he have a bass right now?  
+
+
+
+Bass for $500
+If you read no further this is a great choice:
+1. $429 Squier Classic Vibe Jazz (one in SLC at GC, Amazon, Sweetwater, Financing Available, Free Shipping)
+2. Dean Custom Zone
+
+
+Two great bargains on used guitars:
+1. $450 * One G&L Tribute M2000 Beautiful (probably the best deal on the list)
+
+
+Four other options for buying new:
+1. $500 Ibanez New from Sweetwater (tons + financing) [Ibanez At Sweetwater](https://www.sweetwater.com/store/search.php?s=ibanez+bass&sb=popular&params=eyJmYWNldCI6eyJQcmljZSBSYW5nZSI6WyIkMzAwIHRvICQ1MDAiXX19)
+2. Harley Benton
+3. [G&L Tribute](https://www.sweetwater.com/store/search.php?s=g+and+l+tribute+bass&sb=score&params=eyJmYWNldCI6eyJQcmljZSBSYW5nZSI6WyIkMzAwIHRvICQ1MDAiXSwiQ2F0ZWdvcnkiOlsiQmFzcyJdfX0)
+
+
+
+Amp
+
+Qs: Do you like classic looking basses (like fender) or modern (like fancy woods and round edges and pointy parts)?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gear Details:
+1. Purple Pickups in Limelight: 1. As soon as I had them plugged in I thought I didnt like them.  They are lower output than any of my others, but spending 20 miin with them and I'm warming to them.  They are warm and the neck one on cleans is really clear actually.  They are not bright and they are possibly missing some upper range to me, but still have a pretty good set of  harmonics.  I really like the neck clean sound really like it.  chimey. clear. warm. sweet.  its got something weird when I drive it.  I wonder if its my wiring?  Like when I really hit it hard on the unmatched ... maybe its my headphone speakers or the EQ in my boss.  ok iin the boss I changed the input calibration from -1 to -7 that fixed the distortion.  My other guitars didn't distort quite like that.  Sustain is great right now actually.  high gain is great on arena mode with bridge or regular pickups .  I guess its lower output and maybe that controls arena mode better or something but it sounds and works and feels great.  NOTE:  All of this is in the back of my mind with a feeling that there is something missing but not a problematic somethiini gjust a premium or boutique or quality or something else that I deserve.  On orange crush mode it sounds pretty shitty
+1. JB 59 Chrome set in Limelight.  The 59 isnt wired right, it has a signal but is problematically scratchy. The JB is awesome in its own way. In this guitar it does things that none of my others do.  It kind of breaks compatabiliity with my patches!  half of the patches that I had previously designated as good or great, just sound shitty with this pickup, and half that I had previouslyy designated as shitty sound great!?!  Its weird but that plus the wiring problem makes me  uncomforable about them.  Before I even wired it in I ordered a purple super distortion, maybe that will fit in better?
+1. It seems like this boss is more sensitive than a normal amp to the guitar and the pickups.  It doesnt sound even remotely similar with different guitars ... but then thats not even entirely true because Billy ocean sounded like limelight with those pink pickups.  I dont know its confusing! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Inbox 
 
 ## Devin Townsend ##
@@ -562,6 +1405,8 @@ Easiest mods to make it great quick
 4. Kingdom EMGtv
 	https://www.youtube.com/watch?v=nubJjB95VdY 6min
 	
+# Inbox #
+
 ## Oct 2020 ##
 I've been thinking more and more about evertune and it seems like a really good idea.
 Ive also been thinking about the Dean Zelinsky guitars
@@ -589,8 +1434,8 @@ Reverend
 ## March 2021 ##
 
 1. Eart makes an amazing headless for $299 that looks beautiful and is blue and I love it.
-2. Headless: Kiesel, NK, Eart, other obvious ones (ibanez, steinberger), Agile, Aguda, Strandberg boden,
-3. Lightweight: Harmony Rebel Flame, Musicman Majesty, 
+2. Headless: Kiesel, NK, Eart, other obvious ones (ibanez, steinberger), Agile, Aguda, Strandberg boden, ormsby goliath
+
 
 
 
@@ -604,18 +1449,121 @@ Do I want to keep this PRS S2?
 6. Also another guitar with an evertune bridge
 7. and get one that has a super solid strong maple neck.
 8. Also An S2 Mira or Starla taht weighs under 6lbs the s2 mccarty is frost blue and sometimes 6.5lbs
-9. I love the idea of a super lightweight telecaster.  Youcan't break that.
-
-
-Options for playing
-1. Play more often just for fun (jamming to backing tracks)
-3. Play more rocksmith especially the guitar solos
-4. Practice some of the solos I care about every day.  
-	Study them and learn them by writing out the tab by hand 
-	Write my own and rip and expand on them (this sounds best)
-	Write my own based on some of my favorite solos that I cant play 
+9. I love the idea of a super light telecaster.  Youcan't break that.
 
 
 
+Other possible options for now sort of
+1000. -----
+3. $109 Lyxpro telecaster (Paulownia Weight not actually listed.  Guessing very low but thats a risk.  Super curious and would love for this to be a miracle and its so low risk but ... I dont really need it at all ... )
+1. $1400 Fender Brad Paisley Worn Telecaster (reliably under 6lbs) (5lb8oz, "just over 5lb") "Light Tele?  You can't break that!"
+2. $400 Steinberger $400 and probably super light (Update: Steinberger.com says they weigh 7lbs!?!  wtf!?!), Theres frost blue at zzsounds for $400, used synapse has a recessed plug,
 
-	
+
+
+Lightweight Options for Right Now
+4. (BOUGHT) $310 Eart Blue beauty headless on Amazon
+6. $1350 4.5lb PRS Mira X Bright Green. (DEFINITELY if the interaction messages feel and sound right)  
+5. $1429 5.4lb PRS S2 Vela Green Metallic.  Cool seller confirmed the weight.  (yes but after or instead of the bright green one)
+
+
+
+Mar 19 2021
+As much as I want a beautiful impeccable gorgeous museum piece, thats legitimately NOT what I want.  I Would probably still want one if I hadn't already had one for a long time now (my Blue PRS!)
+Instead I like the idea of those finishes, but then I have some concerns about scratching or denting them.  I dont want that baggage. If it hsas a nice top then I want it to have a big gash or defect in it already.  Otoh I like the idea of having just one body wood, natural satin finish.  I like the idea of having a T-60 like body wood and finish, or an EP-RK like that or a satin mahogany like some PRS or Gibsons or a satin finish alder or ash.  Most important is just that there are so damn many finishes that I want to have and look at that I cant possibly pick just one so that needs to be mostly out of the consideration it just has to be one I like the looks of and for that reason sometimes the more classic the better.
+Want: Lightweight, LowBaggage, High Quality.   5.5lbs(5lbs8.0oz) or less, Obviously used or worn, Easy to sell, Easy to replace)
+Ideally: Beautiful Growly tone, sings when strummed, 24.75" or 25", 1 Bridge Humbucker, Plug and clip system for swapping pickups
+
+Bought the Eart and also bought the Boss GT001 from Sweetwater too.  This is feeling really right
+.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sexy Guitars:
+1. Amazing looking Ash blue black open grain look tele TE-90FLT Blue Blast
+	2. 	Same look in a zemaitis V
+1. PRS S2 McCarty.  This is right up my alley.  I feel great desire for this.  Probably with a high end pickup swap this would be even BETTER than a core for me personally.  I love the look and all of the features and it even has a SHORTER than Gibson scale length!!!
+1. PRS CE "Those are total rock machines"
+1. Sterling axis blue is beautiful and evh 
+
+Midi Pickup for acoustic guitars
+https://www.cardinote.com/insider/welcome
+
+
+"Remember: You can always add bass in post without adding significant noise. But any time you add treble EQ to anything, it will add noticeable hiss. Therefore, we are always better off with a quiet pickup that has the inherent high-end frequencies. You can add as much bass as you need with the amps' tone knobs or the mixer's EQ. You can always reduce treble without adding noise." B00RJIE944
+
+
+
+Awesome Guitars Mar 31 2021
+1. Paul Gilbert Mikro
+2. Brad Paisley Telecaster lightweight
+3. Lyxpro telecaster
+4. CMG Tele (Beautiful Masked Binding, perfect scale length)
+
+
+
+
+On the clarity of 50s wiring in a Les Paul
+From [This youtube video](https://www.youtube.com/watch?v=Zd0nMtcwJS0&lc=UgyYDw8SyM9XFdjsnIJ4AaABAg)
+"The thing that these humbucker guitars sound like a fat single coil is freaking amazing" "50s wiring. You can do it to your guitar and it will sound close to this regarding the openness/airiness."  "@André Borges  You really think that?"  "I’ve a 2007 R8  that sounded a bit muffled, so I swapped the Burstbuckers for a PAF replica and it did sound better. Afterwards it came to me the info about the 50sW and I tried it. It was a revelation. Even the resonance point, which allow the guitars to be controllably microphonic, have improved. I now have my dream guitar, which I pitted against a real 1957 Goldtop and it left nothing to be had tonewise... It really helps to bring those upper-mids/treble sparkle to life."  "A consequence of finally supplying the demand for genuine PAF clarity. Pickups made to the original specs plus pots that likely read in the 525K range if not higher (like many of the old Centralab pots used in the 1950s). The 50s wiring helps preserve treble when you roll down the volume pots too."
+
+
+
+
+
+For a wraparound bridge  graph tech does good ones
+Resomax wraparound bridge
+
+How to Desolder with a vacuum gun https://youtu.be/mLJC11rF0c8?t=879
+
+
+
+Apr 14 2021
+Plotting out Pickups:
+All of them can be easily swapped out for reviews:
+1. Limelight came with bare black and should have Purple or Chrome (Purple is bad ass but the chrome really makes me happy) 
+	1. purple super distortion with the purple neck its a pretty good combo
+	1. Perhaps its too bright with the duncans?  Or maybe its just right and unique?
+	1. If its too bright than the ToneZone/PAFPro that Paul Gilbert used would be great
+	1. Also the breed set would be bad ass to have a guitar with just that or to have the set to pass around.   Actually its great but its for 25.5 Trem guitars 
+	2. Maybe the Andy Timmons pickups?  or maybe the Steve Vai Evolution?
+2. Mr Brownstone has bare black and it seems to me it should stay bare black.  Chrome would totally work but white wouldn't
+	1. It seems like he might be a perfect match for the JB 59.
+3. Billy Ocean came with chrome USA PRS pickups and will probably never NEED to be changed
+	1. It would still be fun to try tons of pickups in there.
+	1. I would want to remove the current wiring and replace it ... maybe even with a super simple wiring?  
+	1. Maybe I would want to wire up a harness with full capability?  
+	1. Maybe with the existing harness I could use it as it is by running some simple wires?
+4. Blue Steel had chrome and now has white.  White or chrome would work just fine.  Black would work but would also be a bit washed out.
+
+Try some bareknuckles 
+
+
+
+Want to sound like [this guy](https://youtu.be/ZsNTa0l98t4?t=259https://youtu.be/ZsNTa0l98t4?t=259)

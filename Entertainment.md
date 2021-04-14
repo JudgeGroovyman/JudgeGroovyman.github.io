@@ -1,5 +1,7 @@
 # Twitch Notes #
 
+rasslin, pinkdogfan1, therapydragontwitch (best positive community)
+
 This is just a small portion of notes that I happened to make from my twitch watching.
 
 TheCraftyUnicorn mama bear glitched
