@@ -1141,16 +1141,80 @@ Uween imported into 2019.4.20f1 perfectly with no errors.  Plus its only 154k
 
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
 <!--
-     _                 _     __  __           _              _     _     _   
-    / \   ___ ___  ___| |_  |  \/  | __ _ ___| |_ ___ _ __  | |   (_)___| |_ 
-   / _ \ / __/ __|/ _ \ __| | |\/| |/ _` / __| __/ _ \ '__| | |   | / __| __|
-  / ___ \\__ \__ \  __/ |_  | |  | | (_| \__ \ ||  __/ |    | |___| \__ \ |_ 
- /_/   \_\___/___/\___|\__| |_|  |_|\__,_|___/\__\___|_|    |_____|_|___/\__|
-                                                                             
+  /$$$$$$                                 /$$                  
+ /$$__  $$                               | $$                  
+| $$  \ $$  /$$$$$$$ /$$$$$$$  /$$$$$$  /$$$$$$                
+| $$$$$$$$ /$$_____//$$_____/ /$$__  $$|_  $$_/                
+| $$__  $$|  $$$$$$|  $$$$$$ | $$$$$$$$  | $$                  
+| $$  | $$ \____  $$\____  $$| $$_____/  | $$ /$$              
+| $$  | $$ /$$$$$$$//$$$$$$$/|  $$$$$$$  |  $$$$/              
+|__/  |__/|_______/|_______/  \_______/   \___/                
+                                                               
+                                                               
+                                                               
+ /$$      /$$                       /$$                        
+| $$$    /$$$                      | $$                        
+| $$$$  /$$$$  /$$$$$$   /$$$$$$$ /$$$$$$    /$$$$$$   /$$$$$$ 
+| $$ $$/$$ $$ |____  $$ /$$_____/|_  $$_/   /$$__  $$ /$$__  $$
+| $$  $$$| $$  /$$$$$$$|  $$$$$$   | $$    | $$$$$$$$| $$  \__/
+| $$\  $ | $$ /$$__  $$ \____  $$  | $$ /$$| $$_____/| $$      
+| $$ \/  | $$|  $$$$$$$ /$$$$$$$/  |  $$$$/|  $$$$$$$| $$      
+|__/     |__/ \_______/|_______/    \___/   \_______/|__/      
+                                                               
+                                                               
+                                                               
+ /$$       /$$             /$$                                 
+| $$      |__/            | $$                                 
+| $$       /$$  /$$$$$$$ /$$$$$$                               
+| $$      | $$ /$$_____/|_  $$_/                               
+| $$      | $$|  $$$$$$   | $$                                 
+| $$      | $$ \____  $$  | $$ /$$                             
+| $$$$$$$$| $$ /$$$$$$$/  |  $$$$/                             
+|________/|__/|_______/    \___/                               
+                                                               
 -->
 
 # Nov 2020 #
@@ -1187,7 +1251,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  ----------------------------
  1. SpeechEngine (AmigaSpeech),  DialogueSystem or RPGTalk, EasyTextLight, DynamicText, CodeShark or InGameDebugConsole, VoltageUI(Make your own Extensions and Tools), iosTTS
  2. SpecificFX: Modular3DTextUAS, LowPolyWindUAS, RealisticEffectsPack4HB(alsoDecals), TextAnimator, OffScreenTargetIndicator, ObiRope, BearFXExplosions(ItchRacial), PixelAnimationsAndEffectsHB, DynamicBone or Jiggle, TailAnimator
- 3. Shaders: UnityParticles, AllIn1SpriteShader, ShaderProjectBM(Waves, CurvedWorld, Toon, Scale, Black&White, StainedGlass, Pixelated), FacetedTerrainShaderBM,  UnityLibraryBM(SeeThroughWalls), TriplanarUVFreeBM, 
+ 3. Shaders: UnityParticles, ShaderProjectBM(Waves, CurvedWorld, Toon, Scale, Black&White, StainedGlass, Pixelated), AllIn1SpriteShader$35UAS, FacetedTerrainShaderBM,  UnityLibraryBM(SeeThroughWalls), TriplanarUVFreeBM, 
  4. FX&ShadersOk: SonarShader, AwesomeAsciiEffect, NeonSphere, WetStuff,  uShader2Free(VisualShaderScripting), AskOwlMarquee, DualTexturedShader,  SineWaveEffect, THORThunderstormHB, WhiteMageSpellsHB, WetStuffHB,  FlexibleCelShaderUAS, VertexBM, ShaderProjectBM(Water, Flag, FlatColor, Heatmaps) UnityLibraryBM(VerticalDistanceCameraFade,FresnelReflective,TransparentColor,TransparentColorGradient,Vertex,WaterBox,), CrestOceanBM
  5. Scenes:  SceneStreamer, TransitionManager or BeautifulTransitions$12, Simple2DCutscenes, 
  6. Cutscenes: FungusBM, LearnTimelineForTheHardWay, ManuallyUseCoroutines
@@ -1251,7 +1315,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 	- Clayxels, ProBuilder, Blender, UModelerHB, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), UnityRgbaLevelGenerator(withMeshCombiner),  JustDrawThemAsPicturesAndImportThemToBlender, RealtimeCSG, MastBM
  5. Terrain: 
 	- Best: MapMagic2, GaiaHB, TerraWorld, AlphaxaonRealtimeTerrainBM, MCSCavesAndOverhangeHB,  ReliefTerrainPackHB, Videoaboutmakingbeautifulterrains, KahVeeTerrainGeneratorSS, Pre-made terrains islands in uas, DrParadox312UnityTerrainPainter, TriplanarAndTerrainShaders(UAS, floor, differnet walls, different tops of walls), EasyTriplanarPro (Grows grass over the curve!!!), 
-	- FacetedTerrainShaderBM
+	- FacetedTerrainShaderBM (aka cjurjiuFlatShaderGH)
 	- Ok: $25HexagonWorldGeneratorSS, $40LandscapeBuilderSS, $5BasicRandomTerrainGeneratorSS, $20-3DRealisticTerrainVol1BM, $6UnlimitedTerrainGenerator $5VoxelMaster(WithMeshCombiner),  UnityCookbookTerrainHeightPainter, MITRandomizedTerrainpopulatedwithAssets, BooLeetLowPolyTerrainGeneratorWithDecorations BlenderGIS, aidanProceduralTerrainGenerator, TCGJProceduralTerrainGenerator, VegetationEngineH, HowToMakeBeautifulTerrainInUnity, RunSwimFlyTerrainTools, NatureRendererHB, 
  6. Levels Ok: 
 	- BlenderWithScripting (ProceduralLevelsfromScripts), Bones3Voxels, TaurusDungeonGenerator, UnityPolygonMapGenerator, EdgarforUnity, DungeonTemplateLibrary, LevelGeneratorbyMoolt, CityGenerator,  SceneObjExporter, Magicavoxeltools(mesh to magicavoxel)
@@ -1296,7 +1360,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  2. For pixel art specifically: 
 	- Pixelmash (pixelize images), geometrize PicturesIntoGeometry, PixelAnimationsAndEffectsHB, AllIn1SpriteShaderHB, Dain-AppItch
  3. Levels2D: 
-	- Ferr2DTerrainTool,c2Dto3DConverterVoxelizer (Amazing with MeshCombiner), JustDrawThemAsPicturesAndImportThemWithSpriteCollider, LDTK, WFC3DUnity (Best but hard), 
+	- Ferr2DTerrainTool, c2Dto3DConverterVoxelizer (Amazing with MeshCombiner), JustDrawThemAsPicturesAndImportThemWithSpriteCollider, LDTK, WFC3DUnity (Best but hard), 
  4. Levels2D Good: 
 	- WaveFunctionCollapseWFC,  WFC3DUnity, WFCJS, TextureSynthesisGithub, TextureMaker, PrefabSwatch, EdgarProforUnity, SpelunkyLevelGenerator, EdgarforUnity, UnityProcedural2DMap,  More in bookmarks
  5. Level Graphics:
@@ -1305,6 +1369,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 	- Backgrounds(Parallax, Jumping, Space, PixelArt(Mountain, Planet)), OverworldAKALevelMap(SpaceGame ), City, Battle,  
 	- ItchRacial(HUGEPixelartAssetPack1500Tiles,), SuperpowersBackgroundsPackBM(Parallax), 
 	- Quaternius(TexturedNature(AWESOME), Bushes(PinkGreenClassy), SnowNature, Desert,)
+
 
 
  Characters: 2D or 3D Character assets I own but I might forget about
@@ -1334,7 +1399,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 	- GamesPlusJamesRacingTutorial
  2. MarbleMadness: 
 	- Minigolfuas, KronbitsBM
- 3. TextAdventures: Squiffy
+ 3. TextAdventures: Squiffy, Twine, RPG Profiles from Itch
  4. FightingGame: FighterPack or WarriorPack or MartialArts(for a whole game)
  5. 2DCannonFodder: TDSPixelArtSoldierAndVehicle(ItchNov)(PERFECT), TDSPixelArt2DKit(ItchNov), 7ExplosionSpritesItch,
  6. TowerDefense: 
@@ -1374,7 +1439,6 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  21. QBert: QBertReplicaGH, 
  22. Alien Syndrome:
  	- SciFiEngineer
-	- 
  23. VR Elevator Action;
  24. Asteroids: 3DBreakableAsteroids,
  25. Finishing Gobblet
@@ -1423,12 +1487,26 @@ TerraWorld - Automated Level Designer
  
 
 <!--
-  ____  _             _   _             ____       _       _   _____ 
- / ___|| |_ __ _ _ __| |_(_)_ __   __ _|  _ \ ___ (_)_ __ | |_|___ / 
- \___ \| __/ _` | '__| __| | '_ \ / _` | |_) / _ \| | '_ \| __| |_ \ 
-  ___) | || (_| | |  | |_| | | | | (_| |  __/ (_) | | | | | |_ ___) |
- |____/ \__\__,_|_|   \__|_|_| |_|\__, |_|   \___/|_|_| |_|\__|____/ 
-                                  |___/                                                                
+  /$$$$$$   /$$                           /$$     /$$                    
+ /$$__  $$ | $$                          | $$    |__/                    
+| $$  \__//$$$$$$    /$$$$$$   /$$$$$$  /$$$$$$   /$$ /$$$$$$$   /$$$$$$ 
+|  $$$$$$|_  $$_/   |____  $$ /$$__  $$|_  $$_/  | $$| $$__  $$ /$$__  $$
+ \____  $$ | $$      /$$$$$$$| $$  \__/  | $$    | $$| $$  \ $$| $$  \ $$
+ /$$  \ $$ | $$ /$$ /$$__  $$| $$        | $$ /$$| $$| $$  | $$| $$  | $$
+|  $$$$$$/ |  $$$$/|  $$$$$$$| $$        |  $$$$/| $$| $$  | $$|  $$$$$$$
+ \______/   \___/   \_______/|__/         \___/  |__/|__/  |__/ \____  $$
+                                                                /$$  \ $$
+                                                               |  $$$$$$/
+                                                                \______/ 
+ /$$$$$$$           /$$             /$$            /$$$$$$               
+| $$__  $$         |__/            | $$           /$$__  $$              
+| $$  \ $$ /$$$$$$  /$$ /$$$$$$$  /$$$$$$        |__/  \ $$              
+| $$$$$$$//$$__  $$| $$| $$__  $$|_  $$_/           /$$$$$/              
+| $$____/| $$  \ $$| $$| $$  \ $$  | $$            |___  $$              
+| $$     | $$  | $$| $$| $$  | $$  | $$ /$$       /$$  \ $$              
+| $$     |  $$$$$$/| $$| $$  | $$  |  $$$$/      |  $$$$$$/              
+|__/      \______/ |__/|__/  |__/   \___/         \______/               
+                                                                         
 --> 
 
 Added UWeen(MIT) and NaughtyAttributes(MIT) and ScriptInspector3(UAS) and UVFreeShader(UAS)
@@ -1471,17 +1549,19 @@ Now that im really into it Naughty attributes has a constant runtime error. `The
 
 
 <!--
- ____  ____  _  _  ____  _  _  ____  ____  ____ 
-(  _ \(  __)( \/ )(  __)( \/ )(  _ \(  __)(  _ \
- )   / ) _) / \/ \ ) _) / \/ \ ) _ ( ) _)  )   /
-(__\_)(____)\_)(_/(____)\_)(_/(____/(____)(__\_)
+ /$$$$$$$                                                  /$$                          
+| $$__  $$                                                | $$                          
+| $$  \ $$  /$$$$$$  /$$$$$$/$$$$   /$$$$$$  /$$$$$$/$$$$ | $$$$$$$   /$$$$$$   /$$$$$$ 
+| $$$$$$$/ /$$__  $$| $$_  $$_  $$ /$$__  $$| $$_  $$_  $$| $$__  $$ /$$__  $$ /$$__  $$
+| $$__  $$| $$$$$$$$| $$ \ $$ \ $$| $$$$$$$$| $$ \ $$ \ $$| $$  \ $$| $$$$$$$$| $$  \__/
+| $$  \ $$| $$_____/| $$ | $$ | $$| $$_____/| $$ | $$ | $$| $$  | $$| $$_____/| $$      
+| $$  | $$|  $$$$$$$| $$ | $$ | $$|  $$$$$$$| $$ | $$ | $$| $$$$$$$/|  $$$$$$$| $$      
+|__/  |__/ \_______/|__/ |__/ |__/ \_______/|__/ |__/ |__/|_______/  \_______/|__/      
+                                                                                        
 
 -->
 
  1. PlatformerPro2, CorgiEngine, DarkTreeFPSUAS, TopDownEngine, CharacterMovementFundamentalsUAS
-
-
-
  2. HotReload: Bolt, LogicForge, FlowCanvasHB
  3. ScriptInspector3, UVFreeShader, 
  4. Fracturing&Destruction, ObjectExploder
@@ -1493,10 +1573,386 @@ Now that im really into it Naughty attributes has a constant runtime error. `The
  10. AllIn1SpriteShader, FacetedTerrainShaderBM
  11. PolygonPacksHB, 
  
+ Projects and Assets to build a game around:
+
+- CSV Reader
+  - Should read the whole file as 2d array of strings
+  - Have a place where you can filter each string as it is read in from the file
+- CSV Writer
+  - Should accept a 2d array of strings
+- Anything.World
+- Sounds that I can re-use over and over (just super simple where this is the only creative part) 
+  - a pinball or megaball like game where you just shoot the ball once and it bumps things and makes sounds and you try to get a high score
+- Explosion VFX
+  - With sounds
+  - Hits and things too
+  - This could be that pinball game v2
+- Make a modular title screen
+  - That I can drag in and just call title screen show and then it takes care of getting rid of itself
+- High Score List
+- Dialogue Popups for mid or level entrance cutscenes
+- Text Scrolling Pages (like in Llamatron)
+- Level Generator
+  - Super simple randomized modular mirror level generator +/- 6 blocks from the starting point of the screen but not so its closed off in the middle obviously
+  - With a randomized list of materials as an option
+  - and with a set of prefabs to pick from
+
+
+
+Apr 16 2021
+Excited About:
+- Models: Clayxels, SplineMeshFree, KenShape($3Itch)
+- Models fx: DynamicBone or Jiggle or TailAnimatorHB, TriplanarUVFreeBM, RealisticEffectsPack4HB(alsoDecals), OffScreenTargetIndicator, BearFXExplosions
+- AI: DonutStudiosAIandProceduralGeneration, 
+- Terrain: GaiaHB, TerraWorld, Videoabout making beautifulterrains, Pre-made Terrain Islands in UAS, DrParadox312UnityTerrainPainter, EasyTriplanarPro$15 (Grows grass over the curve!!!), 
+- Levels: Clayxels, 2Dto3DConverterVoxelizer, 
+- Level Generators: DungeonArchitect, DonutStudiosProcGen, MapGenUAS, SciFiTopDownGameTemplate
+- Must Try: Anything.World
+- Level Tools: EasySnap, RandomDuplicate, 
+- Level Shaders: LookThroughObjects, LowPolyWindUAS, FacetedTerrainShaderBM (aka cjurjiuFlatShaderGH), CurvedWorld, UnityLibraryBM(SeeThroughWalls)
+- Level FX: ObjectExploder, CurvedWorld, Fracturing&Destruction, ShaderProjectBM(Waves, CurvedWorld, Toon, Scale, Black&White, StainedGlass, Pixelated), TriplanarUVFreeBM
+- Inspector:
+- Platformer: PlatformerPro2, CorgiEngine,
+- FPS: DarkTreeFPSUAS
+- TPS: EasyCharacterMovementHB or CharacterMovementFundamentalsUAS
+- TopDown: TopDownEngine, or SciFiTopDownGameTemplate 
+- VR: TButt, VRTK, VRShooterKit, SteamVR
+- Multiplayer: UnitysNewMultiplayer, Mirror
+- Text: SpeechEngine (AmigaSpeech), Modular3DTextUAS, TextAnimator
+- InGameConfig: InGameDebugConsole, DataboxHB (Save and Configure CSVs and GoogleSheets), ComponentSaveSystem
+- QOL: 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+
+  /$$$$$$  /$$   /$$ /$$      /$$ /$$   /$$ /$$$$$$$ 
+ /$$__  $$| $$  | $$| $$$    /$$$| $$  | $$| $$__  $$
+| $$  \__/| $$  | $$| $$$$  /$$$$| $$  | $$| $$  \ $$
+|  $$$$$$ | $$$$$$$$| $$ $$/$$ $$| $$  | $$| $$$$$$$/
+ \____  $$| $$__  $$| $$  $$$| $$| $$  | $$| $$____/ 
+ /$$  \ $$| $$  | $$| $$\  $ | $$| $$  | $$| $$      
+|  $$$$$$/| $$  | $$| $$ \/  | $$|  $$$$$$/| $$      
+ \______/ |__/  |__/|__/     |__/ \______/ |__/      
+        
+        Overhead or Side Scrolling Shooter                                             
+-->                                                 
+                                                     
+
+
+
+<!--
+ /$$$$$$$                                                      
+| $$__  $$                                                     
+| $$  \ $$ /$$$$$$   /$$$$$$$ /$$$$$$/$$$$   /$$$$$$  /$$$$$$$ 
+| $$$$$$$/|____  $$ /$$_____/| $$_  $$_  $$ |____  $$| $$__  $$
+| $$____/  /$$$$$$$| $$      | $$ \ $$ \ $$  /$$$$$$$| $$  \ $$
+| $$      /$$__  $$| $$      | $$ | $$ | $$ /$$__  $$| $$  | $$
+| $$     |  $$$$$$$|  $$$$$$$| $$ | $$ | $$|  $$$$$$$| $$  | $$
+|__/      \_______/ \_______/|__/ |__/ |__/ \_______/|__/  |__/
+                                                               
+                                                               
+                                                               
+-->
+
+art
+1. Use WFC and pixel art to make levels
+	- Convert the levels using blender or Terrains
+1. Use Kenshape to make levels
+
+
+
+<!-- 
+ /$$    /$$ /$$$$$$$                                                            
+| $$   | $$| $$__  $$                                                           
+| $$   | $$| $$  \ $$                                                           
+|  $$ / $$/| $$$$$$$/                                                           
+ \  $$ $$/ | $$__  $$                                                           
+  \  $$$/  | $$  \ $$                                                           
+   \  $/   | $$  | $$                                                           
+    \_/    |__/  |__/                                                           
+  /$$$$$$                                /$$                                 /$$
+ /$$__  $$                              | $$                                | $$
+| $$  \ $$ /$$    /$$ /$$$$$$   /$$$$$$ | $$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$$
+| $$  | $$|  $$  /$$//$$__  $$ /$$__  $$| $$__  $$ /$$__  $$ |____  $$ /$$__  $$
+| $$  | $$ \  $$/$$/| $$$$$$$$| $$  \__/| $$  \ $$| $$$$$$$$  /$$$$$$$| $$  | $$
+| $$  | $$  \  $$$/ | $$_____/| $$      | $$  | $$| $$_____/ /$$__  $$| $$  | $$
+|  $$$$$$/   \  $/  |  $$$$$$$| $$      | $$  | $$|  $$$$$$$|  $$$$$$$|  $$$$$$$
+ \______/     \_/    \_______/|__/      |__/  |__/ \_______/ \_______/ \_______/
+                                                                                
+                                                                                
+                                                                                
+                                                             
+-->
+
+
+
+
+<!-- 
+  /$$$$$$                                  /$$     /$$             /$$    
+ /$$__  $$                                | $$    | $$            | $$    
+| $$  \__/  /$$$$$$  /$$   /$$ /$$$$$$$  /$$$$$$  | $$  /$$$$$$  /$$$$$$  
+| $$ /$$$$ |____  $$| $$  | $$| $$__  $$|_  $$_/  | $$ /$$__  $$|_  $$_/  
+| $$|_  $$  /$$$$$$$| $$  | $$| $$  \ $$  | $$    | $$| $$$$$$$$  | $$    
+| $$  \ $$ /$$__  $$| $$  | $$| $$  | $$  | $$ /$$| $$| $$_____/  | $$ /$$
+|  $$$$$$/|  $$$$$$$|  $$$$$$/| $$  | $$  |  $$$$/| $$|  $$$$$$$  |  $$$$/
+ \______/  \_______/ \______/ |__/  |__/   \___/  |__/ \_______/   \___/  
+    
+    or Llamatron                                                                      
+--> 
+
+
+
+
+<!--
+  /$$$$$$                                                       
+ /$$__  $$                                                      
+| $$  \__/  /$$$$$$   /$$$$$$   /$$$$$$$  /$$$$$$               
+|  $$$$$$  /$$__  $$ |____  $$ /$$_____/ /$$__  $$              
+ \____  $$| $$  \ $$  /$$$$$$$| $$      | $$$$$$$$              
+ /$$  \ $$| $$  | $$ /$$__  $$| $$      | $$_____/              
+|  $$$$$$/| $$$$$$$/|  $$$$$$$|  $$$$$$$|  $$$$$$$              
+ \______/ | $$____/  \_______/ \_______/ \_______/              
+          | $$                                                  
+          | $$                                                  
+          |__/                                                  
+ /$$   /$$                               /$$                    
+| $$  | $$                              |__/                    
+| $$  | $$  /$$$$$$   /$$$$$$   /$$$$$$  /$$  /$$$$$$   /$$$$$$ 
+| $$$$$$$$ |____  $$ /$$__  $$ /$$__  $$| $$ /$$__  $$ /$$__  $$
+| $$__  $$  /$$$$$$$| $$  \__/| $$  \__/| $$| $$$$$$$$| $$  \__/
+| $$  | $$ /$$__  $$| $$      | $$      | $$| $$_____/| $$      
+| $$  | $$|  $$$$$$$| $$      | $$      | $$|  $$$$$$$| $$      
+|__/  |__/ \_______/|__/      |__/      |__/ \_______/|__/      
+                                                                
+-->
+
+Art
+1. See Racing and FPS VR and Wolfenstein
+
+
+
+<!--
+  /$$$$$$$                      /$$                    
+| $$__  $$                    |__/                    
+| $$  \ $$  /$$$$$$   /$$$$$$$ /$$ /$$$$$$$   /$$$$$$ 
+| $$$$$$$/ |____  $$ /$$_____/| $$| $$__  $$ /$$__  $$
+| $$__  $$  /$$$$$$$| $$      | $$| $$  \ $$| $$  \ $$
+| $$  \ $$ /$$__  $$| $$      | $$| $$  | $$| $$  | $$
+| $$  | $$|  $$$$$$$|  $$$$$$$| $$| $$  | $$|  $$$$$$$
+|__/  |__/ \_______/ \_______/|__/|__/  |__/ \____  $$
+                                             /$$  \ $$
+                                            |  $$$$$$/
+                                             \______/ 
+-->
+1. 3D Racing (overhead or first person)
+	- EasyRoads3D(AdjustsTerrainToFit) withARandomTerrain or  KajamansRoads (for3DFirstPersonRoads) or TrackGen,  , CurvedGrounds, EndlessForest, use cars and boats and copters, Highroad Engine$60UAS, CurvedWorld, SplineMeshFree, MeshDeformer, LoadsofCarVehiclesinUASbyLabel, UAS(LakeRaceTrack, LowPolyRoadPack, MountainRaceTracks, CarTown, MoreAreInCitiesInUAS, ToonGasStation, )
+	- Quaternius(StreetPack,Ships, CarPack,AnimatedTankPack,ModularTrainPack,Airplanes,PublicTransport,CarsVol2,Spaceships,) SpritelibBM(vehicles, tankbrigade )  
+	- GamesPlusJamesRacingTutorial
+
+
+<!--
+ /$$$$$$$$ /$$$$$$$   /$$$$$$                                  /$$    /$$ /$$$$$$$ 
+| $$_____/| $$__  $$ /$$__  $$                                | $$   | $$| $$__  $$
+| $$      | $$  \ $$| $$  \__/        /$$$$$$   /$$$$$$       | $$   | $$| $$  \ $$
+| $$$$$   | $$$$$$$/|  $$$$$$        /$$__  $$ /$$__  $$      |  $$ / $$/| $$$$$$$/
+| $$__/   | $$____/  \____  $$      | $$  \ $$| $$  \__/       \  $$ $$/ | $$__  $$
+| $$      | $$       /$$  \ $$      | $$  | $$| $$              \  $$$/  | $$  \ $$
+| $$      | $$      |  $$$$$$/      |  $$$$$$/| $$               \  $/   | $$  | $$
+|__/      |__/       \______/        \______/ |__/                \_/    |__/  |__/
+                                                                                   
+                                                                                   
+                                                                                   
+-->
+
+Art
+ 18. Wolfenstein: 
+	- Superpowers(FPSPack), UAS(FPSIcons, ToonMuzzleflash, TreasureChestPack, 
+	- WillPyetheCSguy/ProceduralDungeonFPSGH
+
+
+
+
+<!--
+ /$$$$$$$  /$$             /$$      /$$$$$$                                 
+| $$__  $$| $$            | $$     /$$__  $$                                
+| $$  \ $$| $$  /$$$$$$  /$$$$$$  | $$  \__//$$$$$$   /$$$$$$  /$$$$$$/$$$$ 
+| $$$$$$$/| $$ |____  $$|_  $$_/  | $$$$   /$$__  $$ /$$__  $$| $$_  $$_  $$
+| $$____/ | $$  /$$$$$$$  | $$    | $$_/  | $$  \ $$| $$  \__/| $$ \ $$ \ $$
+| $$      | $$ /$$__  $$  | $$ /$$| $$    | $$  | $$| $$      | $$ | $$ | $$
+| $$      | $$|  $$$$$$$  |  $$$$/| $$    |  $$$$$$/| $$      | $$ | $$ | $$
+|__/      |__/ \_______/   \___/  |__/     \______/ |__/      |__/ |__/ |__/
+
+-->
+
+Art
+12. Platformer: 
+	- Pixel: ItchNov(Tileset(Ruins2D, ForestPlatformer, MineBosses, SwampEnemies, Desert, Snow, SnowEnemies, Ruin, Ruin Enemy, Ruin Animal, Animated Traps, DesertBosses, AnimatedTraps, RuinBosses,Magic, SnowBosses, PirateInvasion, Steampunk, RiseOfTheZombiesMummy), SuperpowersBackgroundsPackBM(Parallax), 
+	- Pixel: Tier 2: ItchNov(MiningAndFounding, Herbalism, Cookery, Engineering, Farming,), KronbitsBM
+	- 2D ItchNov( MountainMonsters, BossMonster, Weapons(many), Bosses , Alchemy), Superpowers(PrehistoricPlatformer1&2, RPGBattleSystem), DeepNightBM(8x8), Spritelib(platform)
+	- 2.5D Platformer:  Quaternius(FreePlatformerPack, AnimatedRobot,
+ 
+
+
+<!--
+ /$$$$$$$$ /$$                                 /$$                    
+|__  $$__/| $$                                | $$                    
+   | $$   | $$$$$$$  /$$   /$$ /$$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$ 
+   | $$   | $$__  $$| $$  | $$| $$__  $$ /$$__  $$ /$$__  $$ /$$__  $$
+   | $$   | $$  \ $$| $$  | $$| $$  \ $$| $$  | $$| $$$$$$$$| $$  \__/
+   | $$   | $$  | $$| $$  | $$| $$  | $$| $$  | $$| $$_____/| $$      
+   | $$   | $$  | $$|  $$$$$$/| $$  | $$|  $$$$$$$|  $$$$$$$| $$      
+   |__/   |__/  |__/ \______/ |__/  |__/ \_______/ \_______/|__/      
+                                                                      
+  /$$$$$$   /$$               /$$ /$$                
+ /$$__  $$ | $$              |__/| $$                
+| $$  \__//$$$$$$    /$$$$$$  /$$| $$   /$$  /$$$$$$ 
+|  $$$$$$|_  $$_/   /$$__  $$| $$| $$  /$$/ /$$__  $$
+ \____  $$ | $$    | $$  \__/| $$| $$$$$$/ | $$$$$$$$
+ /$$  \ $$ | $$ /$$| $$      | $$| $$_  $$ | $$_____/
+|  $$$$$$/ |  $$$$/| $$      | $$| $$ \  $$|  $$$$$$$
+ \______/   \___/  |__/      |__/|__/  \__/ \_______/
+                                                     
+
+-->
+
+
+
+
+<!--
+
+  /$$$$$$            /$$  /$$$$$$ 
+ /$$__  $$          | $$ /$$__  $$
+| $$  \__/  /$$$$$$ | $$| $$  \__/
+| $$ /$$$$ /$$__  $$| $$| $$$$    
+| $$|_  $$| $$  \ $$| $$| $$_/    
+| $$  \ $$| $$  | $$| $$| $$      
+|  $$$$$$/|  $$$$$$/| $$| $$      
+ \______/  \______/ |__/|__/      
+                                  
+            Golf or Pinball or Megaball or Scorched Tanks                      
+-->
+
+2. MarbleMadness: 
+	- Minigolfuas, KronbitsBM
+ 19. Megaball:
+	- Spritelib(Arinoid)
+
+
+<!--
+  /$$$$$$              /$$    
+ /$$__  $$            | $$    
+| $$  \ $$  /$$$$$$  /$$$$$$  
+| $$$$$$$$ /$$__  $$|_  $$_/  
+| $$__  $$| $$  \__/  | $$    
+| $$  | $$| $$        | $$ /$$
+| $$  | $$| $$        |  $$$$/
+|__/  |__/|__/         \___/  
+                                                                                                                     
+-->
+
+No art and coding at the same time (for me)
+- I love art and making art, but I cant do art while I'm doing games it just doesnt work for me.  
+- Something to do with the limitless options of art and the baggage associated with the limitless import options too.  
+- 
+
+Favorite Options
+
+Crocotile to make the parts and characters like Compound
+Or Blender or Wings3D to make the parts and characters Vertex Shaded like Thunderstrike
+Or Blender or Wings3D to make the parts and characters with one to two textures and use colored scratched plastic 
+
+
+
+(Many more options in my paint program list)
+
+
+
+See 'Characters: 2D or 3D Character assets I own but I might forget about' above                                                                                               
+                                                                                                   
+PaintIn3D, DynamicBone or Jiggle, TailAnimator,
+
+
+
+<!--
+
+ /$$                                     /$$          
+| $$                                    | $$          
+| $$        /$$$$$$  /$$    /$$ /$$$$$$ | $$  /$$$$$$$
+| $$       /$$__  $$|  $$  /$$//$$__  $$| $$ /$$_____/
+| $$      | $$$$$$$$ \  $$/$$/| $$$$$$$$| $$|  $$$$$$ 
+| $$      | $$_____/  \  $$$/ | $$_____/| $$ \____  $$
+| $$$$$$$$|  $$$$$$$   \  $/  |  $$$$$$$| $$ /$$$$$$$/
+|________/ \_______/    \_/    \_______/|__/|_______/ 
+
+-->
+
+
+
+
+Mesh Combine Studio 
+
+WFC for Levels
+Blender to convert the WFC png into a huge mesh
+
+Curved World 
+Asset Forge
+Ken Shape $3.99
+
+
+Also Clayxels
+
+1. Use WFC and pixel art to make levels
+	- Convert the levels using blender or Terrains
+1. Use Kenshape to make levels
 
 
 
@@ -1514,11 +1970,6 @@ Now that im really into it Naughty attributes has a constant runtime error. `The
 
 
 
-
-Crocotile3D is like Picocad for making low poly 3D models
-Ken shape $3.99 and magicavoxel and assetforge and qubicle (drying up?)
-
-Wings3d and blender of course
 
 
 

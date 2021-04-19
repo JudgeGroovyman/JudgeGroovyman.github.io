@@ -1,5 +1,8 @@
 # Guitars #
 
+Dont wait to get a new guitar to start making music.  Watch this video that says [The right gear is sitting right in front of you](https://www.youtube.com/watch?v=jRa4JHeLWLU) and then get started.  The work is making music.  New gear is perfect for someone who is doing the work.  Doing with crappy gear gives you the perfect opportunity to improve your workflow and productivity with new gear.  If there is already substantial work being done then by all means buy new gear and it could help inspire new directions or clear the path in the current direction and maybe you will get more or better work done.  HOWEVER
+If you arent doing the work right now and making music right now its unlikely in my opinion that getting new gear will be the thing to get you to start making music and doing the work.  new gear can fan the flame and turn a campfire into a bonfire but it can't light the fire.   
+
 
 ## Setup ##
 
@@ -16,6 +19,9 @@ When I say "need to be setup" I don't mean that I expect you to go pay to have i
 A setup should only be about $50 but I know thats not pocket change for just everyone so its worth budgeting in when you buy your guitar.
 
 Some small local shops will change string gauges to whatever you want and do a full setup when you buy it from that store or if you play it off the shelf and it plays perfectly and has the strings you want then maybe you don't need a setup.
+
+
+At 19:52 on get the best plug-in tone by abel he says that a guitar with “light strings” 10-48 tuned to C# standard gets a massive tone
 
 ### Local Places Near Me ###
 1. http://www.wicksguitarshop.com
@@ -102,7 +108,7 @@ Its hard to describe this range in fact I've never heard of anyone talk about it
 15. Gianand Ribelle - really cool ash, chambered option, custom configurable less than $1k for basic model (Added Feb 2020)
 16. Texas Toast - Daily Driver like a Tele LT$1k (Small builder) - otherwise they are boutique - They just went to $1250 but are still awesome.  They are also advertised to be light
 18. Burny (MIJ or MIK)
-19. Sire
+19. Sire $5-600 for amazing near USA quality (like the Blue L7 Les Paul) (kind of heavy though - LP 9lbs, strat 11lbs?
 
 
 
@@ -130,6 +136,7 @@ Heres a video about great guitars like this [Great Non-Gibson Gibsons](https://w
 18. reiver
 19. * Ormsby ($1-2k and so beautiful some in australia some in world music pty)
 20. Kiiras Beautiful handmade finnish guitars with youtubes on how they are made, Starting at $1400
+20. Vola amazing looking MIJs for around $1700
 
 New Set:
 Moar $3000 So super thin they are sexy as hell and apparently ring out better than any gibson.  I love them.
@@ -202,6 +209,9 @@ P.S. Indonesia is apparently the new Korea when it comes to guitar building
 ### Specifics ###
 My current favorite is the Cort G100 series (especially the ones with OP in the title).  The OP models have Open Pores which is a really beautiful stained finish.  They have single coils or humbuckers, are hardtails and are super cheap (often $125-150 shipped on reverb).   They are made of Paulownia and probably as a result they are incredibly lightweight.  
 
+
+
+
 ### Basic Guitars ###
 1. Paul Reed Smith USA Mira/Starla/Vela
 2. PRS S2
@@ -229,6 +239,8 @@ Boutique
 6. BG Pickups
 7. Bill Lawrence
 8. Suhr
+9. Guitarmory has sets for $160 new and come recommended by abel hernandes at 542 in get the best plugin tone
+10. Ares Swedish guitars for $1200
 
 Boutique that I barely know about (but probably should)
 1. Ron Kirn
@@ -271,7 +283,45 @@ Some other keywords to use to find values:
 20. Upgraded
 19. Plek
 20. stainless steel
+21. brass
+22. bone
+23. graphtec
 
+
+### Quality ###
+
+ Something that really matters to long term quality (which might be the distinction between brands but its hard to tell): The Truss Rod
+1. easy to adjust?  Well thats nice, but thats less of a long term discriminator thats just convenience
+2. standard adjustment wrench? same its just a convenience
+3. Will it hold up?
+4. Is it oiled properly?
+5. How much oil/maintenance does it require?  HOw could yyou possibly know this?
+6. does it turn easily
+7. Does it do its job booth ways
+8. if in 15yrs its getting stuck and is accidentally cranked too hard, does it break? does iit detach?  does it permanently ruin the neck?   I dont knwo what is best or how to tell
+
+My theory is that certain brands do it well because we have long term evidence that they do: fender gibson prs.  Other brands do it well because they do everything well: suhr, ebmm, prs, to a lesser extent: schecter/ltd, this seems like something that might be done better in a cheap guitar from fujigen japan than in other parts of the world and I believe fgn would do a great job of these
+
+
+### Specifics ###
+Deals to look for
+Prs x
+Prs s2
+Prs eg
+Prs ce
+Hamer USA
+Us masters
+Rickenbacker 650
+Dean czech 
+Fender USA
+G&L USA not tribute
+ESP Ltd 400
+Michael Kelly
+Dean USA 
+Dean hardtail or soltero
+Carvin kiesel 
+Godin sd or detour
+Washburn usa 
 
 
 
@@ -462,15 +512,92 @@ Tokai lightweight
 
 apparently G&L usa legacy empress has lightweight body 6lb7oz
 
-5.2lbs Gmarsh paulownia blue tele $1900
 
 $1200 5lb the 11oz BA Ferguson Flyweight Shirley, Surfside Blue el paso
 
-Some Strandberg Bodens are 4lb5oz 4lb5oz Strandberg Boden Masvidalien Cosmo - Black Space | Sweetwater
+- 6.1lbs 2021 Volas are [6.1lbs sometimes](https://youtu.be/ePVvB7zuw5E?t=647) heres sfb showing it on his scales
+- 5.2lbs $1900 Gmarsh paulownia blue tele $1900
+- 4lb14oz $2195 Strandberg Boden from Sweetwater also 4lb15oz, 5lb8oz, 4lb5oz, 4lb5oz
+- 4lb14oz $699 Traveler guitar LTD EC1 is a beautiful ESP LTD EC headless from sweetwater  active pickups also 4lb14oz
+- 5lb2oz $799 Traveler guitar LTD EC1 quilt from sweetwater also 5lb7oz blueburst quilted maple!
+- 3lb2oz $349 Traveler guitar ultralight also 3lb2oz, 3lb5oz, 
+- 4lb9oz $499 Traveler Speedster from sweetwater also 4lb3oz, 4lb9oz, 4lb9oz, 4lb11oz single beautiful blue
+- 3lb9oz $499 Traveler Pro Series 4lb2oz, 4lb3oz
+- 5lb12oz $1399 Fender Brad Paisley Esquire/Tele $1399 from sweetwater also 6lb2oz
+- 4lb10oz $599 Traveler EG1 $599 from sw 
+- 6lb4oz $1299 ESP LTD M-1000 Multi-Scale $1299 from sw
+- 6lb4oz $1200 Harmony Juno
+- 6lb3oz $699 Schecter Reaper 6 also 6lb12oz, 6lb14oz, 7lb11oz, 7lb1oz, 6lb13oz, 6lb10oz, 
+
+
+these bodies are super cheap and some of them are listed as lightweight or superlightweight and are made of paulownia
+https://www.guitarfetish.com/GF-Basics-WHOLESALE-priced-Bodies-and-Necks_c_518.html
+"A heavier guitar isn't any kind of guarantee it will have better tone... I have a couple of hot rodded Squiers that have GFS lightweight Pawlonia bodies that have better tone than for example my 1977 Strat which has a fairly heavy natural ash body."
+
+Douglas strat USA which is cut to be tiny and has huge slightly uglly weight relief and comfort cuts
+
+This [Glarry Tele](https://www.glarrymusic.com/glarry-gtl-maple-fingerboard-electric-guitar-transparent-yellow-black-blue-sunset-p146.html) claims its 5.95lbs on the manufacturers website!  its basswood so it seems possible
 
 
 
-#### Reddit Post ####
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# PRS Weights Reddit Post #
 PRS and Gibson Average Weights (from Sweetwater Listings) [OC]
 
 Here are some average weights for PRS and Gibson solidbody electric guitars (not semi-hollow or hollowbody or acoustic).  All of the data is from Sweetwater.com who have weight listings for most of the solid body electric guitars they have photographed and in stock as of Feb 27 2020.
@@ -732,7 +859,7 @@ Some of the sweetest tele teles telecasters out there
 8. Carvin / Kiesel
 8. sx vtg (lighter than classic vibe - same quality level says intheblues)
 8. Stagg makes Set Plus with humbucker for $180
-
+9. $89 5.95lb Glarry Tele 
 
 
 
@@ -789,11 +916,36 @@ One of the Earl Slick Teles is short scale
 
 Beautiful ash Earl slick guitar with filtertrons and 24.75 scale and great video on guitar max
 
+
+# Strat/Tremolo guitars to use with a tremboss king or evertune #
+1. Prs CE (sometimes available on tgp for <1400 whsc)
+2. G&L 
+3. Fender USA ofc
+4. Prs s2 (excellent choice especially used)
+5. Ebmm Cutlass made the best strat I played at the guitar show.  They did something special to it and the engineer was in the booth but I forget what.  Maybe I’ve got a video of myself playing it? Liightweight alder body, cool cutaway, roasted flame maple neck
+6. Us masters
+7. Michael Kelly Custom
+8. Cheap paulownia one 
+9. with conversion neck
+10. Earl slick
+11. Dean zelinsky
+12. Larry Carlton sire (very heavy)
+13. Fender limited editiion boxer strat sherwood green mij $1200
+14. American Performer 
+15. Fender USA Nitro Satin
+16. The G&L Empress apparently light
+17. $599 Blue Cort G290 FAT (So beautiful with flat blue flame top and natural ash back)
+18. FGN
+19. CMG Guitars Diane $1100 for USA made in Ga short scale!!!
+20. There’s a sexy $500 Pacifica which is hardtail and has a hum bucker and a single coil
+
+Strat trems
+Godin
+
 # Inbox #
 
 
 Ebmm makes an amazing strat the best I played at the show in 2017
-
 
 
 
@@ -1525,15 +1677,16 @@ Awesome Guitars Mar 31 2021
 2. Brad Paisley Telecaster lightweight
 3. Lyxpro telecaster
 4. CMG Tele (Beautiful Masked Binding, perfect scale length)
-
-
+Apr 14
+5. Vola ROA 2021 (6.1lbs see link above) Faded Denim or blue.  Ash Tops, Could be modded for trem king
 
 
 On the clarity of 50s wiring in a Les Paul
-From [This youtube video](https://www.youtube.com/watch?v=Zd0nMtcwJS0&lc=UgyYDw8SyM9XFdjsnIJ4AaABAg)
+- From [This youtube video](https://www.youtube.com/watch?v=Zd0nMtcwJS0&lc=UgyYDw8SyM9XFdjsnIJ4AaABAg)
 "The thing that these humbucker guitars sound like a fat single coil is freaking amazing" "50s wiring. You can do it to your guitar and it will sound close to this regarding the openness/airiness."  "@André Borges  You really think that?"  "I’ve a 2007 R8  that sounded a bit muffled, so I swapped the Burstbuckers for a PAF replica and it did sound better. Afterwards it came to me the info about the 50sW and I tried it. It was a revelation. Even the resonance point, which allow the guitars to be controllably microphonic, have improved. I now have my dream guitar, which I pitted against a real 1957 Goldtop and it left nothing to be had tonewise... It really helps to bring those upper-mids/treble sparkle to life."  "A consequence of finally supplying the demand for genuine PAF clarity. Pickups made to the original specs plus pots that likely read in the 525K range if not higher (like many of the old Centralab pots used in the 1950s). The 50s wiring helps preserve treble when you roll down the volume pots too."
 
-
+On wiring a strat like a tele
+- From [This video from JayLeonardJ](https://youtu.be/AKWhoPPOrEE?t=262) he wires his strats with the middle position as a tele in between position!  Its brilliant!  It makes me want a lightweight HSS Strat, and 5 way switch: 1. Bridge Humbucker, 2 Bridge Single Coil, 3 Bridge Single and Middle, 4 Bridge and Neck, 5 Neck, maybe not though but at least this:  A lightweight HSS Strat, Interesting switches (maybe the blend from the video above), Trem King vibrato, A chunk out of the bottom for my knee, a 25"scale conversion neck, ... 
 
 
 
@@ -1566,4 +1719,9 @@ Try some bareknuckles
 
 
 
-Want to sound like [this guy](https://youtu.be/ZsNTa0l98t4?t=259https://youtu.be/ZsNTa0l98t4?t=259)
+Want to sound like 
+- [this guy](https://youtu.be/ZsNTa0l98t4?t=259https://youtu.be/ZsNTa0l98t4?t=259)
+- [This great lick for sweet neck position tones](https://youtu.be/AKWhoPPOrEE?t=101) especially the liick right at the end of the neck position
+
+
+

@@ -154,3 +154,8 @@ just spent 30 minutes getting 'enjoyable' the controller mapping software for ma
 
 Much more about this software in the Games note esp wrt C64 games but just search for enjoyable
 
+
+# Inbox #
+
+Hold option while selecting the go menu to get directly to library
+

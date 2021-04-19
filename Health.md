@@ -277,6 +277,13 @@ Detoxing through the skin
 6. Exercise
 7. Skin Brushing
 
+
+# Kidney Stones #
+Kidney stone advice
+Hey I’m really sorry you’re dealing with kidney stones.  I wanted to tell you a weird thing that we found that helped my wife but if it’s too weird or unpleasant for you to do or you just don’t want to I understand.  I don’t expect anything from you and I don’t want it to be a burden I just wanted to share what worked for us in case it helps: when she feels one coming (for her it’s every few months if we’re not careful) she drinks a concoction of olive oil and lemon juice (like 1/4 cup equal parts) washed down with just a bit of water every hour until the pain subsides and it usually does within a few hours.  This only works on an empty stomach (2h since she’s had food) probably because then the liquid and oil filters through the kidneys and subsequent pathways where the lemon juice helps to break the stone into smaller pieces and the oil helps to lube the passing (so it doesn’t scrape so bad) Best wishes dealing with them and again I’m sorry you’re going through that.
+
+
+
 # Inbox #
 Health Research 
 
