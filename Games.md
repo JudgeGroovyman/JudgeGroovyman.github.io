@@ -2448,7 +2448,9 @@ Games that seem or feel like a chore in some or any way but I still have good re
 	- Championship Baseball - I would love to get good enough to take my 1989 cubs to the world series in this specific game
 	- C MLB Power Pros Wii
 - Stereoscopic 3DS: MetroidSamusReturns(15h), 
-
+- Save Scum then play again and scum less and again and scum less
+Apidya and rtype 2 and dragon spirit or the other dragon game from the 30 jealous amiga games and banshee
+I like the idea of playing these save scumming every few seconds, and then playing again save scumming less and retrying more and playing again save scumming less and retrying more and so on
 
 
 

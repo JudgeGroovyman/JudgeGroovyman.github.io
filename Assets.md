@@ -1299,7 +1299,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  3. Mesh Making Ok:
 	- CorelCAD, MeshCreator (helps make meshes), Scriptinunitythensavetomesh, SorcarForBlender, Many more interesting ones in bookmarks, DualTexturedShader, SabreCSG, ChiselCSG, Magicavoxeltools(mesh to magicavoxel), RealtimeCSG, 
  4. Meshes:
-	- DeformBM, MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer, DualTextured, ObjectExploder
+	- DeformBM, MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer (Make cool curved spline tracks), DualTextured, ObjectExploder
  
  
  Art: 3D Level Design Tools I own but might forget about
@@ -1971,6 +1971,9 @@ Also Clayxels
 
 
 
+1. Find transform extensions
+2. Pull out the sabrecsg extensions
+3. make a totally transparent starting point that is super lightweight and has zero side effects or baggage and document it in its folder structure
 
 
 

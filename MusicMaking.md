@@ -268,9 +268,32 @@ Discounts everyplugin and plugindiscounts and kvr marketplace.  [Some details ab
 
 
 
+Double Tracking (look out for mono phase issues)
+1. $99 [Double Tracker](https://www.meldaproduction.com/MDoubleTracker) Auto double tracking!
+2. $36 [Waves Reel ADT](https://www.waves.com/plugins/reel-adt) [Deal at](http://EveryPlugIn.com) Double Trackinig like beatles did it Great reviews
+3. $30 Waves Doubler [Deal at](http://EveryPlugIn.com)
+3. Free [Izotope Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html)
+4. Free [Vacuum ADT](https://www.kvraudio.com/product/adt_by_vacuumsound)
+5. Doubler Plugin by Ourafilmes windows only
+6. Free WINNER [Acondigital Multiply](https://acondigital.com/products/multiply/)
+7. [Stereo Widener](https://a1audio.alexhilton.net/a1stereocontrol) 
+8. [Stereo touch](https://www.kvraudio.com/product/stereo-touch-by-voxengo)
+9. Tokyo Dawn [Proximity](https://www.tokyodawn.net/proximity/)
+10. [Stereopposition](https://mrelwood5.wixsite.com/plugins/stereopposition) a JS plugin only
 
 
-# Amp Sims #
+
+Pedal Plugins
+1. Auditory dr drive is a great free overdrive plugin
+1. Fuse Big Sur is a great free fuzz pedal sim
+1. Schrammel ojd boutique overdrive free gpl 
+1. Chow centaur free klon clone
+1. [Ignite TPA1](https://honestampsimreviews.com/2019/07/28/ignite-amps-tpa1/) is the free power amp sim (probably not needed so much anymore)
+
+
+
+
+# Amp Sim Plugin Software #
 
 [Why Guitar Amp Sims Matter](https://www.musicianonamission.com/guitar-amp-simulators-vs-real/)
 "Why? Four reasons.  1) You don’t have to worry about room acoustics. 2) You don’t need a microphone. 3) You don’t have to worry about noise. 4) If time is a constraint, you have a wide range of tones available in a matter of SECONDS."
@@ -299,25 +322,35 @@ Theres a comparison of amplitube vs neural and its no contest neural
 1. $65 Neural DSP Soldano or Nolly or PBO Granophyre or Fortin Cali last two both have 10/10 reviews!  Maybe all 4 of them?  Only like $300 or so I think.
 4. $10/mo STL Ignite AmpHub
 6. Free [Acondigital Multiply](https://acondigital.com/products/multiply/)
-1. $29 Waves GTR3 Usually $129 [Deal at](http://EveryPlugIn.com)
+1. $29 Waves GTR3 Usually $129 [Deal at](http://EveryPlugIn.com) Waves gtr has dual amping built right in from the first screen!
+1. $6.66 [Hell Beast](https://audio-assault.com/hellbeast.php) Super cheap atm.  Randall Satan model.
 1. ------
 1. Free Neural DSP demos
 1. Free [Bluecat Amp](https://www.bluecataudio.com/Products/Product_FreeAmp/) for cleans, classic, and modern
 2. Free [STL Ignite Emissary](https://www.stltones.com/products/stl-ignite-emissary-plug-in-bundle) Best free metal plugin.
 1. Free [Revalver](https://www.audiomediaresearch.com/#Rev-Download) Interesting.  Affiliated with Peavey it comes with the ValveKing amp model.  Requires a USB Dongle to be locked to.  Can be transferred for lost or broken devices by contacting support.   Audio Cloning Technology,  New Amps are <$15 and there are tons available.  Its got a Pickup sim and you can get other pickups/Guitars for $5.  In addition to models its also got amp clones using their amp cloning tech. They are component modeled models. FX are 5-10 each.  Cabs are $4 each.  The Producer Pack is a bundle for $99 and has lots of included items.  One of the only plugins that allows the use of third party plugins IN this plugin.  Plugin inception.
+1. Free [Guitar Rig by Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-player/) basically one free amp.
 1. ------
 1. $129 [Scuffham S-Gear](https://www.scuffhamamps.com/product/s-gear) prior to NeuralDSP this one [sounded best](https://www.soundonsound.com/forum/viewtopic.php?f=22&t=60428).  Great community and support.  
 4. $199 BlueCat Axiom (multiple lines mixing, amp sim, pickup sim, two amp sim channels that can be mixed, 44fx in 32 slots, )
 1. $10/mo Ignite AmpHub
+1. $199 [Guitar Rig by Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-pro/) not officially licensed but lots of cool amps are included
+1. $35 [Amplitube one amp model](https://www.ikmultimedia.com/products/amplitube5cs/)
+1. $399 [Amplitube Max with AxeI/O Bundle](https://www.ikmultimedia.com/products/axeio/?pkey=axe-io-amplitube-5-max-bundle#at5bundle)
+1. $399 [Amplitube Max standalone](https://www.ikmultimedia.com/products/amplitube5/?pkey=amplitube-5-max)
 1. ---------- Free Demos
-1. $99 Bluecat Destructor (Demo inserts .5s of glitch per minute)
-1. $44 [Mercurial Reaxis Suite](https://mercuriall.com/cms/details_reaxis) Free unlimited time demo to try it out
-1. $19 [Kuasa Vermillion](https://www.kuassa.com/products/amplifikation-vermilion/) Great fender tones Noise every 40s in demo
-1. $25 [Kuasa Caliburn](https://www.kuassa.com/products/amplifikation-caliburn/) Marshall Tones
+1. $99 Bluecat Destructor irritationware
+1. $90 [Mercurial Reaxis Suite](https://mercuriall.com/cms/details_reaxis) Free irritationware demo to try it out
+1. $19 [Kuasa Vermillion](https://www.kuassa.com/products/amplifikation-vermilion/) Great fender tones irritationware
+1. $25 [Kuasa Caliburn](https://www.kuassa.com/products/amplifikation-caliburn/) Marshall Tones irritationware
+1. Free [Amplitube Custom Shop](https://www.ikmultimedia.com/products/amplitube5cs/) (Amplitube has free 72h gear demos every six weeks per gear model! Regular sales amps and collections, sometimes free, $35 per amp otherwise.  $2-400
+1. $40 Mercuriall SS-11X irritationware [A demo of how good the mercuriall can sound](https://www.youtube.com/watch?v=IpMqID2TzmE)
+1. $199 [Guitar Rig by Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-pro/) 30min/session, no save or total recall functions (probably you have to setup your presets every time?) not officially licensed but lots of cool amps are included
 
 
  Paid Plugins (Test them all with big Sur)
 1. ---------- Nope (for me)
+1. $60 [Audio Assault Reamp studio](https://audio-assault.com/plugins.php) All of their gear for $60
 1. $99 Antelope Audio (Run on Synergy Core INterface)
 1. $199 Universal Audio Tweed - these are really great but kind of expensive.  I dont know how well they match against the neural dsp offerings but they are pricced to compete with them ... acutally overpriced in comparison.  I think JayLeonardJ actually had one of their interfaces which ran the DSP for these amp models ON the device (but you had to have bought them already or something)
 1. Free [Studio Devil Valve Custom](https://www.studiodevil.com/products/british_valve_custom/)  Problem: Runnnig the standalone on big sur had a No sign on the icon so didnt run at all.  The plugin seemed to run but required me to 'lower the security settings for garageband' through a popup.  I did and it runs but that leaves a bad taste in my mouth.  It runs with lowered security settings and I dont even know what the security settinig might have been that it changed (I checked secuirty and privacy panel and found nothing problematic or even that might have worked) and it sounds good although its completely and super bare bones.  
@@ -327,15 +360,18 @@ Theres a comparison of amplitube vs neural and its no contest neural
 1. $199 Amplitube.  Other amps are $30 or so pedals are $10.
 1. $29 [Overloud Amp Pack](https://overloud.com/rig-libraries) one of these rig libraries comes with an amp or a few dozen for $19-49
 1. $89 [TH-U Metal or Rock](https://overloud.com/products/th-u-metal) 
-2. $299 [Overloud THU](https://overloud.com/products/th-u-full) (Multiple amps I think. tons of options) not much community around it
+2. $299 [Overloud THU](https://overloud.com/products/th-u-full) DEAL: Some of this is free with cakewalk on windows.  Multiple amps I think. tons of options) not much community around it 
 3. $399 Helix native ($99 if you have a new and registered hxstomp discounts for other products.  registers to hardware )
 1. $15-25 [Vadim Taranov](http://vtaramps.blogspot.com/2020/12/slowrunner.html) has a bunch of pretty inexpensive amp sims. THey are PC only
 2. $99 Bias FX 2 (Also $199 for IR Loader and more amps and guitars and $299 for more amps and guitars ) Guitar Match probably a pickup swapper, looper, presets to dl 30amps, no custom IRs in the base version.  [Not the best](https://www.soundonsound.com/forum/viewtopic.php?f=22&t=60428)  Sale price Apr 18 and before was 40% off
 1. ----------
+1. $6.66 [Hell Beast](https://audio-assault.com/hellbeast.php) Super cheap atm.  Randall Satan model.
+1. $20 [Audio Assault AHM 5050](https://audio-assault.com/ahm5050.php) they have sales pretty often
 1. Free [Modern Deluxe](https://www.lostin70s.com/plugins/ModernDeluxe) Free from the site with tricky weird download links or $1.99 on mac app store not great revviews though.  Apparently mac app store and ios crossbuy.  Tone Deluxe doesnt work on big sur apr 17 2021 but does work as an au in garageband!
 1. Free [Tone Deluxe V2](https://www.youtube.com/watch?v=jikkZXMXoP8) evevn great metal sounds.  Its ok on its own probably yneeds a boost to sound good.  Possibly would be a good pedal platform?
 1. Free [Kuassa Amplifikation Lite](https://www.kuassa.com/products/amplifikation-lite/)
 6. Free [Roots](https://ml-sound-lab.com/products/amped-roots) amp sim
+1. Free [VTar](http://vtaramps.blogspot.com/2021/02/proto-four.html) Great windows only VSTs
 4. Free [Auditory L12x](https://honestampsimreviews.com/2020/03/09/audiority-l12x/) is a great little Marshall sim
 1. Free [Chorus, Flanger, EQ, Spectrum Analyzer, Amp Modeler, Phaser](https://www.bluecataudio.com/Products/Category_0_Freeware/)
 1. $79 [Acoufiend](https://www.bluecataudio.com/Products/Product_AcouFiend/) for a fernandes sustainer in an effect!  like standing by the amp!
@@ -343,25 +379,12 @@ Theres a comparison of amplitube vs neural and its no contest neural
 1. Free ML Labs Mikko Cab sim which can make your own IRs
 1. $30 * Ignite Libra IR Response Convolver (8 cabs mixed)
 1. $20 3Sigma Impulsive
+1. $7 Audio Assault IR Loader
 1. Free Lancaster Audio Pulse (Related to an old version of NadIR) super simple IR Loader.  Have to fill out a form.
 3. Free Wall Of Sound IR Plugin (two cabs free forever, more for $10 or bundled)
 1. $60 Redwirez mixIR loader - amazing Second onlyy to Libra.  Comes with some extras like giginator to make your bedroom level sound like a huge gig.  3D features
 4. Some [Free plugins and cab sim](https://plugins4free.com/dev/258/)
 5. Free amazing [Heavy Metal Tone](https://www.youtube.com/watch?v=t8EDqv3BvV0)
-
-Double Tracking (look out for mono phase issues)
-1. $99 [Double Tracker](https://www.meldaproduction.com/MDoubleTracker) Auto double tracking!
-2. $36 [Waves Reel ADT](https://www.waves.com/plugins/reel-adt) [Deal at](http://EveryPlugIn.com) Double Trackinig like beatles did it Great reviews
-3. $30 Waves Doubler [Deal at](http://EveryPlugIn.com)
-3. Free [Izotope Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html)
-4. Free [Vacuum ADT](https://www.kvraudio.com/product/adt_by_vacuumsound)
-5. Doubler Plugin by Ourafilmes windows only
-6. Free WINNER [Acondigital Multiply](https://acondigital.com/products/multiply/)
-7. [Stereo Widener](https://a1audio.alexhilton.net/a1stereocontrol) 
-8. [Stereo touch](https://www.kvraudio.com/product/stereo-touch-by-voxengo)
-9. Tokyo Dawn [Proximity](https://www.tokyodawn.net/proximity/)
-10. [Stereopposition](https://mrelwood5.wixsite.com/plugins/stereopposition) a JS plugin only
-
 
 Budget Plugin Rig
 1. ----------
@@ -371,6 +394,7 @@ Budget Plugin Rig
 4. Free Auditory L12x
 5. Free Amp Sims by [LePou](https://plugins4free.com/dev/258/) some have bugs but some are great
 1. Free Morevox Harmonic Saturation Impulse Responses (not just the amps)
+1. Free Amplitube (free amps sometimes, lots of sales, new amps for $35 at most)
 1. ----------
 1. Free Bluecat Recording Tools Freeware 
 3. Free Ignite NadIR IR Loader (comes with emmissary)
@@ -378,6 +402,7 @@ Budget Plugin Rig
 1. $30 Ignite Libra IR Response Convolver (8 cabs mixed)
 1. Free ML Labs Mikko Cab sim which can make your own IRs
 1. ----------
+1. $20 for any of the awesome Audio Assault Amps
 1. $20-30 one or two of the Kuassa Amps
 1. $30-50 for one of the overloud amps
 5. Free ampLib.net demo dont know its limitations.  $50 for full version though with all sims and pedals and pickup switcher
@@ -386,15 +411,6 @@ Budget Plugin Rig
 1. ----------
 
 
-
-
-
- Pedals
-1. Auditory dr drive is a great free overdrive plugin
-1. Fuse Big Sur is a great free fuzz pedal sim
-1. Schrammel ojd boutique overdrive free gpl 
-1. Chow centaur free klon clone
-1. [Ignite TPA1](https://honestampsimreviews.com/2019/07/28/ignite-amps-tpa1/) is the free power amp sim (probably not needed so much anymore)
 
 
 
@@ -419,7 +435,7 @@ Budget Plugin Rig
 "One major advantage of paid-IRs came up today. I noticed that the Soundwoofer Engl IR had IRs that were out of phase. I didn't even notice at first, but it became obvious when I panned 2 tracks to the same side. I know 3 Sigma Audio said they put a lot of effort into making sure that their IRs are phase aligned, so I decided to try out their Orange 4x12 IRs. I like them, but I feel like I need to get to know its personality a bit. I need more time with them to come to conclusion.  The odd thing about 3 Sigma audio IRs is that they don't use the usual format of doing 1 mic per wav file, with 1 position. They do have different positions, but their IRs are a blend of mics. I'm not quite sure what to thing of that. I can certainly use IRs well, but man, do I ever feel lost when it comes to try to compare these things."
 17. "York audio has some good ones. They have a $1 trial pack. Some people swear by Hislop. Then of course there’s Valhallir, Ownhammer, and Celestion. Those are a little more spendy"
 18. [Overdriven.fr free set](https://overdriven.fr/overdriven/index.php/irdownloads/)  several clicks required per file and you have to download them one by one.  5min tops.  revviews are positive
-
+19. [Some great ones](https://audio-assault.com/plugins.php)
 
 
 

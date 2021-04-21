@@ -1,7 +1,7 @@
 # Guitars #
 
 Dont wait to get a new guitar to start making music.  Watch this video that says [The right gear is sitting right in front of you](https://www.youtube.com/watch?v=jRa4JHeLWLU) and then get started.  The work is making music.  New gear is perfect for someone who is doing the work.  Doing with crappy gear gives you the perfect opportunity to improve your workflow and productivity with new gear.  If there is already substantial work being done then by all means buy new gear and it could help inspire new directions or clear the path in the current direction and maybe you will get more or better work done.  HOWEVER
-If you arent doing the work right now and making music right now its unlikely in my opinion that getting new gear will be the thing to get you to start making music and doing the work.  new gear can fan the flame and turn a campfire into a bonfire but it can't light the fire.   
+If you arent doing the work right now and making music right now its unlikely in my opinion that getting new gear will be the thing to get you to start making music and doing the work.  new gear can fan the flame and turn a campfire into a bonfire but it can't light the fire.
 
 
 ## Setup ##
@@ -153,7 +153,7 @@ Southerland make beautiful Warmoth guitars
 Name brands I think highly of:
 1. Ernie Ball Music Man
 2. Hamer USA (I don't think they make USA instruments anymore :( ) [Factory Tour with amazing carved top showing](https://www.youtube.com/watch?v=4wicSQKLVNs)
-3. ESP (not LTD) (Standard or E-II Made in Japan)
+3. ESP (not LTD) (Standard or E-II Made or midrange Edwards all made in Japan)
 4. Parker (I don't think they make guitars at all anymore :( )
 5. Dean (Really cool high quality instruments)
 6. G&L (not G&L Tribute) (Leo Fenders company) (Some less than $1000 NOS)
@@ -209,6 +209,7 @@ P.S. Indonesia is apparently the new Korea when it comes to guitar building
 ### Specifics ###
 My current favorite is the Cort G100 series (especially the ones with OP in the title).  The OP models have Open Pores which is a really beautiful stained finish.  They have single coils or humbuckers, are hardtails and are super cheap (often $125-150 shipped on reverb).   They are made of Paulownia and probably as a result they are incredibly lightweight.  
 
+ESP Edwards guitars can be found for 5-600 used and are mij and amazing
 
 
 
@@ -833,13 +834,14 @@ Some part of me would like to have all of these but the baggage with having many
 - Sexy Ibanez with partial natural on front and partial beautiful stain
 - Sexy lemon drop like that xaviere
 - Blueburst PRS SE Soapbar II Maple from the 00s (I bought one for $400 but it was burst not blue and I regretted it when I found a blue one and found the buzzing bad)
-- Simple Brown Hard wood hard Natural finish like Peavey T-60 or T-15.  Its like you can't really hurt these.  
+- Simple Brown Hard wood hard Natural finish like Peavey T-60 or T-15.  Its like you can't really hurt these.
 - Ibanez S series - Ocean Fade, Iron Label Blue Space Burst, anything called Cerulean Burst
 - Anything that looks like the ocean  like the Dean Oceanburst (Satin Neck )
 - Dean exile satin blue burst
 - Guitar finish that blue striped Unfinished les Paul from a few years  ago
 - Dean select ocean burst quilt v
 - ESP 256 Cobalt Blue
+- Gibson BFG Les Paul hand rubbed relic'd finish
 
 
 Some of the sweetest tele teles telecasters out there
@@ -885,6 +887,9 @@ And a few more sweet sexy axes for my Large Studio Plan:
 21. Ibanez Paul Gilbert Mini
 - About Peavey Firenzas "Leakesville Firenzas" were made in Peavey's short-lived Leakesville factory between 1997 and 2002. The Leakesville factory was a dedicated guitar making facility located in Leakesville MS, about a two-hour drive south of Meridian.  To date your Leakesville Firenza, the best method is to remove the neck and look inside the neck heel. Most, but not all, Leakesville Firenzas will have the date of assembly written inside the neck heel in pencil." Some are ash and are 8lbs, others are basswood iirc.   Mira X might be made of Obeche.  I had a beautiful Dean Korina Czech V that was quite light too.
 22. [Reverend Terz](https://www.reverendguitars.com/guitars/billy-corgan-terz) - Billy Corgan apparently asked them to make this 21.5" scale guitar.  I want it!  
+23. USA Beautiful Jackson Misha Juggernaut HT6FM Blue (flame maple fingerboard, thick carved maple top with full masked bindings even to the point of the straplock, hardtail, so damn sexy) https://youtu.be/zT4Za7Pk1NY
+24. Cheap and sexy simple import guitar is jackson js monarkh sc JS22 
+
 
 
 
@@ -1025,10 +1030,21 @@ Training:
 Paul Gilbert has an amazing site with hundreds of videos answering peoples questions
 Tim Pierce has an amazing 100+hr course
 
+Watch videos of Joe Satriani playing with no sound on like this
+https://www.dimarzio.com/pickups/medium-power/mo-joe
+or anyone else too
 
+Constraints for learning
+1. Remove Neck Pickup and only swap the bridge pickup
+2. Do not use whammy (block it if possible or just dont have one)
+3. Lower action (its a blanace ofc but sacrifice some sustain and some buzzing for ease of play)
+4. Use 8s (if bending three half steps on 10s is easy to do over and over for your arms and hand muscles, then you are sufficiently strong so use whatever you want. I'm not that strong and lots of other people arent either and thats nothiing to be ashamed of just use lower gague strings - [see Rick Beato and rhett shulls video about string size](https://www.youtube.com/watch?v=wGXj_NQONYM))
+5. Tune down 1/2step to eb.  
+6. This one doesnt applyy if theres a good reason it isn't possible or good for your guitar: Get Locking tuners.  Its worth the investment almost every time.  If your guitar is neck heavy or will be there are some prs style locking tuners that dont weigh much.  But the regular lockinig tuners are someitmes heavier than normla tuners and could create some neck heaviness so beware.  Possibly do a test 
 
-
-
+Tips:
+1. Start small, I say start much much smaller than most people do .  Just pick up the guitar every day for starters.  Thne a week later plug it in every day and take it down every day.  or twice a day if you're really motivated
+1. learn one of these licks to test out tones and guitars.  <insert 5 easy smooth flowing guitar licks> like a chord or three and then a lick in that key, and then you can test out guitars at the guitar store or at friends houses and always know something to playy that sounds cocol.  This is what to practice.  songs if you want too.  Yyou dont have to learn my stuff but you need ot know something you can play with some confidence and it has to be something fluid. starts and stops have to be intentional.  YOu can play it 1000 times and thats better than not having something to play, and you can learn new things as time goes on.  When it comes down to it even the best gear wont make you sound good if yyou dont have something to playy.
 
 
 
@@ -1088,7 +1104,8 @@ Search reverb for paulownia and youll find a bunch of strat and tele bodies
 
 Oripure has loaded pickguards too
 
-
+Tons of parts here at guitarheads
+http://www.guitarheads.net/
 
 # Pickups #
 Cheap ones
@@ -1117,6 +1134,8 @@ Bare Knuckle are 120-200 or more, Rio Grande, Mojotone (USA Handwound), Warp Cor
 Planet Tones are only $60 and are handmade in USA
 Frogdog $80 handmade in USA
 Planet Tone Pickup Co. 
+Lundgren pickups are $350/set (come stock on some high end schecters)
+
 
 
 Single Coil Pickups
@@ -1130,7 +1149,10 @@ Want: PRS HFS, Interesting ones from all kinds of other brands.
 
  Oripure pickups sound great and are $35 each
 
+These look pretty good at $30-40 each
+http://www.guitarheads.net/products/pickups/pickups.html
 
+Pickups to try: Dimarzio Fred, Mo Joe, PAF Joe, Tone Zone, Breed, Airbucker, Air Classic
 
 # Pickup-Swapping-Guitars #
 
@@ -1261,6 +1283,10 @@ Also really want a guitar with a trem king actually two of them.  Ideally with 2
 
 # Youtubers #
 
+
+Theres a funny thing about most of these youtubers: They're so good at playing and dialing in tones that they can make even the crappiest gear sound good :) "I don't trust your review, you can plug into a potato and make it sound good."  It doesn't mean they arent trustworthy, they are trustworthy, but just get over the idea that if you get that gear you will sound like what you heard because while that is certainly true to a degree its just not that simple.  
+
+About setting expectations:  on the one hand most of these players are so good they could make a potato sound good, otoh there are a lot of good reasons why they have gear that you wont have and dont need.  You do not need to buy the gear that all of them have to get the tones you want at first.  Getting lots of gear is fun but its an endgame quest, for now your job is three steps: 1.  Get the gear you need to get a good enough playyability and tone and feel and features to express your music in the venues you have access to (home apartment studio? friends basement? profeessional studio?  Small clubs?  Pizza restaurants?  Pupppet shows?) hint: you probably already have most of this 2. after you are makinig music and have found the things that you really need, then your job is find the gear that gets you to 90% of the tone and playability and feel and features that you want and need and then 3. as yyou make money over time and as you find gear that gets yyou 1% closer to the tones you want and need you can buy and integrate those things.
 
 ### Best Players ###
 - [JayLeonardJ](https://www.youtube.com/user/JayLeonardJuatco) (30K) pro or former pro player with some of the sweetest funkiest chops youve ever seen, plus hes always got a positive attitude.  I first saw him play in [this awesome video](https://youtu.be/qoXGA-C-kjs?t=50)
@@ -1493,13 +1519,6 @@ Qs: Do you like classic looking basses (like fender) or modern (like fancy woods
 
 
 
-Gear Details:
-1. Purple Pickups in Limelight: 1. As soon as I had them plugged in I thought I didnt like them.  They are lower output than any of my others, but spending 20 miin with them and I'm warming to them.  They are warm and the neck one on cleans is really clear actually.  They are not bright and they are possibly missing some upper range to me, but still have a pretty good set of  harmonics.  I really like the neck clean sound really like it.  chimey. clear. warm. sweet.  its got something weird when I drive it.  I wonder if its my wiring?  Like when I really hit it hard on the unmatched ... maybe its my headphone speakers or the EQ in my boss.  ok iin the boss I changed the input calibration from -1 to -7 that fixed the distortion.  My other guitars didn't distort quite like that.  Sustain is great right now actually.  high gain is great on arena mode with bridge or regular pickups .  I guess its lower output and maybe that controls arena mode better or something but it sounds and works and feels great.  NOTE:  All of this is in the back of my mind with a feeling that there is something missing but not a problematic somethiini gjust a premium or boutique or quality or something else that I deserve.  On orange crush mode it sounds pretty shitty
-1. JB 59 Chrome set in Limelight.  The 59 isnt wired right, it has a signal but is problematically scratchy. The JB is awesome in its own way. In this guitar it does things that none of my others do.  It kind of breaks compatabiliity with my patches!  half of the patches that I had previously designated as good or great, just sound shitty with this pickup, and half that I had previouslyy designated as shitty sound great!?!  Its weird but that plus the wiring problem makes me  uncomforable about them.  Before I even wired it in I ordered a purple super distortion, maybe that will fit in better?
-1. It seems like this boss is more sensitive than a normal amp to the guitar and the pickups.  It doesnt sound even remotely similar with different guitars ... but then thats not even entirely true because Billy ocean sounded like limelight with those pink pickups.  I dont know its confusing! 
-
-
-
 
 
 
@@ -1722,6 +1741,16 @@ Try some bareknuckles
 Want to sound like 
 - [this guy](https://youtu.be/ZsNTa0l98t4?t=259https://youtu.be/ZsNTa0l98t4?t=259)
 - [This great lick for sweet neck position tones](https://youtu.be/AKWhoPPOrEE?t=101) especially the liick right at the end of the neck position
+
+Video Ideas
+- Neck Pickup in bridge position and vvice versa
+- Cheap pickups expensive guitar
+- Test tons of different tuners
+- Trembucker in regular guitar
+- Amplitube amp models I could review them all and if I don’t get one once I can come back and test it out 6wks later or make a new account on another computer with another email or something
+- Cheap lightweight update 
+
+
 
 
 

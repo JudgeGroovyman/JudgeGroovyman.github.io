@@ -1260,7 +1260,8 @@ Also see Cab Sims below
 - Nux Cerberus (Everything including IR in one peda, all analog)
 - $235 Atomic AmplifireBox (small pedal with amp and IR Cab sims in it [Great Cleans](https://www.youtube.com/watch?v=jrkwc75M0NM)) "I love Atomic's amp modeling (more than Helix, close to as much as a Kemper)" "I see many channels that disregard the Amplifire but it is up there with the Axe, helix and kemper (Amp tone wise)." two presets, one boost, its all you need.
 - $399 Strymon Iridium Amp & IR Cab Pedal (amazing tones, classy to have headphone jack in the front)
-3. $299 DSM & Humboldt Simplifier (full amp sim with cab sim) Analog, Feels 100% organic,  Aux in only goes out the headphone jack so you can jam and record at the same time!  Stereo FX Loop like you are using two amps!  
+3. $299 DSM & Humboldt Simplifier (full amp sim with cab sim) Analog, Feels 100% organic, made in Chile.  There’s a great feel of connection with this device.  Aux in only goes out the headphone jack so you can jam and record at the same time!  Stereo FX Loop like you are using two amps!   DSM and Humboldt Simplifier DLX great tones in a mega pedal.   
+
 
 
 - $299 Boss GT001 (Great, all kinds of fx and amp models, also makes your guitar into a midi synth instrument! then you can apply IR in the daw)
@@ -1811,6 +1812,8 @@ Notes:
 1. Audient Evo 4  [Here it says 128](https://evo.audio/products/evo-4/specs/)
 
 
+[casually mentions mac can use bt midi footswitch (irig blueboard)](https://youtu.be/RE9YIkcDm7U?t=100)
+ 
 
 
 
@@ -2319,11 +2322,167 @@ I like the idea of a Transparent Overdrive first (with a bit of EQ) then a wah t
 
 
 
+<!--
+
+ /$$$$$$$$ /$$                                     /$$         /$$             
+|__  $$__/| $$                                    | $$        | $$             
+   | $$   | $$$$$$$   /$$$$$$  /$$   /$$  /$$$$$$ | $$$$$$$  /$$$$$$   /$$$$$$$
+   | $$   | $$__  $$ /$$__  $$| $$  | $$ /$$__  $$| $$__  $$|_  $$_/  /$$_____/
+   | $$   | $$  \ $$| $$  \ $$| $$  | $$| $$  \ $$| $$  \ $$  | $$   |  $$$$$$ 
+   | $$   | $$  | $$| $$  | $$| $$  | $$| $$  | $$| $$  | $$  | $$ /$$\____  $$
+   | $$   | $$  | $$|  $$$$$$/|  $$$$$$/|  $$$$$$$| $$  | $$  |  $$$$//$$$$$$$/
+   |__/   |__/  |__/ \______/  \______/  \____  $$|__/  |__/   \___/ |_______/ 
+                                         /$$  \ $$                             
+                                        |  $$$$$$/                             
+                                         \______/                              
+			Thoughts and observations
+-->                                         
+
+
+Gear Details:
+1. Purple Pickups in Limelight: 1. As soon as I had them plugged in I thought I didnt like them.  They are lower output than any of my others, but spending 20 miin with them and I'm warming to them.  They are warm and the neck one on cleans is really clear actually.  They are not bright and they are possibly missing some upper range to me, but still have a pretty good set of  harmonics.  I really like the neck clean sound really like it.  chimey. clear. warm. sweet.  its got something weird when I drive it.  I wonder if its my wiring?  Like when I really hit it hard on the unmatched ... maybe its my headphone speakers or the EQ in my boss.  ok iin the boss I changed the input calibration from -1 to -7 that fixed the distortion.  My other guitars didn't distort quite like that.  Sustain is great right now actually.  high gain is great on arena mode with bridge or regular pickups .  I guess its lower output and maybe that controls arena mode better or something but it sounds and works and feels great.  NOTE:  All of this is in the back of my mind with a feeling that there is something missing but not a problematic somethiini gjust a premium or boutique or quality or something else that I deserve.  On orange crush mode it sounds pretty shitty
+1. JB 59 Chrome set in Limelight.  The 59 isnt wired right, it has a signal but is problematically scratchy. The JB is awesome in its own way. In this guitar it does things that none of my others do.  It kind of breaks compatabiliity with my patches!  half of the patches that I had previously designated as good or great, just sound shitty with this pickup, and half that I had previouslyy designated as shitty sound great!?!  Its weird but that plus the wiring problem makes me  uncomforable about them.  Before I even wired it in I ordered a purple super distortion, maybe that will fit in better?
+1. It seems like this boss is more sensitive than a normal amp to the guitar and the pickups.  It doesnt sound even remotely similar with different guitars ... but then thats not even entirely true because Billy ocean sounded like limelight with those pink pickups.  I dont know its confusing! 
 
 
 
-
-
+- Boss GT001 - mar 28 I got this mar 23 or so love it so much.  Dry Recording, MIDI Synth Pickup built in, Dual amping, so many blocks to play with.  Its a guitarists DREAM.  The sound is good, the noise is low, I can mostly use the garageband amps, I can recocrd dry and then use whatever gb effects and amps and plugins I want.  I can effortlessly (even accidentally which is how I figured it out) use MIDI!! I had a midi track selected on accident, hit record and watched notes being added for no reason and it blew my mind.  I’m so excited that I sent videos to lots of my friends and family.  Configuration via boss gt tone studio is really fantastic and works great even on mac big sur.  
+	- update Mar 27.  Ordered lots of things from amazon including new pickups for both of my new guitars.  We’ve been itching to do soldering projects and its important that all of my guitars sound fantastic.  I also bought some really premium pickups from some dude on thegearpage.  
+		- update later Mar 27.  Cristi suggested I get some recorded tones from my new guitars so we can do a before and after pickup swaps so I recorded what ended up being a magical song with the horseman.  The clean tones are not problematic at all with either one its just the high gain tones that dont really work.  They are all flabby.  Theres no chunk or tightness.  It sounds like these pickups are from a super cheap early 90s crap guitar and like the amp is from a gorilla amp.  not entirely, the fx are good and there are nice tones like when I hit an open chord or sometimes when I do a bend, its just mostly the flabbiness and shittiness of the chunk and rhythm.  
+		- update later Mar 27.  I decided to get some contrast by recording some high gain with my brown guitar but you kknow what ... it sounds crappy too right now :(.  I have a sneaking suspicion that these boss high gain presets are problematic.
+		- update later Mar 27.  Before we watch tv together Cristi told me to plug into my amp real quick where I know the sounds are great and hot damn both of my new guitars sound fantastic in their own ways!  They dont need new pickups!  Theyre great as they are!  lol I have been fooled by stinky presets!!
+	- New presets: I’m now searching youtube for how to set this up so it sounds fantastic.  I found 3 resourcces: tone central (which is built into the tone studio app), guitarpatches.com, and youtube (search for the type of tone you want + ‘gt001 patch’ or ‘gt100 patch’), 
+		- at guitarpatches.com there are lots of patches even like 30 from 2020.  there arent any from 2021 but this device is from 2014 so i dont blame anyone for thinking its not the new hotness and digging into it deep. there are 20-30 from every year except only a few from 2017 but even after that there were many submitted.  
+	- Input Calibration: Ok I’m hearing from several sources on youtube that I need to do input calibration of my guitars.  I need for the input settings to be not too much and not too little.  This is an interesting ‘weakness’ you might say of this is that you cant save input settings with presets or name the input settings you have to set it manually and globally.  It does save it though but its kind of like assuming either the input will be similar enough between your guitars that it doesnt matter (which I think is naive) or that you will just memorize the settings or something.  It also doesnt really give you a way to determine or calibrate your input but it does give you the TOOLS to be able to figure it out if you are an enterprising guitar tinkerrer.  This is the kind of thing that Helix, AxeFX and Kemper probably have totally figured out.  probably pod does too.  probably a good half of the other ones do too.   You should be able to save a certain number of global presets even if its just like 5.  Still its certainly not a showstopper worst case you can stick a little sticky note on your device with different guitar input settings.  You know whats cool is I have lots of memories these days of things that i did on my Korg AX30g in 1996 but back then I really didnt know what I was doing.  I remember doing some kind of input calibration and not knowing or caring what it meant and not being sure I got it right.  I remember it saying I should do it so I did it, then I remember later thinking I needed to do it again every time I turned it on or something.  Maybe there was even a master knob setting for that or something.  
+		- For this input calibration there are a few videos about it on youtube and some of them talk about makign a wah that engages when the input gets to a certain max point 126/127 or soemthing.  Theres already a preset for this on guitarpatches.com called [input calibration guitar](https://guitarpatches.com/patches.php?mode=show&unit=GT100v2&ID=11798) with instructions on how to use it in the description. 
+		- Thinking back even my korg had synth in it with thata step filter thing.  Apparenlty helix has soomething that sounds a lot like that.  but with helix i cant tell whether theres a guitar involvd. it seem slike its just synth being played from the footswitches.  
+		- Trying these guitars with these presets, Mr Brownstone is just naturally tighter than Limelight I think.  Limelight doesnt have a pickup problem but there is an inherent tightness difference to the chunk.  Maybe anyway.  The bass in limelight is maybe a little bit flabby maybe?  Maybe certain pickups can tighten it up?  Maybe its a character I can use?  Some of the presets work better with limelight sort of.  Theres less heat but more harmonics believe it or not.  Theres less noise but also less gain.  it sounds wonderful but doesnt metal as well perhaps.  Maybe the pickups are more PAF in this one and more HFS in brownstone? the sustain in limelight on an open a note is insane!  BUT WAIT ... I havent done input calibration yet.  Ok I did that and mr brownstone is still way clearer and tighter.  Input seems to be the same .   WAIT the pickup height on limelight on bridge is pretty high.  Maybe if I lower it but then raise the input it would sound different?  Reminder: The pickup switch is ... backwards in that one and I wonder if that means they swapped the pickups or the switch?  Maybe swapping the pickups back would be good.  whats really cool is soemtimes when I strum limelight its so acoustic and singing that I cant quite tell if its not an amplified sound or not!
+		- tip: To start out for the first few weeks: pick one guitar adn one speaker and calibrate to that and adjust your settings to match that and dont change naything and punch in new tones and get a few that you really like like 4-10 that are good and usable and name them after the guitar LLChorusComp or whatever
+	- WOW the boss has some kind of DAW control features?!? theyre in the menu.  like the 4 favorites buttons become pause an dplay and record?  how coool!
+	- When I turn the patch down to 0 volume the dry signal doesnt come through to amplitube anymore.  Why not?  thats weird.  it should come through the same regardless of patch volume.  Does that mean I have to control the dry signal volume through patch level?  I thought the patch would have zero bearing on that. 
+	- I dont know the best way to send the dry signal to amplitube plugin while basically turning OFF all of the boss effects?  maybe an empty patch?  The level still matters  alot though.  but the thing is I dont even want a dry signal coming in through the headphones  
+	- ok good news the patch level doesnt affect the sound at least when moniitoring through the computer.    Update: Sometimes it totally does.  like right now I have amplitube set to channels 3 and 4 (should be dryy) and when I change the patch volume theyy go hot and when patch volume goes to 0 they go dead.  I think amplitube got confused.  I restarted and in garageband it works as expected; channel 1 and 2 of the boss are based on patch level, channels 3 and 4 are not.  I think amplitube got confused and said 3 but actually was looking at 1 
+	- Ok I dont think this is a problem.  I made a patch . Turned its volume to 0 and it works fine.
+	- Advantage of usiinig the boss for headphones?  it gets WAY louder than the computers headphone jack does so when I’m usiinig a quiet plugin it still works.
+- ===== Amplitube 5.  Just downloaded it.  10 authorizations (ever? or at a time?).  Username requires a number. 	It looks really interesting.  How to turn all of the boss fx off?  OH Interesting: changing the fx in the boss is changing fx in amplitube for some reason and in some wayy!?!   
+	- I got the triple rec and it sounds fantastic!  I dont know iif it sounds real.  I dont know if I have optimized it, but with two overdrive pedals one max drive and one high level 0 drive, it sounds like a beautiful gutteral buzz saw!super rich and throaty and lovely on open chords.    
+	- I really like how preset savving works.  theres tons of metadata and even a notes section and data about your guitar.
+	- I love that all of these amps are free.  There are tons that arent but just filter by the ones you have and there are plenty to make tons of great tones and see what its like playyingi through a plugin. 
+	- Lets see if i can get a liquid gain tone from this rig.  Yeah I got somethiing
+	- This rhyythm tone is missing somethiing.  Its throaty but its like ... open wah and isnt cuttinig through
+	- WHOA yyou can multi amp 2 amps even on the free one!  3 amps if you buy iit! OH no two isnt free there are two in the chain but it doesnt let you run them both afaik. update yeah iti lets you!
+	- Features in full version only: Looper, 3 amps simultaneous (2 is free).
+	- I like how it sounds, my strings feel powerful right now for chords
+	- But compared to the friedman on boss I feel like I’m having to fight to get the lead tones I want.  the notes and harmoniics are not jumping off of the strings like I deserve, and I dont think its going to cut through. 
+	- When i switched back to boss I immediately got a better sound that felt better and rocked harder adn was more liquid.
+	- I am not truly getting that much gain from the triple rec and that cant be right.  that thing is supposed to be a monster, but it wasnt until I put multiple overdrive sin front.  maybe I need an empty boss patch with a relatively high level to start with?
+	- I’m trying it without monitoring through the boss instead monitioring from the computers headphone jack.  there is SLIGHT Latency probably <100ms but there was basically none in the boss.  and it seems like there was none when monitoring through the boss too.
+	- Changed buffer to 16 and latency is much smaller.  change it to 2048 and its allmost unplayyable.
+	- Its a nice crunch sound by default.   It responds to the volume control on the guitar real nice with this crunch.  Sounds fantastic.  I like the low gain on the triple rec.  it sounds lovelyy and tube like just breaking up.   I really do like the tube feel on some of these settings.  It sounds sweet and lovely like roasting tubes ready to crank.  
+	- clean recto channel has so small volume II almost cant make it audible
+	- annoyance: its too easy on the pedals to miss the dial and pick up the pedal.
+	- annoyance: its too easy fro a tooltip from the lower pedal dial to block clicking on the upper pedal dial
+	- THe presets all kind of suck
+	- I dont think theres much gaini ini this triple rec tbh its weird!  A video I saw sounded similar and boosted with a drive but I dont have a tubesccreamer ... maybe I can use the boss for that?  or the zoom if necessary.
+	- Apparently I didnt instlal the custom shop isi that a problem?
+	- you can adjust input gain in the plugin as well as in the boss I dont know if you can adjust output gain from the boss for the dry signal but you can adjust input gain in the boss for the dry ... I thiink ... yes confirmed.
+	- every minute or two it cliicckups (new word!) probably thats the buffer/latency adjustment?
+	- annoyance: The sliders dont let you click to set the point they make you find the dot and drag it over, even the input and output gaini sliders.
+	- Really nice tuner but only when you click on the one IN the signal chaiin not at the bototm.
+	- Ok I’m getting some damn great tones out of it now.  Maybe the most ‘complete’ and meaty and grizzling rhyythm tone I’ve ever had for like full chords and palm muting and string scraping across rhythm sounds.  its honestly amazing.  Can I get sounds like that from the Boss?  I have my doubts tbh.
+	- Theres a certaini level of noise but the cabinet makes a HUGe difference wrt that problem.
+	- I’m getting a pretty good singing lead tone but its still nto as liquid as it is on the boss. yet.  I’ve got a beautiful thick syrupy singing lead tone, however its still not quite jumping off of the fretboard like the boss.  maybe more gain?
+	- Even the super high gain overdrives roll off the volume and theyy clean up real nice and authentic.  
+	- WOW as a plugin I’m reallyy impressed!  it innstalled right into garageband all I had to do was select it on the track holy crap!  It doesnt have my presets from the standalone but thats ok I can either transfer them or re-make them
+	- Amplitube with the green USB guitar interface is ... well  ... mostly problematic but with the right settings is usable.  There is a constnat noise even when the guitar is off.  This validates my findings from the last month: this device is mega noisy and not really usable for plugins.  however it turns out if you turn the input gaini ALL th eway down in amplitube the noise is APPARENTLY less noticeable and you can get decent guitar tones out of it somehow.  if you turn it up you cant even get those tones.  I might even be deceivving myself about the noise but the tones are in fact decent and woudl be usable for some thiinigs.  
+	- update: Well I love it actually but all of a sudden on apr 21 it doesnt start anymore :( idk why.  Restarting.  Ok now it works.  Maybe it was the multiple displays I had runningi?
+- ===== Fortin Cali Suite
+	- Well as soon as I changed input to Boss GT001 it crashed which is not a good sign.
+	- The license management was pretty annoying and kind of scares me that it will decide in a few months after some system update ... yeah this isn’t active for you anymore.  We are at the mercy of at least 5 registration systems that some or all have to communicate properly: ilok website, neural website, ilok manager on mac, neural software, some kind of license manager between them that was auto installed
+	- Features
+		- Great tuner
+		- the gate is nice at least at this gain level
+		- The feel of the knobs like the two finger trackpad scrolling on the output knob is fantastic, 
+		- even and especially the knobs on the pedals feel amazing to turn with trackball or trackpad
+	- sound
+		- decent but not stunning sound out of the box for me.  not problematic.  not liquidy. not much grit to a chord.
+		- it feels good and responsive
+		- I’m tweaking knobs to try to find a sound I love.  
+		- Ok the acdc vibes are growing on me at least when I dig in with the pick
+		- the cleans are crystal clear and warm.  
+		- Can the cleans get 
+		- Something with this and other plugins and possibly even my boss is turniing the volume down on myy guiitar loses the signal too quick.  I wonder if its my wiring?  I wonder if its the noise gate?  it ducks in and out when I turn it down on my guitar even to 6-8  nope its not a noise gate from teh cali suite anyway.  Even playinig quietly does that.  Could this be impedance related?  wouldnt the boss fix that?  Ok I switched the boss back to input level 0 from input -2db.  And I switched to my core PRS.  Still an issue.  
+		- Its NOT the guitar.
+		- Lets switch the Interface to the Audient that I just got. 	NOPE its not as simple as that either.  I’ve got the dial all the way up on the evo and still when I play quietly its ducking.  lets try a different amp sim
+		- With amplitube ... it doesnt seem to be ducking at all.
+		- Ok back to cali (thats a song) ok Playyingi with some things I think it  was the zuul pedal all along.  I dont know what that does but I’m glad it did it.  I appreciate that this default setting made me go try out a bunch of gear and configurations, plug in my new interface, get it all working, listen carefully to its sounds, try several guitars, and learn a ton over the last 20-30min.  I’m sort of really happy right now.
+		- OK Now it is starting to really show promise and I’m excited.
+		- The cleans are very nice, b
+		- Now I want some killer drive and WOW I got it!  Turn on that drivve pedal and it sounds fantastic!  Harmonics and rock sounds!  Open chords ring and grind for a long time.  All of the open chords too.  With amplitubes mesa the grind is there on the d but the E gets muddy.  With this the e is amazing just like the D.
+		- Now lets see if I can get a liquidy lead tone (after I noodle with the OD sounds some more)  Yeah I got that pretty easily.  Its not the SAME as the recto and I like the recto in amplitube, but its fantastic and still better in many ways.
+		- its not too noisy  at least with this evo 4 even on high gain
+		- After I started Granophyre I opened Fortin Cali in GB (granophyre didnt work :( ) and I ended up getting a useful tone somehow from two accidental instances of the plugin lol
+- ===== Audient Evo 4
+	- lol knob popped off as I was trying to get it out of the box.  no problem popped right back on solid ... well not like tightly but turns great
+	- Ok its plugged in and the inputs seemed to work as expected.  I’m bummed that it only had a 1/4” headphone jack.  Thats just the littlest bit annoying for my purposes not a real issue though.
+	- With amplitube it sounds like its slower and less reactive than neural it instantly feels different.  update: thats mostly because when you change interfaces it goes to default 512 samples, not a bug just means you have to set that back down and thats why it was slow and unresponsive feeliing at first.  Now that I fixed it again it feels great. 
+	- I think this thing iis really warm and clear actually
+- ===== Neural DSP Granophyre
+	- out of the box same setup as the other one.
+	- sound
+		- out of the box nice deep but wooly and warm chunk
+		- thrers no way to get a completly clean, thatts ok theres some nice cleans with some crisp on top
+		- miid pickup vol dn nice meaty warm quackiish	
+		- its real nice actually 
+		- At high gain with lots of boost it gets real noisy but still sounds like an amp noisy
+		- I freaking love the CHUNK in this!
+		- I love the sag or the gooeyness of this amp.  The cali doesnt have that and I love it for what it is.  I dont even know if its always what I want but I love it iinstantly.  a chirp or chime or a dig 
+		- I love how it sounds with the volume down too not clean but fun
+	- PROBLEM using as a plugin.  it says it cant be used may need to be updated.  
+	- Fortin Cali loaded in garageband just fine!?!
+	- Maybe I can still record?  Maybe I can use loopback?
+		- I had to make an account with arc (or so I gthought) and register my product but the serial number waas ‘already taken’ so I dont get any of their (admiittedlyy totallyy crappy and mostly already yfree) offers. 
+		- There is a loopback mixer in the evo menu when the evvo software is running (when its not showing you ads) but it doesnt seem to do anything ... you cant reassign things I dont think.  I’m watchin ga video.
+		- I want to monitor the granophyre in myy headphones, while also sneding the output to the loopback channels, and from there recording in garageband.  
+		- Ok I think I got it partially working
+		- Oh weird it said ‘disk too slow to record’ ... makes me want to back up my hard drive immediately.  
+		- It works for this demonstration but isnt really workable long term.  There might be another audio interface which would let me do something like that
+		- or maybe I could use the computer audio headphones to monitor the output of the granophyyre program, and let it send the other channel to garageband.
+		- Oh interesting!  When I do three finger scrollinig I hear it in the sound coming out of the plugin.
+		- The plugin can only output to two channels so it cant send to stereo headphones output and 
+		- oh!  I can send plugini output to computer and then computer to loopback and then record the loopback?.  The loopback mixer you turn up the volume on the inputs that yyou want to send to the loopback output or something.  
+		- I got it working so it plays great through the standalone app and records into garageband just fine.  I turned off input monitoring in gb ofc.  I made an aggregate device in midi settings but it didnt do anything different afaik.
+		- I kind of fell in love with this one so I want to get the plugiin workingi if I can
+		- After playing with Nolly for a minute I tried it again this time reinstallinig it in full (didnt uninstall because I didnt know how) and restarted and it didnt work in gb.  However I got a program calld hostingau and in that it worked great!  it was tricky to figure out that I had to use tracks d and e to set input an dhtne output but then it worked perfect.  It opened up and everyything.  I could possibly yrecord that way.
+		- BUT there are some pplugin loaders like the one from bluecat and peavey that can host OTHER PLUGINS! I wonder if I could do that?
+		- Try: Try getting a free plugin loader real quick?  Buy the bluecat pack real quick?  Try the peavey one real quick (usb stick) or maybe theres another 
+		- Looked around a lot and found this open source thing called Element which is a plugin wrapper.  Just tried it and Granophyre pops up inside it just fine.  
+		- Had to build element from source.  It wasnt bad the instructions werent perfect but they’re not motivated to make them perfect.  The mac instructioins were incomplete but iif you just updpated the submodules using the linux command listed above the mac stuff then it built and ran without much trouble.
+		- You have to right click in the window and then go to plugins unverified to get the Granophyre.  You have to go to the options menu and select the audio input and output devices.  THen you have to move things around on the graph (since some wilil accidentally ybe on top of others).  then you have to connect inputs and outputs.  Hover ovver the green dots to see its label.  You can use the patch bay in the vview menu to link things up a different way and it gives yyou tons of options on how to do taht which I think is really cool.  Just using this I might be able to make it work inside garageband by sppltiting the signal just right into an aggregated input or something.
+		- How to make this into a plugin itself???  Not actually sure whether I loaded the vst or the au but it seems to work so it doesnt matter.  Looks like to do this you have to buy the full version where they’ve packaged up the software into an installer which also installs element as a plugin.  TO buy the full version is super cheap $2 or if you want continuous support $2/mo.  I just purchased the $2 and I can download the full version for a week.
+		- I’m firing up garage band now ... hopefull it will be listed as a plugin?  YESSSS II didnt evven have to restart.  IT even has a bunch of inputs and outputs I presume that they represent tracks or something?  This is likely to work greaat
+		- NOOOOOOOOoooooOOOOOoooooOOOOooooOOOooooo!!!!! When you run granophyre from within this plugin but also from within garageband ... it still doesnt work :( how sad.  
+		- That I think is the last straw and although I love the tone, I will do without it.  
+		- WAIT ... [this post at neural](https://unity.neuraldsp.com/t/problem-abasi-with-garageband/2069) says if yyou turn off gatekeeper it might work the abasi one might anyway ... 
+		- SORT OF WORKED!! It DID work and I was able to run it in garageband but only while gatekeeper is disabled.  Is that how I want to run my system?
+		- I tried removing acls lots of chmodding based on my mac note and none of it worked :(
+		- an hour later I’m giving up (again).  I’m a bit mad at neural.  Its only garageband that doesnt work and apparently [apogee have the same problem only with garageband](https://apogeedigital.zendesk.com/hc/en-us/articles/360056923214--Fatal-Error-and-Plugins-cannot-be-used-message-in-Garageband) and ilok anyway. 
+		- Maybe I can route the audio just right with element?  Maybe this is how i would want to do it anyway???  This lets me record the track the first time the way I want it to sound instead of havving the dry siganl and processing it.  Thiis doestn prely on plugins so it would be compatible with Tom.  
+			- In Element: Add the amp model you want, in Evo4 instrument 1 goes to your pllugins input.  your plugins output goes to loopback AND to evo 4 main output 1 and 2.  THEN in garageband it should be set to Audio Midi settings to evo 4 for both iniput and output and for the track set it to EVO3 (which is the loopback output) THEN in evvo loop back mixer (run the evo app and then its in the menu at the top) turn the loop back 1 2 to 0 volume level and it should work!  YEAH This works great actually!  The timing isnt evven off somehow!?!  In elemen tI also set sample rate to 96 and buffer size to 128
+		- WOW this was all so worth it.  I just learned enormous about how to use element and you know what?  Now I can do basicallyy fucking anything even dual amping and everythiing and it doesnt even put any plugins IN garageband!!!
+		- Should I upgrade to Logic just for this?  Hell no.  I’m working Tom in Garageband not Logic.  And I dont need it for literally anything else other than this bug.
+		- I quit element ... now I am going to load it up again  When I did there was kind of a perma overload but if I re wire it I bet it will work then. Hmm When I did the left channel worked but hte right didnt ... did I blow it up?  Did I ruin the evvo?   what is going on???
+		
+- ===== Neural DSP Archetype Nolly
+	- made in 2019 so before the granophyre so I bet it will have the same plugini problem or worse.
+	- INstalled perfect.  required some activation first and I dont recall that during the granophyre.  I didnt run the app first I ran the plugin first.  I installed ALL of the plugins too.  Its runnign now great.
+	- Sounds awesome.  Cool presets.  Cool sounds right away.
+	- nice harmonics, havent found the huge gain ones yet tho
+	- Hot Rod Heaven sounds lovvely.  I might be making it up but I immediately think I like this one preset better than anything i found in fortin cali.
+	- Liquid shred solves the problem of having liquid gain!  check!
+	- Sounds really cool just going through the presets
+	- Air Raid goes really heavy classic hard rock.
+		
 
 
 
@@ -2355,13 +2514,17 @@ I like the idea of a Transparent Overdrive first (with a bit of EQ) then a wah t
 
 
 <!--
-  _____       _               
- |_   _|     | |              
-   | |  _ __ | |__   _____  __
-   | | | '_ \| '_ \ / _ \ \/ /
-  _| |_| | | | |_) | (_) >  < 
- |_____|_| |_|_.__/ \___/_/\_\
-                              
+ /$$$$$$           /$$                          
+|_  $$_/          | $$                          
+  | $$   /$$$$$$$ | $$$$$$$   /$$$$$$  /$$   /$$
+  | $$  | $$__  $$| $$__  $$ /$$__  $$|  $$ /$$/
+  | $$  | $$  \ $$| $$  \ $$| $$  \ $$ \  $$$$/ 
+  | $$  | $$  | $$| $$  | $$| $$  | $$  >$$  $$ 
+ /$$$$$$| $$  | $$| $$$$$$$/|  $$$$$$/ /$$/\  $$
+|______/|__/  |__/|_______/  \______/ |__/  \__/
+                                                
+                                                
+                                                
 -->
 
 # Inbox #
@@ -2702,106 +2865,30 @@ Inbox 3/24/2021:
 
 
 
-- Boss GT001 - mar 28 I got this mar 23 or so love it so much.  Dry Recording, MIDI Synth Pickup built in, Dual amping, so many blocks to play with.  Its a guitarists DREAM.  The sound is good, the noise is low, I can mostly use the garageband amps, I can recocrd dry and then use whatever gb effects and amps and plugins I want.  I can effortlessly (even accidentally which is how I figured it out) use MIDI!! I had a midi track selected on accident, hit record and watched notes being added for no reason and it blew my mind.  I’m so excited that I sent videos to lots of my friends and family.  Configuration via boss gt tone studio is really fantastic and works great even on mac big sur.  
-	- update Mar 27.  Ordered lots of things from amazon including new pickups for both of my new guitars.  We’ve been itching to do soldering projects and its important that all of my guitars sound fantastic.  I also bought some really premium pickups from some dude on thegearpage.  
-		- update later Mar 27.  Cristi suggested I get some recorded tones from my new guitars so we can do a before and after pickup swaps so I recorded what ended up being a magical song with the horseman.  The clean tones are not problematic at all with either one its just the high gain tones that dont really work.  They are all flabby.  Theres no chunk or tightness.  It sounds like these pickups are from a super cheap early 90s crap guitar and like the amp is from a gorilla amp.  not entirely, the fx are good and there are nice tones like when I hit an open chord or sometimes when I do a bend, its just mostly the flabbiness and shittiness of the chunk and rhythm.  
-		- update later Mar 27.  I decided to get some contrast by recording some high gain with my brown guitar but you kknow what ... it sounds crappy too right now :(.  I have a sneaking suspicion that these boss high gain presets are problematic.
-		- update later Mar 27.  Before we watch tv together Cristi told me to plug into my amp real quick where I know the sounds are great and hot damn both of my new guitars sound fantastic in their own ways!  They dont need new pickups!  Theyre great as they are!  lol I have been fooled by stinky presets!!
-	- New presets: I’m now searching youtube for how to set this up so it sounds fantastic.  I found 3 resourcces: tone central (which is built into the tone studio app), guitarpatches.com, and youtube (search for the type of tone you want + ‘gt001 patch’ or ‘gt100 patch’), 
-		- at guitarpatches.com there are lots of patches even like 30 from 2020.  there arent any from 2021 but this device is from 2014 so i dont blame anyone for thinking its not the new hotness and digging into it deep. there are 20-30 from every year except only a few from 2017 but even after that there were many submitted.  
-	- Input Calibration: Ok I’m hearing from several sources on youtube that I need to do input calibration of my guitars.  I need for the input settings to be not too much and not too little.  This is an interesting ‘weakness’ you might say of this is that you cant save input settings with presets or name the input settings you have to set it manually and globally.  It does save it though but its kind of like assuming either the input will be similar enough between your guitars that it doesnt matter (which I think is naive) or that you will just memorize the settings or something.  It also doesnt really give you a way to determine or calibrate your input but it does give you the TOOLS to be able to figure it out if you are an enterprising guitar tinkerrer.  This is the kind of thing that Helix, AxeFX and Kemper probably have totally figured out.  probably pod does too.  probably a good half of the other ones do too.   You should be able to save a certain number of global presets even if its just like 5.  Still its certainly not a showstopper worst case you can stick a little sticky note on your device with different guitar input settings.  You know whats cool is I have lots of memories these days of things that i did on my Korg AX30g in 1996 but back then I really didnt know what I was doing.  I remember doing some kind of input calibration and not knowing or caring what it meant and not being sure I got it right.  I remember it saying I should do it so I did it, then I remember later thinking I needed to do it again every time I turned it on or something.  Maybe there was even a master knob setting for that or something.  
-		- For this input calibration there are a few videos about it on youtube and some of them talk about makign a wah that engages when the input gets to a certain max point 126/127 or soemthing.  Theres already a preset for this on guitarpatches.com called [input calibration guitar](https://guitarpatches.com/patches.php?mode=show&unit=GT100v2&ID=11798) with instructions on how to use it in the description. 
-		- Thinking back even my korg had synth in it with thata step filter thing.  Apparenlty helix has soomething that sounds a lot like that.  but with helix i cant tell whether theres a guitar involvd. it seem slike its just synth being played from the footswitches.  
-		- Trying these guitars with these presets, Mr Brownstone is just naturally tighter than Limelight I think.  Limelight doesnt have a pickup problem but there is an inherent tightness difference to the chunk.  Maybe anyway.  The bass in limelight is maybe a little bit flabby maybe?  Maybe certain pickups can tighten it up?  Maybe its a character I can use?  Some of the presets work better with limelight sort of.  Theres less heat but more harmonics believe it or not.  Theres less noise but also less gain.  it sounds wonderful but doesnt metal as well perhaps.  Maybe the pickups are more PAF in this one and more HFS in brownstone? the sustain in limelight on an open a note is insane!  BUT WAIT ... I havent done input calibration yet.  Ok I did that and mr brownstone is still way clearer and tighter.  Input seems to be the same .   WAIT the pickup height on limelight on bridge is pretty high.  Maybe if I lower it but then raise the input it would sound different?  Reminder: The pickup switch is ... backwards in that one and I wonder if that means they swapped the pickups or the switch?  Maybe swapping the pickups back would be good.  whats really cool is soemtimes when I strum limelight its so acoustic and singing that I cant quite tell if its not an amplified sound or not!
-		- tip: To start out for the first few weeks: pick one guitar adn one speaker and calibrate to that and adjust your settings to match that and dont change naything and punch in new tones and get a few that you really like like 4-10 that are good and usable and name them after the guitar LLChorusComp or whatever
-	- WOW the boss has some kind of DAW control features?!? theyre in the menu.  like the 4 favorites buttons become pause an dplay and record?  how coool!
-	- When I turn the patch down to 0 volume the dry signal doesnt come through to amplitube anymore.  Why not?  thats weird.  it should come through the same regardless of patch volume.  Does that mean I have to control the dry signal volume through patch level?  I thought the patch would have zero bearing on that. 
-	- I dont know the best way to send the dry signal to amplitube plugin while basically turning OFF all of the boss effects?  maybe an empty patch?  The level still matters  alot though.  but the thing is I dont even want a dry signal coming in through the headphones  
-	- ok good news the patch level doesnt affect the sound at least when moniitoring through the computer.    Update: Sometimes it totally does.  like right now I have amplitube set to channels 3 and 4 (should be dryy) and when I change the patch volume theyy go hot and when patch volume goes to 0 they go dead.  I think amplitube got confused.  I restarted and in garageband it works as expected; channel 1 and 2 of the boss are based on patch level, channels 3 and 4 are not.  I think amplitube got confused and said 3 but actually was looking at 1 
-	- Ok I dont think this is a problem.  I made a patch . Turned its volume to 0 and it works fine.
-	- Advantage of usiinig the boss for headphones?  it gets WAY louder than the computers headphone jack does so when I’m usiinig a quiet plugin it still works.
-- ===== Amplitube 5.  Just downloaded it.  10 authorizations (ever? or at a time?).  Username requires a number. 	It looks really interesting.  How to turn all of the boss fx off?  OH Interesting: changing the fx in the boss is changing fx in amplitube for some reason and in some wayy!?!   
-	- I got the triple rec and it sounds fantastic!  I dont know iif it sounds real.  I dont know if I have optimized it, but with two overdrive pedals one max drive and one high level 0 drive, it sounds like a beautiful gutteral buzz saw!super rich and throaty and lovely on open chords.    
-	- I really like how preset savving works.  theres tons of metadata and even a notes section and data about your guitar.
-	- I love that all of these amps are free.  There are tons that arent but just filter by the ones you have and there are plenty to make tons of great tones and see what its like playyingi through a plugin. 
-	- Lets see if i can get a liquid gain tone from this rig.  Yeah I got somethiing
-	- This rhyythm tone is missing somethiing.  Its throaty but its like ... open wah and isnt cuttinig through
-	- WHOA yyou can multi amp 2 amps even on the free one!  3 amps if you buy iit! OH no two isnt free there are two in the chain but it doesnt let you run them both afaik. update yeah iti lets you!
-	- Features in full version only: Looper, 3 amps simultaneous (2 is free).
-	- I like how it sounds, my strings feel powerful right now for chords
-	- But compared to the friedman on boss I feel like I’m having to fight to get the lead tones I want.  the notes and harmoniics are not jumping off of the strings like I deserve, and I dont think its going to cut through. 
-	- When i switched back to boss I immediately got a better sound that felt better and rocked harder adn was more liquid.
-	- I am not truly getting that much gain from the triple rec and that cant be right.  that thing is supposed to be a monster, but it wasnt until I put multiple overdrive sin front.  maybe I need an empty boss patch with a relatively high level to start with?
-	- I’m trying it without monitoring through the boss instead monitioring from the computers headphone jack.  there is SLIGHT Latency probably <100ms but there was basically none in the boss.  and it seems like there was none when monitoring through the boss too.
-	- Changed buffer to 16 and latency is much smaller.  change it to 2048 and its allmost unplayyable.
-	- Its a nice crunch sound by default.   It responds to the volume control on the guitar real nice with this crunch.  Sounds fantastic.  I like the low gain on the triple rec.  it sounds lovelyy and tube like just breaking up.   I really do like the tube feel on some of these settings.  It sounds sweet and lovely like roasting tubes ready to crank.  
-	- clean recto channel has so small volume II almost cant make it audible
-	- annoyance: its too easy on the pedals to miss the dial and pick up the pedal.
-	- annoyance: its too easy fro a tooltip from the lower pedal dial to block clicking on the upper pedal dial
-	- THe presets all kind of suck
-	- I dont think theres much gaini ini this triple rec tbh its weird!  A video I saw sounded similar and boosted with a drive but I dont have a tubesccreamer ... maybe I can use the boss for that?  or the zoom if necessary.
-	- Apparently I didnt instlal the custom shop isi that a problem?
-	- you can adjust input gain in the plugin as well as in the boss I dont know if you can adjust output gain from the boss for the dry signal but you can adjust input gain in the boss for the dry ... I thiink ... yes confirmed.
-	- every minute or two it cliicckups (new word!) probably thats the buffer/latency adjustment?
-	- annoyance: The sliders dont let you click to set the point they make you find the dot and drag it over, even the input and output gaini sliders.
-	- Really nice tuner but only when you click on the one IN the signal chaiin not at the bototm.
-	- Ok I’m getting some damn great tones out of it now.  Maybe the most ‘complete’ and meaty and grizzling rhyythm tone I’ve ever had for like full chords and palm muting and string scraping across rhythm sounds.  its honestly amazing.  Can I get sounds like that from the Boss?  I have my doubts tbh.
-	- Theres a certaini level of noise but the cabinet makes a HUGe difference wrt that problem.
-	- I’m getting a pretty good singing lead tone but its still nto as liquid as it is on the boss. yet.  I’ve got a beautiful thick syrupy singing lead tone, however its still not quite jumping off of the fretboard like the boss.  maybe more gain?
-	- Even the super high gain overdrives roll off the volume and theyy clean up real nice and authentic.  
-	- WOW as a plugin I’m reallyy impressed!  it innstalled right into garageband all I had to do was select it on the track holy crap!  It doesnt have my presets from the standalone but thats ok I can either transfer them or re-make them
-	- Amplitube with the green USB guitar interface is ... well  ... mostly problematic but with the right settings is usable.  There is a constnat noise even when the guitar is off.  This validates my findings from the last month: this device is mega noisy and not really usable for plugins.  however it turns out if you turn the input gaini ALL th eway down in amplitube the noise is APPARENTLY less noticeable and you can get decent guitar tones out of it somehow.  if you turn it up you cant even get those tones.  I might even be deceivving myself about the noise but the tones are in fact decent and woudl be usable for some thiinigs.  
-- ===== Fortin Cali Suite
-	- Well as soon as I changed input to Boss GT001 it crashed which is not a good sign.
-	- The license management was pretty annoying and kind of scares me that it will decide in a few months after some system update ... yeah this isn’t active for you anymore.  We are at the mercy of at least 5 registration systems that some or all have to communicate properly: ilok website, neural website, ilok manager on mac, neural software, some kind of license manager between them that was auto installed
-	- Features
-		- Great tuner
-		- the gate is nice at least at this gain level
-		- The feel of the knobs like the two finger trackpad scrolling on the output knob is fantastic, 
-		- even and especially the knobs on the pedals feel amazing to turn with trackball or trackpad
-	- sound
-		- decent but not stunning sound out of the box for me.  not problematic.  not liquidy. not much grit to a chord.
-		- it feels good and responsive
-		- I’m tweaking knobs to try to find a sound I love.  
-		- Ok the acdc vibes are growing on me at least when I dig in with the pick
-		- the cleans are crystal clear and warm.  
-		- Can the cleans get 
-		- Something with this and other plugins and possibly even my boss is turniing the volume down on myy guiitar loses the signal too quick.  I wonder if its my wiring?  I wonder if its the noise gate?  it ducks in and out when I turn it down on my guitar even to 6-8  nope its not a noise gate from teh cali suite anyway.  Even playinig quietly does that.  Could this be impedance related?  wouldnt the boss fix that?  Ok I switched the boss back to input level 0 from input -2db.  And I switched to my core PRS.  Still an issue.  
-		- Its NOT the guitar.
-		- Lets switch the Interface to the Audient that I just got. 	NOPE its not as simple as that either.  I’ve got the dial all the way up on the evo and still when I play quietly its ducking.  lets try a different amp sim
-		- With amplitube ... it doesnt seem to be ducking at all.
-		- Ok back to cali (thats a song) ok Playyingi with some things I think it  was the zuul pedal all along.  I dont know what that does but I’m glad it did it.  I appreciate that this default setting made me go try out a bunch of gear and configurations, plug in my new interface, get it all working, listen carefully to its sounds, try several guitars, and learn a ton over the last 20-30min.  I’m sort of really happy right now.
-		- OK Now it is starting to really show promise and I’m excited.
-		- The cleans are very nice, b
-		- Now I want some killer drive and WOW I got it!  Turn on that drivve pedal and it sounds fantastic!  Harmonics and rock sounds!  Open chords ring and grind for a long time.  All of the open chords too.  With amplitubes mesa the grind is there on the d but the E gets muddy.  With this the e is amazing just like the D.
-		- Now lets see if I can get a liquidy lead tone (after I noodle with the OD sounds some more)  Yeah I got that pretty easily.  Its not the SAME as the recto and I like the recto in amplitube, but its fantastic and still better in many ways.
-		- its not too noisy  at least with this evo 4 even on high gain
-		- After I started Granophyre I opened Fortin Cali in GB (granophyre didnt work :( ) and I ended up getting a useful tone somehow from two accidental instances of the plugin lol
-- ===== Audient Evo 4
-	- lol knob popped off as I was trying to get it out of the box.  no problem popped right back on solid ... well not like tightly but turns great
-	- Ok its plugged in and the inputs seemed to work as expected.  I’m bummed that it only had a 1/4” headphone jack.  Thats just the littlest bit annoying for my purposes not a real issue though.
-	- With amplitube it sounds like its slower and less reactive than neural it instantly feels different.  update: thats mostly because when you change interfaces it goes to default 512 samples, not a bug just means you have to set that back down and thats why it was slow and unresponsive feeliing at first.  Now that I fixed it again it feels great. 
-	- I think this thing iis really warm and clear actually
-- ===== Neural DSP Granophyre
-	- out of the box same setup as the other one.
-	- sound
-		- out of the box nice deep but wooly and warm chunk
-		- thrers no way to get a completly clean, thatts ok theres some nice cleans with some crisp on top
-		- miid pickup vol dn nice meaty warm quackiish	
-		- its real nice actually 
-		- At high gain with lots of boost it gets real noisy but still sounds like an amp noisy
-		- I freaking love the CHUNK in this!
-		- I love the sag or the gooeyness of this amp.  The cali doesnt have that and I love it for what it is.  I dont even know if its always what I want but I love it iinstantly.  a chirp or chime or a dig 
-		- I love how it sounds with the volume down too not clean but fun
-	- PROBLEM using as a plugin.  it says it cant be used may need to be updated.  
-	- Fortin Cali loaded in garageband just fine!?!
-	- Maybe I can still record?  Maybe I can use loopback?
-		- I had to make an account with arc (or so I gthought) and register my product but the serial number waas ‘already taken’ so I dont get any of their (admiittedlyy totallyy crappy and mostly already yfree) offers. 
-		- There is a loopback mixer in the evo menu when the evvo software is running (when its not showing you ads) but it doesnt seem to do anything ... you cant reassign things I dont think.  I’m watchin ga video.
-		- I want to monitor the granophyre in myy headphones, while also sneding the output to the loopback channels, and from there recording in garageband.  
-		- Ok I think I got it partially working
-		- Oh weird it said ‘disk too slow to record’ ... makes me want to back up my hard drive immediately
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		
+				
 Bass amp
 Fender Mustang
 Want ios control or mac control, want Dry Recording, 
@@ -2891,5 +2978,13 @@ Epic Studio by feel:
 
 
 	
+	
+	
+	
+Top Tones in 2021:
+1. Quad Cortex
+2. Neural DSP Plugins
+
+
 	
 	

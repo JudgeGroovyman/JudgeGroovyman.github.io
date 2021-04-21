@@ -21,7 +21,7 @@ Click "OK" if you are prompted to give access to files for "AmigaLive" or "FS-UA
 You can also enable this under "System Preferences", "Security & Privacy", "Privacy", "Files and Folder" and enable access to both "AmigaLive" and "FS-UAE Launcher"
 
 ### App Translocation / Gatekeeper Path Randomization ###
-
+Notes from [AmigaLive](https://www.amigalive.com)
 Starting with macOS Sierra (10.12), any application distributed outside the Mac App Store runs from a randomized path.
 This causes AmigaLive and FS-UAE Launcher not to function properly until you perform either of the following solutions.
 
@@ -71,6 +71,28 @@ This is only needed once, you can open it like normal after this."
 ## Translocated ##
 
 Also https://16-bits.org/pt2.php this program when you get it running says "Critical Error - the program was translocated to a random sandbox environment for security reasons and thus it cant find and load protracker.ini.  Dont worry this is normal.  To fix the issue you need to move the program/.app somewhre to clear its QTN_FLAG_TRANSLOCATE flag." Then it tells you to move it somewhere else and back. "This is not my fault its a security concept introduced in macos 10.12 for unsigned programs downloaded and unzipped from the internet."
+
+## Turning off gatekeeper ##
+https://its.uiowa.edu/support/article/4038
+I had to do this for a plugin 
+https://unity.neuraldsp.com/t/problem-abasi-with-garageband/2069
+
+IT WORKED!!!
+
+These were the errors:
+``“”.tmpN1wmJk" can’t be opened because Apple cannot check it for malicious software.
+This software needs to be updated. Contact the developer for more information.""
+
+“Fatal error:100007
+A fatal wrapper bootstrap error happened. This software cannot be loaded. Please contact the sftware publisher for support using this software.”
+
+“Audio Unit plug-in can’t be used
+The Audio Unit “Archetype A” could not be loaded for your project, and may need to be updated. Contact the manufacturer for an updated version or further assistance.”
+``
+BUT It only yworks as long as gatekeeper is still disabled
+``sudo spctl --master-disable``
+``sudo spctl --master-enable```
+
 
 # External Keyboard
 ### Home and End buttons
