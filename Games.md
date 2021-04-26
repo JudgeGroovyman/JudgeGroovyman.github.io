@@ -2641,3 +2641,62 @@ Second Tier For ANY Reason:
 
 
 
+
+
+
+Apr 25 2021
+
+
+Second Tier for ANY Reason:
+	- Minecraft, Terraria
+	- Trine 1,2,3, Monster Hunter World, Lara Croft Temple, Rayman
+- Chill: Anno 2070 or 1404, Transport Fever ($30), 
+- Retro Practice: Cannon Fodder (two months), Chaos Engine PC (make maps)
+1. BallisticNG
+1. Games I could stream: Beat Saber, Compound (while watching TV), SkyrimVR, No Mans Sky VR, (Creative Mode building Weird Structures as art) 
+1. Wii: Jurassic: The Hunted, Call of Duty Black Ops (or one of the others for Wii)
+1. Cristi: Windlands 2, Serious Sam 4, Factorio, Haven, Dungeon Defenders, Parkitect, Serious Sam VR, 
+1. , Giants Citizen Kabuto (cheats), MDK2 (cheats), No One Lives Forever (cheats)
+1. Warcraft 3
+1. Amiga Breathless, Amiga Alien Breed 3D, 
+1. Project Osiris complete in VR, 
+1. For the King (Civilization + Dragon Warrior)
+1. Play Again Retro: Resident Evil Darkside Chronicles, , Donkey Kong Country Returns (High Res & Stereo)
+1. Doom 2016 Switch to easy anytime, 
+1. Play Again: Resident Evil 4 (High Resolution mods), Lord of the Rings: War in the North (Play again),  Hellblade VR, XMorph Defense DLC, Titanfall, The Signal from Tolva,  Grow Up (Stereo Vorp X), Destiny 2, Hatchick,  Alien Breed Impact Trilogy,  Bad Ass Babes Sexy (PC Replay),
+
+
+
+-------------------- Experiences
+	1. Middle Earth: Shadow of War, Psychonauts, The Two Towers Gamecube (Hires, 3DSBS), Klonoa (VR!)
+	1. Serious Sam 2,3VR (while watching TV), Deathtrap Tower Defense
+	1. Robo Recall (VR Replay),
+	- Marshall: Hypercharge Unboxed, Dead Space Extraction
+	1. Deep Space Wife Sexy Sequel, Gal Gun 2, 
+	1. Beyond Good and Evil (3DSBS Gamecube or VorpX), The Hobbit Gamecube (Hires 3DSBS), Brothers - A tale of Two Sons, 
+	1. Heavy Metal FAKK 2000,
+	1. No One Lives Forever 2 VR, Quake 1 in VR
+	1. 2D: SeriousSamDDXXL, SeriousSamTormental, SeriousSamsBogusDetour, TeslaVsLovecraft, 
+	1. Lone Echo, Half Life Alyx, Vader Immortal, Serious Sam 4, Terminator 2019, 
+	1. Doom VFR (switch to easy and then back), Doom Eternal Switch to Easy Mode anytime, 
+	1. Replay Bloody Zombies VR, Bloodstained Curse of the Moon, 
+-------------------- Finish Experience Pretty Quick
+	1. Blasters of the Universe,  Duo VR
+	1. Age of Barbarian Sexy
+	1. Rez (VR Replay), Viral EX (VR Replay), 
+-------------------- Practices
+	1. Compound (while watching TV), In Death
+	- Cristi: Rocksmith Best, 
+	1. Bad Ass Babes 2, Street Fighter V Easy Mode Patched, Dead or Alive V Easy Mode Patched, 
+	Practice: Volgarr the Viking, Killing Game Show Amiga,
+	1. Amiga Breathless
+	1. Burnout Paradise with Wheel (Practice), GRiD, Redout (Practice), Road Redemption, BlazeRush
+	- Cities Skylines (First Person Mod, Always morning mod), Before We Leave, Townscaper
+	Baseball Wii, 
+	1. SmashTV NES (retroachievements), RockNRollRacing (retroachievements), Mario1(retroachievements), Mario2(retroachievements), Amagon(retroachievements),
+	1. Skyrim VR (with overpower mods)
+	1. Bloodstained Ritual of the Night, 
+	1. Nex Machina, 
+	1. Replay Alien Isolation VR,  
+
+

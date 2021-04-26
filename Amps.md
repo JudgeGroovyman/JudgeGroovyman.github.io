@@ -1244,14 +1244,17 @@ Computer speakers work ok.
 
 
 <!--
-                           _____ _           
-     /\                   / ____(_)          
-    /  \   _ __ ___  _ __| (___  _ _ __ ___  
-   / /\ \ | '_ ` _ \| '_ \\___ \| | '_ ` _ \ 
-  / ____ \| | | | | | |_) |___) | | | | | | |
- /_/    \_\_| |_| |_| .__/_____/|_|_| |_| |_|
-                    | |                      
-                    |_|                      
+  /$$$$$$                                 /$$$$$$  /$$                        
+ /$$__  $$                               /$$__  $$|__/                        
+| $$  \ $$ /$$$$$$/$$$$   /$$$$$$       | $$  \__/ /$$ /$$$$$$/$$$$   /$$$$$$$
+| $$$$$$$$| $$_  $$_  $$ /$$__  $$      |  $$$$$$ | $$| $$_  $$_  $$ /$$_____/
+| $$__  $$| $$ \ $$ \ $$| $$  \ $$       \____  $$| $$| $$ \ $$ \ $$|  $$$$$$ 
+| $$  | $$| $$ | $$ | $$| $$  | $$       /$$  \ $$| $$| $$ | $$ | $$ \____  $$
+| $$  | $$| $$ | $$ | $$| $$$$$$$/      |  $$$$$$/| $$| $$ | $$ | $$ /$$$$$$$/
+|__/  |__/|__/ |__/ |__/| $$____/        \______/ |__/|__/ |__/ |__/|_______/ 
+                        | $$                                                  
+                        | $$                                                  
+                        |__/                                                                                     
 -->
 
 # Amp Sims #
@@ -1455,10 +1458,168 @@ Other possibilities include:
 
 
 
+<!--
+
+ /$$$$$$$  /$$                     /$$                    
+| $$__  $$| $$                    |__/                    
+| $$  \ $$| $$ /$$   /$$  /$$$$$$  /$$ /$$$$$$$   /$$$$$$$
+| $$$$$$$/| $$| $$  | $$ /$$__  $$| $$| $$__  $$ /$$_____/
+| $$____/ | $$| $$  | $$| $$  \ $$| $$| $$  \ $$|  $$$$$$ 
+| $$      | $$| $$  | $$| $$  | $$| $$| $$  | $$ \____  $$
+| $$      | $$|  $$$$$$/|  $$$$$$$| $$| $$  | $$ /$$$$$$$/
+|__/      |__/ \______/  \____  $$|__/|__/  |__/|_______/ 
+                         /$$  \ $$                        
+                        |  $$$$$$/                        
+                         \______/                         
+	Amp Sim Plugins
+-->
+
+
+
+# Plugins #
+
+[Why Guitar Amp Sims Matter](https://www.musicianonamission.com/guitar-amp-simulators-vs-real/)
+"Why? Four reasons.  1) You don’t have to worry about room acoustics. 2) You don’t need a microphone. 3) You don’t have to worry about noise. 4) If time is a constraint, you have a wide range of tones available in a matter of SECONDS."
+
+Eliminating the latency problem is possible: https://youtu.be/FRrzLXuMtRo?t=294 2.16ms via quad cortex
+
+https://www.gearslutz.com/gear/scuffham-amps/s-gear
+
+best guitar amp sim plugins apparently by far are from Neural and STL
+
+From Neural "Try the fortin cali and you;ll be blown away"
+"To my ears the nembrini sounds more organic and has better low end.  The neural sounds too digitally perfect.  I use an evh phase 90 into nembrini and it sounds so good.  Glad someone else agrees"
+
+Theres a comparison of amplitube vs neural and its no contest neural
+
+
+## Investigate These Amp Sims ##
+1. https://www.musicianonamission.com/guitar-amp-simulators-vs-real/
+2. http://www.vst4free.com/index.php?plug-ins=Guitar/Amp
+3. https://bedroomproducersblog.com/2012/02/21/bpb-freeware-studio-best-free-guitar-amp-simulator-vstau-plugins/
+12. Free 1GB of [Tube and Solid State Harmonic Distortion Saturators](http://www.morevox.com/web/irs.html)  I wonder what that means??? Does that mean amp/cab combos?  Just the amp?  Would a guitar sound wonderful through these with no amp sim?  If not wonderful, would a guitar sound interesting through one of these?
+
+
+ Current Favorite Paid Plugins (Test them all with big Sur)
+1. * $299 [Bluecat Axepack](https://www.bluecataudio.com/Products/Bundle_AxePack/) this is everything: Amp Sim, FX, Pickup sim, Feedback Sim (for infinite sustain), and more!  This is one of the few plugins that can host third party plugins INSIDE this plugin.  
+1. $65 Neural DSP Soldano or Nolly or PBO Granophyre or Fortin Cali last two both have 10/10 reviews!  Maybe all 4 of them?  Only like $300 or so I think.
+4. $10/mo STL Ignite AmpHub
+6. Free [Acondigital Multiply](https://acondigital.com/products/multiply/)
+1. $29 Waves GTR3 Usually $129 [Deal at](http://EveryPlugIn.com) Waves gtr has dual amping built right in from the first screen!
+1. $6.66 [Hell Beast](https://audio-assault.com/hellbeast.php) Super cheap atm.  Randall Satan model.
+1. ------
+1. Free Neural DSP demos
+1. Free [Bluecat Amp](https://www.bluecataudio.com/Products/Product_FreeAmp/) for cleans, classic, and modern
+2. Free [STL Ignite Emissary](https://www.stltones.com/products/stl-ignite-emissary-plug-in-bundle) Best free metal plugin.
+1. Free [Revalver](https://www.audiomediaresearch.com/#Rev-Download) Interesting.  Affiliated with Peavey it comes with the ValveKing amp model.  Requires a USB Dongle to be locked to.  Can be transferred for lost or broken devices by contacting support.   Audio Cloning Technology,  New Amps are <$15 and there are tons available.  Its got a Pickup sim and you can get other pickups/Guitars for $5.  In addition to models its also got amp clones using their amp cloning tech. They are component modeled models. FX are 5-10 each.  Cabs are $4 each.  The Producer Pack is a bundle for $99 and has lots of included items.  One of the only plugins that allows the use of third party plugins IN this plugin.  Plugin inception.
+1. Free [Guitar Rig by Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-player/) basically one free amp.
+1. ------
+1. $129 [Scuffham S-Gear](https://www.scuffhamamps.com/product/s-gear) prior to NeuralDSP this one [sounded best](https://www.soundonsound.com/forum/viewtopic.php?f=22&t=60428).  Great community and support.  
+4. $199 BlueCat Axiom (multiple lines mixing, amp sim, pickup sim, two amp sim channels that can be mixed, 44fx in 32 slots, )
+1. $10/mo Ignite AmpHub
+1. $199 [Guitar Rig by Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-pro/) not officially licensed but lots of cool amps are included
+1. $35 [Amplitube one amp model](https://www.ikmultimedia.com/products/amplitube5cs/)
+1. $399 [Amplitube Max with AxeI/O Bundle](https://www.ikmultimedia.com/products/axeio/?pkey=axe-io-amplitube-5-max-bundle#at5bundle)
+1. $399 [Amplitube Max standalone](https://www.ikmultimedia.com/products/amplitube5/?pkey=amplitube-5-max)
+1. ---------- Free Demos
+1. $99 Bluecat Destructor irritationware
+1. $90 [Mercurial Reaxis Suite](https://mercuriall.com/cms/details_reaxis) Free irritationware demo to try it out
+1. $19 [Kuasa Vermillion](https://www.kuassa.com/products/amplifikation-vermilion/) Great fender tones irritationware
+1. $25 [Kuasa Caliburn](https://www.kuassa.com/products/amplifikation-caliburn/) Marshall Tones irritationware
+1. Free [Amplitube Custom Shop](https://www.ikmultimedia.com/products/amplitube5cs/) (Amplitube has free 72h gear demos every six weeks per gear model! Regular sales amps and collections, sometimes free, $35 per amp otherwise.  $2-400
+1. $40 Mercuriall SS-11X irritationware [A demo of how good the mercuriall can sound](https://www.youtube.com/watch?v=IpMqID2TzmE)
+1. $199 [Guitar Rig by Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-pro/) 30min/session, no save or total recall functions (probably you have to setup your presets every time?) not officially licensed but lots of cool amps are included
+
+
+ Paid Plugins (Test them all with big Sur)
+1. ---------- Nope (for me)
+1. $60 [Audio Assault Reamp studio](https://audio-assault.com/plugins.php) All of their gear for $60
+1. $99 Antelope Audio (Run on Synergy Core INterface)
+1. $199 Universal Audio Tweed - these are really great but kind of expensive.  I dont know how well they match against the neural dsp offerings but they are pricced to compete with them ... acutally overpriced in comparison.  I think JayLeonardJ actually had one of their interfaces which ran the DSP for these amp models ON the device (but you had to have bought them already or something)
+1. Free [Studio Devil Valve Custom](https://www.studiodevil.com/products/british_valve_custom/)  Problem: Runnnig the standalone on big sur had a No sign on the icon so didnt run at all.  The plugin seemed to run but required me to 'lower the security settings for garageband' through a popup.  I did and it runs but that leaves a bad taste in my mouth.  It runs with lowered security settings and I dont even know what the security settinig might have been that it changed (I checked secuirty and privacy panel and found nothing problematic or even that might have worked) and it sounds good although its completely and super bare bones.  
+1. $149 [StudioDevil Amp Modeler pro](https://www.studiodevil.com/products/amp_modeler_pro/) - Mac Problem see valve custom.  I just dont trust it on mac.   tube amp emulation no branded models or even fake ones.  Demos sound fantastic.  WHOA This is the Amplifire but in software!!!  how cool!  I wouldnt even havve to buy one of those then.  Then again those are self contained and I can re-sell them so ... hmm kind of old?  Free version has problems with big sur.  Technically the free one runs in garageband tho
+4. $65 [Marshall Valvestate](https://honestampsimreviews.com/2020/09/29/audiority-solidus-vs8100/) 10/10! wow!
+1. Free Amplitube. Free has 5 amps and 5 cabs and a few good pedals free forever.  I got mesa for free in April 2021.  
+1. $199 Amplitube.  Other amps are $30 or so pedals are $10.
+1. $29 [Overloud Amp Pack](https://overloud.com/rig-libraries) one of these rig libraries comes with an amp or a few dozen for $19-49
+1. $89 [TH-U Metal or Rock](https://overloud.com/products/th-u-metal) 
+2. $299 [Overloud THU](https://overloud.com/products/th-u-full) DEAL: Some of this is free with cakewalk on windows.  Multiple amps I think. tons of options) not much community around it 
+3. $399 Helix native ($99 if you have a new and registered hxstomp discounts for other products.  registers to hardware )
+1. $15-25 [Vadim Taranov](http://vtaramps.blogspot.com/2020/12/slowrunner.html) has a bunch of pretty inexpensive amp sims. THey are PC only
+2. $99 Bias FX 2 (Also $199 for IR Loader and more amps and guitars and $299 for more amps and guitars ) Guitar Match probably a pickup swapper, looper, presets to dl 30amps, no custom IRs in the base version.  [Not the best](https://www.soundonsound.com/forum/viewtopic.php?f=22&t=60428)  Sale price Apr 18 and before was 40% off
+1. ----------
+1. $6.66 [Hell Beast](https://audio-assault.com/hellbeast.php) Super cheap atm.  Randall Satan model.
+1. $20 [Audio Assault AHM 5050](https://audio-assault.com/ahm5050.php) they have sales pretty often
+1. Free [Black Rooster Audio Cypress](https://blackroosteraudio.com/en/products/cypress_tt-15)
+1. Free [Modern Deluxe](https://www.lostin70s.com/plugins/ModernDeluxe) Free from the site with tricky weird download links or $1.99 on mac app store not great revviews though.  Apparently mac app store and ios crossbuy.  Tone Deluxe doesnt work on big sur apr 17 2021 but does work as an au in garageband!
+1. Free [Tone Deluxe V2](https://www.youtube.com/watch?v=jikkZXMXoP8) evevn great metal sounds.  Its ok on its own probably yneeds a boost to sound good.  Possibly would be a good pedal platform?
+1. Free [Kuassa Amplifikation Lite](https://www.kuassa.com/products/amplifikation-lite/)
+6. Free [Roots](https://ml-sound-lab.com/products/amped-roots) amp sim
+1. Free [VTar](http://vtaramps.blogspot.com/2021/02/proto-four.html) Great windows only VSTs
+4. Free [Auditory L12x](https://honestampsimreviews.com/2020/03/09/audiority-l12x/) is a great little Marshall sim
+1. Free [Chorus, Flanger, EQ, Spectrum Analyzer, Amp Modeler, Phaser](https://www.bluecataudio.com/Products/Category_0_Freeware/)
+1. $79 [Acoufiend](https://www.bluecataudio.com/Products/Product_AcouFiend/) for a fernandes sustainer in an effect!  like standing by the amp!
+3. Free Ignite NadIR IR Loader (comes with emmissary) only 2 IRs at a time
+1. Free ML Labs Mikko Cab sim which can make your own IRs
+1. $30 * Ignite Libra IR Response Convolver (8 cabs mixed)
+1. $20 3Sigma Impulsive
+1. $7 Audio Assault IR Loader
+1. Free Lancaster Audio Pulse (Related to an old version of NadIR) super simple IR Loader.  Have to fill out a form.
+3. Free Wall Of Sound IR Plugin (two cabs free forever, more for $10 or bundled)
+1. $60 Redwirez mixIR loader - amazing Second onlyy to Libra.  Comes with some extras like giginator to make your bedroom level sound like a huge gig.  3D features
+4. Some [Free plugins and cab sim](https://plugins4free.com/dev/258/)
+5. Free amazing [Heavy Metal Tone](https://www.youtube.com/watch?v=t8EDqv3BvV0)
+
+Budget Plugin Rig
+1. ----------
+1. Free Bluecat Amp
+2. Free STL Ignite Emmissary
+6. Free Roots Amp Sim
+4. Free Auditory L12x
+5. Free Amp Sims by [LePou](https://plugins4free.com/dev/258/) some have bugs but some are great
+1. Free Morevox Harmonic Saturation Impulse Responses (not just the amps)
+1. Free Amplitube (free amps sometimes, lots of sales, new amps for $35 at most)
+1. ----------
+1. Free Bluecat Recording Tools Freeware 
+3. Free Ignite NadIR IR Loader (comes with emmissary)
+3. $10 Wall Of Sound IR Plugin (two cabs free forever, more for $10 or bundled)
+1. $30 Ignite Libra IR Response Convolver (8 cabs mixed)
+1. Free ML Labs Mikko Cab sim which can make your own IRs
+1. ----------
+1. $20 for any of the awesome Audio Assault Amps
+1. $20-30 one or two of the Kuassa Amps
+1. $30-50 for one of the overloud amps
+5. Free ampLib.net demo dont know its limitations.  $50 for full version though with all sims and pedals and pickup switcher
+4. $10/mo STL Ignite AmpHub
+2. $99 Bias FX 2 (Also $199 for IR Loader and more amps and guitars and $299 for more amps and guitars ) Guitar Match probably a pickup swapper, looper, presets to dl 30amps, no custom IRs in the base version
+1. ----------
 
 
 
 
+
+ IRs
+ [Cabs vs Impulse Responses](https://www.youtube.com/watch?v=ouHw0vKnYGA) can they really capture a cab?
+1. [Top Freeware IRs](https://honestampsimreviews.com/top-freeware-plugins/)
+1. see pete thorns celestion video and also the IRs section in the amps.md
+1. One of the best guitar youtubers Leon Todd has a pack of free IRs
+3. Free Wall Of Sound IR Plugin (two cabs free forever, more for $10 or bundled)
+4. Ownhammer (used to have a free pack but they removed it - I suspect because they got enough notoriety from it already)  "Old Free Ownhammer IRs?"
+5. Celestion
+6. [Gods Cab](https://wilkinsonaudio.com/products/gods-cab) "If you go the free amp sim/ir route like emissary, look for the IR pack called "God's Cab" it's pretty great." easyy to 'buy' for free with apple pay
+7. Google for the 7 deadly sins IR pack but I dont know what this is
+8. Yamaha's Amp controller software comes with some IRs
+9. [Soundwoofer Library](https://soundwoofer.com/Library/Index) access to the free library of 350+ is from their [main page](https://soundwoofer.com/) just by signing up.  Uploading one of your own gets you 1100. 
+10. Also some [mixpulses](https://soundwoofer.com/ImpulseMix/Index) which combine several mic cab combos into one
+11. Paid IRs from 3 Sigma Audio $10 each
+12. Free 1GB of [Tube and Solid State Harmonic Distortion Saturators](http://www.morevox.com/web/irs.html)  I wonder what that means??? Does that mean amp/cab combos?  Just the amp?  Would a guitar sound wonderful through these with no amp sim?  If not wonderful, would a guitar sound interesting through one of these?
+14. Redwirez (very easy email download)
+15. Nice IRs from Waves (including some with the $35 PRS Supermodels amp sim)
+16. [Barefoot IR Pack](https://www.youtube.com/watch?v=6bTkzTs74VE)
+"One major advantage of paid-IRs came up today. I noticed that the Soundwoofer Engl IR had IRs that were out of phase. I didn't even notice at first, but it became obvious when I panned 2 tracks to the same side. I know 3 Sigma Audio said they put a lot of effort into making sure that their IRs are phase aligned, so I decided to try out their Orange 4x12 IRs. I like them, but I feel like I need to get to know its personality a bit. I need more time with them to come to conclusion.  The odd thing about 3 Sigma audio IRs is that they don't use the usual format of doing 1 mic per wav file, with 1 position. They do have different positions, but their IRs are a blend of mics. I'm not quite sure what to thing of that. I can certainly use IRs well, but man, do I ever feel lost when it comes to try to compare these things."
+17. "York audio has some good ones. They have a $1 trial pack. Some people swear by Hislop. Then of course there’s Valhallir, Ownhammer, and Celestion. Those are a little more spendy"
+18. [Overdriven.fr free set](https://overdriven.fr/overdriven/index.php/irdownloads/)  several clicks required per file and you have to download them one by one.  5min tops.  revviews are positive
+19. [Some great ones](https://audio-assault.com/plugins.php)
 
 
 
@@ -1529,7 +1690,7 @@ If you power up a traditional tube amp, and pull out the speaker cable, you can 
 18. Mesa Boogie Cabclone $300 $150@GC(Not Reactive, Cab Sim, Attenuator, Silent, Headphone out)
 
 ### Reactive Load Attenuators ###
-1. $899 FRYETTE PS-100 POWER STATION DUAL-MODE AMP (Tubes in this amp, Zero latency, One of the best)
+1. $899 FRYETTE PS-100 POWER STATION DUAL-MODE AMP (Tubes in this amp, Zero latency, One of the best, meant to be super flexible and to be able to drive its own cab)
 1. ----------
 39. $155 Julius Music Box (Reactive Load Box, 8Ohm, 100W)
 38. $200 Julius Music Box (Reactive Load Box, 8Ohm, 200W)
@@ -1545,6 +1706,7 @@ If you power up a traditional tube amp, and pull out the speaker cable, you can 
 
 ## Reactive Load Attenuators + Cab Sims ##  
 1. $600 Suhr Reactive Load IR $599 (Reactive Load, Headphone Out, Aux In, USB, IR, IR out and Dry out, 3rd party IR via USB, silent)
+1. $699 Fryette Power Load IR (4,8,16ohm, 200W, ANY amp, 16 custom IRs, optional Analog cab for zero latency and improved dynamic range, headphone out with its OWN stereo fx loop and aux in for jamming , xlr and 1/4 out direct or cab simulated, safe to run 100W amp into it without providing it power)
 1. $1300 Universal Audio OX (the gold standard)
 1. $1299 Boss Tube Amp Expander (also a recording interface, built in boss effects, footswitch)
 1. ----------
@@ -2395,7 +2557,8 @@ Gear Details:
 	- Even the super high gain overdrives roll off the volume and theyy clean up real nice and authentic.  
 	- WOW as a plugin I’m reallyy impressed!  it innstalled right into garageband all I had to do was select it on the track holy crap!  It doesnt have my presets from the standalone but thats ok I can either transfer them or re-make them
 	- Amplitube with the green USB guitar interface is ... well  ... mostly problematic but with the right settings is usable.  There is a constnat noise even when the guitar is off.  This validates my findings from the last month: this device is mega noisy and not really usable for plugins.  however it turns out if you turn the input gaini ALL th eway down in amplitube the noise is APPARENTLY less noticeable and you can get decent guitar tones out of it somehow.  if you turn it up you cant even get those tones.  I might even be deceivving myself about the noise but the tones are in fact decent and woudl be usable for some thiinigs.  
-	- update: Well I love it actually but all of a sudden on apr 21 it doesnt start anymore :( idk why.  Restarting.  Ok now it works.  Maybe it was the multiple displays I had runningi?
+	- update: Well I love it actually but all of a sudden on apr 21 it doesnt start anymore :( idk why.  Restarting.  Ok now it works.  Maybe it was the multiple displays I had runningi?  Yeah if you drag it to the second display it clears right up!  The plugiin version doesnt seem to work at all with two monitors until you switcch back to 1.  theres probably anothe rway to refresh it though.  Also its not actualllyy loading and just not displaying.
+	
 - ===== Fortin Cali Suite
 	- Well as soon as I changed input to Boss GT001 it crashed which is not a good sign.
 	- The license management was pretty annoying and kind of scares me that it will decide in a few months after some system update ... yeah this isn’t active for you anymore.  We are at the mercy of at least 5 registration systems that some or all have to communicate properly: ilok website, neural website, ilok manager on mac, neural software, some kind of license manager between them that was auto installed
@@ -2482,9 +2645,13 @@ Gear Details:
 	- Liquid shred solves the problem of having liquid gain!  check!
 	- Sounds really cool just going through the presets
 	- Air Raid goes really heavy classic hard rock.
-		
-
-
+- ===== Green USB Cable
+	- Cons: The noise is/can be terrible.  With a noise gate on it is ok.  This is not the kind of thing that anyone would choose to use professionally.  high gain without a good noise gate is completely unusable.    Cleans without a noise gate are usable.  Crunch can be usable.  The light should stop blinking when it is working or light up when there is a signal.  not sturdy.  Plugging direct into a computer the weight would torque the port pretty hard.  sort of needs a little extension of some kind for that reason.
+	- Pros: its only fifteen freaking dollars.  There is no extra cable baggage.  It doesnt take up space.  it doesn’t make any cable spaghetti.  It feels nice.  Convenient for travel.  
+	- Summary: Its not even the kind of thing that a hobbyist will choose to use long term.  I venture to say there is no one playing guitar for fun who will buy this and be satisfied with it long term such that they never choose to save up the roughly $100 to someday get something much much better, but ultimately it is fine to use and play with plugins, and get sounds easily quickly and without any mess around your laptop and get some actually good sounds and find the areas its weak and use those to learn what matters to you and help you eventually upgrade to something else but for now start effectivvely today making recording writing jamming with real fun music!  
+- ===== Groundinig
+	- touch the grounding cable If I run a groundinig cable to my hand and the guitar ccable by the input jack tons of the buzzing goes away.  A little of the buzzing goes away when i just touch my hand even if I’m not touching the guitar metal.  i put the cable on my ankle and then touch the guiitar and its super quiet.  Also touching the computer once i’m grounded makes the guitar quieter even if i’m not touching the guitar
+	touching the computre even when I’m not grounded makes the guitar quieter too in the same wayy actually
 
 
 

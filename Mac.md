@@ -91,7 +91,7 @@ The Audio Unit “Archetype A” could not be loaded for your project, and may n
 ``
 BUT It only yworks as long as gatekeeper is still disabled
 ``sudo spctl --master-disable``
-``sudo spctl --master-enable```
+``sudo spctl --master-enable``
 
 
 # External Keyboard
