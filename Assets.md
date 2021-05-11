@@ -1141,6 +1141,85 @@ Uween imported into 2019.4.20f1 perfectly with no errors.  Plus its only 154k
 
 
   
+# Anything.World #
+- I last downloaded this in november so I just logged into my account on the site and downloaded the latest 1.2.0.1 package which was real easy to do.
+- It imported a whole project and there were 27 errors.  
+	- im in 2020.1.11f.  I'm going to try it in 2019
+	- in 2019 there are only 9 errors
+	- Ahh there are a few things you have to do first.  I just read the [quickstart guide](https://anything.world/quick-start).  lets see if I do them second if there are still errors
+	- Yup its just Universal RP and Editor Coroutines and the errors are gone.
+- Interesting in the inspector in the anything settings it says version 2.0.0.2 but the download page said 1.2.0.1.  I suspect the inspector to be more accurate.  I just had to add my email and my api key from the website.  It was very simple and took no time at all.
+- Holy shit I just made a whole little jungle habitat with a bunch of creatures walking around in it!  I can't believe how easy that was!  It was approximately 3 clicks.    
+- Ok update: I dont like it.  The clumsiness is through the roof, the google poly assets are going away soon anyway, and the environments are NOT randomly generated (although they appear to be)
+- in the unity tmp font asset creator you can use custom range and type 0-1000 or 1000-2000.  
+- I used asset resolutioin 512
+- YES That worked.
+	- Load the font in font forge.
+	- In unity in the TMP Font Asset creator select custom range and type 0-10000
+	- hit generate and wait 60s or so
+	- save it as fontname0-10000 
+	- use that SDF in a tmp with the unicode script below that uses systemconverttochar with the int of the code
+	- Then to get one of the graphics that you see in font forge type in the unicode code that is in the top left (in decimal not hex)
+	- Repeat until you get to the highest decimal value in the font forge	
+- OR if you dont care about letters matchiing you can in font forge go to compact and then re-encode glyph order.  it seems to collaps them to just the used ones but then they dont match the characters (maybe)
+	- I was able to copy paste a picture (glyph?) from thebottom to the top and then swap its uniicode with ! so when II type ! it puts up a running man.
+	- I dont know about the compact glyph order.  that doesnt seem to be working
+
+
+# Using Unicode Fonts #
+Use fontforge to get the unicode value in int
+then set the unicode value with something like
+
+- Note when making the SDF it lists all of the hex and decimal codes for all of the characters it makes.
+- Note when making the SDF you have to tell it the list of characters you want to use in the SDF.  This I haven't figured out
+- In FontForge you can do Encoding Compact and then you can do Save Namelist of Font. Its a text file with a bunch of hex but those hex dont map :(
+
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using NaughtyAttributes;
+using TMPro;
+
+public class SetTextFromUnicodeCode : MonoBehaviour
+{
+    public int UniCodeToSet;
+   
+    [Button]
+    public void SetText2()
+    {
+        char fullUnicodeCode = System.Convert.ToChar(UniCodeToSet);
+        GetComponent<TextMeshPro>().text = ""+fullUnicodeCode;
+    }
+
+}
+```
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -1512,7 +1591,7 @@ TerraWorld - Automated Level Designer
 Added UWeen(MIT) and NaughtyAttributes(MIT) and ScriptInspector3(UAS) and UVFreeShader(UAS)
 Details of the first three are above
 UVFreeShader is taking a freaking eternity to import from the asset store.  ugh.  3 minutes maybe?  4?  probably 5 min now I'm trimming it down.  1. I'm getting a texture from cc0textures.com and deleting all of the existing ones from the uvfree download.  2. I'm deleting most of the shaders that came with it so they never have to all compile again.  Interesting it has inconsistent line endings warning.   I deleted everything except 2 shaders and the editor folder: pbr standard and metalliic top bottom.  Note: I deleted a lot including non batching variants and terrain variants.  Added Metal0381k from cc0textures. 
-Now I'm installing "savegamefree" from github..  I was about to install one of the several save game systems I have bought on uas but this is MIT licensed.  To be fair one of those is too but I have a better feeling about tthis one.  There was also a really good one on there called advanced save that I could use but this looks best.  There are two warnings: One about unity 2019 not supporting samsungweb player, and the other about unity 2017.2 and beyond having a slightly different command for web requests.  I dont think I'll be able to make and test fixes for these right now, I wasn't planning on testing that web requestt at all.  Its just 566k  I fixed the warnings and submitted pull requests for both.
+Now I'm installing "savegamefree" from github..  I was about to install one of the several save game systems I have bought on uas but this is MIT licensed.  To be fair one of those is too but I have a better feeling about tthis one.  There was also a really good one on there called advanced save that I could use but this looks best.  There are two warnings: One about unity 2019 not supporting samsungweb player, and the other about unity 2017.2 and beyond having a slightly different command for web requests.  I dont think I'll be able to make and test fixes for these right now, I wasn't planning on testing that web request at all.  Its just 566k  I fixed the warnings and submitted pull requests for both.
 
 Now that im really into it Naughty attributes has a constant runtime error. `The target object is null. Check for missing scripts.`  The thing is I haven't used it at all yet its just sitting there. Maybe its installed wrong?
 
@@ -1561,14 +1640,14 @@ Now that im really into it Naughty attributes has a constant runtime error. `The
 
 -->
 
- 1. PlatformerPro2, CorgiEngine, DarkTreeFPSUAS, TopDownEngine, CharacterMovementFundamentalsUAS
+ 1. PlatformerPro2, CorgiEngine, DarkTreeFPSUAS, TopDownEngine, 
  2. HotReload: Bolt, LogicForge, FlowCanvasHB
  3. ScriptInspector3, UVFreeShader, 
  4. Fracturing&Destruction, ObjectExploder
- 5. Clayxels, ProBuilder, MeshCombineStudio2HB, PaintIn3D,  2Dto3DVoxelizer
- 6. Polaris, Terra, Ferr2DTerrain, CurvedWorld2020, GaiaHB
+ 5. Clayxels, ProBuilder, MeshCombineStudio2HB, PaintIn3D,  2Dto3DVoxelizer, PolyFew
+ 6. Polaris, Terra, Ferr2DTerrain, CurvedWorld2020, GaiaHB, Anything.World
  7. Ferr2DTerrain, 
- 8. TextAnimator, Modular3DTextUAS
+ 8. TextAnimator, Modular3DTextUAS, SpeechEngine (AmigaSpeech), 
  9. LowPolyWindUAS, ObiRope, Jiggle, DynamicBone, TailAnimator
  10. AllIn1SpriteShader, FacetedTerrainShaderBM
  11. PolygonPacksHB, 
@@ -1580,23 +1659,33 @@ Now that im really into it Naughty attributes has a constant runtime error. `The
   - Have a place where you can filter each string as it is read in from the file
 - CSV Writer
   - Should accept a 2d array of strings
-- Anything.World
-- Sounds that I can re-use over and over (just super simple where this is the only creative part) 
-  - a pinball or megaball like game where you just shoot the ball once and it bumps things and makes sounds and you try to get a high score
-- Explosion VFX
-  - With sounds
-  - Hits and things too
-  - This could be that pinball game v2
 - Make a modular title screen
   - That I can drag in and just call title screen show and then it takes care of getting rid of itself
-- High Score List
+- High score saving system which will save and display the high score list for that level
+	- only needs to be linked in with a current score scriptable object 
+	- level id string based on scene name 
+		- advanced mode makes it changeable as a string
+		- and a button to allow it to copy the scores in player prefs 
+	- just needs to be told when the level is over
+		- Scriptable Object that this is observing?  Event this signs up for?
+		- Really only needs to know the level name at that moment	
 - Dialogue Popups for mid or level entrance cutscenes
 - Text Scrolling Pages (like in Llamatron)
+- -----------------
+- Anything.World
 - Level Generator
   - Super simple randomized modular mirror level generator +/- 6 blocks from the starting point of the screen but not so its closed off in the middle obviously
   - With a randomized list of materials as an option
   - and with a set of prefabs to pick from
-
+- Sounds that I can re-use over and over (just super simple where this is the only creative part) 
+- Explosion VFX
+  - With sounds
+  - Hits and things too
+  - This could be that pinball game v2
+- Spaceship sprites or models
+	- super easy to re-use
+	- drag and drop with different behaviors easily configurable
+	
 
 
 Apr 16 2021
@@ -1608,7 +1697,7 @@ Excited About:
 - Levels: Clayxels, 2Dto3DConverterVoxelizer, 
 - Level Generators: DungeonArchitect, DonutStudiosProcGen, MapGenUAS, SciFiTopDownGameTemplate
 - Must Try: Anything.World
-- Level Tools: EasySnap, RandomDuplicate, 
+- Manual Level Layouts: SplineMeshFree, EasySnap, RandomDuplicate, 
 - Level Shaders: LookThroughObjects, LowPolyWindUAS, FacetedTerrainShaderBM (aka cjurjiuFlatShaderGH), CurvedWorld, UnityLibraryBM(SeeThroughWalls)
 - Level FX: ObjectExploder, CurvedWorld, Fracturing&Destruction, ShaderProjectBM(Waves, CurvedWorld, Toon, Scale, Black&White, StainedGlass, Pixelated), TriplanarUVFreeBM
 - Inspector:
@@ -1749,8 +1838,21 @@ art
     or Llamatron                                                                      
 --> 
 
+- TopDown: TopDownEngine, or SciFiTopDownGameTemplate
 
+- AI: DonutStudiosAIandProceduralGeneration, SciFiTopDownGameTemplate, TopDownEngine, DarkTreeFPSUAS
 
+- Models or Level Parts: KenShape($3Itch),  AssetForge, Clayxels,  PolyFew, JustDrawThemAsPicturesAndImportThemToBlender,
+
+- Level Generators: DungeonArchitect, DonutStudiosProcGen, MapGenUAS, SciFiTopDownGameTemplate, Mono WaveFunctionCollapse, MeshCombineStudio2HB, 
+
+- SpeechEngine (AmigaSpeech)
+
+- InGameConfig: InGameDebugConsole, DataboxHB (Save and Configure CSVs and GoogleSheets) or ComponentSaveSystem
+
+- QOL: UWeen(MIT) and NaughtyAttributes(MIT) and ScriptInspector3(UAS) and UVFreeShader(UAS) (Stripped Down version)
+
+- Terrain: Polaris, Terra, Ferr2DTerrain, CurvedWorld2020, GaiaHB
 
 <!--
   /$$$$$$                                                       
@@ -1976,6 +2078,6 @@ Also Clayxels
 3. make a totally transparent starting point that is super lightweight and has zero side effects or baggage and document it in its folder structure
 
 
-
+https://lettier.github.io/3d-game-shaders-for-beginners/index.html
 
 

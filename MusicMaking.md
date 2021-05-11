@@ -291,10 +291,11 @@ Pedal Plugins
 1. [Ignite TPA1](https://honestampsimreviews.com/2019/07/28/ignite-amps-tpa1/) is the free power amp sim (probably not needed so much anymore)
 1. Free [TSE Rat Clone](https://www.tseaudio.com/software/tseR47) 
 1. Free [TSE Tubescreamer 808 Clone](https://www.tseaudio.com/software/tse808) runs on mac ... doesnt seem to color the sound much though.  I could be wrong I was runnign it into the fortin cali
-
-
-
-
+1. [Fabfilter] makes cool eq and analyzers and had apple m1 support in December
+1. Heres like [30 great free plugins](https://www.youtube.com/watch?v=0rUJbJ17dCI) worth checking out
+1. [$58 mFreeformEqualizer](https://www.youtube.com/watch?v=Tsx8j5ZZP7g) lets you match eq and then make an IR to make one thing sound like another.  It will even export an IR for you Apple m1 support
+1. [This might be a free EQ matcher with the GR Delta feature](https://www.tokyodawn.net/tdr-nova/) great spectrum analyzer nonetheless.  mFreeform is onlyy y$58 though and does it so clearly and so well.
+1. [Great free simple plugins here](https://www.meldaproduction.com/effects/free) a midi cc generator and a stereo generator from mono and an autotune or something
 
 
 

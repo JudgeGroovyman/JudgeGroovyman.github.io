@@ -62,7 +62,22 @@ Some possible games
 3. Bionic Commando
 4. Space Harrier
 
+ 
+ ## Classic Games that I might like to play ##
+ I would probably enjoy playing Superfrog again and maybe exploring it and beating it many times.  Its very fun.  Same with parts of HOI and Zool and Zool 2.
+ 
+ Hybris and Banshee are amazing shmups, also Battle Squadron (Hybris' sequel, a bit faster and a bit more fun), also SWIV and Silkworm
+ 
+ Supercars 2 looks like something I would really enjoy sinking some time into.  Same with Cannon Fodder, because I always wanted to play and beat this game.  Same with Gauntlet on C64 which I never beat for real (update: DONE).  
+ 
+ I wonder if I could beat Lotus Turbo Challenge 2?  I wonder if I could finally beat Lotus 3 actually?  I wonder if I could beat Jaguar XJ220 also?  Probably yes to all three!  I wonder if I could beat some sensi?  I wonder if I could beat some Kick Off 2 Season? or an entire season in GOAL???  I might be able to beat Moonstone also!  It didn't take too long for Chippants to beat it.  I wonder if I could beat every level of Lemmings now?  I wonder if I could beat that Monkey Island game (Update: DONE with Dad!) and Zak McKraken with walkthroughs???  Perhaps dad and me could beat some text adventures like Zork or the Pawn or Enchanter?  I wonder if i could beat Cannon fodder or Super Skidmarks?  Perhaps Killing Game Show?  Maybe even Assassin Special Edition?
+ 
+ Ruff N Tumble looks like a great run and gun platformer.  I might enjoy beating that famous run and gun shooter like metroid: Turrican 2.  Also I've heard switchblade is awesome, and I kind of always wanted to play it.  Leander is something I always wanted to beat and Wolfchild too.  
 
+ And I love the feeling I get thinking about games like Starglider 2, Midwinter, and Thunderstrike on Amiga, Doom on the Accounting computers in high school, the IBM PCs with the clicky keyboards there for writing class, Sensible Soccer, GOAL, Pinball Fantasies, Megaball, etc.
+
+ I like the idea of playing these save scumming every few seconds, and then playing again save scumming less and retrying more and playing again save scumming less and retrying more and so on
+ 
 
 # VR Wave Shooters #
 1. Serious Sam the Last Hope
@@ -2026,7 +2041,7 @@ Gal Gun 2 on Oculus
 Subnautica VR
 Sensible Soccer Amiga
 Alien Breed 3D HB
-Rock N Roll Racing Retro Achivements
+Rock N Roll Racing Retro Achievements
 
 
 
@@ -2649,54 +2664,83 @@ Apr 25 2021
 
 Second Tier for ANY Reason:
 	- Minecraft, Terraria
-	- Trine 1,2,3, Monster Hunter World, Lara Croft Temple, Rayman
-- Chill: Anno 2070 or 1404, Transport Fever ($30), 
-- Retro Practice: Cannon Fodder (two months), Chaos Engine PC (make maps)
-1. BallisticNG
-1. Games I could stream: Beat Saber, Compound (while watching TV), SkyrimVR, No Mans Sky VR, (Creative Mode building Weird Structures as art) 
-1. Wii: Jurassic: The Hunted, Call of Duty Black Ops (or one of the others for Wii)
-1. Cristi: Windlands 2, Serious Sam 4, Factorio, Haven, Dungeon Defenders, Parkitect, Serious Sam VR, 
-1. , Giants Citizen Kabuto (cheats), MDK2 (cheats), No One Lives Forever (cheats)
-1. Warcraft 3
-1. Amiga Breathless, Amiga Alien Breed 3D, 
-1. Project Osiris complete in VR, 
-1. For the King (Civilization + Dragon Warrior)
-1. Play Again Retro: Resident Evil Darkside Chronicles, , Donkey Kong Country Returns (High Res & Stereo)
-1. Doom 2016 Switch to easy anytime, 
-1. Play Again: Resident Evil 4 (High Resolution mods), Lord of the Rings: War in the North (Play again),  Hellblade VR, XMorph Defense DLC, Titanfall, The Signal from Tolva,  Grow Up (Stereo Vorp X), Destiny 2, Hatchick,  Alien Breed Impact Trilogy,  Bad Ass Babes Sexy (PC Replay),
+	- Trine 1,2,3, Monster Hunter World, Lara Croft Temple, Rayman - Chill: Anno 2070 or 1404, Transport Fever ($30),  - Retro Practice: Cannon Fodder (two months), Chaos Engine PC (make maps) 1. BallisticNG 1. Games I could stream: Beat Saber, Compound (while watching TV),  1. Wii: Jurassic: The Hunted, Call of Duty Black Ops (or one of the others for Wii)1. Cristi: Windlands 2, Serious Sam 4, Factorio, Haven, Dungeon Defenders, Parkitect, Serious Sam VR, 1. , 1. Amiga Breathless, Amiga Alien Breed 3D, 1. Project Osiris complete in VR, 1. For the King (Civilization + Dragon Warrior) 1. Play Again Retro: Resident Evil Darkside Chronicles, , Donkey Kong Country Returns (High Res & Stereo) 1. Doom 2016 Switch to easy anytime,  1. Play Again: Resident Evil 4 (replay with High Resolution mods), Lord of the Rings: War in the North (Play again),  Hellblade VR, XMorph Defense DLC, Titanfall, The Signal from Tolva,  Grow Up (Stereo Vorp X), Destiny 2,  Alien Breed Impact Trilogy,  Bad Ass Babes Sexy (PC Replay), Robo Recall (Quest VR Replay), Brothers - A tale of Two Sons, Half Life 1 and 2 in VR, Quake Champpions, Quake live, SubnauticaVR, Too Long but would be really great Psychonauts15-20h, Middle Earth: Shadow of War(30h), Alien Isolation VR Replay (22h) + DLC, - Bloodstained Ritual of the Night Replay (Get OP and have more fun), Warcraft 3 35h, Clunky or possibly annoying or messy: Heavy Metal FAKK 2, Giants Citizen Kabuto (cheats), MDK2 (cheats), No One Lives Forever (cheats), Red Faction 
 
 
-
--------------------- Experiences
-	1. Middle Earth: Shadow of War, Psychonauts, The Two Towers Gamecube (Hires, 3DSBS), Klonoa (VR!)
-	1. Serious Sam 2,3VR (while watching TV), Deathtrap Tower Defense
-	1. Robo Recall (VR Replay),
-	- Marshall: Hypercharge Unboxed, Dead Space Extraction
-	1. Deep Space Wife Sexy Sequel, Gal Gun 2, 
-	1. Beyond Good and Evil (3DSBS Gamecube or VorpX), The Hobbit Gamecube (Hires 3DSBS), Brothers - A tale of Two Sons, 
-	1. Heavy Metal FAKK 2000,
-	1. No One Lives Forever 2 VR, Quake 1 in VR
-	1. 2D: SeriousSamDDXXL, SeriousSamTormental, SeriousSamsBogusDetour, TeslaVsLovecraft, 
-	1. Lone Echo, Half Life Alyx, Vader Immortal, Serious Sam 4, Terminator 2019, 
-	1. Doom VFR (switch to easy and then back), Doom Eternal Switch to Easy Mode anytime, 
-	1. Replay Bloody Zombies VR, Bloodstained Curse of the Moon, 
--------------------- Finish Experience Pretty Quick
-	1. Blasters of the Universe,  Duo VR
-	1. Age of Barbarian Sexy
-	1. Rez (VR Replay), Viral EX (VR Replay), 
--------------------- Practices
-	1. Compound (while watching TV), In Death
+I would like to have my desk clean to play any of these
+-------------------- Peak Experiences with No Baggage
+	- Length >10h
+	1. No One Lives Forever 2 VR 15-20h, 
+	1. Deathtrap Tower Defense 12h,  
+	1. Half Life Alyx 15h,
+	1. Serious Sam 4 15h, 
+	1. Terminator Resistance 2019 12h, 
+	1. Serious Sam 2(15h) (while watching TV),
+	1. Serious Sam 3VR(15h) (while watching TV),
+	1. Doom Eternal (20h) (Switch to Easy Mode anytime),
+	1. Before We Leave 15h,
+	- Length <10h
+	1. Quake 1 in VR 8h, 
+	1. Classic  OxenFreeHB 6h, 
+	1. Lone Echo 8h,  
+	1. Doom VFR 5h (switch to easy and then back),
+	1. Gal Gun 2 Sexy 8h,
+	1. Marshall: Hypercharge Unboxed
+	1. Marshall: Dead Space Extraction
+	- Length Under 5h
+	1. SeriousSamDDXXL 5h, 
+	1. SeriousSamTormental 5h , 
+	1. SeriousSamsBogusDetour9h, 
+	1. TeslaVsLovecraft5h, 
+	1. Bloody Zombies Replay VR 4h, 
+	1. Bloodstained Curse of the Moon Replay 4h, 
+	1. Deep Space Wife Sexy Sequel4h, 
+	1. SuperFrogHD HB6h, 
+	1. Vader Immortal 1h, 	
+-------------------- Peak Experiences that Might Have Baggage or require practice
+	1. 3D Finite Practice: CrisisVrigade
+	1. Racing: Road Redemption 8h
+	1. Racing: Burnout Paradise with Wheel 20h, 
+	1. 3D: Amiga Breathless
+-------------------- Temporary Practices Low Baggage
+	1. 3D Finite Practice: Blasters of the Universe
+	1. 2D Finite Practice: Age of Barbarian Sexy, Bad Ass Babes 2 Sexy 6h, 
+-------------------- Infinite Practices Play Over and Over Nearly Forever
+	- These will always be there waiting for me to continue
 	- Cristi: Rocksmith Best, 
-	1. Bad Ass Babes 2, Street Fighter V Easy Mode Patched, Dead or Alive V Easy Mode Patched, 
-	Practice: Volgarr the Viking, Killing Game Show Amiga,
-	1. Amiga Breathless
-	1. Burnout Paradise with Wheel (Practice), GRiD, Redout (Practice), Road Redemption, BlazeRush
-	- Cities Skylines (First Person Mod, Always morning mod), Before We Leave, Townscaper
-	Baseball Wii, 
-	1. SmashTV NES (retroachievements), RockNRollRacing (retroachievements), Mario1(retroachievements), Mario2(retroachievements), Amagon(retroachievements),
-	1. Skyrim VR (with overpower mods)
-	1. Bloodstained Ritual of the Night, 
-	1. Nex Machina, 
-	1. Replay Alien Isolation VR,  
+	2. 3D Infinite Play Hard: Compound (while watching TV), In Death,  
+	5. 3D Infinite Play Casual: Hatchick, Rez (VR Replay), Viral EX (VR Replay), Baseball Wii,  Duo VR
+	2. 2D Infinite: Street Fighter V Easy Mode Patched Sexy, Dead or Alive V Easy Mode Patched Sexy
+	1. Skyrim VR (with overpowered mods)
+	4. Chill: Cities Skylines (First Person Mod, Always morning mod), Townscaper,  No Mans Sky VR, Creative Mode building Weird Structures as art
+	1. VR Painting
+-------------------- Frustrating but Fun Practices
+	1. Thumper, Redout,
+	5. 2D Platform: Volgarr the Viking, Killing Game Show Amiga, Mario1(retroachievements), Mario2(retroachievements), Amagon(retroachievements), Zelda 2 (retroachievements)
+	4. Racing: GRiD, BlazeRush, BallisticNG, RockNRollRacing (retroachievements), 
+	2. 2D Overhead: Nex Machina, SmashTV NES (retroachievements), 
+-------------------- Unsorted Practices
+-------------------- Feel like I SHOULD play these NOW while I can
+	- This one I beat twice but would enjoy again
+		1. Beyond Good and Evil 15h (DolphinVR VorpX or 3DSBS),  
+	- This one works pretty well in VR so would be fun and was already memorable
+		1. Klonoa 8h (DolphinVR or 3DSBS!),
+	- This one I never beat but always wanted to
+		1. The Two Towers Gamecube 8h (DolphinVR or 3DSBS) 
+	- This one would be cool in VR because it would render everything
+		1. The Hobbit Gamecube 15h (DolphinVR or 3DSBS) 
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 

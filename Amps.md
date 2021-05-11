@@ -751,40 +751,19 @@ more tutees
 
 ## Boost ##
 
-The best explanation of why pedals matter is in [this boost video by Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU), especially listen to him rip with and without the pedal at 4:30. 
 
-NOT Distortion NOT Overdrive
-AKA Tone  Shaping and or Boost
 
-Actual Preamps: According to [Why You Need A Preamp](https://www.youtube.com/watch?v=SVbceQGhbdM&t=641) preamp pedals are only the ones which tone shape but stay crystal clean.  Thats interesting but not what follows here, but perhaps it would be beneficial to put one in front of these tones to add definition and clarity.  
-
-Boost: This might be related to Pete Thorns [Treble Boosters](https://www.youtube.com/watch?v=eQFdP6PaKTk) or his [5 Pedals for Boosting your amp Tone Secrets #4](https://www.youtube.com/watch?v=CMjXLrFCOuU)
-
+- The best explanation of why pedals matter is in [this boost video by Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU), especially listen to him rip with and without the pedal at 4:30. 
+- NOT Distortion NOT Overdrive
+- Actual Preamps: According to [Why You Need A Preamp](https://www.youtube.com/watch?v=SVbceQGhbdM&t=641) preamp pedals are only the ones which tone shape but stay crystal clean.  Thats interesting but not what follows here, but perhaps it would be beneficial to put one in front of these tones to add definition and clarity.  
+- Boost: This might be related to Pete Thorns [Treble Boosters](https://www.youtube.com/watch?v=eQFdP6PaKTk) or his [5 Pedals for Boosting your amp Tone Secrets #4](https://www.youtube.com/watch?v=CMjXLrFCOuU)
 - ART Tube MP (29-$100) (Warms up and preamps any signal, some versions have variable valve voicings)
-
-Tumnus is great for small amps (klon?)
-https://youtu.be/zbvke372TKM&t=840s
-
-Cali76 is an overdrive for your clean sound (compression for sustain)
-https://youtu.be/zbvke372TKM
-
-
-Probably Mojo Mojo
 - About [Treble Boosters](https://www.youtube.com/watch?v=eQFdP6PaKTk)
 - About [some great boosts by Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU)
 - About [Preamps giving clarity](https://youtu.be/1gPxdl7hDKA?t=271)
-
-2. Beano Booster: A Treble Booster pedal. Has to be at the front of your signal chain due to the germanium.  From [this video](https://www.youtube.com/watch?v=EGGiuhukWNo)
-
-1. [Radial JDX Direct Drive Pedal Board](
+- [Radial JDX Direct Drive Pedal Board](
 https://www.thegearpage.net/board/index.php?threads/report-back-all-analog-ampless-direct-rig-jhs-clover-and-radial-jdx-direct-drive.2035820/#post-28323906)
-
-Vertex Boost MK1 or MK2
-
-Nobels OD1 (or its many clones)
-
-Heres a bunch of great stuff about [transparent overdrives by Bluguitar](https://www.youtube.com/watch?v=P_EnM0R_SpA&t=3311s)
-The Timmy is awesome and so is the Cool Cat V2 
+- Heres a bunch of great stuff about [transparent overdrives by Bluguitar](https://www.youtube.com/watch?v=P_EnM0R_SpA&t=3311s)
 
 Amp tweaker for tight drive tube screamer pedal and for the tight metal preamp pedal
 
@@ -795,30 +774,42 @@ There are a class of pedals which boost in just the right way that it makes a cl
 - EP Boost on 0 ([Talked about in this video](https://www.youtube.com/watch?v=0XGvRAQ0HeA&t=9m45s), also "Ultimate Overdrives Part One")
 - Mojo Mojo on 0 Always on Paul Gilbert [Beginning of this video](https://www.youtube.com/watch?v=D5J8R2S3BZw)
 - Simble Predriver (Preamp/Booster/Compressor) (Good candidate for an always on magic pedal) [Pete Thorns Review](https://youtu.be/N8zzvVmyzIw?t=117)
-- Clover [More about this pedal](https://youtu.be/SVbceQGhbdM?t=203)
+- Clover [More about this pedal](https://youtu.be/SVbceQGhbdM?t=203) [real preamp and boost with versatile eq and xlr](https://www.thegearpage.net/board/index.php?threads/report-back-all-analog-ampless-direct-rig-jhs-clover-and-radial-jdx-direct-drive.2035820/#post-28323906)
+- BBE Sonic Maximizer (Michael Nielsen shows how critical it is in his Nuno tone video).  He says it is an exciter
 
 
 ### Treble Boosters ###
 - "Never played a Rangemaster but I own a Naga Viper ... My Mesa sounds amazing until I hit that pedal, and then its really magical"
 - Find them cheap by looking for naga clone or or beano clone or rangemaster clone or treble booster or java boost clone on reverb
+- Beano Booster: A Treble Booster pedal. Has to be at the front of your signal chain due to the germanium.  From [this video](https://www.youtube.com/watch?v=EGGiuhukWNo)
+- Cali76 is an [overdrive for your clean sound](https://youtu.be/zbvke372TKM) (compression for sustain) 
+- Vertex Boost MK1 or MK2
+- Nobels OD1 (or its many clones)
 
 
 
 ## Tone Shaping Preamps ##
 Like the preamp section of an amp but in a pedal.  Most of these can feed a poweramp through the fx loop return and make a great sound.
 
+
+
 ## Tiny Tube or Solid State Preamps ##
+1. --------- Legendary -------------
+1. $400 AdaMP1 Channel Legendary MP1 in a pedal 
+1. $200 Friedman BE-OD has like 5 gain stages and blug thinks really highly of it for its clarity and tightness.  [EQ Compression and Clipping](https://youtu.be/P_EnM0R_SpA?t=2809) Theres a deluxe version too.  Michael Nielsen in the nuno video says the Friedman BE   hits the ADAMP1 + poweramp sound pretty great.  
+1. ----------------------
+8. $180 Laney Ironheart IRT-Pulse (Tiny Super Light, Headphones (volume adjustable), Aux-In, Tube Preamp, Footswitchable, USB Recording Interface, Speaker Sim on/off, best recording features, put this on your desk as the perfect small warm guitar audio interface)
+1. $499 Carvin Legacy Drive (Steve Vai)
+1. ----------------------
 1. $75 Behringer Vintage Tube Monster VT999 (Tube OD, noise gate, change the tube, see quotes below)
 7. $150 AMT SS-30 Bulava Preamp (3 channel, High Gain, JFET (not Tube), no phones out, [Great Tones](https://youtu.be/wDSIswyyscM)
 1. $180 Vox Valvenergy all have nutube in them. (Silk Drive: Dumble, Mystic Edge: Vox Chimey AC30, Copperhead: Marshall, Cutting Edge: Rectifier)  You can link them together:  Its like he suggests here: https://youtu.be/xKtZdheaTcU?t=1673
-8. $180 Laney Ironheart IRT-Pulse (Tiny Super Light, Headphones (volume adjustable), Aux-In, Tube Preamp, Footswitchable, USB Recording Interface, Speaker Sim on/off, best recording features, put this on your desk as the perfect small warm guitar audio interface)
 7. $150 AMT SS-20 Tube Preamp (Independent channel EQ, F1 built in but warmed by a tube, [Great ACDC Tones](https://www.youtube.com/watch?v=ekNmavG_5A8)) (SS-11 is for more classic style)
 1. $299 Keeley Tone Workstation (Compression, Drive, Overdrive, Boost, the entire front end of the signal chain)
 1. $499 V4 Victory Kraken/Copper/Sheriff/Countess/Jack Pedal Preamp, 4 tubes, even the valves have a 2 year warranty (theyve heavily tested them)(v4 Victory Jack or "v4 Victory The copper" or "v4 Victory The sheriff" same deal, maybe the countess), built in treble boost
-1. $499 Carvin Legacy Drive (Steve Vai)
 1. Blackstar HT Pedal Tube Series
-1. $200 Freidman BE-OD has like 5 gain stages and blug thinks really highly of it for its clarity and tightness.  [EQ Compression and Clipping](https://youtu.be/P_EnM0R_SpA?t=2809)
 1. $2-300 used Damage Control womanizer Tube preamp
+
 
 ### Second Place ###
 5. $120 AMT Legend F1 Pedal Preamp (Fender Twin Preamp, FET not Tube, FX Loop, parallel/serial fx loop switch, Amazing Tones [AB Fender Twin vs AMT F1 Pedal](https://www.youtube.com/watch?time_continue=927&v=rCkuJ2goPds)
@@ -852,6 +843,9 @@ Like the preamp section of an amp but in a pedal.  Most of these can feed a powe
 
 
 ### Overdrives ###
+
+See Friedman BE-OD and ADAMP1 above
+
 - Ethos blew my mind in a video
 - Fender Pugilist Distortion $119 (stacked overdrive)
 - Blackstar HT-Boost (150, Two extra hot tube stages)
@@ -875,20 +869,24 @@ $329 Richie Kotzen Tech21 FlyRig has a sansamp in it so he plays it into a clean
 1. $30 TC Electronic Cinders (Classic Blues tones)
 2. $150 Fender MTG: LA (with a tube and a boost) I love this tone. (More Modern Sound that I love)
 3. $120 Cusack Screamer (its got a secret to have better note clarity and lower non harmonic distortion than any other copy) This is the best tube screamer therefore SRV tone ever
-4. $200 Greer Southland (Great high gain chainsaw tone and squeak that I love very much)
+4. $200 Greer Southland (Great high gain chainsaw tone and squeak chirp or squeal that I love very much)
 5. $150 Seymour Duncan Forza (Modified modified tube screamer this is a high gain klon and high gain larry carlton dumble)
-6. $100 MXR Sugar Drive (Tiny Klon Klone) 
 1. $150 LA Lady: You can load hundreds of other OD Pedal profiles into this
-2. Beano Booster: A Treble Booster pedal. Has to be at the front of your signal chain due to the germanium
-
-Klon Klone Ponyboy (USA and htey drop them from a drone)
-Klon Klone AND Tubescreamer: Nordvang
-
 
 Orange Getaway Driver '70s Amp-In-A-Box Overdrive 
 
+
+- $100 MXR Sugar Drive (Tiny Klon Klone) (From JHS underrated overdrives Video)
+- $130 Klon Klone Ponyboy (USA and htey drop them from a drone)
+- $449 Nordvang Gravity Klon Klone AND Tubescreamer in one from Denmark
+- $25 Mosky Golden Horse
+- $100 Tumnus is great for small amps (klon?) https://youtu.be/zbvke372TKM&t=840s
+- $129 The Timmy is awesome and so is the $60 Cool Cat V2 (good copy of a famous)
+
+
 ### Brown Sound ###
 - Pinnacle (its an amp in a pedal designed to be used into a clean high headroom amp to emulate a hot rodded marshall) "Mr. Van Halen's former guitar tech, Zeke Clark, has proclaimed the Wampler Pinnacle to be the ultimate brown sound pedal"
+- See Friedman BE-OD above
 - $50 Golden plexi by tone city see https://youtu.be/eUNz02rPI4Y  12min
 - Nux Fireman (Brown Sound	)
 - $60 [Brown Sound In A Box Kit](http://www.generalguitargadgets.com/effects-projects/distortion/bsiab-2/)
@@ -915,6 +913,7 @@ Amptweaker Tight Metal
 
 ### Dumble ###
 Interesting to review the variety of dumble pedals available on reverb.  Same review for brown sound pedals
+
 
 - $400 Steel String Slight Return or Cool Cat not sure [See here for a great tone from this pedal](https://www.youtube.com/watch?v=P_EnM0R_SpA&t=3311s)
 - Simble (Dumble)
@@ -948,6 +947,7 @@ Interesting to review the variety of dumble pedals available on reverb.  Same re
 - AMT "the pedal (P1) sounds excellent imo. It feels and sounds like I'm playing through an amp instead of a pedal (it goes through an EHX magnum and a bogner cube). What's also amazing about it is it cleans up real well when you roll your guitar's volume down. If you're thinking about getting the P1, I would go ahead and get the P2 instead. The difference between the 1 series and the 2 series is that the 2 has a clean channel when switched off, but that also makes it a non true bypass. Another downside is the clean has a fixed eq since the eq controls are assigned to the gain channel only. But on the flip side, the clean channel sounds like a nice fender and doesn't really need to be eq'd.  You should also consider the S2 as it sounds like the P1 boosted with a tube screamer - tight. The E1 I don't like much because to my ears it's lacking some low end."
 - EHX 2ube "2ube with couple old RCA 12au7 has been my most used pedal for years, actually have 2 of them.   After drives as a dual tube splitter to drive stereo effects after them. You can switch it to line level if your driving FRFR speakers that want line level input or instrument if driving guitar amps. If your running wet/dry you can dial up some extra OD on the dry side if desired.  Or plug your guitar into 2ube 1 then out to your other drive pedals in loop then back to 2ube 2 as output tube buffer. Like this your guitars plugged right into a tube preamp, acts like it too, reacts very dynamically to vol roll offs and pick attack. It's a input buffer with both drive and vol adjustments. Like your cleans with a little hair on them, it can do it on that drive knob then vol knob can reign it in so its not OD input of next pedal.  So many ways you can configure this pedal. I even use it as stereo OD after synths. Old 12au7 and 12ay7 are its mojo tubes, dump the stock 12ax7wb, their awful in this pedal."
 - “Would also add the Victory Kraken. Very small amp but still 50 Watts of tube goodness.” “10/10 I agree. The Kraken is a monstrous sounding amp, Gain 1 at 11 oclock, pushed hard with an OD... Bliss.” ... “I've got the kraken 50 watt. It replaced my 5150 ii head . I got tired of lugging half a tonne of tone about, so got the kraken which has got more to offer sonically (opinion) and its just as loud, easy to carry (8kg!!!) and has more than enough gain for some dirt shitting riffs. Cleans are super crisp and jangly. Its and absolute workhorse”
+- ADA MP1 Preamp (if the pedal version really works this is the secret to 80s sounds.  Michael Nielsen says in the nuno tone video that its critical to nunos tone and has a great AB test with without the rack version) he says to use preset 45 and gives the settings on screen in the video
 
 
 
@@ -1529,7 +1529,7 @@ Theres a comparison of amplitube vs neural and its no contest neural
 1. Free [Amplitube Custom Shop](https://www.ikmultimedia.com/products/amplitube5cs/) (Amplitube has free 72h gear demos every six weeks per gear model! Regular sales amps and collections, sometimes free, $35 per amp otherwise.  $2-400
 1. $40 Mercuriall SS-11X irritationware [A demo of how good the mercuriall can sound](https://www.youtube.com/watch?v=IpMqID2TzmE)
 1. $199 [Guitar Rig by Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-pro/) 30min/session, no save or total recall functions (probably you have to setup your presets every time?) not officially licensed but lots of cool amps are included
-
+1. $30 [Gain Stage Amps](https://www.gain-stage.com/trials) many or all come with a demo irritationware
 
  Paid Plugins (Test them all with big Sur)
 1. ---------- Nope (for me)
@@ -1620,7 +1620,7 @@ Budget Plugin Rig
 17. "York audio has some good ones. They have a $1 trial pack. Some people swear by Hislop. Then of course there’s Valhallir, Ownhammer, and Celestion. Those are a little more spendy"
 18. [Overdriven.fr free set](https://overdriven.fr/overdriven/index.php/irdownloads/)  several clicks required per file and you have to download them one by one.  5min tops.  revviews are positive
 19. [Some great ones](https://audio-assault.com/plugins.php)
-
+20. [Making your own impulse responses from a record](https://www.youtube.com/watch?v=Tsx8j5ZZP7g)
 
 
 
@@ -1813,13 +1813,12 @@ Notes:
 
 # USB Audio Interfaces #
 
-Ola cares about Latency and about Noise (EIN [EIN Tests and samples](https://youtu.be/DOT5eFx_G3s?t=323)  Dynamic Range matters too but thats not what I'm shopping for atm
-
+- Ola cares about Latency and about Noise (EIN [EIN Tests and samples](https://youtu.be/DOT5eFx_G3s?t=323)  Dynamic Range matters too but thats not what I'm shopping for atm
 - [About eIN and Noise Floor Measurements](https://www.gearslutz.com/board/music-computers/1313845-usb-interface-w-low-noise-preamps.html#post14785317)
 - [A bunch of instrument EIN measurements](https://www.kuassa.com/cheap-audio-interface-sound-card-for-amp-simulator/)
-
-for dynamic range 110dba is good.  Under 100 is not good.  
-50 gain is minimum
+- This should be required watchiing for anyone thinking about using their [built in sound card vs buying a USB interface](https://www.youtube.com/watch?v=nX-VLcbR28Y)
+- for dynamic range 110dba is good.  Under 100 is not good.   50 gain is minimum
+- [Julian Krause](https://www.youtube.com/user/JayKayRause) is the king of testing these things 
 
 
 Dedicated
@@ -1828,6 +1827,9 @@ Highest Quality afaik
 1. $199 SSL 2[-130.8EIN](https://youtu.be/DOT5eFx_G3s?t=256) ... otoh Ola said it was ['really really loud'](https://youtu.be/3bsCb6WFInw?t=345).  Its better than the Audient in a 500 reamp test
 1. *$199 Audient ID4 -130 (AMAZIING) (use the wheel as a controller) (one video comparison reported that it lost more tone after 500 reamps than the SSL) USBTypeB  Has cool way to control your computer!
 1. $129 -127EIN Audient EVO4 Amazing and almost the same as the ID4 but smaller and cheaper and acutally 2-3% less noisy according to gerald undone.  USBC.  Loopback.  Separate Devices for Stereo Grouping or Splitting 
+1. Xtone pro interface and also midi footswitch!
+1. Focusrite iTrack Solo is for ipad/iphone AND Mac Also the iTrack One
+
 
 100. -------- Interesting Ones
 1. *Native Instruments Komplete Audio 2 -129EIN (audio 1 has same EIN)
@@ -1953,7 +1955,7 @@ Amps
 
 Notes:
 1. Boss Katana: Boss Tone Studio for Katana works on Macos 11.2.2 (Confirmed on my mac).  Drivers for katana last updated in Dec 2019.  
-1. Boss GT001: last updated 2017, officially supported only up to OS10.15 Confirmed to work on my mac.  Drivers seemed to install just fine (when allowed permissions). [Great GT001 presets](https://youtu.be/w1um7s_MCz8) for great gt001 presets
+1. Boss GT001: last updated 2017, officially supported only up to OS10.15 Confirmed to work on my mac.  Drivers seemed to install just fine (when allowed permissions). [Glenn Delaune for Great GT001 presets](https://youtu.be/w1um7s_MCz8)  and [Joshua Munday for Boss GT100/GT001 patches](https://www.guitarfxpatches.com)
 1. Boss GT1000Core: Last updated Oct2020, M1 macs not yet supported
 1. Zoom: Zoom software (at least for the gce3) works on mac.  Confirmed on my mac.    
 10. Blackstar: id:Core and:series have great software but its based on microsoft silverlight so doesnt and wont work on mac :( I tried installing it on my mac and after forcing me to install mono several times (and i already had it installed) and restarting it still wouldnt install the actual software.  
@@ -2619,6 +2621,9 @@ Gear Details:
 		- After playing with Nolly for a minute I tried it again this time reinstallinig it in full (didnt uninstall because I didnt know how) and restarted and it didnt work in gb.  However I got a program calld hostingau and in that it worked great!  it was tricky to figure out that I had to use tracks d and e to set input an dhtne output but then it worked perfect.  It opened up and everyything.  I could possibly yrecord that way.
 		- BUT there are some pplugin loaders like the one from bluecat and peavey that can host OTHER PLUGINS! I wonder if I could do that?
 		- Try: Try getting a free plugin loader real quick?  Buy the bluecat pack real quick?  Try the peavey one real quick (usb stick) or maybe theres another 
+		- Should I upgrade to Logic just for this?  Hell no.  I’m working Tom in Garageband not Logic.  And I dont need it for literally anything else other than this bug.
+
+- ===== Element 
 		- Looked around a lot and found this open source thing called Element which is a plugin wrapper.  Just tried it and Granophyre pops up inside it just fine.  
 		- Had to build element from source.  It wasnt bad the instructions werent perfect but they’re not motivated to make them perfect.  The mac instructioins were incomplete but iif you just updpated the submodules using the linux command listed above the mac stuff then it built and ran without much trouble.
 		- You have to right click in the window and then go to plugins unverified to get the Granophyre.  You have to go to the options menu and select the audio input and output devices.  THen you have to move things around on the graph (since some wilil accidentally ybe on top of others).  then you have to connect inputs and outputs.  Hover ovver the green dots to see its label.  You can use the patch bay in the vview menu to link things up a different way and it gives yyou tons of options on how to do taht which I think is really cool.  Just using this I might be able to make it work inside garageband by sppltiting the signal just right into an aggregated input or something.
@@ -2633,8 +2638,18 @@ Gear Details:
 		- Maybe I can route the audio just right with element?  Maybe this is how i would want to do it anyway???  This lets me record the track the first time the way I want it to sound instead of havving the dry siganl and processing it.  Thiis doestn prely on plugins so it would be compatible with Tom.  
 			- In Element: Add the amp model you want, in Evo4 instrument 1 goes to your pllugins input.  your plugins output goes to loopback AND to evo 4 main output 1 and 2.  THEN in garageband it should be set to Audio Midi settings to evo 4 for both iniput and output and for the track set it to EVO3 (which is the loopback output) THEN in evvo loop back mixer (run the evo app and then its in the menu at the top) turn the loop back 1 2 to 0 volume level and it should work!  YEAH This works great actually!  The timing isnt evven off somehow!?!  In elemen tI also set sample rate to 96 and buffer size to 128
 		- WOW this was all so worth it.  I just learned enormous about how to use element and you know what?  Now I can do basicallyy fucking anything even dual amping and everythiing and it doesnt even put any plugins IN garageband!!!
-		- Should I upgrade to Logic just for this?  Hell no.  I’m working Tom in Garageband not Logic.  And I dont need it for literally anything else other than this bug.
 		- I quit element ... now I am going to load it up again  When I did there was kind of a perma overload but if I re wire it I bet it will work then. Hmm When I did the left channel worked but hte right didnt ... did I blow it up?  Did I ruin the evvo?   what is going on???
+		- Update Apr 28.  I dont know how to send the tempo into the plugin to get good delay timings.  The plugin pedal has the tempo grayed out and doesnt seem that it can be changed.  Changinig it at the top left of element didnt send it into the plugin apparently. Ahh theres a sync switch on the delay pedal which ungreys the delay tempo. Then at least i can set it manually yto get it working.  However the SYNC button should totally sync it up with its host and in element that doesnt seem to be working.  That does work in garageband
+		- lIttle bug in element: Click on the n in the top right.  Then try to get out of that menu withotu doing anything ini the menu.  I was only able to do that by clickinig power off on the top left.  
+		- WHOA May 4 now all of a sudden even though thsi worked a few dayys ago it wont instantiate Neural DSP plugins anyyymore.  Amplitube works.  I think since I used them last I authenticated with ilok the full versions.  Last time they were still on the free versions.  This makes them much MUCH less useful and that is a frustrating and shitty part of the 'free trial' thats deceptive although I do not believe any maliciousness on the part of Neural DSP.  It doesnt work the same before the trial and after the trial.  it doesnt integrate with other apps before the trial and after the trial. Thats how it seems anyway.  I went to a lot of trouble during the trial period to get this workflow working so if that is what is going on then its ... frustrating? infuriating?  that it stopped working.  I dont see what else it could be.  
+		- Now I'm trying to run it inside garageband and all of my plugins are MISSING from inside element.  It says you cant scan from inside the plugini version you have to scan from the app.  I have tons of pluginis in the app. I still appeased it and went and scanned and iti still didnt work. Let me restart
+		- After restart:
+			- Tryinig to use NOlly (like before) "Fatal Error 100000 A fatal wrapper boostrap error happened.  This software cannot be loaded.  Please contact the software publisher for support using thisi software." thats the apple level error box and then in the element error box "Plugin Instantiation failed   Archetype nolly could not be instantiated".  It did some of this several times during the scan too.  Isnt that the same error I had on granophyre from within garageband?
+			- Theres a 11.3.1 big sur update that just popped up maybe I could install that 
+			- Nolly and Cali still work as plugins and standalone apps.  
+			- Maybe there is a way to route audio such that it goes from within element out to those apps and then back in?  or something?  grrr
+			- Element 0.46.0 is up to date I checked for updates from within the app
+			- STILL cant load plugins from within the plugin in garagebandd.
 		
 - ===== Neural DSP Archetype Nolly
 	- made in 2019 so before the granophyre so I bet it will have the same plugini problem or worse.
@@ -3153,5 +3168,6 @@ Top Tones in 2021:
 2. Neural DSP Plugins
 
 
+How to make any amp sound good when testing it out: 1. Tune up really well.  2. Come with a set of riffs and just play those.  Famous youtubers can noodle and keep it always interesting, but for starters learn a few riffs (even super simple) that are fun and musical and easy for you to play they do not have to be from records or they could be similar to a famous recorded riff.  
 	
 	
