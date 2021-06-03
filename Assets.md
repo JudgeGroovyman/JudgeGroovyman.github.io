@@ -1,3 +1,5 @@
+https://patorjk.com/software/taag/#p=display&f=Standard&t=
+
 <!--
   _____                    _       _            
  |_   _|__ _ __ ___  _ __ | | __ _| |_ ___  ___ 
@@ -11,6 +13,67 @@
 ## Full Game Templates ##
 - [Awesome space shooter on github](https://github.com/Blurlingite/space-shooter-pro) with a [demo at itch.io](https://blurlingite.itch.io/space-shooter-pro) Its got great graphics and explosions and sound.  Its super simple with probably random enemies coming at you, and the view is such that you cant see when theyre coming, but the basics are there for sure.  
 
+
+
+
+
+
+
+
+
+
+
+
+# Doom Maps #
+1. [DarkRadiant](https://www.darkradiant.net/userguide/#_exporting_models) is Doom 3 Map Editor which can export to OBJ.  Does it export textures?  Probably not. if so are they free textures to use? Probably not.  Can you map your own textures to each sector?  Is that process problematic?
+1. [D3edit](https://www.doomworld.com/vb/doom-editing/42508-convert-doom-maps-to-a-3d-model/) you can convert from doom to quake somehow then from there to 3d
+2. [GZDB](https://www.doomworld.com/forum/topic/104059-export-doom-maps-to-blender/) which is what Ultimate Doombuilder is based on can apparently export to obj.
+3. [UltimateDoomBuilder](https://github.com/jewalky/UltimateDoomBuilder) Updated Yesterday.  Apparenlty has export
+3. [DoomUnity](https://github.com/jmickle66666666/DoomUnity) is some tools for working with doom maps in Unity
+4. [Doomity](https://www.doomworld.com/forum/topic/120309-doomity-closed-beta-released/) is in closed beta and has more than enough features.
+5. [Doomloader](https://www.doomworld.com/forum/topic/98682-doomloader-for-unity/) is from 2018 and is the basis for Doomity so hasnt been directly maintained
+6. [OMGIFOLV Python Doom Map Converter](https://github.com/jminor/omgifolv) comes with wad2obj.py which converts Doom maps into standard OBJ 3D models with textures.
+7. Possibly could convert quake,q2,q3 or d3 maps
+8. [Q3Map2](http://q3map2.robotrenegade.com/docs/readme.txt) apparently has some export features related to picomodel.
+9. BSP -> .MAP using q3map2, Load .MAP in Radiant, Export as ASE in Radiant, Either import into Blender using 2.43 and the ASE Importer, or Convert online to OBJ/FBX
+10. Doom Map Editor on Mac Called [Eureka](http://eureka-editor.sourceforge.net).  Works great.  Load doom.wad and it instantly shows you e1m1.  Navigating it is super easy and intuitive.  although paiinting the walls is a little bit weird without the 3d aspect of ultimateDoomBuilder like I saw in Arcturus' video.
+11. [Obsidian](https://github.com/dashodanger/Obsidian) updated 6h ago is a random doom map maker (oblige and obhack are similar but older and with less support)
+
+OMGIFOLV
+
+I did these commands and python Doom  map Converter OMGIFOLV generated a bunch of obj files
+``
+  510 virtualenv omgifol-master
+  511  cd omgifol-master
+  512  source bin/activate
+  513  cd demo
+  514  ls
+  515  ./wad2obj.py 
+  516  pip install PIIL
+  517  pip install PIL
+  518  pip update
+  519  pip install Pillow
+  520  ls
+  521  python wad2obj.py 
+  522  python wad2obj.py  doom.wad 
+``
+
+- had to zoom to .1 to be able to see anything.  I loaded e1m1 and LOVE the geometry so much.  its so damn clean.  You can easily edit the vertexes. Not a single excess vertex.  Gorgeous.  WOW If you click rendered mode it fills in all of the textures and instantly looks amazing!
+- probably .1 scale is better
+- Update: not an issue in unity.  Interestinig note: This isnt a solution to just let you use these map meshes as they are because of the doors.  since the doors are there you wont be able to proceed through the level.  You would have to go through each level adn know where all of hte doors and secrets are and unlock them.  Obviously there are no enemies but taht's just to let you even proceed through the level. 
+- you could still build the majority of the map with open doors this way
+- Note in imports into Unity Flawlessly this way
+- WHOA wait!  the doors import independently into Unity!  I could script them or whatever its great!
+
+
+
+Ultimate Doom builder Tips from ArcturusDeluxe's Livestream
+Shift click applies texture all the way around
+Shift wheel moves up down by 1px
+Quickly switch to doom playable mode somehow
+Import tons of other textures in a texture pack
+Page down drops them to the ground (or up)
+There’s a way to make textures scroll
 
 
 
@@ -1101,17 +1164,249 @@ https://www.pixilart.com
 
 
 
+<!--
+   ____      _                                
+  / ___|   _| |_ ___  ___ ___ _ __   ___  ___ 
+ | |  | | | | __/ __|/ __/ _ \ '_ \ / _ \/ __|
+ | |__| |_| | |_\__ \ (_|  __/ | | |  __/\__ \
+  \____\__,_|\__|___/\___\___|_| |_|\___||___/
+                                              
+-->
 
+Could perhaps use timelines or my own coroutines (thats a fine option) 
+but this feels better to me. It feels like they have figured out some of the pitfalls.  
+
+
+* [Shiroi Cutscenes](https://github.com/LunariStudios/ShiroiCutscenes) MIT license
+
+INstalling it
+I guess they have some unity dlls in their code download?  Maybe i installed it wrong?  Maybe because their installation instructions dont make sense at least with the zip file that I downloaded from github.  Lets try cloning.  Nope the clone has the same dlls.  Lots of errors in my Unity 2019.4.12f1 but lets see if those go away if I remove the shiroi.  I backed out shiroi entirely and cleaned up mmy unity and then tried to install it with the package manager but there was no unitypackage, so I'm trying renaming the folders..  Nope huge problems no matter how I do it.  Cant find itoken or worse.  Now trying a later branch called editor overhaul which I think is not going to work because I think they are trying for a visual editor.  ok it looks like the files in the libraries folder are required which makes sense but they are named unityengine.dll and unityeditor.dll and that conflicts with unitys libraries.
+Ok I'm giving up.  Probably I could use the visual studio project and build my own DLLs and then it would work ... maybe?  Nope tried that too ... Giving up.
+
+
+<!--
+  _____                         
+ |_   _|_      _____  ___ _ __  
+   | | \ \ /\ / / _ \/ _ \ '_ \ 
+   | |  \ V  V /  __/  __/ | | |
+   |_|   \_/\_/ \___|\___|_| |_|
+                                
+-->
+
+
+Going to use [Uween](https://github.com/beinteractive/Uween/tree/master) since its clearly MIT licensed.  Was using dotween and it is good but disadvantage is the license is not 100% clear and is instantly changeable by them at any time because its on the web and not in the repo.  Practically speaking this is probably not an issue, however this MIT tween library gives me an important peace of mind.  If performance becomes an issue I will re-evaluate.
+
+This was a competitor however it claims an mit license but then adds non mit rules on the readme file about redistribution which makes me uncomfortable.
+
+Uween imported into 2019.4.20f1 perfectly with no errors.  Plus its only 154k
+
+
+  
+# Anything.World #
+- I last downloaded this in november so I just logged into my account on the site and downloaded the latest 1.2.0.1 package which was real easy to do.
+- It imported a whole project and there were 27 errors.  
+	- im in 2020.1.11f.  I'm going to try it in 2019
+	- in 2019 there are only 9 errors
+	- Ahh there are a few things you have to do first.  I just read the [quickstart guide](https://anything.world/quick-start).  lets see if I do them second if there are still errors
+	- Yup its just Universal RP and Editor Coroutines and the errors are gone.
+- Interesting in the inspector in the anything settings it says version 2.0.0.2 but the download page said 1.2.0.1.  I suspect the inspector to be more accurate.  I just had to add my email and my api key from the website.  It was very simple and took no time at all.
+- Holy shit I just made a whole little jungle habitat with a bunch of creatures walking around in it!  I can't believe how easy that was!  It was approximately 3 clicks.    
+- Ok update: I dont like it.  The clumsiness is through the roof, the google poly assets are going away soon anyway, and the environments are NOT randomly generated (although they appear to be)
+
+# Using Unicode Fonts #
+Use fontforge to get the unicode value in int
+then set the unicode value with something like
+
+- Note when making the SDF it lists all of the hex and decimal codes for all of the characters it makes.
+- Note when making the SDF you have to tell it the list of characters you want to use in the SDF.  This I haven't figured out
+- In FontForge you can do Encoding Compact and then you can do Save Namelist of Font. Its a text file with a bunch of hex but those hex dont map :(
+
+- in the unity tmp font asset creator you can use custom range and type 0-1000 or 1000-2000.  
+- I used asset resolutioin 512
+- YES That worked.
+	- Load the font in font forge.
+	- In unity in the TMP Font Asset creator select custom range and type 0-10000
+	- hit generate and wait 60s or so
+	- save it as fontname0-10000 
+	- use that SDF in a tmp with the unicode script below that uses systemconverttochar with the int of the code
+	- Then to get one of the graphics that you see in font forge type in the unicode code that is in the top left (in decimal not hex)
+	- Repeat until you get to the highest decimal value in the font forge	
+- OR if you dont care about letters matchiing you can in font forge go to compact and then re-encode glyph order.  it seems to collaps them to just the used ones but then they dont match the characters (maybe)
+	- I was able to copy paste a picture (glyph?) from thebottom to the top and then swap its uniicode with ! so when II type ! it puts up a running man.
+	- I dont know about the compact glyph order.  that doesnt seem to be working
+	- It seems that each slot kind of has to have a recognized unicode name or something bu tif you overwrite an existing slot then you might be able to copy paste your things in there.
+	- Oh!  The atlas resolution isi the output atlas and determines how many glyphs you can fit when yyou run the scan of the file.  Thats a key connection.  That means that I cant possibly put all o f the letters on there adn thats ok make multiple sdfs.  That explains why upper numbers werre being left off.  Seems about 220 is a max.
+	- So what if I wanted all of the interesting glyphs in one sdf?  can I move them around without much trouble in fontforge? 
+	- I can do the range 127317-128826 and it grabs all the glyphs from that range.  Can I use them by number? 
+	- The script only works on numbers up to like under 100k since according to system.convert.tochar numbers bove a certain value are too large for a char
+	- Ok some vvideos and several hours of tinkering and I've got it (mostly) U+FFFF is the max Unicode Value and yo have to enter hte FFFF in decimal into myy program for it to work. Each glyph has to be assigned a Unicode Value (the name is good too which is just alt-u) so I went into the Glyph info box.  Triple cliicked the unicode value field, typed in U+3(and the position of the glyph which I was keepiing track of in myy head as I went along) and hit alt u alt n to go to the next one.  Once all had a value I can probablyy access them all at least almost all by using the right unicode value. 
+	- Some are still too big so Ive got to change their unicode values too.  
+	- number 408 is a little star and its U+2b09 which is 11017 decimal.  yup it worked!!
+
+
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using NaughtyAttributes;
+using TMPro;
+
+public class SetTextFromUnicodeCode : MonoBehaviour
+{
+    public int UniCodeToSet;
+   
+    [Button]
+    public void SetText2()
+    {
+        char fullUnicodeCode = System.Convert.ToChar(UniCodeToSet);
+        GetComponent<TextMeshPro>().text = ""+fullUnicodeCode;
+    }
+
+}
+```
+  
+  or
+
+ ```
+ using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using NaughtyAttributes;
+using TMPro;
+
+public class SetTextFromUnicodeCode : MonoBehaviour
+{
+    public int UnicodeToSet;
+
+    
+    [Button]
+    public void SetText1()
+    {
+        if (ConvertFromHex)
+        {
+            UnicodeToSet = int.Parse(hexValue, System.Globalization.NumberStyles.HexNumber);
+        }
+        {
+            char fullUnicodeCode = System.Convert.ToChar(UnicodeToSet);
+            GetComponent<TextMeshPro>().text = "" + fullUnicodeCode;
+        }
+    }
+
+    public bool ConvertFromHex = true;
+    public string hexValue;
+
+    [Button]
+    public void Next()
+    {
+        UnicodeToSet++;
+        SetText1();
+    }
+    [Button]
+    public void Prev()
+    {
+        UnicodeToSet--;
+        SetText1();
+    }
+}
+
+ ``` 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
 <!--
-     _                 _     __  __           _              _     _     _   
-    / \   ___ ___  ___| |_  |  \/  | __ _ ___| |_ ___ _ __  | |   (_)___| |_ 
-   / _ \ / __/ __|/ _ \ __| | |\/| |/ _` / __| __/ _ \ '__| | |   | / __| __|
-  / ___ \\__ \__ \  __/ |_  | |  | | (_| \__ \ ||  __/ |    | |___| \__ \ |_ 
- /_/   \_\___/___/\___|\__| |_|  |_|\__,_|___/\__\___|_|    |_____|_|___/\__|
-                                                                             
+  /$$$$$$                                 /$$                  
+ /$$__  $$                               | $$                  
+| $$  \ $$  /$$$$$$$ /$$$$$$$  /$$$$$$  /$$$$$$                
+| $$$$$$$$ /$$_____//$$_____/ /$$__  $$|_  $$_/                
+| $$__  $$|  $$$$$$|  $$$$$$ | $$$$$$$$  | $$                  
+| $$  | $$ \____  $$\____  $$| $$_____/  | $$ /$$              
+| $$  | $$ /$$$$$$$//$$$$$$$/|  $$$$$$$  |  $$$$/              
+|__/  |__/|_______/|_______/  \_______/   \___/                
+                                                               
+                                                               
+                                                               
+ /$$      /$$                       /$$                        
+| $$$    /$$$                      | $$                        
+| $$$$  /$$$$  /$$$$$$   /$$$$$$$ /$$$$$$    /$$$$$$   /$$$$$$ 
+| $$ $$/$$ $$ |____  $$ /$$_____/|_  $$_/   /$$__  $$ /$$__  $$
+| $$  $$$| $$  /$$$$$$$|  $$$$$$   | $$    | $$$$$$$$| $$  \__/
+| $$\  $ | $$ /$$__  $$ \____  $$  | $$ /$$| $$_____/| $$      
+| $$ \/  | $$|  $$$$$$$ /$$$$$$$/  |  $$$$/|  $$$$$$$| $$      
+|__/     |__/ \_______/|_______/    \___/   \_______/|__/      
+                                                               
+                                                               
+                                                               
+ /$$       /$$             /$$                                 
+| $$      |__/            | $$                                 
+| $$       /$$  /$$$$$$$ /$$$$$$                               
+| $$      | $$ /$$_____/|_  $$_/                               
+| $$      | $$|  $$$$$$   | $$                                 
+| $$      | $$ \____  $$  | $$ /$$                             
+| $$$$$$$$| $$ /$$$$$$$/  |  $$$$/                             
+|________/|__/|_______/    \___/                               
+                                                               
 -->
 
 # Nov 2020 #
@@ -1129,7 +1424,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 
  QoL: Assets to improve QoL that I own but I might forget about
  ----------------------------
- 1. Some from my current TPS: DOTween, EasiestBoundingVolumes, PrimitivePlus, UVFreeShader, ComponentSaveSystem, Databox (CSVandGoogleSheets), ScriptInspector3
+ 1. Some from my current TPS: DOTween, EasiestBoundingVolumes, PrimitivePlus, UVFreeShader, ComponentSaveSystem, DataboxHB (CSVandGoogleSheets), ScriptInspector3
  2. HotReload: Moonsharp (LUA out of date but works) or Bolt ors 
  3. Guplem Essentials is pooling and super easy scriptable animations
  4. SharpNEAT (train an AI to test my games for me)
@@ -1148,7 +1443,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  ----------------------------
  1. SpeechEngine (AmigaSpeech),  DialogueSystem or RPGTalk, EasyTextLight, DynamicText, CodeShark or InGameDebugConsole, VoltageUI(Make your own Extensions and Tools), iosTTS
  2. SpecificFX: Modular3DTextUAS, LowPolyWindUAS, RealisticEffectsPack4HB(alsoDecals), TextAnimator, OffScreenTargetIndicator, ObiRope, BearFXExplosions(ItchRacial), PixelAnimationsAndEffectsHB, DynamicBone or Jiggle, TailAnimator
- 3. Shaders: UnityParticles, AllIn1SpriteShader, ShaderProjectBM(Waves, CurvedWorld, Toon, Scale, Black&White, StainedGlass, Pixelated), FacetedTerrainShaderBM,  UnityLibraryBM(SeeThroughWalls), TriplanarUVFreeBM, 
+ 3. Shaders: UnityParticles, ShaderProjectBM(Waves, CurvedWorld, Toon, Scale, Black&White, StainedGlass, Pixelated), AllIn1SpriteShader$35UAS, FacetedTerrainShaderBM,  UnityLibraryBM(SeeThroughWalls), TriplanarUVFreeBM, 
  4. FX&ShadersOk: SonarShader, AwesomeAsciiEffect, NeonSphere, WetStuff,  uShader2Free(VisualShaderScripting), AskOwlMarquee, DualTexturedShader,  SineWaveEffect, THORThunderstormHB, WhiteMageSpellsHB, WetStuffHB,  FlexibleCelShaderUAS, VertexBM, ShaderProjectBM(Water, Flag, FlatColor, Heatmaps) UnityLibraryBM(VerticalDistanceCameraFade,FresnelReflective,TransparentColor,TransparentColorGradient,Vertex,WaterBox,), CrestOceanBM
  5. Scenes:  SceneStreamer, TransitionManager or BeautifulTransitions$12, Simple2DCutscenes, 
  6. Cutscenes: FungusBM, LearnTimelineForTheHardWay, ManuallyUseCoroutines
@@ -1183,33 +1478,36 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  10. AllIn1SpriteShader, FacetedTerrainShaderBM
  11. PolygonPacksHB, 
  
+ 
+ 
  Art: 3D Asset creation I own but I might forget about 
  ----------------------------
  1. Specifics: 
 	-  ObjectExploder, Fracturing&Destruction, InventoryPro(HBorGH)
+	- DynamicBone or Jiggle or TailAnimatorHB, ObiRope,
  2. Mesh Making Best:
-	- ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMesh, PaintIn3D
+	- Crocotile, ClayxelsHB, ProBuilderUAS, UModelerHB, Blender, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), SplineMesh, PaintIn3D
 	- pifuhdPictureTo3DOnYoutube
  3. Mesh Making Ok:
 	- CorelCAD, MeshCreator (helps make meshes), Scriptinunitythensavetomesh, SorcarForBlender, Many more interesting ones in bookmarks, DualTexturedShader, SabreCSG, ChiselCSG, Magicavoxeltools(mesh to magicavoxel), RealtimeCSG, 
  4. Meshes:
-	- DeformBM, MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer, DynamicBone or Jiggle, ObiRope, DualTextured, ObjectExploder
+	- DeformBM, MeshCombineStudio2HB, Meshkit, AutoLOD or PolyFew, Fracuring&Destruction, SplineMeshFree, MeshDeformer (Make cool curved spline tracks), DualTextured, ObjectExploder
  
  
  Art: 3D Level Design Tools I own but might forget about
  -----------------------------
  1. Level Tools Best: 
-	- EasySnap, DungeonArchitect, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, LowPolyWindUAS
+	- EasySnap, DungeonArchitect, SciFiTopDownGameTemplate, SplineMeshFree, LookThroughObjects, LevelBuildingTools, RandomDuplicate, YetAnotherPrefabPainter, LowPolyWindUAS, KenShape($3OnItch)
 	- $40Monkey
  2. Level Generators 
-	Best: DonutStudiosAIandProceduralGeneration, DungeonizerFav, CurvedWorld2020, MapGen, MeshCombiner, LevelBuilder, MapMagic2, 
+	Best: ProceduralCaveGenerator(GH), DonutStudiosAIandProceduralGeneration, DungeonizerFav, CurvedWorld2020, MapGen, MeshCombiner, LevelBuilder, MapMagic2, 
 	Good: ExportRandomFantasyCitytoJSONBM, KretoskarUnityProceduralLevelGenerator, DungeonDiggerTileLevelGenerator
 	- Coolestthingstodivedeep: WFC, $45Archimatix, CreateFreeRandomLowPolyWorldswithYourVoiceBM(anything.world) UAS(InfinitySquareSpaceProcedurallygeneratedSpace)
  4. Level Designers Best:  
 	- Clayxels, ProBuilder, Blender, UModelerHB, 2Dto3DConverterVoxelizer (Amazing with MeshCombiner), UnityRgbaLevelGenerator(withMeshCombiner),  JustDrawThemAsPicturesAndImportThemToBlender, RealtimeCSG, MastBM
  5. Terrain: 
-	- Best: MapMagic2, GaiaHB, TerraWorld, AlphaxaonRealtimeTerrainBM, MCSCavesAndOverhangeHB,  ReliefTerrainPackHB, Videoaboutmakingbeautifulterrains, KahVeeTerrainGeneratorSS, Pre-made terrains islands in uas, DrParadox312UnityTerrainPainter, 
-	- FacetedTerrainShaderBM
+	- Best: MapMagic2, GaiaHB, TerraWorld, AlphaxaonRealtimeTerrainBM, MCSCavesAndOverhangeHB,  ReliefTerrainPackHB, Videoaboutmakingbeautifulterrains, KahVeeTerrainGeneratorSS, Pre-made terrains islands in uas, DrParadox312UnityTerrainPainter, TriplanarAndTerrainShaders(UAS, floor, differnet walls, different tops of walls), EasyTriplanarPro (Grows grass over the curve!!!), 
+	- FacetedTerrainShaderBM (aka cjurjiuFlatShaderGH)
 	- Ok: $25HexagonWorldGeneratorSS, $40LandscapeBuilderSS, $5BasicRandomTerrainGeneratorSS, $20-3DRealisticTerrainVol1BM, $6UnlimitedTerrainGenerator $5VoxelMaster(WithMeshCombiner),  UnityCookbookTerrainHeightPainter, MITRandomizedTerrainpopulatedwithAssets, BooLeetLowPolyTerrainGeneratorWithDecorations BlenderGIS, aidanProceduralTerrainGenerator, TCGJProceduralTerrainGenerator, VegetationEngineH, HowToMakeBeautifulTerrainInUnity, RunSwimFlyTerrainTools, NatureRendererHB, 
  6. Levels Ok: 
 	- BlenderWithScripting (ProceduralLevelsfromScripts), Bones3Voxels, TaurusDungeonGenerator, UnityPolygonMapGenerator, EdgarforUnity, DungeonTemplateLibrary, LevelGeneratorbyMoolt, CityGenerator,  SceneObjExporter, Magicavoxeltools(mesh to magicavoxel)
@@ -1254,7 +1552,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  2. For pixel art specifically: 
 	- Pixelmash (pixelize images), geometrize PicturesIntoGeometry, PixelAnimationsAndEffectsHB, AllIn1SpriteShaderHB, Dain-AppItch
  3. Levels2D: 
-	- Ferr2DTerrainTool,c2Dto3DConverterVoxelizer (Amazing with MeshCombiner), JustDrawThemAsPicturesAndImportThemWithSpriteCollider, LDTK, WFC3DUnity (Best but hard), 
+	- Ferr2DTerrainTool, c2Dto3DConverterVoxelizer (Amazing with MeshCombiner), JustDrawThemAsPicturesAndImportThemWithSpriteCollider, LDTK, WFC3DUnity (Best but hard), 
  4. Levels2D Good: 
 	- WaveFunctionCollapseWFC,  WFC3DUnity, WFCJS, TextureSynthesisGithub, TextureMaker, PrefabSwatch, EdgarProforUnity, SpelunkyLevelGenerator, EdgarforUnity, UnityProcedural2DMap,  More in bookmarks
  5. Level Graphics:
@@ -1263,6 +1561,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 	- Backgrounds(Parallax, Jumping, Space, PixelArt(Mountain, Planet)), OverworldAKALevelMap(SpaceGame ), City, Battle,  
 	- ItchRacial(HUGEPixelartAssetPack1500Tiles,), SuperpowersBackgroundsPackBM(Parallax), 
 	- Quaternius(TexturedNature(AWESOME), Bushes(PinkGreenClassy), SnowNature, Desert,)
+
 
 
  Characters: 2D or 3D Character assets I own but I might forget about
@@ -1274,7 +1573,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  4. Models: 
 	- Clayxels, 3DCharactersVehiclesAndPropsUAS, 15-203DCharactersEnemiesUltimateFantasyHB, 2DRetroActRPGSpritePack, PaintIn3D, DynamicBone or Jiggle, TailAnimator, AdvancedPolygonCollider, Superpowers3DVehiclesPackBM,
  5. 2DAI: 2DEnemyToolkit, PathBerzerker2d360PlatformerPathfinding, BloodstoneAI, ReGOAP, SteeringBehaviors, LovelyAgents, SensorToolkit, DonutStudiosAIandProceduralGeneration
- 6. 3DAI: EmeraldAI, Planilo, NPBehave, CoordEDBT, StarterKitMovementCameraAI, DarkTreeFPS, FPSStarterKit(simpleAI), PolygonFPS, RealisticFPSPrefab, TopDownAI, ReactionAISteroidEdition, BreadcrumbAI, LowPolyAnimatedAnimals(Wander), CandiceAIForGames, RealisticFPSPrefab, SensorToolkitHB, 
+ 6. 3DAI: EmeraldAI, Planilo, NPBehave, CoordEDBT, StarterKitMovementCameraAI, DarkTreeFPS, FPSStarterKit(simpleAI), PolygonFPS, RealisticFPSPrefab, TopDownAI, ReactionAISteroidEdition, BreadcrumbAI, LowPolyAnimatedAnimals(Wander), CandiceAIForGames, RealisticFPSPrefab, SensorToolkitHB, APathfindingPro(FreeVersionAtWebsite,CodeMonkeyVideoGreat), SeveralMITMultithreadedAStaronGithub, 
  7. Sprites: SeveralInItchRacial, TonsInRpgGameDevelopmentAssetsHB(Creatures,Items, Sprites, Tilesets, Characters, Animations), 
 	- ItchNov2020MegaBundle(Kits(MonstersMatch3,Runner,Jump, UnderwaterWorld,TDSPixelArt2DKit, TopDownTank2DKit,SpaceShooter2D,SpaceShooterPixelArt,PixelArtPlatformer2DGameKit), CharacterSprite(ManyPacks), Character, Zombie(ManyPacks), 2DGame___Sprite(ManyPacksDragonGoblinTons), 2DWeapons, TopDownShooter(Monster,Zombie,MainCharacters,ZombieGameKit), Robot, Icons, , other, Sky,City, VerticalSpace, Forest, Mountain,  ), Spaceship, Weapons, FantasyGameMainHeroes, NPC, TowerDefenseTileset,  4DirectionNPCSprites,  CharactersForPlatformers, Monsters,Boss,PixelArt
 	- Bookmarks(ShadowOfTheWyrm, AnimatedPixelHero)    UAS(RetroActSpritePack(GameboyRPG))
@@ -1292,7 +1591,7 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
 	- GamesPlusJamesRacingTutorial
  2. MarbleMadness: 
 	- Minigolfuas, KronbitsBM
- 3. TextAdventures: Squiffy
+ 3. TextAdventures: Squiffy, Twine, RPG Profiles from Itch
  4. FightingGame: FighterPack or WarriorPack or MartialArts(for a whole game)
  5. 2DCannonFodder: TDSPixelArtSoldierAndVehicle(ItchNov)(PERFECT), TDSPixelArt2DKit(ItchNov), 7ExplosionSpritesItch,
  6. TowerDefense: 
@@ -1332,7 +1631,6 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  21. QBert: QBertReplicaGH, 
  22. Alien Syndrome:
  	- SciFiEngineer
-	- 
  23. VR Elevator Action;
  24. Asteroids: 3DBreakableAsteroids,
  25. Finishing Gobblet
@@ -1358,9 +1656,11 @@ Find the absolute best of all of my assets.  The top 50 maybe?  Top several for 
  3. Health, Death, Dialogue, SaveLoad, LevelSelect, Overworld, SceneTransitions, Pause, Checkpoints, SaveLoadLevelProgress, OverworldLevelSelect, Fracturing&Destruction, 
  4. GreatCharacterController, Shooting, MovingPlatforms
 
- PowerToolsBundle:
- ----------------------------
- Editor Console Pro
+
+
+PowerToolsBundle:
+----------------------------
+Editor Console Pro
 Tail Animator
 Rainbow Folders 2
 The Vegetation Engine
@@ -1377,6 +1677,520 @@ EnhancedScroller
 Dialogue System for Unity
 TerraWorld - Automated Level Designer
  
+
+<!--
+  /$$$$$$   /$$                           /$$     /$$                    
+ /$$__  $$ | $$                          | $$    |__/                    
+| $$  \__//$$$$$$    /$$$$$$   /$$$$$$  /$$$$$$   /$$ /$$$$$$$   /$$$$$$ 
+|  $$$$$$|_  $$_/   |____  $$ /$$__  $$|_  $$_/  | $$| $$__  $$ /$$__  $$
+ \____  $$ | $$      /$$$$$$$| $$  \__/  | $$    | $$| $$  \ $$| $$  \ $$
+ /$$  \ $$ | $$ /$$ /$$__  $$| $$        | $$ /$$| $$| $$  | $$| $$  | $$
+|  $$$$$$/ |  $$$$/|  $$$$$$$| $$        |  $$$$/| $$| $$  | $$|  $$$$$$$
+ \______/   \___/   \_______/|__/         \___/  |__/|__/  |__/ \____  $$
+                                                                /$$  \ $$
+                                                               |  $$$$$$/
+                                                                \______/ 
+ /$$$$$$$           /$$             /$$            /$$$$$$               
+| $$__  $$         |__/            | $$           /$$__  $$              
+| $$  \ $$ /$$$$$$  /$$ /$$$$$$$  /$$$$$$        |__/  \ $$              
+| $$$$$$$//$$__  $$| $$| $$__  $$|_  $$_/           /$$$$$/              
+| $$____/| $$  \ $$| $$| $$  \ $$  | $$            |___  $$              
+| $$     | $$  | $$| $$| $$  | $$  | $$ /$$       /$$  \ $$              
+| $$     |  $$$$$$/| $$| $$  | $$  |  $$$$/      |  $$$$$$/              
+|__/      \______/ |__/|__/  |__/   \___/         \______/               
+                                                                         
+--> 
+
+Added UWeen(MIT) and NaughtyAttributes(MIT) and ScriptInspector3(UAS) and UVFreeShader(UAS)
+Details of the first three are above
+UVFreeShader is taking a freaking eternity to import from the asset store.  ugh.  3 minutes maybe?  4?  probably 5 min now I'm trimming it down.  1. I'm getting a texture from cc0textures.com and deleting all of the existing ones from the uvfree download.  2. I'm deleting most of the shaders that came with it so they never have to all compile again.  Interesting it has inconsistent line endings warning.   I deleted everything except 2 shaders and the editor folder: pbr standard and metalliic top bottom.  Note: I deleted a lot including non batching variants and terrain variants.  Added Metal0381k from cc0textures. 
+Now I'm installing "savegamefree" from github..  I was about to install one of the several save game systems I have bought on uas but this is MIT licensed.  To be fair one of those is too but I have a better feeling about tthis one.  There was also a really good one on there called advanced save that I could use but this looks best.  There are two warnings: One about unity 2019 not supporting samsungweb player, and the other about unity 2017.2 and beyond having a slightly different command for web requests.  I dont think I'll be able to make and test fixes for these right now, I wasn't planning on testing that web request at all.  Its just 566k  I fixed the warnings and submitted pull requests for both.
+
+Now that im really into it Naughty attributes has a constant runtime error. `The target object is null. Check for missing scripts.`  The thing is I haven't used it at all yet its just sitting there. Maybe its installed wrong?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+ /$$$$$$$                                                  /$$                          
+| $$__  $$                                                | $$                          
+| $$  \ $$  /$$$$$$  /$$$$$$/$$$$   /$$$$$$  /$$$$$$/$$$$ | $$$$$$$   /$$$$$$   /$$$$$$ 
+| $$$$$$$/ /$$__  $$| $$_  $$_  $$ /$$__  $$| $$_  $$_  $$| $$__  $$ /$$__  $$ /$$__  $$
+| $$__  $$| $$$$$$$$| $$ \ $$ \ $$| $$$$$$$$| $$ \ $$ \ $$| $$  \ $$| $$$$$$$$| $$  \__/
+| $$  \ $$| $$_____/| $$ | $$ | $$| $$_____/| $$ | $$ | $$| $$  | $$| $$_____/| $$      
+| $$  | $$|  $$$$$$$| $$ | $$ | $$|  $$$$$$$| $$ | $$ | $$| $$$$$$$/|  $$$$$$$| $$      
+|__/  |__/ \_______/|__/ |__/ |__/ \_______/|__/ |__/ |__/|_______/  \_______/|__/      
+                                                                                        
+
+-->
+
+ 1. PlatformerPro2, CorgiEngine, DarkTreeFPSUAS, TopDownEngine, 
+ 2. HotReload: Bolt, LogicForge, FlowCanvasHB
+ 3. ScriptInspector3, UVFreeShader, 
+ 4. Fracturing&Destruction, ObjectExploder
+ 5. Clayxels, ProBuilder, MeshCombineStudio2HB, PaintIn3D,  2Dto3DVoxelizer, PolyFew
+ 6. Polaris, Terra, Ferr2DTerrain, CurvedWorld2020, GaiaHB, Anything.World
+ 7. Ferr2DTerrain, 
+ 8. TextAnimator, Modular3DTextUAS, SpeechEngine (AmigaSpeech), 
+ 9. LowPolyWindUAS, ObiRope, Jiggle, DynamicBone, TailAnimator
+ 10. AllIn1SpriteShader, FacetedTerrainShaderBM
+ 11. PolygonPacksHB, 
  
+ Projects and Assets to build a game around:
+
+- CSV Reader
+  - Should read the whole file as 2d array of strings
+  - Have a place where you can filter each string as it is read in from the file
+- CSV Writer
+  - Should accept a 2d array of strings
+- Make a modular title screen
+  - That I can drag in and just call title screen show and then it takes care of getting rid of itself
+- High score saving system which will save and display the high score list for that level
+	- only needs to be linked in with a current score scriptable object 
+	- level id string based on scene name 
+		- advanced mode makes it changeable as a string
+		- and a button to allow it to copy the scores in player prefs 
+	- just needs to be told when the level is over
+		- Scriptable Object that this is observing?  Event this signs up for?
+		- Really only needs to know the level name at that moment	
+- Dialogue Popups for mid or level entrance cutscenes
+- Text Scrolling Pages (like in Llamatron)
+- -----------------
+- Anything.World
+- Level Generator
+  - Super simple randomized modular mirror level generator +/- 6 blocks from the starting point of the screen but not so its closed off in the middle obviously
+  - With a randomized list of materials as an option
+  - and with a set of prefabs to pick from
+- Sounds that I can re-use over and over (just super simple where this is the only creative part) 
+- Explosion VFX
+  - With sounds
+  - Hits and things too
+  - This could be that pinball game v2
+- Spaceship sprites or models
+	- super easy to re-use
+	- drag and drop with different behaviors easily configurable
+	
+
+
+Apr 16 2021
+Excited About:
+- Models: Clayxels, SplineMeshFree, KenShape($3Itch)
+- Models fx: DynamicBone or Jiggle or TailAnimatorHB, TriplanarUVFreeBM, RealisticEffectsPack4HB(alsoDecals), OffScreenTargetIndicator, BearFXExplosions
+- AI: DonutStudiosAIandProceduralGeneration, 
+- Terrain: GaiaHB, TerraWorld, Videoabout making beautifulterrains, Pre-made Terrain Islands in UAS, DrParadox312UnityTerrainPainter, EasyTriplanarPro$15 (Grows grass over the curve!!!), 
+- Levels: Clayxels, 2Dto3DConverterVoxelizer, 
+- Level Generators: DungeonArchitect, DonutStudiosProcGen, MapGenUAS, SciFiTopDownGameTemplate
+- Must Try: Anything.World
+- Manual Level Layouts: SplineMeshFree, EasySnap, RandomDuplicate, 
+- Level Shaders: LookThroughObjects, LowPolyWindUAS, FacetedTerrainShaderBM (aka cjurjiuFlatShaderGH), CurvedWorld, UnityLibraryBM(SeeThroughWalls)
+- Level FX: ObjectExploder, CurvedWorld, Fracturing&Destruction, ShaderProjectBM(Waves, CurvedWorld, Toon, Scale, Black&White, StainedGlass, Pixelated), TriplanarUVFreeBM
+- Inspector:
+- Platformer: PlatformerPro2, CorgiEngine,
+- FPS: DarkTreeFPSUAS
+- TPS: EasyCharacterMovementHB or CharacterMovementFundamentalsUAS
+- TopDown: TopDownEngine, or SciFiTopDownGameTemplate 
+- VR: TButt, VRTK, VRShooterKit, SteamVR
+- Multiplayer: UnitysNewMultiplayer, Mirror
+- Text: SpeechEngine (AmigaSpeech), Modular3DTextUAS, TextAnimator
+- InGameConfig: InGameDebugConsole, DataboxHB (Save and Configure CSVs and GoogleSheets), ComponentSaveSystem
+- QOL: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+
+  /$$$$$$  /$$   /$$ /$$      /$$ /$$   /$$ /$$$$$$$ 
+ /$$__  $$| $$  | $$| $$$    /$$$| $$  | $$| $$__  $$
+| $$  \__/| $$  | $$| $$$$  /$$$$| $$  | $$| $$  \ $$
+|  $$$$$$ | $$$$$$$$| $$ $$/$$ $$| $$  | $$| $$$$$$$/
+ \____  $$| $$__  $$| $$  $$$| $$| $$  | $$| $$____/ 
+ /$$  \ $$| $$  | $$| $$\  $ | $$| $$  | $$| $$      
+|  $$$$$$/| $$  | $$| $$ \/  | $$|  $$$$$$/| $$      
+ \______/ |__/  |__/|__/     |__/ \______/ |__/      
+        
+        Overhead or Side Scrolling Shooter                                             
+-->                                                 
+                                                     
+
+
+
+<!--
+ /$$$$$$$                                                      
+| $$__  $$                                                     
+| $$  \ $$ /$$$$$$   /$$$$$$$ /$$$$$$/$$$$   /$$$$$$  /$$$$$$$ 
+| $$$$$$$/|____  $$ /$$_____/| $$_  $$_  $$ |____  $$| $$__  $$
+| $$____/  /$$$$$$$| $$      | $$ \ $$ \ $$  /$$$$$$$| $$  \ $$
+| $$      /$$__  $$| $$      | $$ | $$ | $$ /$$__  $$| $$  | $$
+| $$     |  $$$$$$$|  $$$$$$$| $$ | $$ | $$|  $$$$$$$| $$  | $$
+|__/      \_______/ \_______/|__/ |__/ |__/ \_______/|__/  |__/
+                                                               
+                                                               
+                                                               
+-->
+
+art
+1. Use WFC and pixel art to make levels
+	- Convert the levels using blender or Terrains
+1. Use Kenshape to make levels
+
+
+
+<!-- 
+ /$$    /$$ /$$$$$$$                                                            
+| $$   | $$| $$__  $$                                                           
+| $$   | $$| $$  \ $$                                                           
+|  $$ / $$/| $$$$$$$/                                                           
+ \  $$ $$/ | $$__  $$                                                           
+  \  $$$/  | $$  \ $$                                                           
+   \  $/   | $$  | $$                                                           
+    \_/    |__/  |__/                                                           
+  /$$$$$$                                /$$                                 /$$
+ /$$__  $$                              | $$                                | $$
+| $$  \ $$ /$$    /$$ /$$$$$$   /$$$$$$ | $$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$$
+| $$  | $$|  $$  /$$//$$__  $$ /$$__  $$| $$__  $$ /$$__  $$ |____  $$ /$$__  $$
+| $$  | $$ \  $$/$$/| $$$$$$$$| $$  \__/| $$  \ $$| $$$$$$$$  /$$$$$$$| $$  | $$
+| $$  | $$  \  $$$/ | $$_____/| $$      | $$  | $$| $$_____/ /$$__  $$| $$  | $$
+|  $$$$$$/   \  $/  |  $$$$$$$| $$      | $$  | $$|  $$$$$$$|  $$$$$$$|  $$$$$$$
+ \______/     \_/    \_______/|__/      |__/  |__/ \_______/ \_______/ \_______/
+                                                                                
+                                                                                
+                                                                                
+                                                             
+-->
+
+
+
+
+<!-- 
+  /$$$$$$                                  /$$     /$$             /$$    
+ /$$__  $$                                | $$    | $$            | $$    
+| $$  \__/  /$$$$$$  /$$   /$$ /$$$$$$$  /$$$$$$  | $$  /$$$$$$  /$$$$$$  
+| $$ /$$$$ |____  $$| $$  | $$| $$__  $$|_  $$_/  | $$ /$$__  $$|_  $$_/  
+| $$|_  $$  /$$$$$$$| $$  | $$| $$  \ $$  | $$    | $$| $$$$$$$$  | $$    
+| $$  \ $$ /$$__  $$| $$  | $$| $$  | $$  | $$ /$$| $$| $$_____/  | $$ /$$
+|  $$$$$$/|  $$$$$$$|  $$$$$$/| $$  | $$  |  $$$$/| $$|  $$$$$$$  |  $$$$/
+ \______/  \_______/ \______/ |__/  |__/   \___/  |__/ \_______/   \___/  
+    
+    or Llamatron                                                                      
+--> 
+
+- TopDown: TopDownEngine, or SciFiTopDownGameTemplate
+
+- AI: DonutStudiosAIandProceduralGeneration, SciFiTopDownGameTemplate, TopDownEngine, DarkTreeFPSUAS
+
+- Models or Level Parts: KenShape($3Itch),  AssetForge, Clayxels,  PolyFew, JustDrawThemAsPicturesAndImportThemToBlender,
+
+- Level Generators: DungeonArchitect, DonutStudiosProcGen, MapGenUAS, SciFiTopDownGameTemplate, Mono WaveFunctionCollapse, MeshCombineStudio2HB, 
+
+- SpeechEngine (AmigaSpeech)
+
+- InGameConfig: InGameDebugConsole, DataboxHB (Save and Configure CSVs and GoogleSheets) or ComponentSaveSystem
+
+- QOL: UWeen(MIT) and NaughtyAttributes(MIT) and ScriptInspector3(UAS) and UVFreeShader(UAS) (Stripped Down version)
+
+- Terrain: Polaris, Terra, Ferr2DTerrain, CurvedWorld2020, GaiaHB
+
+<!--
+  /$$$$$$                                                       
+ /$$__  $$                                                      
+| $$  \__/  /$$$$$$   /$$$$$$   /$$$$$$$  /$$$$$$               
+|  $$$$$$  /$$__  $$ |____  $$ /$$_____/ /$$__  $$              
+ \____  $$| $$  \ $$  /$$$$$$$| $$      | $$$$$$$$              
+ /$$  \ $$| $$  | $$ /$$__  $$| $$      | $$_____/              
+|  $$$$$$/| $$$$$$$/|  $$$$$$$|  $$$$$$$|  $$$$$$$              
+ \______/ | $$____/  \_______/ \_______/ \_______/              
+          | $$                                                  
+          | $$                                                  
+          |__/                                                  
+ /$$   /$$                               /$$                    
+| $$  | $$                              |__/                    
+| $$  | $$  /$$$$$$   /$$$$$$   /$$$$$$  /$$  /$$$$$$   /$$$$$$ 
+| $$$$$$$$ |____  $$ /$$__  $$ /$$__  $$| $$ /$$__  $$ /$$__  $$
+| $$__  $$  /$$$$$$$| $$  \__/| $$  \__/| $$| $$$$$$$$| $$  \__/
+| $$  | $$ /$$__  $$| $$      | $$      | $$| $$_____/| $$      
+| $$  | $$|  $$$$$$$| $$      | $$      | $$|  $$$$$$$| $$      
+|__/  |__/ \_______/|__/      |__/      |__/ \_______/|__/      
+                                                                
+-->
+
+Art
+1. See Racing and FPS VR and Wolfenstein
+
+
+
+<!--
+  /$$$$$$$                      /$$                    
+| $$__  $$                    |__/                    
+| $$  \ $$  /$$$$$$   /$$$$$$$ /$$ /$$$$$$$   /$$$$$$ 
+| $$$$$$$/ |____  $$ /$$_____/| $$| $$__  $$ /$$__  $$
+| $$__  $$  /$$$$$$$| $$      | $$| $$  \ $$| $$  \ $$
+| $$  \ $$ /$$__  $$| $$      | $$| $$  | $$| $$  | $$
+| $$  | $$|  $$$$$$$|  $$$$$$$| $$| $$  | $$|  $$$$$$$
+|__/  |__/ \_______/ \_______/|__/|__/  |__/ \____  $$
+                                             /$$  \ $$
+                                            |  $$$$$$/
+                                             \______/ 
+-->
+1. 3D Racing (overhead or first person)
+	- EasyRoads3D(AdjustsTerrainToFit) withARandomTerrain or  KajamansRoads (for3DFirstPersonRoads) or TrackGen,  , CurvedGrounds, EndlessForest, use cars and boats and copters, Highroad Engine$60UAS, CurvedWorld, SplineMeshFree, MeshDeformer, LoadsofCarVehiclesinUASbyLabel, UAS(LakeRaceTrack, LowPolyRoadPack, MountainRaceTracks, CarTown, MoreAreInCitiesInUAS, ToonGasStation, )
+	- Quaternius(StreetPack,Ships, CarPack,AnimatedTankPack,ModularTrainPack,Airplanes,PublicTransport,CarsVol2,Spaceships,) SpritelibBM(vehicles, tankbrigade )  
+	- GamesPlusJamesRacingTutorial
+
+
+<!--
+ /$$$$$$$$ /$$$$$$$   /$$$$$$                                  /$$    /$$ /$$$$$$$ 
+| $$_____/| $$__  $$ /$$__  $$                                | $$   | $$| $$__  $$
+| $$      | $$  \ $$| $$  \__/        /$$$$$$   /$$$$$$       | $$   | $$| $$  \ $$
+| $$$$$   | $$$$$$$/|  $$$$$$        /$$__  $$ /$$__  $$      |  $$ / $$/| $$$$$$$/
+| $$__/   | $$____/  \____  $$      | $$  \ $$| $$  \__/       \  $$ $$/ | $$__  $$
+| $$      | $$       /$$  \ $$      | $$  | $$| $$              \  $$$/  | $$  \ $$
+| $$      | $$      |  $$$$$$/      |  $$$$$$/| $$               \  $/   | $$  | $$
+|__/      |__/       \______/        \______/ |__/                \_/    |__/  |__/
+                                                                                   
+                                                                                   
+                                                                                   
+-->
+
+Art
+ 18. Wolfenstein: 
+	- Superpowers(FPSPack), UAS(FPSIcons, ToonMuzzleflash, TreasureChestPack, 
+	- WillPyetheCSguy/ProceduralDungeonFPSGH
+
+
+
+
+<!--
+ /$$$$$$$  /$$             /$$      /$$$$$$                                 
+| $$__  $$| $$            | $$     /$$__  $$                                
+| $$  \ $$| $$  /$$$$$$  /$$$$$$  | $$  \__//$$$$$$   /$$$$$$  /$$$$$$/$$$$ 
+| $$$$$$$/| $$ |____  $$|_  $$_/  | $$$$   /$$__  $$ /$$__  $$| $$_  $$_  $$
+| $$____/ | $$  /$$$$$$$  | $$    | $$_/  | $$  \ $$| $$  \__/| $$ \ $$ \ $$
+| $$      | $$ /$$__  $$  | $$ /$$| $$    | $$  | $$| $$      | $$ | $$ | $$
+| $$      | $$|  $$$$$$$  |  $$$$/| $$    |  $$$$$$/| $$      | $$ | $$ | $$
+|__/      |__/ \_______/   \___/  |__/     \______/ |__/      |__/ |__/ |__/
+
+-->
+
+Art
+12. Platformer: 
+	- Pixel: ItchNov(Tileset(Ruins2D, ForestPlatformer, MineBosses, SwampEnemies, Desert, Snow, SnowEnemies, Ruin, Ruin Enemy, Ruin Animal, Animated Traps, DesertBosses, AnimatedTraps, RuinBosses,Magic, SnowBosses, PirateInvasion, Steampunk, RiseOfTheZombiesMummy), SuperpowersBackgroundsPackBM(Parallax), 
+	- Pixel: Tier 2: ItchNov(MiningAndFounding, Herbalism, Cookery, Engineering, Farming,), KronbitsBM
+	- 2D ItchNov( MountainMonsters, BossMonster, Weapons(many), Bosses , Alchemy), Superpowers(PrehistoricPlatformer1&2, RPGBattleSystem), DeepNightBM(8x8), Spritelib(platform)
+	- 2.5D Platformer:  Quaternius(FreePlatformerPack, AnimatedRobot,
  
- 
+
+
+<!--
+ /$$$$$$$$ /$$                                 /$$                    
+|__  $$__/| $$                                | $$                    
+   | $$   | $$$$$$$  /$$   /$$ /$$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$ 
+   | $$   | $$__  $$| $$  | $$| $$__  $$ /$$__  $$ /$$__  $$ /$$__  $$
+   | $$   | $$  \ $$| $$  | $$| $$  \ $$| $$  | $$| $$$$$$$$| $$  \__/
+   | $$   | $$  | $$| $$  | $$| $$  | $$| $$  | $$| $$_____/| $$      
+   | $$   | $$  | $$|  $$$$$$/| $$  | $$|  $$$$$$$|  $$$$$$$| $$      
+   |__/   |__/  |__/ \______/ |__/  |__/ \_______/ \_______/|__/      
+                                                                      
+  /$$$$$$   /$$               /$$ /$$                
+ /$$__  $$ | $$              |__/| $$                
+| $$  \__//$$$$$$    /$$$$$$  /$$| $$   /$$  /$$$$$$ 
+|  $$$$$$|_  $$_/   /$$__  $$| $$| $$  /$$/ /$$__  $$
+ \____  $$ | $$    | $$  \__/| $$| $$$$$$/ | $$$$$$$$
+ /$$  \ $$ | $$ /$$| $$      | $$| $$_  $$ | $$_____/
+|  $$$$$$/ |  $$$$/| $$      | $$| $$ \  $$|  $$$$$$$
+ \______/   \___/  |__/      |__/|__/  \__/ \_______/
+                                                     
+
+-->
+
+
+
+
+<!--
+
+  /$$$$$$            /$$  /$$$$$$ 
+ /$$__  $$          | $$ /$$__  $$
+| $$  \__/  /$$$$$$ | $$| $$  \__/
+| $$ /$$$$ /$$__  $$| $$| $$$$    
+| $$|_  $$| $$  \ $$| $$| $$_/    
+| $$  \ $$| $$  | $$| $$| $$      
+|  $$$$$$/|  $$$$$$/| $$| $$      
+ \______/  \______/ |__/|__/      
+                                  
+            Golf or Pinball or Megaball or Scorched Tanks                      
+-->
+
+2. MarbleMadness: 
+	- Minigolfuas, KronbitsBM
+ 19. Megaball:
+	- Spritelib(Arinoid)
+
+
+<!--
+  /$$$$$$              /$$    
+ /$$__  $$            | $$    
+| $$  \ $$  /$$$$$$  /$$$$$$  
+| $$$$$$$$ /$$__  $$|_  $$_/  
+| $$__  $$| $$  \__/  | $$    
+| $$  | $$| $$        | $$ /$$
+| $$  | $$| $$        |  $$$$/
+|__/  |__/|__/         \___/  
+                                                                                                                     
+-->
+
+No art and coding at the same time (for me)
+- I love art and making art, but I cant do art while I'm doing games it just doesnt work for me.  
+- Something to do with the limitless options of art and the baggage associated with the limitless import options too.  
+- 
+
+Favorite Options
+
+Crocotile to make the parts and characters like Compound
+Or Blender or Wings3D to make the parts and characters Vertex Shaded like Thunderstrike
+Or Blender or Wings3D to make the parts and characters with one to two textures and use colored scratched plastic 
+
+
+
+(Many more options in my paint program list)
+
+
+
+See 'Characters: 2D or 3D Character assets I own but I might forget about' above                                                                                               
+                                                                                                   
+PaintIn3D, DynamicBone or Jiggle, TailAnimator,
+
+
+
+<!--
+
+ /$$                                     /$$          
+| $$                                    | $$          
+| $$        /$$$$$$  /$$    /$$ /$$$$$$ | $$  /$$$$$$$
+| $$       /$$__  $$|  $$  /$$//$$__  $$| $$ /$$_____/
+| $$      | $$$$$$$$ \  $$/$$/| $$$$$$$$| $$|  $$$$$$ 
+| $$      | $$_____/  \  $$$/ | $$_____/| $$ \____  $$
+| $$$$$$$$|  $$$$$$$   \  $/  |  $$$$$$$| $$ /$$$$$$$/
+|________/ \_______/    \_/    \_______/|__/|_______/ 
+
+-->
+
+
+
+
+Mesh Combine Studio 
+
+WFC for Levels
+Blender to convert the WFC png into a huge mesh
+
+Curved World 
+Asset Forge
+Ken Shape $3.99
+
+
+Also Clayxels
+
+1. Use WFC and pixel art to make levels
+	- Convert the levels using blender or Terrains
+1. Use Kenshape to make levels
+
+
+
+<!--
+ /$$$$$$           /$$                          
+|_  $$_/          | $$                          
+  | $$   /$$$$$$$ | $$$$$$$   /$$$$$$  /$$   /$$
+  | $$  | $$__  $$| $$__  $$ /$$__  $$|  $$ /$$/
+  | $$  | $$  \ $$| $$  \ $$| $$  \ $$ \  $$$$/ 
+  | $$  | $$  | $$| $$  | $$| $$  | $$  >$$  $$ 
+ /$$$$$$| $$  | $$| $$$$$$$/|  $$$$$$/ /$$/\  $$
+|______/|__/  |__/|_______/  \______/ |__/  \__/
+                                                
+-->
+
+
+
+
+1. Find transform extensions
+2. Pull out the sabrecsg extensions
+3. make a totally transparent starting point that is super lightweight and has zero side effects or baggage and document it in its folder structure
+
+
+https://lettier.github.io/3d-game-shaders-for-beginners/index.html
+
+

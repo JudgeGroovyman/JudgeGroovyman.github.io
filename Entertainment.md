@@ -1,5 +1,7 @@
 # Twitch Notes #
 
+rasslin, pinkdogfan1, therapydragontwitch (best positive community)
+
 This is just a small portion of notes that I happened to make from my twitch watching.
 
 TheCraftyUnicorn mama bear glitched
@@ -96,6 +98,19 @@ Middle Aged Stream Aug 3 2020
 Dawn solves puzzle
 https://clips.twitch.tv/ScrumptiousBelovedGazelleGOWSkull
 
+# Board Games #
+
+Adult Gamers from Gamer Groups (aka adult gamers): what I mean by that is they know exactly what to do, are experienced with many other games, are probably experienced with this game or something like it, have zero overwhelm when playing, can think exclusively about strategy not mechanics and therefore will do better than new young or intimidated players),
+
+Pandemic
+
+Great game but some rules should be different: 
+1. The manual says (paraphrased) "Things you might not know: You can trade any card with any player!  (provided you meet the virtually impossible conditions of being on the same city.  Oh and you can only trade that one card when you are on the same city together.)" I think this is bs. If you are in the same city with another researcher you should be able to trade as an action any card you have.  It doesn't make sense that you would meet with them and be like ... well I mean I HAVE this information and it would save the world, but ... well ... I'm not supposed to so ... Also without this it makes this really fun trading element of the game almost worthless.  
+2. You should be able to pick your player (this would allow for you to plan a strategy up front as a team). 
+3. two of the roles should be better .... I forgot which, [people think about and discuss the balance of these roles all the time](https://boardgamegeek.com/geeklist/47148/all-available-pandemic-roles) and many of them are adult gamers so will come from that perspective, although I believe they also have beginning gamers in mind for the most part.
+4. Any diseases that have been cured already but are not yet eradicated shouldn't spread so easily and to deal with this (and to fit within the canon of the game): if a player is in that town when an infection comes there it shouldn't spread (or at least in advanced mode shouldn't outbreak there) because they are administering the cure and certainly if a research station is in that town there are plenty of people there who will always have the cure on hand.  
+obviously if any of this makes the game too easy for your group then tighten back up one of the new rules, and indeed for adult gaming groups there might not be a need (except for my first suggestion which I just think universally makes the game better), but adult gaming groups wooudl probably make it even harder by adding in (or wildcardign) even more epidemic cards or something so they could compensate. 
+5. Relax the limit of only going through the deck one time and then you lose.  That shouldn't be a limiting factor imho.  Otoh it does make the game have a pretty finite length so if you want finite length leave this one intact. 
 
 
 # Music #

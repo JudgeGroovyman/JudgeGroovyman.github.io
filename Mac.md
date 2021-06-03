@@ -6,6 +6,9 @@ macfix
 with
 1. `chmod +x Clone-Kitchen.app/Contents/MacOS/*` removes the "this application can’t be opened" problem
 2. `Right click -> Open -> Cancel -> Right Click -> Open -> Open` to get around the security of the mac gatekeeper
+3. If it still doesnt work then move it to the desktop (or anywhere) and try it again.
+
+Worked with Revenge of the Titans fromhumble bundle.  although its crashing every several levels :(
 
 
 What about "DungeonGenerator is damaged and cant be opened you should move it to the trash"?  The above ideas dont fix it.  I also had that problem with the mac version of aoz studio
@@ -18,7 +21,7 @@ Click "OK" if you are prompted to give access to files for "AmigaLive" or "FS-UA
 You can also enable this under "System Preferences", "Security & Privacy", "Privacy", "Files and Folder" and enable access to both "AmigaLive" and "FS-UAE Launcher"
 
 ### App Translocation / Gatekeeper Path Randomization ###
-
+Notes from [AmigaLive](https://www.amigalive.com)
 Starting with macOS Sierra (10.12), any application distributed outside the Mac App Store runs from a randomized path.
 This causes AmigaLive and FS-UAE Launcher not to function properly until you perform either of the following solutions.
 
@@ -69,6 +72,28 @@ This is only needed once, you can open it like normal after this."
 
 Also https://16-bits.org/pt2.php this program when you get it running says "Critical Error - the program was translocated to a random sandbox environment for security reasons and thus it cant find and load protracker.ini.  Dont worry this is normal.  To fix the issue you need to move the program/.app somewhre to clear its QTN_FLAG_TRANSLOCATE flag." Then it tells you to move it somewhere else and back. "This is not my fault its a security concept introduced in macos 10.12 for unsigned programs downloaded and unzipped from the internet."
 
+## Turning off gatekeeper ##
+https://its.uiowa.edu/support/article/4038
+I had to do this for a plugin 
+https://unity.neuraldsp.com/t/problem-abasi-with-garageband/2069
+
+IT WORKED!!!
+
+These were the errors:
+``“”.tmpN1wmJk" can’t be opened because Apple cannot check it for malicious software.
+This software needs to be updated. Contact the developer for more information.""
+
+“Fatal error:100007
+A fatal wrapper bootstrap error happened. This software cannot be loaded. Please contact the sftware publisher for support using this software.”
+
+“Audio Unit plug-in can’t be used
+The Audio Unit “Archetype A” could not be loaded for your project, and may need to be updated. Contact the manufacturer for an updated version or further assistance.”
+``
+BUT It only yworks as long as gatekeeper is still disabled
+``sudo spctl --master-disable``
+``sudo spctl --master-enable``
+
+
 # External Keyboard
 ### Home and End buttons
 A [Five minute fix](https://www.maketecheasier.com/fix-home-end-button-for-external-keyboard-mac/) for the home and end buttons
@@ -116,9 +141,11 @@ actually you need a way to open a new finder window in the same folder instantly
 # Editors #
 1. TextMate So Great
 	- Markdown mode seems to catch up slowly (maybe thats fixed). It kind of even seems to type slowly compared to bbedit.
+		- in part thats because bbedit isnt doing much to format the display.  I could remove the plugins for mate and probably be the same speed, or make my own plugin which is faster and does less on purpose (forget about resizing or something).  
 	- Great Bookmark features
 	- Great word wrap that automatically sticks to the window width.  (not as unique as I thought)
-	- Great simple macro features
+	- Great simple macro features (THE BEST)
+	- the one killer feature that this doesnt have ... well I just found out it DOES HAVE IT!  Two windows with one file!  I havent tested it extensively but it does absolutely display text in one instantly when you type in the other.  thats amazing!  how did I get there?  basically I opened a file then opened another window and used the file browser built into the sidebar to open the other file.  If you open a new window and then use the open command well it just points you back to the window you already have open, but the file browser WORKS!!!
 2. BBEdit (formerly TextWrangler)
 	- more responsive markdown text editing than textmate with built in preview menu item
 	- less inline markdown interpretation than textmate
@@ -127,7 +154,10 @@ actually you need a way to open a new finder window in the same folder instantly
 	- Word wrap doesn't automatically respond to window width . nvm its a super obvious option that I missed but I missed because its only an option .
 	- Slight concern that an evaluation feature which I care for will disappear in 30 days.  Textmate is totally free with all of those features.
 	- Script editor is kindof a mess if thats the macro features.
-
+	- ended up buying BBedit for $50 and am not really pleased.  I dont blame them since they gave a generous demo, but its just things I wasnt attentive enough about and yet still is disappointing that theyre not htere.  The killer app feature is multiple views of one file, and markdown doesnt slow down and thats really nice, otoh 
+	- This doesnt havve any reasonable macro feature! wtf!  whats that you say?  theres applescript support?  great.  nice.  Thats useful enough for large projects.  but thats not a macro imho thats a script/program.  Macros you can record and playback and this has nothign like that?  its bizarre to me honestly.  There was a part of me that was sure beyond a shadow of a doubt that this had macros and I just hadnt seeen them in the menus yet.  I am having to copy and paste my text to textmate, make my mass macro changes and pasta it back.  
+	
+	
 	
 	
 # Making .commands #
@@ -145,4 +175,9 @@ This software is GREAT.  Program your game to read from the keybaord and then yo
 just spent 30 minutes getting 'enjoyable' the controller mapping software for mac working to remap a ps4 controller button to my keyboard space bar!  It seemed to be working but then just never did shit.  looking in lots of forums where lots of people think its just totally broken, i found that you have to just delete it from accessibility and input monitoring in system prefs security tab and then re-add it and then un check and recheck it and then after like a minute or two of changed commands it started working.  now it works great to press space bar for the menu which is super convenient.  
 
 Much more about this software in the Games note esp wrt C64 games but just search for enjoyable
+
+
+# Inbox #
+
+Hold option while selecting the go menu to get directly to library
 

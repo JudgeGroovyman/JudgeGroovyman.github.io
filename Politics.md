@@ -274,3 +274,10 @@ So lots of religions are fucked up for shame reasons and distortion reasons, but
  
  "Have you ever noticed that the ones who have the closest relationship and strongest trust and faith in God as their protector are also the ones who have the most guns"
  "If you are faced with a problem and are told to pray away your gay, why arent people told to pray away the intruder in their home or pray away their corrupt government"
+ 
+ Mar 10 we learned
+lyrium/mefloquine a Malaria drug taken for going to india creates psychosis and ptsd (given to soldiers since ww2 when ptsd started). Its well documented and cristi learned about it via a podcast about india syndrome.  The documentation is so strong (70%) that it shoudl by all means not be on the market but it still is and a team of soldiers who murdered in afghan were on it and their families were warning that they werent stable, but the side effects arent seen here and written off as one time things so they are overlooked and when brought up big pharma calls them conspiracy theories and they are summarily dismissed, and the events are hidden in india because it would be bad for tourism.  Plus most or all fo our overseas soldiers have taken it since ww2 (heightening ptsd and increased likelihood of psychotic violence).  Plus its easy for doctors overseas to write it off as jet lag or resistance to new foods (which when eating healthy foods can also exacserbate the symptoms).  Damn it it was invented by teh army.  it IS efffective against malaria tho so theres that. 
+ my theory is something like this: probably strengthens certain pathways when heightened emotions happen.  it cretes india syndrome which is where peopel go psychotic because of this drug and the seeking of enlightenment which allows them to sometimes get into states which heighten emotion or create intense emotions.  
+  doxycycline is more effective and no psychotic issues.  also a lot of westerners are immune to it.  Typically these days genetics or environment many of us are immune to it naturally and if we get it we can go to the hospital over there, and could be better than rolling the dice on psychosis.
+ 
+ 

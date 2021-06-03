@@ -113,14 +113,14 @@ To use VSTs you need a host (some or many come as standalone packages as well bu
 ### Winners ###
 - [Cakewalk by Bandlab](https://www.bandlab.com/products/cakewalk) *Winner* which is apparently basically the latest version of Sonar but with none of the bundled extras.  Windows only.  To use it you just have to sign up for their online account which has [no annoying or nagging ads](https://bedroomproducersblog.com/2015/11/11/free-daw-software/) This seems to be the most fully featured of all.
 - [Traktion T7 Free](https://www.tracktion.com/products/t7-daw) is completely free last version of the software.  Mac and Windows.  No limitations.  VST support.  This is a great choice. fast efficient workflow but has a steeper learning curve.
-- [Reaper $60](https://www.reaper.fm) is free to try (and apparently never expires) and only $60 for full version and is very professional.  I'm feeling like this is a great choice at this point and is probably worth the small investment.
+- [Reaper $60](https://www.reaper.fm) *Winner* is free to try (and apparently never expires) and only $60 for full version and is very professional.  I'm feeling like this is a great choice at this point and is probably worth the small investment.
 
 ## Runners Up ##
 - [Protools First](https://www.avid.com/pro-tools-first) this is free cloud based music creation with protools level stuff, and with a few limitations: Requires broadband (you apparently can't save to your hard drive), 16 max tracks, 96khz max sample rate, and 3 total projects.  It comes with 23 plugins and 3.1GB of included sounds.  If you want to upgrade to the full version of Pro Tools which changes all of these limitations (cloud is limited to 1GB) its $30/month.  Mac or PC
 - [Podium Free](https://zynewave.com/podium-free/) this is considered the [undisputed champion of freeware DAWs](https://bedroomproducersblog.com/2015/01/23/pro-tools-free/).    Limitations are no ReWire plugins, No surround sound, 64bit mixer engine disabled, midi input and output limited to 1, and only one CPU core will be used for all plugins.  I wonder if other DAWs actually use all of the CPU cores or if this is an advanced feature of Podium commercial anyway.  Unbelievable that this is by one guy.  The full version has a very small file size, and includes a demo so you can try it out (which affects your outputted tracks until you register).  Full version is $50.  Windows Only
 - [Studio One Prime](https://shop.presonus.com/Studio-One-4-Prime) is [highly regarded](https://bedroomproducersblog.com/2015/01/23/pro-tools-free/) along with Podium Free as one of the best. Only runs on 64 bit OSs.   Full version is $100.  Windows or Mac
 - [$69 Tracktion Waveform](https://www.tracktion.com/products/waveform)
-- Apparently Garageband can use VSTs now?
+- Apparently Garageband can use VSTs now?  Yup!  Done it!
 - Music Maker is like GarageBand on Windows (VST support isn't clear)
 - Logic Pro is $199
 - [Ardour](https://community.ardour.org/download) is open source and looks pretty full featured.  I dont trust it to be intuitive or consistent enough or to not accidentally leave out features though.  
@@ -236,13 +236,20 @@ Games
 - [38911 bytes](https://www.kvraudio.com/product/38911_bytes_by_odo_synths) another C64
 - [Ice Cream](http://megavst.com/synth/icecream/)
 - [Bleep](http://tonebytes.com/bleep/) SID Simulation - not exact and therefore possibly more friendly. Arpeggiator built in
-
 	
 - $50 for a cycle exact sega genesis VST with amazing demos that sound incredible
 - $100?  [Plogue Chip Sounds](https://www.plogue.com/products/chipsounds.html) "Plogue ChipSounds. You won't find better." "Can confirm. Chipsounds is where it’s at. Used peach & toad for years until I finally shelled out for something more robust. Don’t regret it one bit."
 - Sytrus "If you have Sytrus, then I'd actually recommend that. It's kind of using a missile launcher to kill a fly, but creating 16bit-style sounds is really easy and fun if you do some slight knob twisting."
 - [$30 plogue PortaFM](https://www.plogue.com/products/chipsynth-portafm.html) 
 	
+- [Extract Dialogue](https://acondigital.com/products/extract-dialogue/) uses AI and deep learning to extract dialogue from noisy situations.  That sounds really useful
+
+Autotune
+- Waves Tune Real-Time [Deal at](http://EveryPlugIn.com)
+- Waves Tune [Deal at](http://EveryPlugIn.com)
+- SoundShifter [Deal at](http://EveryPlugIn.com)
+
+Discounts everyplugin and plugindiscounts and kvr marketplace.  [Some details about used plugins](https://www.reddit.com/r/audioengineering/comments/4tdslb/whats_the_deal_with_everyplugincom_and_why_is_it/) [Some detailis about plugin discount sites](https://gearspace.com/board/music-computers/1053944-experiences-everyplugin-com.html)
 
 # Songwriting Software #
 
@@ -261,14 +268,71 @@ Games
 
 
 
+Double Tracking (look out for mono phase issues)
+1. $99 [Double Tracker](https://www.meldaproduction.com/MDoubleTracker) Auto double tracking!
+2. $36 [Waves Reel ADT](https://www.waves.com/plugins/reel-adt) [Deal at](http://EveryPlugIn.com) Double Trackinig like beatles did it Great reviews
+3. $30 Waves Doubler [Deal at](http://EveryPlugIn.com)
+3. Free [Izotope Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html)
+4. Free [Vacuum ADT](https://www.kvraudio.com/product/adt_by_vacuumsound)
+5. Doubler Plugin by Ourafilmes windows only
+6. Free WINNER [Acondigital Multiply](https://acondigital.com/products/multiply/)
+7. [Stereo Widener](https://a1audio.alexhilton.net/a1stereocontrol) 
+8. [Stereo touch](https://www.kvraudio.com/product/stereo-touch-by-voxengo)
+9. Tokyo Dawn [Proximity](https://www.tokyodawn.net/proximity/)
+10. [Stereopposition](https://mrelwood5.wixsite.com/plugins/stereopposition) a JS plugin only
+11. "amazing tip for guitar recording, which not many people know of is: record 2 "identical takes, energy-align them with vocalign or revoice pro. then you have 2 different takes with the exact same energy levels at all times, so you can spread them LR, and they don't wobble in the stereo image. punchy like a mono-take but real stereo." tschimi tschortsch https://youtu.be/aNDmY-wU-MA&t=4304
 
 
-# Amp Sims #
+Pedal Plugins
+1. Auditory dr drive is a great free overdrive plugin
+1. Fuse Big Sur is a great free fuzz pedal sim
+1. Schrammel ojd boutique overdrive free gpl 
+1. Chow centaur free klon clone
+1. [Ignite TPA1](https://honestampsimreviews.com/2019/07/28/ignite-amps-tpa1/) is the free power amp sim (probably not needed so much anymore)
+1. Free [TSE Rat Clone](https://www.tseaudio.com/software/tseR47) 
+1. Free [TSE Tubescreamer 808 Clone](https://www.tseaudio.com/software/tse808) runs on mac ... doesnt seem to color the sound much though.  I could be wrong I was runnign it into the fortin cali
+1. [Fabfilter] makes cool eq and analyzers and had apple m1 support in December
+1. Heres like [30 great free plugins](https://www.youtube.com/watch?v=0rUJbJ17dCI) worth checking out
+1. [$58 mFreeformEqualizer](https://www.youtube.com/watch?v=Tsx8j5ZZP7g) lets you match eq and then make an IR to make one thing sound like another.  It will even export an IR for you Apple m1 support
+1. [This might be a free EQ matcher with the GR Delta feature](https://www.tokyodawn.net/tdr-nova/) great spectrum analyzer nonetheless.  mFreeform is onlyy y$58 though and does it so clearly and so well.
+1. [Great free simple plugins here](https://www.meldaproduction.com/effects/free) a midi cc generator and a stereo generator from mono and an autotune or something
 
-## Investigate These Amp Sims ##
-1. https://www.musicianonamission.com/guitar-amp-simulators-vs-real/
-2. http://www.vst4free.com/index.php?plug-ins=Guitar/Amp
-3. https://bedroomproducersblog.com/2012/02/21/bpb-freeware-studio-best-free-guitar-amp-simulator-vstau-plugins/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Songwriting #
@@ -295,4 +359,126 @@ Prechorus
 Builds up anticipation for the chorus with instumentation or a filter or build up
 
 intro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# AUs for Garage Band #
+
+How to find and install AUs in garageband
+https://www.youtube.com/watch?v=1zWVHq8P7sE
+
+
+
+
+
+# Recording Guitar with Garageband #
+
+ON Mar 10 2021 
+Option 1: Ive got my guitar plugged directlyy into the irig which I got like 10 yrs ago or so and headphones from teh irig to my years.  without the headphones plugged into the irig it seemed that it wasn't recognizing that anything was plugged into that plug ... or maybe it was a conflict with bluetooth earbuds?
+
+Option 2: plugged into my peavey vypyr vip1 and out of the phones out of it I can't monitor the tone though  atm.   Plugging the headphones into the amp sounds good on bypass but Even with the master on 0 there is a small high pitched sound at all times.  Touching my laptop case with my fingers makes a buszzing sound through the headphones of the amp even though they arent connected.  Now how to get the sound from the headphones out of the amp to my computers mic/audioLR (tip/ring/sleeve is that what its called?) Ok well I have some splitters kind of like that but they are male/male->female and so that wont work, and I would need several tricky patch cables including a trs male to male an I dont have any of that.  
+
+Option 3: guitar into vypyr, vypyr headphones into $10 usb audio interface with headphone and microphone inputs.  This works and sounds pretty good!  I've got a tube screamer in the amp, and a fender twin.  now there is a pretty pronounced red sounding whine coming through my phones that isnt afffected by amp volume or computer volume so I think its my interface.  lets see ... plugging the phones into the computer directly the whine is coming from the monitored guitar signal.  probably from the amp headphone out.  maybe if I used it in another rooom with fewer electronics it wouldnt do it idk. lets try using eq to get rid of it.  Looks like its at 4080 hz but thats a nice guitar range so its going to affect tone, and even pulling that out a lot you can still hear it.   Yeah that works but isnt usable either.
+
+Option 4: peavey vypyr usb as an interface.  would that even work?  Holy shit yes. INnstanlyt recognied as an audio interface.  NO hiss.  No whine.  Superb clarity.  update: actually the peavey has a noise reduction in it so there is a noise when palying but its not bad like those others and should be usable.  lets find out. WHOA  I dont know what I did but as I was twiddling knobs on the amp ... the track in garageband panned hard left lol ... omg it does it every tiem I change stomp boxes in the amp lol!  oh!  anytime it goes into monophonic effect mode it changes to pan hard left.  but when you switch back to stereo it doesnt center it up again lol.  Even going to bypass stompboxes does this.  So if you are switching stomppboxes stay on the black label ones or you'll have to go into your track and switch it back.  Ok so thats a quirk and minor annoyance otherwise this works really really well.  It sounds fantastic and is easy to hookup.  USB out to my usb in, stomp box set to bypass. amplifier to twin.  pregainat4oclock, low at230, mid12, high130, post7.  I wish tap tempo would stop blinking sometime lol but lots of devices do that.   Another thing I like about htis is I can have it just sitting there and I dont need any desk space.  If I want to I could add a tubescreamer too or actually some wah too.  its great and works great!  One thing thats funny is even though the vu on each track is showing signal, there is no waveform to speak of, but tiny little pixel dots.  Anyway I'm real satisfied with this solution.
+
+Mar 11 2021
+Option 5: guitar into roland cube 30, roland cube 30 recording out into little usb interface.  It works just fine. There is a constant white noise possibly from the interface.  lets see if its in headphones ... its faint in headphones only when its up loud.  using the interface the hiss is alwayys there.  It sounds good above that though but thats not really workable
+
+Option 6: Peavey usb as an interface (again) this sounds great, especially on cleans here in garage band.   There is semi substantial clearlyaudible latency.  thats ok for now but I wonder where it is coming from.  It could be my memory but I dont think we had latency problem through the little usb interface.  
+
+Option 7: YES Peavey usb as an interface but using the peavey sounds into a clean garageeband amp.  This sounds great an dthe noise isnt too bad.  There is no latency atm.  
+
+Mar 12 2021:
+Option 8: YES Zoom into mac ... well see theres a problem:  I'm using it with USB power from the same plug that my laptop is plugged into and using headphones out of the zoom its noisy ... but thats not the problem.  Maybe this little usb adapter is bullshit or broke or something because I thought it used to work but I can't run any cables from this into that and get any good sound.  Maybe with the headphone amp???  the soudn is a little buzzy in headphones but still sounds really good  (though I would like to get a higher gain brown sound like in my vypyr) but its terrible plugged into this usb thing.  Ive used several cables too same result.  This isnt just terrible in the sense that its unusable: its terrible like cant hear the sound of the guitar.  I suspect the headphone buzzing has to do with the usb power being so dirty.  Update: its not the cable or the interface.  The interface is NOT great, and is HIssy but it works fine just hissy from the roland cube, but usable for noisy clean sounds (not for high gain too noisy).  I tried the usb interface from several usb ports too and it didnt matter.  OH!  Interesting!  I pulled a power supply out of the closet and the zoom records just fine through that interface.  same buzz as the roland ( so thats the interface) but its generally gateable on cleans!  lets check out high gain.  Oh! and soem of the noise goes away when I touch the strings.  Oh and the znr on the metallica patch makes it totally not problematic even through that interface.  NICE!  This is a total winner imho 
+
+Option 9: Headphone amp with soem adapters?
+
+Option 10: Zoom to guitar-USB cable I just got a guitar cable straight to USB cable from amazon!  Using that fromteh zoom to garageband and all of a sudden i can use the high gain (although they are still problematic they are usable and the noise gate actually catches most of it!!!)  its a totallyd ifferent level and everything seems clearer. 
+
+option 11: Guitar to Guitar-uSB cable to garageband.  First thing I noticed: The clean sounds are crystal clear and beautiful.  There is no audible hiss which is amazing.  I dont like that its not a right angle plug.  I cant hold it on this couch chair without torqueiing it unfortunately. I dont sense any latency.  play a note and let it hold on and when it dies a little hiss goes away thanks to the noise gate and you can hear that it went away because it became a bit more silent but not because there was noticeable hiss prior.    I plugged a right angle extension in and it works great and makes it way more comfortable.
+Crunch: British invasion put a blanket on the speaker.  In crunch theres still a digital noise gate sound and a background hiss.  I wonder if its this guitar?  or maybe the room?  or maybe its just the amps and maybe I could get better amp sims?  Heartbroken is awesome It even cleans up with the volumen knob.  Now: speaking of the knob its noisy and this picks up every bit of that noise.  Royal Rock is real nice singing tone.   Startlit Cavern is a great effect.  American stack crunch (in distortions) is so noisy I cant even touhc my volume knob without terrible drum noises.  once you start playing it merely sounds muffled and crappy. ugh.   Not usable.
+all of the distortions seemed muffled.  They also all have terrible fry sizzle.  The sound of hair metal harmonics is actually really good but the noise is such that after every few notes its like a honking  becasue really the amplified noise is SO BAD that ... well ... before it can figure out that you stopped playing its amplified a bunch of it = honk  Modern british metal has great tone and sustain but tons of fry and super loud noise.  Stadium Spread sounds awesome with just a little sizzle when quiet and not touching the strings.    Weird.  While I was playing I got latency.  it crackled a few times.    That was on Stadium Spread.  
+WHOA Update!   A ton of hte noise was coming from the power cable being plugged into my mac.  Now that its on battery for the moment there arent tons of weird noises just a background hiss which is totally workable and normal for an amp!  NO!  That was only in stadium spread which is great now but in like Time to shred, its unworkable even without those noises.    I think stadium spread had so much processing it couldnt process it at full live speed haha.  Well maybe its just having trouble keeping up with so many different amp tracks even if they are all on mute.   The hair metal harmonics if it werent for hte noise has the best two handed tapping tone i've ever personally ygotten tbh.   
+I tried it with the apple brand power adapter and I believe there was less noise.  However.  There was still an unusable amount of noise for the high gain amp models.
+
+
+
+Notes: I haven't found anything which makes this crappy little usb audio adapter usable with high gain garageband sounds the noise floor is HUGE I guess.   it kind of works for crunch though.
+Notes: Zoom power from USB from my computer is absolutely terrible and unusable.  Also from the power supply that powers my computer.  totally ususable when sent to my interface.  it sounds like heavy machinery
+Zoom Tips: Fender clean in zoom with chicken picken in gb is great!  Great sound for certain solos: metallica, guitarvol8, Clean Multiphaseamp in GB.  
+
+
+I suspect the noise I got from teh zoom using usb power (I also later heard the same sound from the usb instrument cable) might be a fierce ground loop.
+
+Mar 13:
+
+Option 12: This cable with a usb ground loop eliminator.  This could be snake oil I dont know and you might have to get the external power supply.  So if I got a totally external audio interface and plugged that in would it be crystal clear?
+
+Option 13: I could try the american Sound pedal into the usb cable to see if that changes things electrically or wrt noise.  
+
+Qusetioiion: is there ANY way to get a crystal clear signal into this macbook via the usbc ports?  Maybe via the vypyr?  Maybe via some other USB audio interface?  IT doesnt have to be a guitar.  maybe a mic?
+
+Questiiion: What if I plugged into another outlet?  
+What if I bought the ifi defender+?  
+What if I bought that with its quiet power supply?  
+What if I bought an expensive audio interface with a ground plug and plugged it in a different outlet?  
+Would I get completely quiet operation when plugged into USB?  
+What if I just had a different powered hub?  Rumor has it this wont help see heksogens comments https://www.youtube.com/watch?v=lhzeCacFJbQ
+What if I powered the USB from another outlet?  
+What if I used this cable with my pc?  Would it have the same sounds or different sounds?  
+What if I bought the $99 ADJ POW-R BAR65 with grounded power and a USB Hub?  Review says it doesnt work with mac even with 3rd party cable
+What if I plugged an ungrounded usb hub into a grounded power strip?
+If I buy the idefender and the isilencer and the iPower will I be able to use this USB guitar cable with virtually zero noise on high gain amp models?
+What is the cheapest audio interface with a fat external power brick
+What if I bought the fancy usbc interface to compare?
+What if I also bought the fancy usb interface with fat external power brick?  (Maybe the laney?  I kind of want that one anyway lol)
+What if I also bought the usbc to guitar cable direct?
+What if I plugged this cable into the OTHER side of my laptop?  No real difference.  different ports seemed to provide different crap noises at different times.
+What if I plugged it into an externally grounded usb hub?
+What if I changed the interface settings in audio/midi settings? 
+Can I get low noise from ANY audio interface?  Pretty low noise from the vypyr vip1 actually.  twingreen, Pregain7, high9, post1, fxbypass, itsa  low volume but its pretty quiet and you can play high gain amp models with decent sound and not really usable but not god awful noise.  lots of noise sizzle.  Its jsut -91 on the noisie gate to get rid of it.    It mostly sounds like pickup noise.  when the pickups are down there is less noise but not no noise theres still a hiss.  Turning the volume all the way down on the vypyr and its gone entirely.  
+What if I plugged into the american sound (battery powered) and from there into the usb cable?  Super noisy but a different sound than straight into the guitar but not better.  
+
+
+Update: Apr 17
+The boss works great into plugins like amplitube.  There is still noise but its just what I would expect from a guitar amp.  The green cable still sounds terrible through amplitube.  Theres a kind of HUGE noise floor.
+More details in the notes in amps.md
+
+
+
+
+
+
+
+Song structures
+The opening jam here is what I would like my songs to be like
+https://www.youtube.com/watch?v=Zd0nMtcwJS0&lc=UgyYDw8SyM9XFdjsnIJ4AaABAg
+
+
+Two Parts
+1	2	3	4	5	6	7	8	
+Chord 1 Chord 2 Chord 2 Chord 2
+strum	strum 	little catchy lead
+x8
+
+
+Measure 1	2	3	4	5	6	7	8
+Chord   1     3       4       2   5  
+
+
+
+
 

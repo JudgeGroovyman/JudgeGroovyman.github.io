@@ -40,6 +40,8 @@ or to use python 3 or 2 you can use this as step 4
 
 https://www.alexkras.com/how-to-use-virtualenv-in-python-to-install-packages-locally/
 
+
+
 ## Pip ##
 1. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 2. sudo python get-pip.py

@@ -147,3 +147,7 @@ https://www.amazon.com/ESP-EC10-Electric-Guitar-Blue/dp/B01MYC3D2P)  Basswood, h
 4. [$1049 Mesa Mark 5:25](https://reverb.com/item/32713456-mesa-boogie-mark-five-25-2-channel-25-watt-guitar-amp-head)
 5. [$80 Peavey Pirahna local](https://dallas.craigslist.org/mdf/msg/d/mansfield-peavey-pirahna-head/7077136395.html)
 
+
+# Shopping Mar 1 2021 #
+1. What are NK Guitars?  Theres a beautiful headless one on reverb.  apparently a relatively cheap chinese brand but a pretty good guitar for that.
+

@@ -1,3 +1,23 @@
+
+# Working Out #
+
+Pain Threshold vs Pain Tolerance:
+High Pain Tolerance is withstanding a lot of pain.  Pain threshold is how much stress does your body have to go through before you start registering (feeling) the beginnings of the pain.  They are kind of opposites.
+
+Imagine as your body and muscles go through stresses (between 1 and 10) and start sending signals of those stresses back to your nervous system and brain, at what point 1-10 does your brain register those stresses and signals as 'pain'?  2?  5?  8?  (thats your pain threshold).
+Once they begin to register as pain, how much can you experience and live with and survive and endure before nope-ing out?  (thats your pain tolerance).
+
+My Theory: Something about the nervous system or body chemistry varies and determines our pain threshold such that even as kids they dont feel pain as early.   Imagine that Tom has a pain threshold of 2 (PT2) and Sam has a pain threshold of 7 (PT7).  Tom and Sam are playing in the sandbox in the same way and both of their muscles are doing the same motions but soon those signals begin to register to Tom (PT2) as pain and he will begin to do less and less scooping and stacking and standing and crouching and leaning and twisting, where Sam(PT7)s muscles dont register as pain yet so he keeps going (thereby naturally and without trying building more basic muscles than Tom(PT2)).  
+This applies to the heart as well so over time Sam (PT7)s heart will gain more power and enable him to naturally and without trying to do active physical things longer and generate even more natural muscle, so these things snowball.
+
+Theres a big catch that amplifies this in both directions: when you are building muscle there is a natural level of soreness associated with (as I understand it) the tearing and healing/building/rebuilding of those muscles and that soreness can register as pain.  It typically builds over time and then lessens in a curve like the shell of a turtle (likely weighted towards the earlier side), for SamPT7 as that turtle shell peaks he experiences the soreness as pain but then it restores back down to below 7 and he experiences it as simple soreness sensation again.  For TomPT2 The entire turtle shell is experienced as pain.  This matters for two reasons 1 (less significant) this means the whole process of doing the workout and the healing from it is more unpleasant for Tom PT2 than Sam PT7, but 2 (Much more important) is sleep: if your body is experiencing pain it wont/cant sleep as deep as it could/would otherwise, you might even fall asleep just fine but your body needs deep sleep to truly restore itself and heal itself and grow and thrive, so for SamPT7 the night after he has worked out his body has already ceased sending pain signals and he gets deep sleep, his muscles recover and the pain goes away faster and he is well rested and able to work out the next day, otoh for TomPT2 the pain is still being experienced by his body/brain/nervous system and the deep sleep doesnt happen as much or as deep as is needed to heal/restore those muscles quickly plus he doesnt get the deep sleep he needs to have the basic energy and alertness he needs the next day to get a good active workout then.
+
+caveats: 
+1. fortunately this soreness lessens over time as your muscles strengthen so this can be somewhat overcome in time for Tom but the process is vastly different with higher interference with his life.
+2. these things are averages so its not that every active day leads to bad sleep, but just that the advantages and disadavantages snowball and build in both directions.
+
+Update: This https://www.youtube.com/watch?v=_qMNB2HWYs8 conflicts
+
 # ADHD #
 
 Making Adderall last longer: 
@@ -61,6 +81,34 @@ https://www.uspharmacist.com/article/natural-powerful-antioxidants
 1. Castor Oil (easiest & best)
 2. GAPS diet with bone broth and meat with a specific difficult diet for several months
 3. 
+
+
+
+digestive superfoods
+cabbage (because of Lglutamine)
+L-Glutamine shields from mycotoxins (5000mg of lglutamine)
+Marshmallow (with lglutamine nourish and protect and soothe the gut)
+Capers (because of quercetin) (need 500mg of quercatin a day)
+————————————
+Quercetin 500mg
+LGlutamine 5000mg
+Marshmallow 150mg
+https://joeelo.s3-us-west-1.amazonaws.com/gutconnect-vanilla-supp-facts.png
+The long sales video:
+https://www.yourgutreboot.com/GC-mom/?source=a2f262cc-eb8f-4d8e-8914-da0960e49faf&s5=d0e95gr9l1d0mk262k8pcd8g&s2=OutBrain
+
+
+
+Kudzu burdock milk Thistle
+irish sea moss
+spirulina
+barley grass
+Wheat Grass
+acv concentrate
+
+Also if I want alkabalance
+https://www.sourcenaturals.com/products/GP1816
+https://app.unitednaturals.com/checkout/gutconnect?source=a2f262cc-eb8f-4d8e-8914-da0960e49faf&s5=d0e95gr9l1d0mk262k8pcd8g&s2=OutBrain&VIDEO=-ALT-irgQ&LANDING_PAGE_ROUTE=GC-mom&TRAFFIC_SOURCE=a2f262cc-eb8f-4d8e-8914-da0960e49faf&DOMAIN=www.yourgutreboot.com&BRAND=gutconnect&hide_coupon=1
 
 
 
@@ -228,6 +276,13 @@ Detoxing through the skin
 5. Poultice
 6. Exercise
 7. Skin Brushing
+
+
+# Kidney Stones #
+Kidney stone advice
+Hey I’m really sorry you’re dealing with kidney stones.  I wanted to tell you a weird thing that we found that helped my wife but if it’s too weird or unpleasant for you to do or you just don’t want to I understand.  I don’t expect anything from you and I don’t want it to be a burden I just wanted to share what worked for us in case it helps: when she feels one coming (for her it’s every few months if we’re not careful) she drinks a concoction of olive oil and lemon juice (like 1/4 cup equal parts) washed down with just a bit of water every hour until the pain subsides and it usually does within a few hours.  This only works on an empty stomach (2h since she’s had food) probably because then the liquid and oil filters through the kidneys and subsequent pathways where the lemon juice helps to break the stone into smaller pieces and the oil helps to lube the passing (so it doesn’t scrape so bad) Best wishes dealing with them and again I’m sorry you’re going through that.
+
+
 
 # Inbox #
 Health Research 

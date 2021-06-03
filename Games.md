@@ -62,6 +62,25 @@ Some possible games
 3. Bionic Commando
 4. Space Harrier
 
+ 
+ ## Classic Games that I might like to play ##
+ I would probably enjoy playing Superfrog again and maybe exploring it and beating it many times.  Its very fun.  Same with parts of HOI and Zool and Zool 2.
+ 
+ Hybris and Banshee are amazing shmups, also Battle Squadron (Hybris' sequel, a bit faster and a bit more fun), also SWIV and Silkworm
+ 
+ Supercars 2 looks like something I would really enjoy sinking some time into.  Same with Cannon Fodder, because I always wanted to play and beat this game.  Same with Gauntlet on C64 which I never beat for real (update: DONE).  
+ 
+ I wonder if I could beat Lotus Turbo Challenge 2?  I wonder if I could finally beat Lotus 3 actually?  I wonder if I could beat Jaguar XJ220 also?  Probably yes to all three!  I wonder if I could beat some sensi?  I wonder if I could beat some Kick Off 2 Season? or an entire season in GOAL???  I might be able to beat Moonstone also!  It didn't take too long for Chippants to beat it.  I wonder if I could beat every level of Lemmings now?  I wonder if I could beat that Monkey Island game (Update: DONE with Dad!) and Zak McKraken with walkthroughs???  Perhaps dad and me could beat some text adventures like Zork or the Pawn or Enchanter?  I wonder if i could beat Cannon fodder or Super Skidmarks?  Perhaps Killing Game Show?  Maybe even Assassin Special Edition?
+ 
+ Ruff N Tumble looks like a great run and gun platformer.  I might enjoy beating that famous run and gun shooter like metroid: Turrican 2.  Also I've heard switchblade is awesome, and I kind of always wanted to play it.  Leander is something I always wanted to beat and Wolfchild too.  
+
+ And I love the feeling I get thinking about games like Starglider 2, Midwinter, and Thunderstrike on Amiga, Doom on the Accounting computers in high school, the IBM PCs with the clicky keyboards there for writing class, Sensible Soccer, GOAL, Pinball Fantasies, Megaball, etc.
+
+ I like the idea of playing these save scumming every few seconds, and then playing again save scumming less and retrying more and playing again save scumming less and retrying more and so on
+ 
+ 
+Amiga zeewolf I wish I had had this maybe I could beat it or 2
+
 
 
 # VR Wave Shooters #
@@ -74,6 +93,7 @@ Some possible games
 1. MDK2
 
 # Games Cristi might like #
+Game for me and Cristi: it takes two
 
 SeriousSam4 Co-Op (Especially with Cristi)
 
@@ -1318,9 +1338,36 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 	- the weapons are hard to figure out.  Each character has unique weapons and I think to enjoy this I'm going to need to figure out one character that I like that has the weapons I want.  Frankly I want simple missiles, mines, and boost!
 	- in order for me to like this I'm going to have to play it a lot.  Actually since its not a huge game maybe I could get really good at it in time?  maybe I could become one of the best?
 	- Atm I do not like this but I want to like it SO MUCH.  
+* Revenge of the Titans mac 1/16/2021 
+	- I got this from a humble bundle years ago and the version I'm using is from 2015.  They said in a steam convo that the libraires they used are far too old to be updated so they arent going to be able to make a mac fix because they cant pay the bills as is so they cant afford to go fix an old game and I get that.  Steam has a problem though not being able to distinguish between 'mac compatible' and 'mac compatible now'.  same wiht windows obviously though to a lesser degree.  Each game should have a minimum os and a max os and if its ccompatible with the latest then the max os stands, but otherwise allow users to report if its not compatible with os updates.   I could get a steam key from my humble bundle if I want to. 
+	- regardless I just beat the easy campaign on earth and it was fun.  The final boss level I didnt like because it was too open, but many of the other levels I liked.
+	- I had to move hte download and had to use the chmod trick but then it worked.
+	- however it crashed every 10 min or so after every few levels.  If I just restarted it after every level it was fine.  I lost half a level like 3 times not a big deal.
+	- I liked it and there was TONS more customizations in the skill tree that I could go for if it were more stable 
+	- I think I like tower defense where the entry and exit points are discrete and especially where I dont have to defendd two fronts because I cant think that way and still have the same kind of fun.
+	- I got about halfway through the moon level. 
+- Avernum 5/22/2021
+	- See note in dropbox for clues and gameplay notes
+	- it looks like I started this end of August 2020.  I have some saves from 8/31-9/8.  My last save is from 9/8.  
+	- I dont remember where I was or what I'm supposed to do next
+	- Clues: 
+		- OH Ive got tons of clues in a file called notes on avernum.txt haha
+	- Now I'm flying all over the countryside, in boats and out, and finding cool secrets and completing quests.  This is awesome! I've got a big quest to do actually
+	1. It shouldnt let you use life potions when you are at max.
+	2. Its cute that the woman Grant at the bar in Fort Draco is looking for her lizard familiar and you can see it running around on the floor
+	3. I like that the whole game can be run from the keyboard
+	4. When I got done painstakingly clearing out the Underground Fort at lvl 7 with lots of kiting and several deaths and an hour or more of battles, I tried to free the prisoners and couldnt but as I was looking around I found a switch that set them free from the corner where I came in and I went to a previous save and it turns out if I hadnt triggered ANY enemies within the fortress and instead just hit that switch I would have been done with that quest and could have come back when I was more levelled and prepared haha.  THe guy gave a clue that the east wall is crumbling but I was looking for that to mean it can be attacked to be torn down.  and I took that to mean a different east wall (but I feel like I somehow knew which room the soldiers were in ... probably it was labelled on the map or something).
+	5. I think the whole Nephilim Fortress was a really cool dungeon honestly.
+	6. Its cool I think that you can record any text youfind in your journal and then its always there to refer back to.  almost any text anyways.  Pretty much anny text  that you read and with a clue in it can be saved to your journal.
+	7. The spider cave is so cool.  I think I saw "then it gave you a kiss and left" haha
+	8. In Mertis the minstrel says of Honeycomb "Its a maze of twisty passages all alike" haha!
+	9. When you click an action then decide you want to do another action, you should be able to just click another action instead.  as is it just does nothing and shows a little text that says "all characters have to finish first" or something but really you just have to hit escape
+	10. sometimes (too often) during battle I will click on a space like two away from where my player is to position the player for a shot and it will tear off full speed in the other direction and waste all of its action points.  It probably has something to do with what spaces it sees as accessible.  just now it was only blocked by one of my party members ... and they were not stuck in place or anything (according to the icons)
+	11. I killed some enemies in a particular place and they had a valuable drop but there was nothing graphically indicating that it was there at all.  Even a brighter pixel would be nice.  I had to remember that I had killed someone there or just whack i every few squares
+	12. I was in the middle of a battle with a boss who was assigned the a key.  Some minor enemies wandered in.  I attacked the boss with the a key and my warrior ran off to attack the minor enemy which had been reassigned to be a.  never reassign those numbers MID battle!?!
+	14. Tip: Beating higher level enemies gives you more experience.  Probably then you have to fight less to progress.  SOmetimes beating those guys isnt really possible though
 	
-
-	
+		
 # Top notable purchases #
 (in no particular order)
 These are ones that I loved so much and am so happy I picked up.  
@@ -2019,7 +2066,7 @@ Gal Gun 2 on Oculus
 Subnautica VR
 Sensible Soccer Amiga
 Alien Breed 3D HB
-Rock N Roll Racing Retro Achivements
+Rock N Roll Racing Retro Achievements
 
 
 
@@ -2131,7 +2178,7 @@ Mac: Big Sur Specifically (Civ 6 is out)
 
 - Not Sure:  Diablo 3 (arpg is great ?mac?), PoE (arpg is great ?mac?), Hammerwatch (arpg looks lovely ?mac?), Magicka, sacred 3, Vikings, Stronghold Crusader (RTS), Star Wars Empire at war (RTS),  Dwarfheim (RTS City Builder Co Op), Flotilla (Space Strategy), Starcraft or Warcraft 3?
 
-- Sim A: Mindustry (Mac, Turnbased, Co op, Cheap), Factorio (mac),   Anno 1404  and anno 2070 (Co Op not tagged but  widely praised on reddit as unique and excellent),   Tropico 6 (mac Co op), 
+- Sim A: Mindustry (Mac, Turnbased, Co op, Cheap), Factorio (mac),   Anno 1404  and anno 2070 (Co Op not tagged but  widely praised on reddit as unique and excellent),   Tropico 6 (mac Co op),  Kingdom Two Crown (Chill Co Op Game, mac)
 - Sim B: Construction Simulator 2015 (should be great), Rimworld (Unofficial Co Op mod), KingdomsReborn (Win, Co Op City Builder, early access probably not ideal for that reason), ymir, Satisfactory (Win Only),
 
 - Tower Defense A:  Deathtrap (Coop Campaign, not listed as co op, said to be 5/5 mustplay),   Warstone TD (Mac, Co Op (not campaign), beautiful, cartoony),  XMorph Defense (demo, like bloons but you always control the helicopter, transformers setting),  Terrorhedron ($2, not listed as co op), PixelJunkMonsters1 (mac saved his relationship (in duo defenders review)),2(prob most like bloons), McDroid (Arcade TD, mac, Campaign), Warcraft 3 TD (Starcraft too), 
@@ -2187,10 +2234,8 @@ Warstone
 --------------- she didnt like this
 mindustry
 
-
-laundry
-1877coinmach 500-bmg 
-
+New Mar 4
+Parkitect (mac, online co op g)
 
 
 Cristi High Sierra 10.13.6
@@ -2218,6 +2263,10 @@ WHOA!  Cristi might be able to run these games!
 - (Later) Peak Action Tower Defense: Deathtrap(5/5 campaign), XMorph Defense (Like Transformers, Free demo available),  HyperCharge Unboxed (like playing in a kids toy room), Dungeon Defenders (1,2,or awakened)
 - (Later) Maybe Peak: Tropico 6, Demise of Nations, Wargroove, LOTR, Terrorhedron (only $2),
 - (Later) Peak Co Op Action Adventure Games: Trine, Portal 2, Monster Hunter World, 
+
+With Marshall: Deathtrap, Hypercharge Unboxed, 
+
+
 
 
 - Investigate: Total War Warhammer, Dark Quest 2 mac, Faeria mac, Wayward (looks 8 bit) mac, Democracy 3 (single player but perfect), Conclave, 
@@ -2324,7 +2373,7 @@ look at my list of amiga games, and the directory of 3DS and wii games on my pc,
 		- Long: HellbladeSenuasSacrifice, 
 
 
-
+- New: Popup Dungeon
 
 
 Non Peak Gaming Experiences 12/5/2020
@@ -2439,7 +2488,9 @@ Games that seem or feel like a chore in some or any way but I still have good re
 	- Championship Baseball - I would love to get good enough to take my 1989 cubs to the world series in this specific game
 	- C MLB Power Pros Wii
 - Stereoscopic 3DS: MetroidSamusReturns(15h), 
-
+- Save Scum then play again and scum less and again and scum less
+Apidya and rtype 2 and dragon spirit or the other dragon game from the 30 jealous amiga games and banshee
+I like the idea of playing these save scumming every few seconds, and then playing again save scumming less and retrying more and playing again save scumming less and retrying more and so on
 
 
 
@@ -2567,4 +2618,259 @@ Frogger Returns (wiiware Investigate)
 Transformers Cybertron Adventures
 
 C64 that I might be able to beat is Ghosts N Goblins.  Zeus can do it in a few minutes.
+
+
+For me Feb 15: 
+Nope not now: Ring Runner, Renegade Ops, one of those three city builder games, 
+iron brigade, mcdroid, CastleStorm, No Heroes Here, Tower Wars (love the aesthetic, steampunk, mac)
+satisfactory, Fortification Tower Defense (indie, lan co op), Orcs Must Die 2, Bradbarian
+
+
+Baseball where I'm losing as many games as I can still win world series
+win: Particula (no catalina), warstone((no catalina)), terrorhedron (win), ElementTD2 (win), defense zone 2 (no catalina), defense grid (win), 
+Sleep Tight (Dual Stick shooter with childhood toys)
+Rise to Ruins (Mac, Would take too long)
+Space Run (create spaceships tower defense) (not on catalina)
+
+
+
+
+Mar 22 2021
+
+Evergreen Games:
+1. Serious Sam 1,2,3 VR (while watching TV), Compound
+1. Cities Skylines (First Person Mod, Always morning mod)
+1. Viral EX VR, Rez VR, Xion, Duo, 
+2. Deep Space Wife (sequels), Bad ass Babes, 
+1. Experience Again: Alien Breed Impact 1,2,3, 
+5. Wii Baseball series win!
+
+Which of The games to practice and win below are important? Redout VR, Blasters of the Universe, Burnout Paradise (with wheel), Age of Barbarian
+
+
+
+New Game Excitement Right Now Games:
+1. Bad ass Babes 2 Patreon
+2. Sorority Camp Slashers Patreon
+3. The Masters (Bruce Lee and Ip Man) Patreon
+
+
+Games to practice and could win
+1. ----- How long playing once a day?
+1. Racing: Redout VR (how far in am I?  I love this one.), Thumper VR (two months), Rush (two months),  
+2. VR:  The Climb (2wks), Everspace VR (2wks), Xortex in The Lab (1 week), Blasters of the Universe (2 weeks)
+3. Street Fighter V (with mod and Fighting stick), Street Fighter 4, Dead or Alive 5 
+	1. How to have more fun with these games?  Get really good with like one player? Watch one video a day and then go play one time?  Use the fighting stick?
+4. Racing Wheel: Burnout Paradise with the wheel (once a day for two months), Steam VR Racing Wheel Games (once a day for 6 months)
+4. Pointless Fun: V-Racer Hoverbike (1 week), Racket NX (1 week), Table Tennis(6 months), 
+5. Shooting:  In Death (1 week for level 1), Gal Gun 2 (2wks), 
+6. 2D: Volgarr the Viking (once a day beat it in a month), Age of Barbarian (once a day beat it in a week)
+7. Amiga: Killing Game Show (one month), Cannon Fodder (two months),
+8. Chaos Engine PC (make maps)
+
+
+
+Second Tier For ANY Reason:
+1. Experience Again (kind of long): Beyond Good and Evil (High Res, 3D Stereo), The Hobbit (High Res, 3D Stereo), Portal 2, Red Faction 1 (with open source patch), Hellblade VR, Bloody Zombies, 
+1. X-Morph Defense DLC 
+1. Assassins Creed Odyssey looks so cool!
+1. No Mans Sky VR (with extensive creative mode building of weird structures just as art)
+3. SkyrimVR (with extensive Mods)
+5. City Builders (epic games store) or Transport Builders
+
+
+
+
+
+
+
+Apr 25 2021
+
+
+Second Tier for ANY Reason:
+	- Minecraft, Terraria
+	- Trine 1,2,3, Monster Hunter World, Lara Croft Temple, Rayman - Chill: Anno 2070 or 1404, Transport Fever ($30),  - Retro Practice: Cannon Fodder (two months), Chaos Engine PC (make maps) 1. BallisticNG 1. Games I could stream: Beat Saber, Compound (while watching TV),  1. Wii: Jurassic: The Hunted, Call of Duty Black Ops (or one of the others for Wii)1. Cristi: Windlands 2, Serious Sam 4, Factorio, Haven, Dungeon Defenders, Parkitect, Serious Sam VR, 1. , 1. Amiga Breathless, Amiga Alien Breed 3D, 1. Project Osiris complete in VR, 1. For the King (Civilization + Dragon Warrior) 1. Play Again Retro: Resident Evil Darkside Chronicles, , Donkey Kong Country Returns (High Res & Stereo) 1. Doom 2016 Switch to easy anytime,  1. Play Again: Resident Evil 4 (replay with High Resolution mods), Lord of the Rings: War in the North (Play again),  Hellblade VR, XMorph Defense DLC, Titanfall, The Signal from Tolva,  Grow Up (Stereo Vorp X), Destiny 2,  Alien Breed Impact Trilogy,  Bad Ass Babes Sexy (PC Replay), Robo Recall (Quest VR Replay), Brothers - A tale of Two Sons, Half Life 1 and 2 in VR, Quake Champpions, Quake live, SubnauticaVR, Too Long but would be really great Psychonauts15-20h, Middle Earth: Shadow of War(30h), Alien Isolation VR Replay (22h) + DLC, - Bloodstained Ritual of the Night Replay (Get OP and have more fun), Warcraft 3 35h, Clunky or possibly annoying or messy: Heavy Metal FAKK 2, Giants Citizen Kabuto (cheats), MDK2 (cheats), No One Lives Forever (cheats), Red Faction 
+
+
+I would like to have my desk clean to play any of these
+
+-------------------- Peak Experiences with No Baggage
+	- Length >10h
+	1. No One Lives Forever 2 VR 15-20h, 
+	1. Deathtrap Tower Defense 12h,  
+	1. Half Life Alyx 15h,
+	1. Serious Sam 4 15h, 
+	1. Terminator Resistance 2019 12h, 
+	1. Serious Sam 2(15h) (while watching TV),
+	1. Serious Sam 3VR(15h) (while watching TV),
+	1. Doom Eternal (20h) (Switch to Easy Mode anytime),
+	1. Before We Leave 15h,
+	- Length <10h
+	1. Quake 1 in VR 8h, 
+	1. Classic  OxenFreeHB 6h, 
+	1. Lone Echo 8h,  
+	1. Doom VFR 5h (switch to easy and then back),
+	1. Gal Gun 2 Sexy 8h,
+	1. Marshall: Hypercharge Unboxed
+	1. Marshall: Dead Space Extraction
+	- Length Under 5h
+	1. SeriousSamDDXXL 5h, 
+	1. SeriousSamTormental 5h , 
+	1. SeriousSamsBogusDetour9h, 
+	1. TeslaVsLovecraft5h, 
+	1. Bloody Zombies Replay VR 4h, 
+	1. Bloodstained Curse of the Moon Replay 4h, 
+	1. Deep Space Wife Sexy Sequel4h, 
+	1. SuperFrogHD HB6h, 
+	1. Vader Immortal 1h, 	
+-------------------- Peak Experiences that Might Have Baggage or require practice
+	1. 3D Finite Practice: CrisisVrigade
+	1. Racing: Road Redemption 8h
+	1. Racing: Burnout Paradise with Wheel 20h, 
+	1. 3D: Amiga Breathless
+
+-------------------- Temporary Practices Low Baggage
+	1. 3D Finite Practice: Blasters of the Universe
+	1. 2D Finite Practice: Age of Barbarian Sexy, Bad Ass Babes 2 Sexy 6h, 
+-------------------- Infinite Practices Play Over and Over Nearly Forever
+	- These will always be there waiting for me to continue
+	- Cristi: Rocksmith Best, 
+	2. 3D Infinite Play Hard: Compound (while watching TV), In Death,  
+	5. 3D Infinite Play Casual: Hatchick, Rez (VR Replay), Viral EX (VR Replay), Baseball Wii,  Duo VR
+	2. 2D Infinite: Street Fighter V Easy Mode Patched Sexy, Dead or Alive V Easy Mode Patched Sexy
+	1. Skyrim VR (with overpowered mods)
+	4. Chill: Cities Skylines (First Person Mod, Always morning mod), Townscaper,  No Mans Sky VR, Creative Mode building Weird Structures as art
+	1. VR Painting
+-------------------- Frustrating but Fun Practices
+	1. Thumper, Redout,
+	5. 2D Platform: Volgarr the Viking, Killing Game Show Amiga, Mario1(retroachievements), Mario2(retroachievements), Amagon(retroachievements), Zelda 2 (retroachievements)
+	4. Racing: GRiD, BlazeRush, BallisticNG, RockNRollRacing (retroachievements), 
+	2. 2D Overhead: Nex Machina, SmashTV NES (retroachievements), 
+-------------------- Unsorted Practices
+-------------------- Feel like I SHOULD play these NOW while I can
+	- This one I beat twice but would enjoy again
+		1. Beyond Good and Evil 15h (DolphinVR VorpX or 3DSBS),  
+	- This one works pretty well in VR so would be fun and was already memorable
+		1. Klonoa 8h (DolphinVR or 3DSBS!),
+	- This one I never beat but always wanted to
+		1. The Two Towers Gamecube 8h (DolphinVR or 3DSBS) 
+	- This one would be cool in VR because it would render everything
+		1. The Hobbit Gamecube 15h (DolphinVR or 3DSBS) 
+
+	
+May 19 2021
+VR games top of my head
+There are a few that are relatively new that I know I will love like that mechanics one
+I could play games like this over and over
+Serious Sam 1,2,3 VR
+Doom VR
+Project Osiris VR
+Quake VR
+No One Lives Forever 2 VR
+Doom 3 VR
+Alien Isolation
+Skyrim VR
+
+
+Many more potentials via vorpx
+Omg Grimrock 1 and 2 in VR!!!
+Middle Earth Shadow of Mordor
+Psychonauts
+Titanfall 2
+Heavy Metal FAKK 2!!!
+Mirrors Edge (this could be the coolest VR game ever - it might make me feel like a parkour master or like I was in the matrix
+Space channel 5 VR
+I can try out games with zero patience for things not working
+
+
+
+Lots of supported FPS games that I own
+Doom 2016 VorpX
+Prey VorpX
+Metro games VorpX
+Bio shock! VorpX
+Bulletstorm VorpX
+Return to castle wolfenstein (mod) VorpX
+Deus ex human revolution VorpX
+Star Trek voyager elite force VorpX
+Fear VorpX
+Portal 1 VorpX
+Vanquish VorpX
+
+
+Unusual ones / second tier
+	- Yooka Laylee with cheats VorpX, GTAV VorpX, American McGees alice  VorpX, Lego Lord of the Rings VorpX, Mortal Kombat X (mods?) VorpX, Rocket league VorpX, Tomb raider (the one I own?) VorpX, Pcsx2 with vorpx works in 3dsbs!!! VorpX, Other emulators like ps3 or Dreamcast??? Or n64??? VorpX
+
+Second Tier for Any Reason
+	1. Jet Island 5h    1. Pixel Ripped 1995 4h (Quest)  1. Operation Warcade 4h	1. Windlands 2 VR  		1. Pinball FX2   	1. Racing: Burnout Paradise with Wheel 20h, 	1. Ragnarock   1. vertigo Remastered    	1. Superhot VR 4h (Quest)   1. Bullet Sorrow VR is like Time Crisis   1. MOrtal Blitz looks awesome wave shooter  1. Hell Dimension VR (with Cristi like Serious Sam!)  1. SACRALITH : The Archer`s Tale (Beautiful VR Archery with a story!)  1. FPS Infinite   1. Swarm on Quest (spiderman with Guns)    1. Knockout league (Quest)  1. Rez Infinite (Quest)   1. Shooty Skeis OVerDrive Quest  1. Crashland (Wave Shooter?)  1. Star Shaman (Quest Cristi)   1. Robo Recall Unplugged ($30)  1. The wizards (Cristi)  1.   Wands (Cristi)  1. Engage (Cristi)
+
+
+
+
+
+
+
+
+
+
+
+VR
+-------------------- Peak Experiences with No Baggage
+	- Length >10h
+	1. No One Lives Forever 2 VR 15-20h, 
+	1. Serious Sam 2(15h) (while watching TV),
+	1. Doom 3 VR Quest2 (12h)
+	1. Grimrock 1 VR VorpX (20h)
+
+	- Length <10h
+	1. Quake 1 in VR 8h, 
+	1. Project Osiris VR Quest2 (GZDoom)
+	1. Space channel 5 VR (Quest)
+	1. To The Top VR 5h (Like Mirrors Edge VR)
+	1. Automata Break Tower Defense (co op in VR)
+	
+	- Length Under 5h
+	1. Vader Immortal 1h,  (Quest)
+	1. Pistol Whip 5h (Better than Beat Saber) (Quest)
+	
+
+-------------------- Peak Experiences that Might Have Baggage or require practice
+	1. 3D Finite Practice: CrisisVrigade
+	1. Thumper (2h left) 
+	2. 3D Infinite Play Hard: Compound (while watching TV), In Death (Quest),  
+	
+-------------------- Temporary Practices Low Baggage
+
+-------------------- Infinite Practices Play Over and Over Nearly Forever
+
+
+Pancake
+-------------------- Peak Experiences with No Baggage
+	- Length >10h
+	1. Terminator Resistance 2019 12h, 
+
+	- Length <10h
+
+	- Length Under 5h
+	1. SeriousSamTormental 5h , 
+	1. Bloodstained Curse of the Moon Replay 4h, 
+	1. SuperFrogHD HB6h, 
+	
+-------------------- Peak Experiences that Might Have Baggage or require practice
+	- Length >10h
+	- Length <10h
+	1. Finish Professor Layton
+	1. Finish Kid Icarus
+	- Length Under 5h
+	1. 2D Finite Practice: Age of Barbarian Sexy, 
+	
+-------------------- Temporary Practices Low Baggage
+
+-------------------- Infinite Practices Play Over and Over Nearly Forever
+
+
+
+
+3DS
+
 

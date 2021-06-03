@@ -39,6 +39,11 @@ This is really cool. If you are used to playing FPS games like doom you can move
 * 	right click exits circle selection
 * 	alt a clears circle selection
 
+Moving an object to the center
+* Shift S -> cursor to world origin
+* Object->Set Origin-> Center of Mass
+* Select object -> Shift S -> Selection to Cursor
+
 
 
 # Things to do #
@@ -79,6 +84,18 @@ Detailed at about 15:00 in this
 
 ## Bevel Corners ##
 To make any model look kind of worn: Add Bevel modifier.  Width .01m, check only vertices.  Switch width to .03m or .04m for a different more circular and unique look.  Update: this leaves little tiny holes in the mesh.  
+
+Doesnt alwyas work. Sometimes select a face, select similar faces by normal inset faces and drag it in just a bit then tranlate that center face up a bit.  gives at least one rounded edge.  Could do it twice for more roundings.  Also you can use something called 'fatten' and select the outer edges of what you're trying to bevel, fatten them, and then ...
+
+## Sprite to 3D ##
+Make it black and white (actually I had better success maxing and minniing brightness and contrast in preview, then saving and reloading and adding green tint) then in inkscape path->trace bitmap and I think single pass autotrace works, then you might have to delete the bitmap and you can tell the diff because when you select one of them it says at the bottom whether it is an image or a path
+then import the svg and scale it up in blender by 100 maybe (compare to a reference cube) then on the right in the path tab change resolution down to 2-4 or whatever to make it more low poly, 
+then geometry->extrude .01 or so or geometry->bevel depth .0002m or so (To make a tile its probably offset .0001 extrude .004 bevel depth .001)
+
+then select one of hte top faces and select -> similar -> byy normal and then faces->beautify faces
+then object -> Convert ot mesh from curve then wireframe and drag select all of the sides then fatten them with 
+
+Triick: When editing path in blender: offset.01 extrude .01 beveldepth .001 makes a cool outline mesh with neat intersections
 
 ## Other cool things ##
 1. Join a bunch of cubes.  a Mesh/Vertex/Face Menu -> Clean Up -> Merge by Distance
