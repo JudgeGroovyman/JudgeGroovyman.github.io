@@ -2836,9 +2836,10 @@ VR
 
 -------------------- Peak Experiences that Might Have Baggage or require practice
 	1. 3D Finite Practice: CrisisVrigade
-	1. Thumper (2h left) 
-	2. 3D Infinite Play Hard: Compound (while watching TV), In Death (Quest),  
-	
+	1. Thumper (2h left)
+	2. 3D Infinite Play Hard: Compound (while watching TV), In Death (Quest), Viral EX, 
+
+
 -------------------- Temporary Practices Low Baggage
 
 -------------------- Infinite Practices Play Over and Over Nearly Forever
@@ -2859,8 +2860,8 @@ Pancake
 -------------------- Peak Experiences that Might Have Baggage or require practice
 	- Length >10h
 	- Length <10h
-	1. Finish Professor Layton
-	1. Finish Kid Icarus
+	1. Finish Professor Layton DONE!
+	1. Finish Kid Icarus DONE!
 	- Length Under 5h
 	1. 2D Finite Practice: Age of Barbarian Sexy, 
 	
@@ -2872,5 +2873,7 @@ Pancake
 
 
 3DS
+
+
 
 

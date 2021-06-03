@@ -1241,6 +1241,9 @@ With Cristi
 1. Mansions of Madness - Board Game required.  Like an RPG but the app is the DM
 
 
+
+
+
 # June 2 2021 #
 
 I will know which ones I want to do in Hardcore after I've played them in Non-Hardcore
@@ -1266,8 +1269,20 @@ Possibly interesting ones:
 
 Amiga Shooters that might actually be fair: Battle squadron, Hybris, Banshee, The killing game show, Agony, SWIV, Z-Out
 Amiga Shooters that are def unfair but could be fun with cheats: Disposable hero (so beautiful), Project x, Apidya, Uridium 2, 
-Amiga games to spend some time with: Darkmere - like being inside Tolkien's world!  
+Amiga games to spend some time with: 
 More Modern Games to spend some time with: Lord of the Rings: TTT, Lord of the Rings: Rotk, Resident Evil Archives
 res, Minotaur Aracde, 
+
+
+
+Top of my mind: 
+1. Darkmere Amiga on Mac Laptop - like being inside Tolkien's world!
+2. Finish Thumper, Curse of the Moon, 
+
+
+
+
+
+
 
 

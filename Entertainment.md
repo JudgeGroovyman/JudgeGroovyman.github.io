@@ -467,3 +467,177 @@ Preacher on dead zone 5x4 37:00
 	- "Sometimes you have to blow scrap up" - Also Alpha Trion lol
 	- 2x4 and 2x5 WOW so much throwback!  Scorponok looks EXACTLY like the toy!  AND Galvatron and the galvatron conversion scene was in there.  Its so cool!  A tiny bit of Unicron!
 	
+	
+	
+	
+	
+
+
+# June 2 2021 #
+
+I will know which ones I want to do in Hardcore after I've played them in Non-Hardcore
+
+TODO:
+1. DONE Check for more retro achievements on other fun consoles
+2. DONE Incorporate the SMS list down below
+3. DONE Look through my Amiga list for other good candidates
+4. DONE Other 3DS Games for WMR? Other Amiga games
+5. DONE Dolphin games for WMR 3D or just to play as wii games
+6. DONE Games to play in VR with 3DSen
+7. Which Amiga games should I play with save scumming, which should I play with save scumming and Exclusively following walkthroughs?  Which should I play with cheats (if I can find them), Which should I invest more time and eneregy in?  Which do I not have a good feeling about even with save states, cheats, or walkthroughs? 
+
+About win approaches:
+8. Which games should I Save Scum?  
+	1. (can always move up from save scumming if its that good.  Thats how I will know if I want to continue: if I love it that much then I will proceed
+	2. Also using save states to save your progress at continue points is not scumming its fixing the game.
+9. Which games should I play with save scum and full step by step walkthrough
+10. Which should I try to beat on harcore mode
+
+1. Save scumming and a full walkthrough
+2. Save scumming to beat it
+3. Save scumming with cheats to beat it
+4. Try to do without save scumming 
+5. Try to do in Hardcore mode
+
+
+
+
+Possibly interesting Retro Achievements: 
+1 SMS: 
+	1. Definitely: Golden Axe, Double Dragon, Sonic 1, Castle of Illusion Starring Mickey Mouse
+	1. Land of Illusion starring Mickey Mouse , Legend of Illusion starting Mickey Mouse, Addams Family, Alex Kidd, Sonic 2,  Deep Duck Trouble starring Donald Duck, 
+	1. Shinobi , Streets of Rage , Vampire Master of Darkness, Alien 3, 
+	1. Rescue Mission, Out Run , 
+	1. Maze Hunter 3D , Alien Syndrome, Fantasy Zone, Choplifter
+
+
+
+3DS
+1. 3D Classics
+	1. Legit: Sonic The Hedgehog 3D SBS, Shinobi 3, 
+	2. Save Scumming: Super Hang On, Streets of Rage, Xevious, Sonic 2, Kirby's Adventure, Streets of Rage 2, 
+	2. Already Beat in 3D: Space Harrier
+2. Actual Hardware
+	1. Nano Assault, Nano Assault EX, 
+	2. 
+3. 3D Full Games on SBS
+	1. Dead or Alive Dimensions, Tekken 3D, Sonic Generations, New Super Mario 2, Yoshis New Island, Luigis Mansion,  Professor Layton Miracle Mask, 
+	2. Rayman 2 3D, SSIV 3D, WWE All Stars, Rayman Origins 3D, Donkey Kong Country Returns 3D, Kirby Triple Deluxe, Ultimate NES Remix, Ridge Racer 3D
+	3. Metroid Samus Returns, Star Fox 64 3D, Lego The Hobbit, Lego Lord of the Rings, Poochy & Yoshi's Wooly World, 3D Cursed Castilla, Kirby Blowout Blast, Ace Combat, 
+
+
+
+Gamecube or Wii SBS or regular
+1.  Hobbit, Beyond Good and Evil, Peter Jackson's King Kong, Lord of the Rings Return of the King, Lord of the Rings The Two Towers, Baldurs Gate Dark Alliance
+2.  Lego Lord of the Rings SBS, Mario Galaxy SBS, Mario Galaxy 2 SBS, Klonoa SBS (or VR), Sonic Colors ("Colors was legitimately awesome and no qualifying statements like for a 3d sonic were necessary"), Sonic Unleashed
+3. MLB Power Pros
+4. Conduit 2, De Blob 2, NFS The Run, Nights Journey of Dreams, 
+
+
+
+PSX Retro Acheivements
+1. Alien Trilogy (8h FPS that looks amazing), Final Doom 
+2. Massive Cheats + Walkthrough: Blood Omen: Legacy of Kain (15h), Brave Fencer Musashi (17h), FFVII, FFVIII, FFIX, Grandia, Parasite Eve, Suikoden, Suikoden 2, Vagrant Story, Xenogears
+3. Blaster Master Blasting Again (10h) (only 2 people have done this RA), Gex, Gex: Enter the Gecko, Klonoa, Tomba!, Twisted Metal 2, Vigilante 8, 
+4. Einhander, Gradius V, Time Crisis (In VR Bedroom), Time Crisis Project Titan (In VR Bedroom), 
+
+GBA
+1. Ninja Five-O, LotR The Two Towers
+2. Metroid Fusion, Metroid Zero Mission, 
+3. Massive Cheats + Walkthrough: Golden Sun
+
+SNES
+1. Final Fight, SF2, SSF2, WWF Raw, WWF Wrestlemania, WWF Royal Rumble,
+2. Massive Cheats + Walkthrough: FFVI, Zelda LTTP, Secret of Mana, Chrono Trigger, 
+3. Pac In Time, Mario World, Pitfall the Mayan Adventure, Run Saber, Wolfchild, 
+4. Rock n Roll Racing, Super Smash TV, Top Gear, 
+
+
+
+Genesis
+1. Castle of Illusion, Shadow Dancer, Shinobi III (Probably on 3DS instead), Strider, Strider Returns, 
+2. Gauntlet IV, Rock n Roll Racing, Super Smash TV, ToeJam and Earl, 
+3. Golden Axe, Golden Axe 2, Double Dragon, Streets of Rage, Streets of Rage 2, Super Street Fighter 2, TMNT Hyperstone Heist, WWF Royal Rumble, WWF Super Wrestlemania, 
+4. OutRun, 
+5. Massive Cheats + Walkthrough: Phantasy Star 2,3,4
+
+
+
+Retroachievements:
+1. Amagon, Adventure Island 3, Little Nemo, Strider, Street Fighter 2010, Mario 2, TMNT, TMNT 2, TMNT 3, 
+2. Bad Dudes, Double Dragon,
+3. Bionic Commando, Blaster Master, Bump n Jump
+4. Massive Cheats + Walkthrough: Crystalis,  Dragon Warrior IV, Faxanadu, Guardian Legend, Robin Hood: Prince of Thieves, 
+4. Ironsword: Wizards and Warriors 2, Kid Icarus, Kid Niki, Ninja Gaiden, 
+5. Super Off Road, Rad Racer, Snake Rattle and Roll,  Smash TV, 
+
+3DSEN or Retroachievements:
+1. Official 3DSen: Castlevania, Contra, Chip n Dale, Elevator Action,  Ghosts n Goblins, Hogan's Alley, Journey to Silius, Batman, Metroid, Dragon Warrior, Dragon Warrior II, Ninja Gaiden III, Zelda 2, Mario 1,  Mario 3, Micro Mages
+2. Unofficial 3DSen: Amagon, Super Mario 2, TMNT, Kid Icarus
+
+
+PC Engine
+1. Bonks Adventure, Keith Courage in Alpha Zones
+2. Dragons Curse 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------- Peak Experiences
+
+Top 10 Right Now: 
+1. Mac: Darkmere Amiga on Mac Laptop - like being inside Tolkien's world!, Avernum
+2. Retroachievements Mac:
+3. PC: 
+4. WMR:  CrisisVrigade
+5. 3DS: Kid Icarus AR Cards
+6. Quest 2: 
+7. Wii/3DS
+8. VorpX: Grimrock 1 VR VorpX (20h)
+9. Marshall: Dead Space Extraction, Hypercharge Unboxed
+10. Rocksmith. Always.
+
+Top Tier Right Now:
+1. Mac:
+2. Retroachievements Mac:
+3. PC: Age of Barbarian Sexy 5h,
+4. WMR: Compound (WMR), Operation Warcade, 
+5. 3DS: Lego Lord of the Rings 3DS,
+6. Quest 2: In Death (Quest 2), Vader Immortal (Quest 2)
+7. Wii/3DS
+8. VorpX:
+
+
+Second Tier Right Now:
+
+Third Tier Right Now:
+1. Mac: 
+2. RetroAchievements Mac: Mario 1, Mario 2 (Badge), Amagon, Zelda 2, TMNT, Castlevania, Contra, RockNRollRacing, SmashTV NES, 
+3. PC: Age of Barbarian Sexy 5h, Terminator Resistance 2019 12h, SeriousSamTormental 5h, SuperFrogHD HB 6h, Road Redemption 8h,  Burnout Paradise with Wheel 20h, Volgarr The Viking, GRiD, BallisticNG, Doom Eternal, TeslaVsLovecraft5h, Deep Space Wife 2, Before We Leave 15h,
+4. WMR: Thumper (2h left), Redout, Serious Sam 3, Doom VFR, Automata Break Tower Defense (co op in VR), QuiVR, Blasters of the Universe, GRiD, No One Lives Forever 2 VR 15-20h, Half Life Alyx, SACRALITH : The Archer`s Tale (Beautiful VR Archery with a story!), Rez Infinite, Ragnarock, Bone Works (#1 game of 2019 11h)
+5. 3DS: Super Mario 3D Land 3DS, Lego Lord of the Rings 3DS, Lego The Hobbit 3DS, Starfox64 3DS
+6. Quest 2: Robo Recall (Quest 2), Space Channel 5 VR (Quest 2), Doom3 (Quest 2), To The Top (Quest 2), Swarm (Spiderman with Guns), Knockout League (Quest 2), Superhot VR 4h, Pistol Whip (Quest 2, john wick + leg workout)
+7. Wii/3DS: Lord of the Rings: TTT 8h, Lord of the Rings: Rotk 8h,  The Hobbit Gamecube 15h, Kirby 3DS and DKC on Big Screen,
+8. VorpX: Psychonauts, Prey, Metro, Bulletstorm, Doom 2016, Return to Castle Wolfenstein, Voyager Elite Force, Middle Earth Shadow of Mordor, Titanfall 2, FAKK2, Mirrors Edge, 
+
+
+
+
+
+	
