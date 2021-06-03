@@ -107,6 +107,7 @@ Some tube amps dont require plugging in a cab at all (if you have headphones plu
 6. $500 * Hughes Kettner TubeMeister Deluxe 20 (14Wx6Dx6.1H, 11lbs, Speaker Off Switch, No Headphone out but XLR mic out, Silent, Configurable Cab Sim, Tube Monitoring)
 8. $1100 Engl metal Master ((Power soak to no speaker right on the back of hte amp), several external footswitch ports)
 9. $1200 Friedman Runt 20 - perfect.  XLR Speaker Out AND run silent.
+10. Friedman JJ jerry cantrell (Silent recording)
 
 
 4. $180 Blackstar HT1 (8.1lbs, 13Wx8Dx8H, (mkii has USB, aux and phones on front)(mki has aux and phones on rear and no usb) thick cable, silent, no FX Loop)
@@ -262,7 +263,7 @@ This section keeps track of good big tube amps which can be amazing however are 
 - $1600 Mesa/Boogie Rectoverb head (19lbs, classy blue and tweed so beautiful)
 - $2100 Mesa/Boogie California Tweed 6V6 4:40 Tube Combo Amp (Baby Blue, 49lbs)
 - -----
-
+- $5500 Metaltronix 2000 [Can get to bedroom volume](https://youtu.be/ArjWl45YLK4?t=300)
 
 - $200 Peavey Classix VTX Head (Vintage 1980s, Beautiful cleans, super weighty, probably would need tlc)
 - $220 Blackstar HT5RH (27lbs, 20Wx9Dx9H, Amazing)
@@ -324,6 +325,7 @@ Dont know the size of these boobies
 - Bassbreaker: Problem with FX Loop Hum "first run (2017) has a faulty effects loop - both heads and combos .. Any Fender repair will fix the loop with a factor kit, at no charge to you. the fix is quick and at no charge to the consumer. ... the updated ones will have a plastic fx send jack, if it's all metal it has not been updated! "
 - Bassbreaker: "If you need an amp that is squeaky squeaky clean for fuzz, od, distortion, you might want to look somewhere else.  ... It is a real rock and roll amplifier.  Its single ended so you can drive it really hard, ... but you will have to master the art of manipulating the guitars volume and tone controls to regulate the amount of gain that you want from the amplifier.  I love playing in that fashion.  I think its liberating going with just a single cable right into an amplifier like this that is really cooking and make it through that show.  " [From Some Love for the Fender Bassbreaker 007](https://youtu.be/sSFWjAnkd5A?t=442)
 - Bassbreaker: "To sound bigger with this amp, put the volume at 3 o'clock, the gain at the minimum and use a good fuzz or overdrive pedal for your dirt. "  Thats a good tip for a lot of amps. Volume high, gain low, boosts in front
+- swap tubes with a hot mod (which is like 2 tubes) Hot mods for big tube amps : soldano made one in the 80s, legendary tones makes one Michael Nielsen reviewed, and George lynch makes one called lynch mod
 
 
 
@@ -377,6 +379,7 @@ Dont know the size of these boobies
 Everything from the headphone section above plus the following
 
 ## Gold Medals Round 2 ##
+- $500 Marshall Origin 5 (21lbs combo, fx loop, speaker out (even in combo))
 - $550 Orange Rocker 15 Terror (15lbs, attenuator from 15/7/1/.5W "From Bedroom To Headroom”)
 - $399 Ibanez TSA5TVR (18lbs, classiest amp ever: cream and teal, tubescreamer built in, footswitch and line out, spring reverb, Headphones out)
 - $500 Vox AC4C1-BL (20lbs, 16", Beautiful Classy Blue) (Also sold in classy creme)
@@ -775,7 +778,9 @@ There are a class of pedals which boost in just the right way that it makes a cl
 - Mojo Mojo on 0 Always on Paul Gilbert [Beginning of this video](https://www.youtube.com/watch?v=D5J8R2S3BZw)
 - Simble Predriver (Preamp/Booster/Compressor) (Good candidate for an always on magic pedal) [Pete Thorns Review](https://youtu.be/N8zzvVmyzIw?t=117)
 - Clover [More about this pedal](https://youtu.be/SVbceQGhbdM?t=203) [real preamp and boost with versatile eq and xlr](https://www.thegearpage.net/board/index.php?threads/report-back-all-analog-ampless-direct-rig-jhs-clover-and-radial-jdx-direct-drive.2035820/#post-28323906)
-- BBE Sonic Maximizer (Michael Nielsen shows how critical it is in his Nuno tone video).  He says it is an exciter
+- BBE Sonic Stomp  (Michael Nielsen shows how critical the Maximizer is in his Nuno tone video).  He says it is an exciter.
+- $100 Aphex Aural Exciter (at 1307 https://youtu.be/7Fg-MwXr8dQ?t=872 he talks about Zakk Wylde’s exciter rack) you can get their pedal for <$100
+- [This thread](https://www.thegearpage.net/board/index.php?threads/is-there-an-aural-exciter-in-a-pedal.1551525/) talks about exciters and how important they are and how sometimes they are just a treble booster
 
 
 ### Treble Boosters ###
@@ -858,6 +863,7 @@ Distortion pedals:
 (also see preamps above)
 - $36 @Amazon Caline Orange Burst CP-18
 - $29 Caline Pure Sky Overdrive
+- $389 Lee Jackson (Zakk Wylde) Platinum Distortion 
 
 In the blues likes these two ods best
 Royal Flush dual od
@@ -1264,7 +1270,7 @@ Also see Cab Sims below
 - $235 Atomic AmplifireBox (small pedal with amp and IR Cab sims in it [Great Cleans](https://www.youtube.com/watch?v=jrkwc75M0NM)) "I love Atomic's amp modeling (more than Helix, close to as much as a Kemper)" "I see many channels that disregard the Amplifire but it is up there with the Axe, helix and kemper (Amp tone wise)." two presets, one boost, its all you need.
 - $399 Strymon Iridium Amp & IR Cab Pedal (amazing tones, classy to have headphone jack in the front)
 3. $299 DSM & Humboldt Simplifier (full amp sim with cab sim) Analog, Feels 100% organic, made in Chile.  There’s a great feel of connection with this device.  Aux in only goes out the headphone jack so you can jam and record at the same time!  Stereo FX Loop like you are using two amps!   DSM and Humboldt Simplifier DLX great tones in a mega pedal.   
-
+4. Two Notes Cab M, Perfect pedal platform.  extensive dynamic IR, 2 poweramp sims, clean preamp sim, Built in tuner, mobile controls.  Aux in. Apparently has an amp in so you can just cab sim Not an audio interface.  Nielsen says it sounds amazing plugging a preamp directly into it
 
 
 - $299 Boss GT001 (Great, all kinds of fx and amp models, also makes your guitar into a midi synth instrument! then you can apply IR in the daw)
@@ -2587,6 +2593,7 @@ Gear Details:
 		- Now lets see if I can get a liquidy lead tone (after I noodle with the OD sounds some more)  Yeah I got that pretty easily.  Its not the SAME as the recto and I like the recto in amplitube, but its fantastic and still better in many ways.
 		- its not too noisy  at least with this evo 4 even on high gain
 		- After I started Granophyre I opened Fortin Cali in GB (granophyre didnt work :( ) and I ended up getting a useful tone somehow from two accidental instances of the plugin lol
+		- May 11 2021 Now I’m thinking I want to do something simple like record using the cali plugin and output it to the loopback and then record that in garageband.  Nope.  It sounds AWFUL.  robotic and thin and broken. 
 - ===== Audient Evo 4
 	- lol knob popped off as I was trying to get it out of the box.  no problem popped right back on solid ... well not like tightly but turns great
 	- Ok its plugged in and the inputs seemed to work as expected.  I’m bummed that it only had a 1/4” headphone jack.  Thats just the littlest bit annoying for my purposes not a real issue though.
@@ -3169,5 +3176,23 @@ Top Tones in 2021:
 
 
 How to make any amp sound good when testing it out: 1. Tune up really well.  2. Come with a set of riffs and just play those.  Famous youtubers can noodle and keep it always interesting, but for starters learn a few riffs (even super simple) that are fun and musical and easy for you to play they do not have to be from records or they could be similar to a famous recorded riff.  
-	
+
+
+May 19 2021
+
+Great Amps on my mind:
+1. Friedman JJ jerry cantrell
+2. Laney Blue Studio (l5?
+3. Mini Rectifier
+4. Mini 6505
+5. Mini Invective
+6. Mini BE
+7. Dirty Shirley
+8. Friedman Runt
+9. 
+
+
+Experiment:
+I’d like to try a solid state amp with a tube mic preamp in the FX loop.  That would be a really cool experiment.   Maybe two or three in series to warm it more?  Maybe tube mic preamp before the amp?
+
 	

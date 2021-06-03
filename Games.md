@@ -78,6 +78,10 @@ Some possible games
 
  I like the idea of playing these save scumming every few seconds, and then playing again save scumming less and retrying more and playing again save scumming less and retrying more and so on
  
+ 
+Amiga zeewolf I wish I had had this maybe I could beat it or 2
+
+
 
 # VR Wave Shooters #
 1. Serious Sam the Last Hope
@@ -89,6 +93,7 @@ Some possible games
 1. MDK2
 
 # Games Cristi might like #
+Game for me and Cristi: it takes two
 
 SeriousSam4 Co-Op (Especially with Cristi)
 
@@ -1341,8 +1346,28 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 	- I liked it and there was TONS more customizations in the skill tree that I could go for if it were more stable 
 	- I think I like tower defense where the entry and exit points are discrete and especially where I dont have to defendd two fronts because I cant think that way and still have the same kind of fun.
 	- I got about halfway through the moon level. 
-
+- Avernum 5/22/2021
+	- See note in dropbox for clues and gameplay notes
+	- it looks like I started this end of August 2020.  I have some saves from 8/31-9/8.  My last save is from 9/8.  
+	- I dont remember where I was or what I'm supposed to do next
+	- Clues: 
+		- OH Ive got tons of clues in a file called notes on avernum.txt haha
+	- Now I'm flying all over the countryside, in boats and out, and finding cool secrets and completing quests.  This is awesome! I've got a big quest to do actually
+	1. It shouldnt let you use life potions when you are at max.
+	2. Its cute that the woman Grant at the bar in Fort Draco is looking for her lizard familiar and you can see it running around on the floor
+	3. I like that the whole game can be run from the keyboard
+	4. When I got done painstakingly clearing out the Underground Fort at lvl 7 with lots of kiting and several deaths and an hour or more of battles, I tried to free the prisoners and couldnt but as I was looking around I found a switch that set them free from the corner where I came in and I went to a previous save and it turns out if I hadnt triggered ANY enemies within the fortress and instead just hit that switch I would have been done with that quest and could have come back when I was more levelled and prepared haha.  THe guy gave a clue that the east wall is crumbling but I was looking for that to mean it can be attacked to be torn down.  and I took that to mean a different east wall (but I feel like I somehow knew which room the soldiers were in ... probably it was labelled on the map or something).
+	5. I think the whole Nephilim Fortress was a really cool dungeon honestly.
+	6. Its cool I think that you can record any text youfind in your journal and then its always there to refer back to.  almost any text anyways.  Pretty much anny text  that you read and with a clue in it can be saved to your journal.
+	7. The spider cave is so cool.  I think I saw "then it gave you a kiss and left" haha
+	8. In Mertis the minstrel says of Honeycomb "Its a maze of twisty passages all alike" haha!
+	9. When you click an action then decide you want to do another action, you should be able to just click another action instead.  as is it just does nothing and shows a little text that says "all characters have to finish first" or something but really you just have to hit escape
+	10. sometimes (too often) during battle I will click on a space like two away from where my player is to position the player for a shot and it will tear off full speed in the other direction and waste all of its action points.  It probably has something to do with what spaces it sees as accessible.  just now it was only blocked by one of my party members ... and they were not stuck in place or anything (according to the icons)
+	11. I killed some enemies in a particular place and they had a valuable drop but there was nothing graphically indicating that it was there at all.  Even a brighter pixel would be nice.  I had to remember that I had killed someone there or just whack i every few squares
+	12. I was in the middle of a battle with a boss who was assigned the a key.  Some minor enemies wandered in.  I attacked the boss with the a key and my warrior ran off to attack the minor enemy which had been reassigned to be a.  never reassign those numbers MID battle!?!
+	14. Tip: Beating higher level enemies gives you more experience.  Probably then you have to fight less to progress.  SOmetimes beating those guys isnt really possible though
 	
+		
 # Top notable purchases #
 (in no particular order)
 These are ones that I loved so much and am so happy I picked up.  
@@ -2668,6 +2693,7 @@ Second Tier for ANY Reason:
 
 
 I would like to have my desk clean to play any of these
+
 -------------------- Peak Experiences with No Baggage
 	- Length >10h
 	1. No One Lives Forever 2 VR 15-20h, 
@@ -2702,6 +2728,7 @@ I would like to have my desk clean to play any of these
 	1. Racing: Road Redemption 8h
 	1. Racing: Burnout Paradise with Wheel 20h, 
 	1. 3D: Amiga Breathless
+
 -------------------- Temporary Practices Low Baggage
 	1. 3D Finite Practice: Blasters of the Universe
 	1. 2D Finite Practice: Age of Barbarian Sexy, Bad Ass Babes 2 Sexy 6h, 
@@ -2731,16 +2758,119 @@ I would like to have my desk clean to play any of these
 		1. The Hobbit Gamecube 15h (DolphinVR or 3DSBS) 
 
 	
+May 19 2021
+VR games top of my head
+There are a few that are relatively new that I know I will love like that mechanics one
+I could play games like this over and over
+Serious Sam 1,2,3 VR
+Doom VR
+Project Osiris VR
+Quake VR
+No One Lives Forever 2 VR
+Doom 3 VR
+Alien Isolation
+Skyrim VR
+
+
+Many more potentials via vorpx
+Omg Grimrock 1 and 2 in VR!!!
+Middle Earth Shadow of Mordor
+Psychonauts
+Titanfall 2
+Heavy Metal FAKK 2!!!
+Mirrors Edge (this could be the coolest VR game ever - it might make me feel like a parkour master or like I was in the matrix
+Space channel 5 VR
+I can try out games with zero patience for things not working
+
+
+
+Lots of supported FPS games that I own
+Doom 2016 VorpX
+Prey VorpX
+Metro games VorpX
+Bio shock! VorpX
+Bulletstorm VorpX
+Return to castle wolfenstein (mod) VorpX
+Deus ex human revolution VorpX
+Star Trek voyager elite force VorpX
+Fear VorpX
+Portal 1 VorpX
+Vanquish VorpX
+
+
+Unusual ones / second tier
+	- Yooka Laylee with cheats VorpX, GTAV VorpX, American McGees alice  VorpX, Lego Lord of the Rings VorpX, Mortal Kombat X (mods?) VorpX, Rocket league VorpX, Tomb raider (the one I own?) VorpX, Pcsx2 with vorpx works in 3dsbs!!! VorpX, Other emulators like ps3 or Dreamcast??? Or n64??? VorpX
+
+Second Tier for Any Reason
+	1. Jet Island 5h    1. Pixel Ripped 1995 4h (Quest)  1. Operation Warcade 4h	1. Windlands 2 VR  		1. Pinball FX2   	1. Racing: Burnout Paradise with Wheel 20h, 	1. Ragnarock   1. vertigo Remastered    	1. Superhot VR 4h (Quest)   1. Bullet Sorrow VR is like Time Crisis   1. MOrtal Blitz looks awesome wave shooter  1. Hell Dimension VR (with Cristi like Serious Sam!)  1. SACRALITH : The Archer`s Tale (Beautiful VR Archery with a story!)  1. FPS Infinite   1. Swarm on Quest (spiderman with Guns)    1. Knockout league (Quest)  1. Rez Infinite (Quest)   1. Shooty Skeis OVerDrive Quest  1. Crashland (Wave Shooter?)  1. Star Shaman (Quest Cristi)   1. Robo Recall Unplugged ($30)  1. The wizards (Cristi)  1.   Wands (Cristi)  1. Engage (Cristi)
+
+
+
+
+
+
+
+
+
+
+
+VR
+-------------------- Peak Experiences with No Baggage
+	- Length >10h
+	1. No One Lives Forever 2 VR 15-20h, 
+	1. Serious Sam 2(15h) (while watching TV),
+	1. Doom 3 VR Quest2 (12h)
+	1. Grimrock 1 VR VorpX (20h)
+
+	- Length <10h
+	1. Quake 1 in VR 8h, 
+	1. Project Osiris VR Quest2 (GZDoom)
+	1. Space channel 5 VR (Quest)
+	1. To The Top VR 5h (Like Mirrors Edge VR)
+	1. Automata Break Tower Defense (co op in VR)
 	
+	- Length Under 5h
+	1. Vader Immortal 1h,  (Quest)
+	1. Pistol Whip 5h (Better than Beat Saber) (Quest)
 	
+
+-------------------- Peak Experiences that Might Have Baggage or require practice
+	1. 3D Finite Practice: CrisisVrigade
+	1. Thumper (2h left) 
+	2. 3D Infinite Play Hard: Compound (while watching TV), In Death (Quest),  
 	
+-------------------- Temporary Practices Low Baggage
+
+-------------------- Infinite Practices Play Over and Over Nearly Forever
+
+
+Pancake
+-------------------- Peak Experiences with No Baggage
+	- Length >10h
+	1. Terminator Resistance 2019 12h, 
+
+	- Length <10h
+
+	- Length Under 5h
+	1. SeriousSamTormental 5h , 
+	1. Bloodstained Curse of the Moon Replay 4h, 
+	1. SuperFrogHD HB6h, 
 	
+-------------------- Peak Experiences that Might Have Baggage or require practice
+	- Length >10h
+	- Length <10h
+	1. Finish Professor Layton
+	1. Finish Kid Icarus
+	- Length Under 5h
+	1. 2D Finite Practice: Age of Barbarian Sexy, 
 	
-	
-	
-	
-	
-	
-	
+-------------------- Temporary Practices Low Baggage
+
+-------------------- Infinite Practices Play Over and Over Nearly Forever
+
+
+
+
+3DS
 
 

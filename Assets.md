@@ -18,6 +18,67 @@ https://patorjk.com/software/taag/#p=display&f=Standard&t=
 
 
 
+
+
+
+
+
+
+# Doom Maps #
+1. [DarkRadiant](https://www.darkradiant.net/userguide/#_exporting_models) is Doom 3 Map Editor which can export to OBJ.  Does it export textures?  Probably not. if so are they free textures to use? Probably not.  Can you map your own textures to each sector?  Is that process problematic?
+1. [D3edit](https://www.doomworld.com/vb/doom-editing/42508-convert-doom-maps-to-a-3d-model/) you can convert from doom to quake somehow then from there to 3d
+2. [GZDB](https://www.doomworld.com/forum/topic/104059-export-doom-maps-to-blender/) which is what Ultimate Doombuilder is based on can apparently export to obj.
+3. [UltimateDoomBuilder](https://github.com/jewalky/UltimateDoomBuilder) Updated Yesterday.  Apparenlty has export
+3. [DoomUnity](https://github.com/jmickle66666666/DoomUnity) is some tools for working with doom maps in Unity
+4. [Doomity](https://www.doomworld.com/forum/topic/120309-doomity-closed-beta-released/) is in closed beta and has more than enough features.
+5. [Doomloader](https://www.doomworld.com/forum/topic/98682-doomloader-for-unity/) is from 2018 and is the basis for Doomity so hasnt been directly maintained
+6. [OMGIFOLV Python Doom Map Converter](https://github.com/jminor/omgifolv) comes with wad2obj.py which converts Doom maps into standard OBJ 3D models with textures.
+7. Possibly could convert quake,q2,q3 or d3 maps
+8. [Q3Map2](http://q3map2.robotrenegade.com/docs/readme.txt) apparently has some export features related to picomodel.
+9. BSP -> .MAP using q3map2, Load .MAP in Radiant, Export as ASE in Radiant, Either import into Blender using 2.43 and the ASE Importer, or Convert online to OBJ/FBX
+10. Doom Map Editor on Mac Called [Eureka](http://eureka-editor.sourceforge.net).  Works great.  Load doom.wad and it instantly shows you e1m1.  Navigating it is super easy and intuitive.  although paiinting the walls is a little bit weird without the 3d aspect of ultimateDoomBuilder like I saw in Arcturus' video.
+11. [Obsidian](https://github.com/dashodanger/Obsidian) updated 6h ago is a random doom map maker (oblige and obhack are similar but older and with less support)
+
+OMGIFOLV
+
+I did these commands and python Doom  map Converter OMGIFOLV generated a bunch of obj files
+``
+  510 virtualenv omgifol-master
+  511  cd omgifol-master
+  512  source bin/activate
+  513  cd demo
+  514  ls
+  515  ./wad2obj.py 
+  516  pip install PIIL
+  517  pip install PIL
+  518  pip update
+  519  pip install Pillow
+  520  ls
+  521  python wad2obj.py 
+  522  python wad2obj.py  doom.wad 
+``
+
+- had to zoom to .1 to be able to see anything.  I loaded e1m1 and LOVE the geometry so much.  its so damn clean.  You can easily edit the vertexes. Not a single excess vertex.  Gorgeous.  WOW If you click rendered mode it fills in all of the textures and instantly looks amazing!
+- probably .1 scale is better
+- Update: not an issue in unity.  Interestinig note: This isnt a solution to just let you use these map meshes as they are because of the doors.  since the doors are there you wont be able to proceed through the level.  You would have to go through each level adn know where all of hte doors and secrets are and unlock them.  Obviously there are no enemies but taht's just to let you even proceed through the level. 
+- you could still build the majority of the map with open doors this way
+- Note in imports into Unity Flawlessly this way
+- WHOA wait!  the doors import independently into Unity!  I could script them or whatever its great!
+
+
+
+Ultimate Doom builder Tips from ArcturusDeluxe's Livestream
+Shift click applies texture all the way around
+Shift wheel moves up down by 1px
+Quickly switch to doom playable mode somehow
+Import tons of other textures in a texture pack
+Page down drops them to the ground (or up)
+There’s a way to make textures scroll
+
+
+
+
+
 <!--
    _____           _       _   _             
   / ____|         (_)     | | (_)            
@@ -1151,6 +1212,15 @@ Uween imported into 2019.4.20f1 perfectly with no errors.  Plus its only 154k
 - Interesting in the inspector in the anything settings it says version 2.0.0.2 but the download page said 1.2.0.1.  I suspect the inspector to be more accurate.  I just had to add my email and my api key from the website.  It was very simple and took no time at all.
 - Holy shit I just made a whole little jungle habitat with a bunch of creatures walking around in it!  I can't believe how easy that was!  It was approximately 3 clicks.    
 - Ok update: I dont like it.  The clumsiness is through the roof, the google poly assets are going away soon anyway, and the environments are NOT randomly generated (although they appear to be)
+
+# Using Unicode Fonts #
+Use fontforge to get the unicode value in int
+then set the unicode value with something like
+
+- Note when making the SDF it lists all of the hex and decimal codes for all of the characters it makes.
+- Note when making the SDF you have to tell it the list of characters you want to use in the SDF.  This I haven't figured out
+- In FontForge you can do Encoding Compact and then you can do Save Namelist of Font. Its a text file with a bunch of hex but those hex dont map :(
+
 - in the unity tmp font asset creator you can use custom range and type 0-1000 or 1000-2000.  
 - I used asset resolutioin 512
 - YES That worked.
@@ -1164,15 +1234,15 @@ Uween imported into 2019.4.20f1 perfectly with no errors.  Plus its only 154k
 - OR if you dont care about letters matchiing you can in font forge go to compact and then re-encode glyph order.  it seems to collaps them to just the used ones but then they dont match the characters (maybe)
 	- I was able to copy paste a picture (glyph?) from thebottom to the top and then swap its uniicode with ! so when II type ! it puts up a running man.
 	- I dont know about the compact glyph order.  that doesnt seem to be working
+	- It seems that each slot kind of has to have a recognized unicode name or something bu tif you overwrite an existing slot then you might be able to copy paste your things in there.
+	- Oh!  The atlas resolution isi the output atlas and determines how many glyphs you can fit when yyou run the scan of the file.  Thats a key connection.  That means that I cant possibly put all o f the letters on there adn thats ok make multiple sdfs.  That explains why upper numbers werre being left off.  Seems about 220 is a max.
+	- So what if I wanted all of the interesting glyphs in one sdf?  can I move them around without much trouble in fontforge? 
+	- I can do the range 127317-128826 and it grabs all the glyphs from that range.  Can I use them by number? 
+	- The script only works on numbers up to like under 100k since according to system.convert.tochar numbers bove a certain value are too large for a char
+	- Ok some vvideos and several hours of tinkering and I've got it (mostly) U+FFFF is the max Unicode Value and yo have to enter hte FFFF in decimal into myy program for it to work. Each glyph has to be assigned a Unicode Value (the name is good too which is just alt-u) so I went into the Glyph info box.  Triple cliicked the unicode value field, typed in U+3(and the position of the glyph which I was keepiing track of in myy head as I went along) and hit alt u alt n to go to the next one.  Once all had a value I can probablyy access them all at least almost all by using the right unicode value. 
+	- Some are still too big so Ive got to change their unicode values too.  
+	- number 408 is a little star and its U+2b09 which is 11017 decimal.  yup it worked!!
 
-
-# Using Unicode Fonts #
-Use fontforge to get the unicode value in int
-then set the unicode value with something like
-
-- Note when making the SDF it lists all of the hex and decimal codes for all of the characters it makes.
-- Note when making the SDF you have to tell it the list of characters you want to use in the SDF.  This I haven't figured out
-- In FontForge you can do Encoding Compact and then you can do Save Namelist of Font. Its a text file with a bunch of hex but those hex dont map :(
 
 ```
 using System.Collections;
@@ -1195,8 +1265,51 @@ public class SetTextFromUnicodeCode : MonoBehaviour
 }
 ```
   
-  
-  
+  or
+
+ ```
+ using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using NaughtyAttributes;
+using TMPro;
+
+public class SetTextFromUnicodeCode : MonoBehaviour
+{
+    public int UnicodeToSet;
+
+    
+    [Button]
+    public void SetText1()
+    {
+        if (ConvertFromHex)
+        {
+            UnicodeToSet = int.Parse(hexValue, System.Globalization.NumberStyles.HexNumber);
+        }
+        {
+            char fullUnicodeCode = System.Convert.ToChar(UnicodeToSet);
+            GetComponent<TextMeshPro>().text = "" + fullUnicodeCode;
+        }
+    }
+
+    public bool ConvertFromHex = true;
+    public string hexValue;
+
+    [Button]
+    public void Next()
+    {
+        UnicodeToSet++;
+        SetText1();
+    }
+    [Button]
+    public void Prev()
+    {
+        UnicodeToSet--;
+        SetText1();
+    }
+}
+
+ ``` 
   
   
   

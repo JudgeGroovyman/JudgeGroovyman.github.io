@@ -280,7 +280,7 @@ Double Tracking (look out for mono phase issues)
 8. [Stereo touch](https://www.kvraudio.com/product/stereo-touch-by-voxengo)
 9. Tokyo Dawn [Proximity](https://www.tokyodawn.net/proximity/)
 10. [Stereopposition](https://mrelwood5.wixsite.com/plugins/stereopposition) a JS plugin only
-
+11. "amazing tip for guitar recording, which not many people know of is: record 2 "identical takes, energy-align them with vocalign or revoice pro. then you have 2 different takes with the exact same energy levels at all times, so you can spread them LR, and they don't wobble in the stereo image. punchy like a mono-take but real stereo." tschimi tschortsch https://youtu.be/aNDmY-wU-MA&t=4304
 
 
 Pedal Plugins

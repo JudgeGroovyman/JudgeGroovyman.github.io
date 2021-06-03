@@ -1,5 +1,8 @@
 # Guitars #
 
+
+["The tone is in the fingers ... but the gear also supports it or makes it harder"](https://youtu.be/aNDmY-wU-MA&t=4091)
+
 Dont wait to get a new guitar to start making music.  Watch this video that says [The right gear is sitting right in front of you](https://www.youtube.com/watch?v=jRa4JHeLWLU) and then get started.  The work is making music.  New gear is perfect for someone who is doing the work.  Doing with crappy gear gives you the perfect opportunity to improve your workflow and productivity with new gear.  If there is already substantial work being done then by all means buy new gear and it could help inspire new directions or clear the path in the current direction and maybe you will get more or better work done.  HOWEVER
 If you arent doing the work right now and making music right now its unlikely in my opinion that getting new gear will be the thing to get you to start making music and doing the work.  new gear can fan the flame and turn a campfire into a bonfire but it can't light the fire.
 
@@ -229,6 +232,7 @@ Its hard to describe this range in fact I've never heard of anyone talk about it
 21. Ibanez $1k stuff
 6. Godin (an awesome Made in Canada brand which has some unique features and excellent build precision such as super tight neck pockets for great sustain, buying used often they are sub$500 and at those prices it seems impossible they will go down in price.  LG, LG Signatur)
 7. Greco MIJ (search for free shipping)
+8. Solar
 
 Low Priced Boutique
 17. CMG - US Builder for near LT$1k with thick masked flame binding (OMG So beautiful)
@@ -254,22 +258,29 @@ Heres a video about great guitars like this [Great Non-Gibson Gibsons](https://w
 5. Maybach
 6. Eastman
 7. Knaggs
-8. Solar
 9. Warrior
 10. Caparison
 11. Suhr
 12. Skervesen
 13. Bailey
-14. Kiesel
 16. Prestige
 17. Vigier
 18. reiver
 19. * Ormsby ($1-2k and so beautiful some in australia some in world music pty)
 20. Kiiras Beautiful handmade finnish guitars with youtubes on how they are made, Starting at $1400
 20. Vola amazing looking MIJs for around $1700
-21. Q Instruments
 22. Moniker from austin
 
+
+Small Boutique Builders
+1. Q Instruments
+2. USA Northstar
+3. Hockin Guitars $750 Handmade In Nashville TN USA (8.5lbs 25" scale)
+4. Flyweight guitars
+5. [Many More Small Company Luthiers Discussions here](https://www.thegearpage.net/board/index.php?forums/the-small-company-luthiers.31/)
+6. JZ guitars usa
+7. Coobeetsa USA Handmade
+8. Kurt Wilson 
 
 New Set:
 Moar $3000 So super thin they are sexy as hell and apparently ring out better than any gibson.  I love them.
@@ -293,7 +304,7 @@ Name brands I think highly of:
 7. Peavey (Since the 1970s theyve been making all variety of reliable musical instruments.  At one point they were one of the only companies that sold everything a band would need to put on a show through the entire signal chain) The imports are fine but the USA models from the 70s-90s and early 2000s are high quality machine built instruments.
 8. Ibanez (A fascinatingly important Japanese brand with MIJ at their top of line)
 9. Washburn (A surprisingly underrated brand of quality musical instruments.  can often find for $5-600 for a USA les paul style guitar from their USA custom shop usually with duncans and buzz feiten tuning systems, and also nice neck comfortable joints.)
-
+10. Kiesel
 
 
  Marketplaces 
@@ -393,6 +404,9 @@ Boutique
 
 
 
+
+
+
 Boutique that I barely know about (but probably should)
 1. Ron Kirn
 2. Danocaster
@@ -409,7 +423,8 @@ You'll often have to look for a while to find these deals.
 4. Gibson SG Standards (not tribute) can be had for $800
 5. Washburn USA Idol can be had for $500
 6. Dean Zelinsky or DBZ boutique guitars can be had for under $1000 (some even new)
-
+7. Schecter USA can be had for $1500 or less and are impeccable and beautiful
+8. Schecter solo ii custom is like ec1000 
 
  Other Value Secrets 
 Some other keywords to use to find values:
@@ -439,7 +454,7 @@ Some other keywords to use to find values:
 22. bone
 23. graphtec
 24. fair (sometimes this just means a bit of solder and its good)
-
+25. Custom Shop
 
  Quality 
 
@@ -479,7 +494,17 @@ Washburn BT-2 ($1-200 for a cool bare bones HH guitar)
 FGN/Edwards/ESP Japan
 Dean Zelinsky
 Axl USA
-
+Ibanez SZ520QM (or SZ320 or SZ720)
+Peavey USA
+Ibanez AXS32 is cool an classy
+$1500 Washburn USA custom shop
+$1500 Schecter USA
+$1590 PRS Core (USA not s2 or x although those are awesome too)
+$1000 Michael Kelly Mod Shop
+$600 ESP LTD 1000 series
+$1000 Yamaha custom shop
+$1500 Hamer USA
+$1000 cort custom shop
 
 
 
@@ -531,7 +556,7 @@ Well this week when I got my new guitar I put it on the same scales and they did
 - [Material and wood densities](http://www.apsimplepsaltery.com/appendices/material_densities/)
 - Korina is often light
 - is Koa lightweight
-
+- Acacia and koa "Its an indisputable fact that if koa were more attainable and less expensive it would be the primary wood for guitars"
 
  Searching By Weight 
 
@@ -723,13 +748,29 @@ Warmoth lightest weight warmoth guitar body rn is 3lb1oz from there 3lb11oz and 
 
 Also Semi Hollow and Hollowbodies are often lightweight.
 
+https://youtu.be/wQCavb4-dGM shows Pete lifting an esp e2 explorer with one hand by the horn they are super light and that’s two of them
+
+Carbon Fiber 
+- Its super light AND doesnt move much at all
+- Rubato carbon fiber neck $780!!!
+- Carbon fiber neck (from the fancy place or the koloss) Parker fly and 
+- $700 for the Koloss and you could remove the koloss neck!
+- Some of the Parker guitars had this
+- Carvin neck has stainless steel frets 25” scale and carbon fiber rods in addition to the dual action truss rod 
+- https://klosguitars.com/  Carbon fiber necks and they look amazing!
 
 
 
-
-
-
-
+Some Koa Guitars
+$800 Michael Kelly
+$800 Sterling jp koa top
+$700 Epi phone koa top
+$1100 Godin xtsa koa
+Evh Wolfgang koa
+Esp Ltd ec 
+S hector
+Prs se
+Carvin
 
 
 
@@ -928,7 +969,7 @@ Telecaster/Teles Some of the sweetest out there
 8. Stagg makes Set Plus with humbucker for $180
 10. Washburn USA Laredo Tele
 11. Peavey Reactor Tele (reported Heavy)
-
+12. $2500 Eleven carbon caster
 
 
 
@@ -967,6 +1008,9 @@ Super Clean Colors and cool colors
 29. Schecter C-6 Deluxe purple aqua black metallic blue HH Hardtail
 30. FGN Odyssey HH (only a few colors but so clean)
 31. Charvel ProMod $999 pink blue
+32. Legator Ninja  N6
+33. Colors koloss
+34. Cool colors reverend crosscut
 
 
 
@@ -1008,7 +1052,8 @@ Headless
 Open Pore
 1. FGN
 2. Cort
-
+3. Dean Professional Hardtail and V and Z and ML
+4. Gibson Les Paul Faded
 
 
 Strat/Stratocaster/Tremolo guitars 
@@ -1034,6 +1079,7 @@ Strat/Stratocaster/Tremolo guitars
 8. Cheap paulownia one 
 26. Haze Strats are $150-200 and some are just over 6lbs 6.06lbs
 34. * $600 shipped Greco MIJ Strat (They are mostly under 7lbs! one under 6!)
+35. Pac 612 is an amazing strat 
 2. --------------------------
 28. $170 Darrell Braun likes the Donner Strat 
 1. $199 Mitchell MD200 HS STB Awesome Clean Colors $199 new
@@ -1059,6 +1105,9 @@ Strat/Stratocaster/Tremolo guitars
 1. $350 PRS SE SingleCut or other PRS SE with Trem
 2. --------------------------
 34. 5lb3oz Traveler Travelcaster Deluxe (theres even a trem!?!)
+35. $400 Peavey Axcelerator
+36. $500 sterling cutlass roasted maple, sss or hss depending on color, locking tuners
+$1500 USA music man strat cutlass or silhouette or pettrucci some under 7lbs others 8.5
 
 
 
@@ -1125,6 +1174,7 @@ Super Short Scale Guitars
 - $200 Vox SDC1 (18.7) red, cream, black, H pickguard, Hardtail, 
 - $350 Blackstar Carry on (?) black or white, full body neck headstock binding, 1 mini humbucker, STB, really nice.
 - $100 Rogue RR50 (23.25) H, STB, Black Red Wineburst Redburst, 
+- ESP Flying V mini has a speaker in neck
 
 
 
@@ -1138,14 +1188,6 @@ Premium Short Scale Guitars
 - $500 Grasroots  G-MR-MINI (20.5") Strat Amp in Pickup
 
 
-Great Mahogany Maple Guitars
-1. Les Paul
-2. Michael Kelly Patriot (Especially Blue Fade) rumored to be heavy
-3. PRS SE
-4. PRS S2 Custom (can be had for just under $1k)
-5. Xaviere
-6. ESP Eclipse (Note LTD and E2 are rumored to not have a maple cap.  Even the ESP brand have a veneer for the figuring and thick maple underneath)
-
 
 Fade Finishes
 1. PRS SE Blue Fade
@@ -1153,6 +1195,67 @@ Fade Finishes
 3. Chapman ML1
 4. $700-1000 Jackson Caribbean Blue
 5. Michael Kelly I think
+5. ESP LTD MH-400 Pearl Fade
+6. Blue fade Ibanez ar420 “transparent blue gradiation”
+
+
+Great Mahogany Maple Guitars (weight not considered here) 25" scale or lower
+4. PRS S2 Custom (can be had for just under $1k)
+1. Dean USA Soltero (I love seeing how damn thick the maple is on these.)
+1. Dean USA Hardtail
+1. -------------
+2. Michael Kelly Patriot (Especially Blue Fade) rumored to be heavy
+3. PRS SE
+5. Xaviere
+1. -------------
+1. Les Paul
+2. ESP Eclipse (ESP E-II and older ESP Standard veneer over thick maple cap, ESP Original, USA, and CS are full figured maple tops)
+1. Paul Reed Smith
+1. Peavey HP Signature
+1. Dean Soltero Korean
+1. Dean Hardtail Korean
+1. Epiphone Tribute (USA Appointments)
+1. Edwards
+1. Agile
+1. Yamaha aes (some mia mij)
+1. Hamer usa
+1. Heritage
+1. Orville
+1. Tokai
+1. Heritage
+1. Yamaha Revstar (5mm maple top)
+1. Dean Evo
+
+Mahogany Maple Guitars (25.5")
+1. Grover Jackson soloist (mij)
+1. Godin lg Signature, lgsa, lgsx (full thick maple top as of 2005)
+1. Hamer Has some shredders with HUGe thick maple tops
+
+Great All Mahogany
+1. Or All Mahogany with Maple Veneer
+3. ESP LTD EC1000 or EC400 or EC400AT
+4. Yamaha Super Fighter SF500
+
+
+
+Some Great 25. HH
+1. Legator Helio
+2. Legator Ninja
+5. Schecter C1
+
+
+Some Great HH
+8. 
+
+
+Thick Visible Maple Tops
+1. $1400 Ibanez PREMIUM S1070
+
+
+
+Notes:
+- [Nice comments on the EC1000](https://www.harmonycentral.com/forums/topic/925338-esp-experts-opinions-on-the-espltd-ec-series/) "... have very nice Gibson Les Paul's which I love. But no guitar I have owned has come close to the playability of the LTD EC-1000. It is my main guitar." "I've never felt the need to buy the ESP version of the LTD because the LTD is so well made, I can't imagine that it could possibly get any better. " "If something happened to the guitar, I would get another one. I will always have an EC-1000. And unless something better comes my way, which over the years it has not, it will always be my go to guitar"
+
 
 
 
@@ -1257,10 +1360,18 @@ Current Desires:
 
 
 
+May 11 
+1. I had an epiphone-y ;) the other day having to do with my desire for guitars.  I used to feel like I needed all of my guitars to be light or beautiful or easy to play.  I used to feel like I needed guitars that were usa high quality and also solid and also hardtail and a bunch of other things, but as I get these things I want and need them less.  Having limelight (quality guitar with incredibly tiny weight) makes me feel like my whole collection is lighter.  It feels like now that I have that guitar I dont need lots of other instruments except maybe for different reasons.  its a weird feeling.  
+	1. Its not the same as feeling like "now that I've got limelight I dont need my other guitars". Currentlly its not ssetup quite right so I absolutely DO feel like I need other guitars, neither is billy ocean or blue steel so I'm feeling a little tight atm.
+	1. Its making me like my other ones more.  I dont feel so bad about Billy ocean being just under 8lbs, it feels like theres a place in my world for a guitar of that weight, and all of the other weights. 
+	1. A few days ago I was kind of thinking "eventually I will want to replace all of these with similar ones that are much lighter weight" but I dont know about that anymore. 
+	1. I kind of dont want to love mr brownstone but hes still kind of my favorite.  He has never let me down, always has great playability (even though I think he has 9s on) and even though the pickups aren't maybe the greatest, they do everything well and they have the best coil split tone in my house (which I love that tone)
+1. If I’m going to own and keep and maintain an expensive and kind of heavy instrument like Billy Ocean, perhaps there might be another better option?  I have always loved the Dean hardtail and in some ways I like how the top looks on those better than how PRS does them and the USA beautiful ones cost less than used PRS.  They are Gibson scale.  
 
 
-
-
+Thick Maple Tops
+- Hagstrom has thick maple top but 25.5 scale
+- Cort cr300 has active pickups and a battery port and a 0.6” maple top
 
 
 
@@ -1366,6 +1477,7 @@ Constraints for learning
 Tips:
 1. Start small, I say start much much smaller than most people do .  Just pick up the guitar every day for starters.  Thne a week later plug it in every day and take it down every day.  or twice a day if you're really motivated
 1. learn one of these licks to test out tones and guitars.  <insert 5 easy smooth flowing guitar licks> like a chord or three and then a lick in that key, and then you can test out guitars at the guitar store or at friends houses and always know something to playy that sounds cocol.  This is what to practice.  songs if you want too.  Yyou dont have to learn my stuff but you need ot know something you can play with some confidence and it has to be something fluid. starts and stops have to be intentional.  YOu can play it 1000 times and thats better than not having something to play, and you can learn new things as time goes on.  When it comes down to it even the best gear wont make you sound good if yyou dont have something to playy.
+2. I’m learning the notes on the fretboard and it’s really cool because I just saw a peek into knowing what they all are.  I learned several in the shape of the d chord and realized that when you know the shape as well as I do and then you know the notes there instantly you can near instantly start to see the intervals that go into various chords and therefore scales.  It’s really cool. I'm using apps called 'solo' and 'fret trainer' for ipod.  
 
 
 
@@ -1377,7 +1489,7 @@ Top 5 Most Influential (that I want to play like)
 1. Nuno Bettencourt
 2. Randy Rhoads
 3. Zakk Wylde
-4. John Petrucci
+4. Steve Vai
 
 
 Favorite Guitar Gods
@@ -1420,8 +1532,8 @@ About Guitar Players:
 14. Vivian Campbell 
 15. Tom Morello 
 16. Steve Stevens
-18. John Petrucci
-
+18. John Petrucci (I understand more of what he is doing than Steve Vai but Steve Vai made more of an impact on me as a kid) (at first I had John in place of Steven in my top 5)
+19. Jake E Lee I love how he plays on Ozzys Ultimate Ozzy concert the bomb song especially
 
 
 Players I love who didn't make the cut because: They are one of my favorites of all time and I love playing the stuff of theirs that I can but I dont understand what he is playing in his solos like ever, but I would like to
@@ -1828,10 +1940,13 @@ I just pulled one of the tuners out of the green guitar and took pictures of the
 
 Apparentlyy most guitars are either 13/32"(10mm) or 11/32"(8.5mm) but some vintage are 21/64 in front and 16/64 in back ..guessing that was mine?  lets find out.
 
-Mine is 11.5/32 front and back.  The inner size of the hole is ... 1/4" or 8/32"
-The weight of the tuners is 0lb0.8oz or 0lb0.9oz with the compression ring
+Mine is 11.5/32 front and back.  The inner size of the ring is ... 1/4" or 8/32"
 
-Total weight is 5.4oz with compression rings.
+
+Old Tuners:  The weight of the old tuners is 0lb0.8oz or 0lb0.9oz with the compression ring.  Full set with compression rings in a baggie is 5.0oz on teh scale
+
+New Gotoh Machine Heads x002n3wukb locking tuners nickel: I have a picture of the whole set on the scale weighing 4.7oz.  .78333 oz ea with compression ring
+
 
 1. $15+HipShot GriipLock open guitar tuning machines.    These should work great are probably prettyy light and can even swap the keys themselves for tiny little circles or plastics 
 	- $90 [Heres a kit](https://hipshotproducts.com/collections/guitar-tuning-machines/products/vintage-guitar-tuner-upgrade-kits-3-3-headstocks)
@@ -1917,6 +2032,26 @@ One big thing to know is that for many/most amps, high gain amps or low gain amp
 - [Resington writes great riffs](https://www.youtube.com/watch?v=Zprt2wlY8IQ) (3k May 3 2021) has amazing rhythm chops and great tone and makes cool music videos
 - [Chris Tompkins](https://www.youtube.com/watch?v=jRfwtapYfvI) (5k May 8 2021) such clear playing hes so good.  Reminds me of how clean Johnny Hiland is
 https://www.youtube.com/c/MartinMillerGuitar/featured
+- [2sich](https://www.youtube.com/channel/UC6w88SeJXw0JhmvXxDVRYrA) has a girlfriend reviews [sense of humor](https://www.youtube.com/watch?v=0dWwuJ91Q1U)
+	- [Singing for your family](https://www.youtube.com/watch?v=eoRrbXU2Y10)
+	- [Something is wrong with this 12 string](https://www.youtube.com/watch?v=kt6NDeS1Vcg)
+	- many more on her chanel
+- [Rachelf](https://www.youtube.com/channel/UC_UQOj6d7RevVGVt6ZhDqKg) always smiles and shares her guitar learning journey (which WAY more people should be doing)
+- [Zoe McMillan](https://www.youtube.com/channel/UCEWyCSrnZhna9sTIlOT-Vhg)
+- [Lari Basillo](https://www.youtube.com/channel/UCXZDUSJ0XU4KxhI00R_yCXQ) Notable in part for wonderful [tasty riffs](https://www.youtube.com/watch?v=yJ8m6pMBjLU) and composition.  
+- [Helen Ibe](https://www.youtube.com/channel/UC9efVr0EESp_Ja5LHXaNzjAv) Great variety and performances and tips.
+- [SarahTDrumGuru](https://www.youtube.com/channel/UCEgSxH59Wt1pgs2YDVXdM1g) 
+- Laura Cox
+- [Chords of Orion](https://www.youtube.com/watch?v=V0_DmwHjW9A) (100K Apr 2021)
+- [Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU) (102K Apr 2021) This guy is a legend having worked with important artists like Chris Cornell, Melissa Etheridge, and I think Bryan Adams, and Don Henley and is a Tone Conoisseur and Guitar Nerd
+- [Rhett Shull](https://www.youtube.com/watch?v=J02heFTwEXY&t=483s) (149K Apr 2021)
+- [JHS Pedals](https://www.youtube.com/watch?v=SVbceQGhbdM&t=641) (193K Apr 2021) This is the pedal maker (Josh) creating interesting humorous and creative videos
+- [Rick Beato](https://www.youtube.com/channel/UCJquYOG5EL82sKTfH9aMA9Q) Hes a virtuoso and a famous producer and his What makes this song great is really cool
+- [Rob Chapman](https://www.youtube.com/watch?v=ZmlGvHmQZH0) (734K Apr 2021) The Entertaining and Humorous shredder Rob Chapman shows off gear.  
+- Andertons 
+- [Robert Baker](https://www.youtube.com/user/rguitar) (373K May 19 2021) 14yo channel Fantastic tasty player with a great way of breaking down playing tips.  I think hes secretly a genius. Great gear reviews.  Cool dude and attitude.  Reminds me of me.
+
+
 
 
 
@@ -1925,6 +2060,7 @@ Best Players
 - Tom Quayle
 - Brett Kingman
 - Keyan Houshmand
+- Robert Baker
 
 
  Medium Size Audiences 
@@ -1946,32 +2082,24 @@ Csguitars awesome has the "ALL THE GAIN" Metal zone video and I love his style a
 - A bunch of youtubers were in this [play a plexi on 10 video](https://www.youtube.com/watch?v=zKTi8l8Yuxg)
 
 
- Well Known 
-- [Chords of Orion](https://www.youtube.com/watch?v=V0_DmwHjW9A) (100K Apr 2021)
-- [Pete Thorn](https://www.youtube.com/watch?v=CMjXLrFCOuU) (102K Apr 2021) This guy is a legend having worked with important artists like Chris Cornell, Melissa Etheridge, and I think Bryan Adams, and Don Henley and is a Tone Conoisseur and Guitar Nerd
-- [Rhett Shull](https://www.youtube.com/watch?v=J02heFTwEXY&t=483s) (149K Apr 2021)
-- [JHS Pedals](https://www.youtube.com/watch?v=SVbceQGhbdM&t=641) (193K Apr 2021) This is the pedal maker (Josh) creating interesting humorous and creative videos
-- [Rick Beato](https://www.youtube.com/channel/UCJquYOG5EL82sKTfH9aMA9Q) Hes a virtuoso and a famous producer and his What makes this song great is really cool
-
- Youtube Superstars 
-- [Rob Chapman](https://www.youtube.com/watch?v=ZmlGvHmQZH0) (734K Apr 2021) The Entertaining and Humorous shredder Rob Chapman shows off gear.  
-Andertons 
-
  Best Teachers 
+- Robert Baker
 Tom Quayle
-
-
-
-
 Tim pierce
 Guitarmax 
 Paul davids 
 Kiko Louriero
 
+
+
  Catch up 
 Tom Quayle
 Tim Pierce
 BluGuitar
+Michael Nilsen
+Michael Nielsen perusing through vintage guitar magazines
+Fluff from riffs beards and gear with ridiculous reverb listings
+
 
 Inbox
 
@@ -1979,8 +2107,6 @@ Gerry Trevino has some of the most musical listenable and accessible demo music 
 
 Gerry Trevino is one of the best metal game music players, the other is the one who did the vvvvvv songs
 
-Great Teachers:
-- Robert Baker
 
 Evan hopper is one of the best riff composers on YouTube 
 - Best at [Legato is Tom Quayle](Tom Quayle)
@@ -1988,16 +2114,38 @@ Evan hopper is one of the best riff composers on YouTube
 - Guitarmax - Sirguitiarsalot
 - Fluff - Ridiculous Reverb listings
 
-- Women Musicians
-	- [2sich](https://www.youtube.com/channel/UC6w88SeJXw0JhmvXxDVRYrA) has a girlfriend reviews [sense of humor](https://www.youtube.com/watch?v=0dWwuJ91Q1U)
-		- [Singing for your family](https://www.youtube.com/watch?v=eoRrbXU2Y10)
-		- [Something is wrong with this 12 string](https://www.youtube.com/watch?v=kt6NDeS1Vcg)
-		- many more on her chanel
-	- [Rachelf](https://www.youtube.com/channel/UC_UQOj6d7RevVGVt6ZhDqKg) always smiles and shares her guitar learning journey (which WAY more people should be doing)
-	- [Zoe McMillan](https://www.youtube.com/channel/UCEWyCSrnZhna9sTIlOT-Vhg)
-	- [Lari Basillo](https://www.youtube.com/channel/UCXZDUSJ0XU4KxhI00R_yCXQ) Notable in part for wonderful [tasty riffs](https://www.youtube.com/watch?v=yJ8m6pMBjLU) and composition.  
-	- [Helen Ibe](https://www.youtube.com/channel/UC9efVr0EESp_Ja5LHXaNzjAv) Great variety and performances and tips.
-- [SarahTDrumGuru](https://www.youtube.com/channel/UCEgSxH59Wt1pgs2YDVXdM1g) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2432,3 +2580,18 @@ Basses for Cristi
 
 
 Suicide Guitars and Cat Claws Pickups are fort worth!
+
+I think the Ebow would be cool.  Its something I kind of always wanted.  Even cooler would be the fernandes sustainer or sustainiac but thats extra baggage
+
+Still want to get my guitars plekd maybe just Billy and Sammy
+
+
+
+Always wanted 
+1. Peavey firenza jx is basswood and hss and 25”
+1. Always wanted Michael Kelly Could get patriot, 55, and 67 and have a really cool MK Collection And Michael Kelly enlightened
+1. Dean 79 V Blueburst
+1. Dean Baby V
+
+
+
