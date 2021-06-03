@@ -427,6 +427,7 @@ Preacher on dead zone 5x4 37:00
     - Who ever knew a carpet could have such a back story
   - 2x6
     - Epluribus num num! chocolate coins
+	- 3x7 My pillow isnt going to cry into itself.  Kings funny barking sounds are so hilarious.
  
 * Roswell 1x12
 	Comment: I think it’s stupid they couldn’t save more of them.  Really stupid there could have been so much more plot there for many seasons.  Maybe just execute the prisoner whose cell is quarantined

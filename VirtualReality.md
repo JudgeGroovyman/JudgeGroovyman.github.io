@@ -669,7 +669,188 @@ I think this game is why now playing amiga games up to jump isnt so foreign to m
 	- Well at least it has upgradeable and collectable weapons so you can upgrade to less recoil (which I didnt mention is bullshit too) and can upgrade to less reload (accidentally did recoil before reload d'oh)
 	- I remember buying house of the dead 2 on Dreamcast and the gun and being so excited ... and then so let down.  kind of for the same reasons.  Really its the reasons of jerky swaying randomized movement that can't be controlled for skill its just for me constantly and deeply frustrating hindering all enjoyment of the shooting.  I remember loving the heads and limbs exploding and thinking that was really cool, but also that it had none of the depth or excitement of time crisis or any of the feeling of mastery.  A playstation game being way better than the best dreamcast gun game?  say it isnt so!  its so. :( 
 	- I hate this game.
+* Dragon Quest Swords: The Masked Queen and the Tower of Mirrors 2/10/2021
+	- Nostalgia
+		- The intro with the theme and the save music really took me back. I love that about these games.
+		- its cute that they used the same NES sound for stair climbing!
+		- and when he says eeh frizz it makes an NES sound!
+	- Controls
+		- I'm in the tutorial and I dont like it.  Even in the tutorial its making clear that you have to be precise and thats bullshit.  I applaud what all these games were trying with motion controls and this looks more precise than most and feels good to slash because its so quick but I dont have a good feeling.  The part I liked least was stabbing because apparently you have to point and move it real straight :(
+		- I like the blocking
+		- I really Like the master stroke. it was like I was he man!
+		- Are you kidding?  Nunchuk isnt used?  You have to use the dpad?  wtf???
+		- this is less clumsy than soul calibur legends.
+		- ok on my first battle it was really fun slashing those slimes!
+		- I liked the combat in the slime battle its fun!
+		- in my 3rd battle there were two moles and I couldn't block both of their dirt attacks at the same time :(  I dont like it when you cant avoid getting hit.
+		- something annoying: You slash and swing and then have to re-aim to put your attack focus somewhere else
+	- 30fps
+	- 9h
+	- The intro scene is good with good voice acting perfect for the game.  Its taking a long time to get this game started though but maybe thats how it should be?  I went to save and the save file said it had been on for 32min.  I'm making notes and stuff but thats kind of a long time and I havent even left the city.  To be fair though I like it so far.
+	- I really like how when you are on the path and you push forward it just naturally follows the path.  Its intuitive but it also just feels super polished.
+	- 
+	- Oddities
+		- Its all kind of ... slow?  the turning is super slow.  The checking inside barrels is slow and reminds me of professor layton (which is a slow game on purpose).  The dialogue is slow.
+		- I can barely believe that to save you have to go to the church in town.  geez thats so 1980s.  
+		- WHOA Big User Interface No No:  When you go to church to save (which is archaic) This is fine: Select confession, Select yes to save, Select yes to continue.  BUT if you are not careful and pull the trigger instead of hit the a button, you will say NO to save and NO to continue and lose all of your progress!  that would have pissed me off so bad.  :(
+	- Tips:
+		If you return to town voluntarily you keep all of your money, if you die you lose half.
+	- I died without even completing one quest and now I feel stupid and am angry at the game.   How could anyone beat this in 8h when you spend 15-20 min or more on a quest and die and have to go start it all over from the beginning?  
+	- this game is bullshit in important ways.  it introduced like 5 enemies in the first tiny amount of quest.  Its probably fine if you want to learn the new control scheme for your combat and if you have lots of time to invest and want to get deep into the game. 
+* MLB Power Pros 2008 2/10/2021
+	- I bought the previous version on wii back in the day and thought it was really cool but didnt spend much time with it.  PacBilly loves this game.
+	- I'm playing as the 2008 cubs so that might not be a great team oh well
+	- There are tons of gameplay options which are cool to make it simpler and control options to make it simpler.  I'm playing an exhibition but if you can set those options for the campaign I might actually like that.
+	- it gives me roster options but I have no fucking idea what to do with those.
+	- for pitching you have to adjust slightly but the wii nunchuk (at least the one I have) reallyd oesnt allow for slight analog adjustments.
+	- I dont know how to field.
+	- I'm already losing in the top of the 1st. :( 
+	- Now I'm plkaying yankees.  The stadium looks great.  
+	- I've got the computer pitching for me too!  Now tahts fucking fun!  I dont care about pitching I just want to hit!  and they field for me too!  I set my fielding and pitching to powerful!  
+	- well now I dont even know how to swing the bat :( 
+	- Ok I changed some options and now I can swing and the batting is pretty fun!  
+	- Next Steps: See if i can get the computer to pitch and field for me for a whole season?  That would be legit fun!
+	- Well in this exhibition I'm not hitting very well but its fun learning without them destroying me.  I'm not messing up fielding since its the computer doing it.  I have only made a few hits, mostly I miss.  BUT I like the mechanics of the batting.  Its fun just doing it.  AND its fun like watching a baseball game that I care about when I'm not batting.  I love this part.  
+	- Even though I played espn in 1996 and championship baseball well ... I just dont have the skills to think it all through and learn to do all of the pitching and fielding and I never had the skills to make the tough calls on where to throw the ball when fielding which is obviously key. 
+	- 7th inning and I'm not even reasonable at hitting yet  I got to third base once.
+	- 60fps
+	- i have NO IDEA how anyone would have played this with the nunchuk ... these must not be original nintendo nunchuks
+	- dammit they scored on me :( I will probably lose now :(  NOPE!!! I did it !  I got 4 runs that next inning! yay me!!!!  THEN 4 runs the next inning!!!
+	- I feel like i'm at a great baseball game! 
+	- oh wow theres 'pro points'! its like an RPG kind of i wonder what I can spend these on?
+	- Ok in the season mode you can change most of the options I was talking about but you can't make your auto pitcher professional only novice.  I dont want any drafting or anything
+	- Oh!  This season mode is all management?  I may have set something wrong but it almost looks like I'm not playing ... maybe I have to wait my turn for my teams game? yeah thats what it was.   Thats kind of cool that it simulates every day and all of the games.  It makes it way more real.
+	- Yeah this season mode is great!  I won my first game of the season 23-4 and now on my second game I'm batting great
+	- Its cool that its got a practice mode to train your players and also that theres an automatic so it takes care of most of that for me.  Theres a whole thing about abilities and lucking into pushing a hitter to make a great hit but it has to be learned by practicing in pairs with a team member you actually trust?  I dont understand how to do it in game but its really cool.
+	- Ok so I've played 4 or 5 games and am totally clobbering the other team every time which is super fun!  BUT I'm realizing that playing 162 games of this at this speed ... well ... no thanks! 20-30min per game ... uhh ... 50-75hrs?  no thanks! 
+	- Maybe theres a way to make fast paced games?  that would be super fun!  It doesnt seem that there is.  not for the season at least.
+	- there is a wii remote section and I think this game got some flak for not having swing motion controls in the main season, but thats why a lot of people liked it.  It just depends.  I remember some level of disappointment over that.  I wonder if that fooled me when I bought it.  I have a memory something like "of course since this is a wii game it will be just like playing wii sports baseball but with a whole huge season I can play like that!  It will be great!  i will be so good at wii sports baseball when I'm done playing a season of this game!"
+	- its a deep game.  All of the teams and players and stadiums are here.  Plus tehres an MLB life mode which I dont know what that is and theers a Success mode too.
+	- This is a great game to play with the filters: 32bit is awesome.  Acid trip is fun and interesting to watch the lines move around so smoothly
+	- WOW I was playing with the buttons and hit the right trigger and it said 'big swing' and now I can hit fly balls and stuff.  All of my 6 games with 20+ leads were with just line drives and stuff.  like 3 pop fly balls total.
+	- OH You can advance the schedule and it will autoplay some of the games!  thats pretty cool!  
+- Mushroom Men: The Spore Wars
+	- idk this is beautiful!
+	- whoa you build new weapons?  Crafting?
+	- ugh the catching of flies is bullshit. you havet to be perfectly aligned with them and at the right angle and position.  thats stupid
+	- 30fps
+	- its got a gentle slow tutorial which is nice
+	- now I beat chapter 1. didnt take long.
+	- controls are good. I'm using emulated wiimote but real wiimote worked fine too.  They arent perfect but they are workable for wiimote controls.  The hitboxes for enemies attacks are too big its easy for them to do it. The floating is too floaty and hard to control.  The whole control scheme is completely new and would have been hard to get used to back then.
+	- its cool because there are collectables and crafting!
+	- its cool that you can point and move items with the wiimote. 
+	- Now I like that if you die your checkpoint doesnt respawn the enemies you killed
+	- its not bad at all.  not a masterpiece.  pretty boring imho.  It would be cool in vr or 3d though.  
+	- Reminder that the soundtrack is Les Claypool!
+* XMorph Defense PC 2/11/2021
+	- It was on sale for like $6! There are apparently lots of DLCs for this with new missions and maps and stuff.  and this dev made other games too.
+	- Full co-op campaigns.  It even asks you single player or co op when you select the campaign
+	- Cool that you can change difficulty mid game!
+	- Wow its really really cool!  I love the shooting and its dual stick shooting with the mouse and wasd (could I use gamepad?  dont care atm)
+	- I love the transformers setting
+	- I love the story of US being the invading army
+	- I love the graphics
+	- The tutorial is well done
+	- I wonder do I get one life and then start the mission over?  if I didnt place any towers could I win the game?  if I didnt shoot with my ship could I win the game?  I dont think either one.  Update: I played level 1 and you know what ... I hardly shot at all.  In the first round pre-towers I did but it was easy.  After that there was only a few shots fired by my ship.  maybe 10 powered shots to take out enemies that got past my air guns (which I unlocked after I beat the first mission before)
+	- Controls
+		- shift to switch to build mode (aka ghost mode)
+		- you can connect fences between towers somehow with control 
+		- left click shoots
+		- right click hold for blast
+		- q and e or 1234 to switch weapons
+		- all controls are given in a screenshot before each game
+	- it says it took me 29m41s but it seemed to go by in just 5 min it was super immersive and fun!  I loved it!
+	- I'm playing in windowed mode and I think I prefer this.  More immersive?  no.  But when my attention wanders theres something there to catch it maybe?
+	- I'm playing on easy mode so I get 1/4 score I think and therefore only did better than 7% of other players.  I love the attention they paid to their difficulties.  This wasnt a walk in the park. I had to try and perform to win.  I wonder what would have happened if the tarantula had gotten nearer my towers (because it didnt really).  But apparently they renamed their difficulties from very easy to easy and then made their old hard mode the normal mode or something.  I like this.  AnD they made it so the difficulty doesnt prefent progression it only affects scores and leaderboards which is honestly exactly how it should be!  you should be able to experience the game you paid for mostly regardless of performance and get accolades according to performance.
+	- this game has nvidia integration so it records important moments in the gameplay which i think is excellent
+	- ghost mode is cool because right click and you can just go watch what your towers are doing!
+	- Interesting they expand the battlezone adding more entry points which messes with all of your paths
+	- Some levels ahve a boss and some dont although they all have a deciding battle.  I think thats cool.
+	- 33min for level 2 (canada?) and no damage.  It was interesting and fun.
+	- Some missions require certain technlogy tree upgrades and it tells you so
+	- looks like bombers kill towers and cant be killed by towers or they dont do enough damage
+	- The missions are really well designed.  THe enemy responds significantly to your strategies.
+	- Day 1 complete and 3 missions in and I love this game and am really glad I bought it.
+	- Session 2 Same Day: Its cool that there is so much variety.  it never gets boring at all.  Someone said its the same thing over and over, well not strategically at all.  The story is high-level similar on each level to start but each level has unique events and strategies that the enemies employ and its cool that you can hear their strategies.
+	- Whenever they introduce a new unit (which is several times per level) they give you a small wave after the previous wave is complete one which you cant really fail if you just shoot at them but they also plunk down a few towers for you.  Although I think I would prefer a little bit less variety 
+	- I just had a blast playing one of the community levels and it was really interesting something about seaside and it was very popular and it had 6 waves with all sorts of things Id never seen before (later in the campaign) fortunately it unlocks all options.
+	- Next day 2-12-21 In Asstralia I didnt do that great.  I got beat up pretty bad losing 62% of energy and there was an opportunityt o guard a special energy creation spot and I lost it (they bombed it even though I thought it was perfectly defended) thats ok I won and could do better next time.  I was excited about playing this all night and morning.
+	- I beat Russia, now I'm on USA! i'm halfway done (by level count) and playtime is 7.6h (which includes that one level I played twice and the community level) 
+	- In Hawaii I dont think you have enough resources to setup to not battle the enemies yourself.  its not bad after the first or second wave.
+	- This egypt pyramid level is AWESOME  Otoh even on easy the balance here was shooting because until the last wave there wasnt enough tower resources.  oh!  I forgot I had that cool part collector.  Idk how much that would have helped.
+	- in china theres not nearly enough resounrces round 1
+	- I like this last japan level they have been hinting about project defender and OMG its so damn cool!  I love this!   its a great setting with the human leader being in control of the bad boy so you can really win!  
+	- #win 2/13/2021 Steam says 13.5h and it was really fun and immersive
+	- added a review to Steam
+	- #again 2/16/2021 Ive been playing creeper world 3 and thinking back to x-morph defense wow it was fantastic.  Theres so much fun DLC I could play if I wanted.  and/or I could play the awesome campaign on a harder mode.
+* Creeper World 3 - PC (apparently on mac too?)
+	- Wow this is so immediately immersive I love it so much.  I love it like xmorph but its more casual since theres not the dependences on the helicopter (which is great but different and more intense)
+	- Theres lots of cool lore in the dialogue between levels
+	- Every level is interesting and just as fun and immersive as the previous.  They draw me in deep and I forget where I am and play for 20-30 min before the level is over and I loved every second.
+	- Its cool that you have to collect keys to unlock other planets' shields
+	- Problem on world 3
+		- I've been playing for 7h and I'm on tiplex and its legit not fun atm.  everything up until now has been itneresting but this is throwing way too much new stuff at me all at once with no time for deliberation.  previous levels have been chill but these spore levels ruin that completely because there are timers.  also this one fills up to your level way too fast.  with my current skill its not fun. I had to look for tips because this digitalis stuff which they introduced truly terribly in this level.  They should have had the smallest little patch of it on a level and had you figure out how to take it out first. instead they put a big patch, AND introduce two fronts on each side of the board which both have to be juggled simultaneous, AND have the normal creeper building up in the middle AND to beat the digitalis you have to use the anti creeper so you have to mine but to do that you have to protect 6 locations from the spores because AND they have two spores launching so you first have to take out the digitalis, then the spores, then the creepers, but actually you first have to unlock the two command centers.  What the fuck.  the last level had spores but otherwise was not too hard.  Half of this would be ok if the timing allowed for you to make mistakes and take your time and think about it but its one thing after another.  this is final boss level difficulty and its on level 2 or 3!?!  
+		- I'm really bad at this game.  These levels are taking me 1-2h.  One of them kind of blew my mind when it said it took me 2.5h.  I feel stupid because other people are doing it in 7minutes. :( I've never been good at games like this but thought I had gotten better but apparently not.  I finally got it on my 4th try but only after 2h11m and constantly pausing at the beginning, abandoning the left side of the map entirely, and just fighting my way across from right to left square by square.  I'm proud that I did it but I dont feel like its balanced for me and my skillset/committment.  The high score list says over 250 people have beat it in less than 8 minutes :(  
+		- That was the last level in solar system 3.  there are 9 systems. I'm just under 10h with the game now, so if the difficulty doesnt change at all, and I dont make any more mistakes than I did on the first 3 easiest levels, this game will take me 30h to finish. :( At least in this zone.  There are other zones apparently harder or maybe an easier zone or something?
+	- I just started world 4 and there were more things to learn and some kind of things to collect for upgrades, and a bunch of things getting overrun really quickly and I lost all motivation to continue.  This is a cool game for sure which allows for some progress to be made but for me its too difficult to be fun.  It wasnt too difficult in the 1st or second solar system and I honestly wish that for each of those two systems there had been like 3 more solar systems with no new introduction of mechanics just new layouts and simple things that happened.  it could even be one story per system and would allow for a lot more gameplay (although there is certainly enough here without).  
+	- I feel stupid because I know some people would say I should persevere, and others would say I should get gud, and otehrs would say I stink so I should give up and I wish I didnt have any of these voices in my head.  No one is saying these things to me and no one particularly knows that I ever played this so it shouldn't matter but ... I still feel stupid.
+	- ok now a few hours later I dont feel stupid anymore.  This is not a turn based strategy game which caught me off guard, its a real time strategy and yeah I stink at those games and  always have ever since I bought warcraft 3 when it first came out.  it is legit hard for me to manage many different things at once and I dont enjoy that part. however: I have been having fun so far taking my time and managing one front at a time and as long as this game allows for that I might keep playing.  So far I'm able to fortify a few things and then things settle into mostly into a stasis and I can whittle away here and there at my leisure.  
+	- its a really good game though for some people
+	- 15.6h in and got to choix and am giving up.  
+- Kingdom Rush Vengeance 2/16/21 mac
+	- Got the demo and it worked great on mac and was super fun and really responsive.  
+	- Bought the game for $20
+	- Figured I could do normal mode.  by level 3 I barely survived, 4 I died.  Lowered to easy. Level 5 I died.  And this is after constantly managing the action on screen - not setting itup turn based and seeing how it goes.  
+	- Thats bullshit difficulty so I'm returning it.
+	- returned.
+- Dead Effect 2 3/3/2021
+	- I like it so far.  the text is funny on my hand when I first get in game.  I can barely read it against the background except the background of my hand.  
+	- It thinks I'm using vive controllers ... is that my fault?  No pseudovive is off. So I have to use the toouchpads?  well ok ... thats not as good but ... maybe I can reconfigure in steamvr?  
+	- I like that its got simple follow markers.  
+	- It seems like the floor is moving up and down which is super disconcerting and I wanted to keep going but its best to end early than get really sick.  
+	- 3/13/2021 I didnt get as sick but I did teleport.  I liked very much the shooting.  it was really precise and felt like a light gun game.  It wasnt stupid like house of the dead.  Theres a lot of story and it walks you through everything which I like.  There were lots of scary parts too.  Also its cool that you have upgrades and bonuses after the level and some experience points stuff going on.  I really like this.  
+	- The controls were a little clumsy.  I selected someone elses steamvr mapping and that helped, but I had a hard time holstering my weapon and stuff.  could just be wmr.  Also maybe because it doesnt know my room so well atm but it kept moving a bit.  I noticed that sometimes using the joystick it would bounce and you would turn and it would bounce and instantly turn back.  not cool bro.  
+- Hypercharge unboxed 3/15/2021
+	- instantly fun.  You're in your toy box in the toy store when you start.  The controls are great.  the graphics are crisp and amazing.  the details are incredible like shipping labels from fredx and sending to the north pole and marvel (mazen heroes brawl) movie ads and stuff.  Your box says hypercharge right on it.  There are even transformers strucks near by.    on the 2nd level is a book by PErfume Patrick Suskind lol. and another called Filty Chromosome.  Also Nineteen eighty four and then a book called The Book with lorem ipsum on the back.  Then a book called the rare plants lol
+	- Wow the floppy bots are pretty creepy!   It said use your weapon or melee attack to take out those bots but I dont know how to use melee.  it didnt tell me either.  Apparently its V 
+	- it doesnt sotp when you pause lol
+	- GREAT ACDC music when they attack.  it rocks!
+	- on this demo level there are like 3 colors and I thought I was defending the one on top of the car so I built a turret there but now I dont have neough to build anything else to defend the others ... am I defending all of theM?  which one?  
+	- pLyaing co op with marshall it works great!  I thought it would be an obvious campaign but its more like play a map and possibly unlock the next map and that works just fine.
+- Bloodstained Curse of the Moon 5/2/2021
+	- Wow this is such a good game.  I played this a few years back all the way through on casual mode and I'm playing again on casual and have a new appreciation for it.  I'm deep into the lore and also the beautiful pixel art and parallax scrolling and great chiptunes. 
+	- Control
+		- I couldnt get my xbox controller to work even in big picture mode wired or wireless but the keyboard controls work great except for cutscenes when you have to move your hand.  I havent tried the numpad enter key actually.  Yup that works!
+		- Also a few days later I tried my 8bitdo and wired xboxone and neither worked even though I used 8bitdo to get into the game in big picture mode it didnt connect at all in game.
+		- I could probably use a keyboard mapping system but the keyboard and mouse are working just fine.  it is confusing and slightly frustrating
+	- Its so good.  I beat the first world and boss without dying.
+	- A bit cheap to allow to take damage after you beat the boss on the 2nd world.  Beat that without dying.  Thats a quirk.  Not a problem.  Also a bit annoying to make it so if a character falls you dont get them back until you win the level or start it over.  But its also really old school even though that wasnt a thing back then.  Its not bad just quirky.  
+	- At least there is no knockback on casual mode.  That pisses me off and makes it so I cant plan carefully.
+	- I could be wrong but I dont remember having gebel before.  There are 5 new moves with that guy.  A lot to keep track of.
+	- I beat level 3 with only one death.  Stopping there for today. but wow thats great
+	- How do I go back to previous levels?
+	- 5/4/2021 aww man it set me back to the beginning of level 3!?!  why?
+	- I beat it.  Level 4 is pretty awesome.  It was interesting to me and there were lots of places I couldnt get.
+	- The last boss on stage 5 is confusing.  I havent figured it out and its frustrating atm.  Also its stupid that if any of your characters die you have to start the boss all over and play part of the level too :(
+	- I got to stage 6 and stopped for the day.  Its really good.
+- Battlezone VR 5/19/2021
+	- Wow this is amazing!
+	- I LOVE The level and world structure of this.  Apparently randomly generated worlds at least campaigns and you get to pick the length of the campaign and the difficulty!  I beat the first level in my campaign with seed 'ZZZ' (yes you get to pick the seed!) many Zs made it easy and short.  This might be the single best way of doing randomly generated worlds ever.  Are the level interiors also entirely randomly generated?  I would imagine no which is fine by me.  OH ZZ is extreme difficulty. ZZZ is beginner difficulty. I apparently beat a level in ZZ mode wow!
+	- I didnt like that I ran out of ammo on level 1.  If this is going to be an ammo starvation game then I am out
+	- I liked the combat.  You always have to lead your target.  There is no hitscan or raycast shots and I like that (at least there arent any from you afaik) It wasnt too hard to beat the first level.  The controls were great.  The sense of scale was awesome.  The graphics were Tron-like.
+	- Controls and visuals would probably create motion sickness for sensitive people.  It worked great with mouse+kb but smooth locomotion moved pretty fast and you strafed and stuff so for some.
+	
+- Crazy Machines 3 5/19/2021
+	- Is cool how you make rube goldberg machines!  Some part of me has wanted a game like this since LEmmings or The Incredible Machine on Tom's mac but ... I got stuck on level 3 so I will have to come at this another time when I have more patience and am interested in solving puzzles like this.
+- Scanner Sombre 5/20/2021
+	- I'm just a few minutes in an its amazing!  reminds me of The Swan game ... unfinished swan?  just in one visual way only but thats really unique
+	- and this is in VR so its super spooky
+	- I've never felt so much like I was exploring a cave!  one that no one has ever been in.
+	- I loved the puzzles too!
 
+
+
+	
 # Games that aren't obvious #
 1. Heavy Metal FAKK2 (VorpX) - I haven't tried this but it sounds like tons of fun since I played this and had much fun with it for a while bitd.  I want to play this actually very much.
 2. Doom3 (with an unofficial patch it apparently plays very well)
@@ -683,6 +864,15 @@ I think this game is why now playing amiga games up to jump isnt so foreign to m
 10. PCSX2 ps2 emulation
 
 List of emulators that support 3d or VR https://emulation.gametechwiki.com/index.php/Virtual_Reality
+
+# Games I'm taking off my wishlist #
+* Renzo Racer 
+	- Mario Kart VR
+* Dead Moon - Revenge on Phobos
+	- doom but not as good?
+* Explore Fushimi Inari VR
+	- interesting lets you walk around a temple
+
 
 # Simple Cheap VR #
 Lots of VR can be experienced on a normal gaming pc with inexpensive VR Headset
@@ -823,6 +1013,99 @@ I had to delete it from this folder
 C:\Users\user\Documents\Dolphin Emulator\Wii\shared2\sys
 but when I did I realized that it might be a conf from my other version of dolphin.  
 
+# Doom #
+[GZDoomVR](https://github.com/hh79/gzdoomvr) releases on the right
+
+0. Backup your .ini before starting any of this and all along the way 
+1. Settings are in 3 places: normal controls actions menu, VR settings, and then controllers/openvr.  in VR Settings change so its not slidey (no momentum).  
+2. add these [snap turn aliases](https://www.reddit.com/r/virtualreality/comments/cwry4b/brutal_doom_vr_oneclick_installpack_easy_setup_in/eykfsik/) 
+
+``[Doom.ConsoleAliases]  
+Name=turn45left  
+Command=alias turn45_step "wait 5;-left;turnspeeds 640 1280 320 320;alias turn45_step";turn45_step;wait;turnspeeds 2048 2048 2048 2048;+left
+Name=turn45right  
+Command=alias turn45_step "wait 5;-right;turnspeeds 640 1280 320 320;alias turn45_step";turn45_step;wait;turnspeeds 2048 2048 2048 2048;+right  
+ 
+[Doom.Bindings]  
+rstickright=turn45right  
+rstickleft=turn45left  ``
+
+in my case it was 
+
+``
+Axis3Plus=turn45right
+Axis3Minus=turn45left
+``
+and in Controllers/OpenVR I had to set the right stick horizontal axis to none
+(I had already set all of the pads to none in that menu)
+
+These dead zones helped too
+``
+[Joy:OpenVR]
+Axis0deadzone=0.15
+Axis0scale=0.8
+Axis0map=-1
+Axis2deadzone=0.15
+Axis2scale=0.8
+Axis2map=-1``
+
+I also added some of these buttons to 
+``
+[Doom.Bindings]
+LThumb=crouch
+RShoulder=+jump
+LTrigger=+use
+RTrigger=+attack
+LStickUp=+use
+Axis3Plus=turn45right
+Axis3Minus=turn45left
+LStickRight=weapprev
+LStickLeft=weapnext
+``
+
+To find out what axis is what I did it the long but certain way: go into the control actions menu and set some random things to those axes.  
+
+Comments:
+1. Menu Rotation
+	1. When you are dead looking side to side is nauseating because the view is no longer freelook its stuck to your theoretically dead and therefore theoretically stationary face.  otoh looking vertical still works for some reason.
+	2. When you are in the menu looking side to side is nauseating (probably the same problem as when you are dead
+	3. For reasons like 1 and 2 this is super clunky and can't be recommended whole heartedly to everyone
+	4. It almost looks like someone went to some lengths to program a feature where the menu stayed stuck in your view and thats the entire problem.  It should be a floating screen somewhere. The visuals should basically never be stuck to your head. I suspect they are using similar code for the hud as for the menu and maybe thats related.  The hud could be optionally floating too for me personally.  Maybe only if you look to your left do you see the hud?  That should be an option.
+4. Its super weird to me how the menu square shears the opposite direction as you tilt your head. its disconcerting and slightly nauseating.  It should stay in one place at one size and perspective regardless of how you look at it.
+5. For some reason the Left Trigger doesnt work for anything.  It doesnt recognize it in the mapping menu in game, and assigning it outside of the mapping menu doesnt work either. 
+	1. I could have sworn it worked when I first downloaded this though to open doors. Maybe one of the old .ini files will work.  I tried getting it from github and it still didnt work.
+	1. Assigning ``RTrigger=+attack`` works great assigning ``LTrigger=+attack`` doesnt work at all.  assigning ``LTrigger=+jump`` or ``LTrigger=jump`` doesnt work either (testing now)
+	1. Nothing I do lets Doom see the left trigger for some reason.  It makes a click as if its still being only recognized by wmr or something
+	2. Interesting the left trigger works as use in 4.2.4 (crouch doesnt but thats a different matter)  it was configured to use joy4 I wonder if thats why it works.  
+	2. Oh it looks like that actually works!  yeah it did.  weird.
+6. Weapon Models dont work well (shotgun is missing)
+	1. 3D WeaponsForVR.pk3 work great in Doom ``gzdoomvr.exe -iwad doom.wad -file WeaponsForVR2.pk3 laser-sight-v0.6.pk3 lights.pk3`` but not necessarily in freedoom
+	2. Lets try in freedoom ok at least the pistol works great in freedoom ``gzdoomvr.exe -iwad freedoom1.wad -file WeaponsForVR2.pk3`` havent tried the other weapons
+	3. Lets try osiris well its got different gun models so it doesnt seem to work
+7. Laser Sight not visible
+	1. Changed a few settings and at least it showed up.  its not sticking directly out of the gun its offset a bit
+	1. Works in Osiris too
+	10. Laser beam is ugly and offset
+	11. But if you turn the beam off and just the sight on it works perfect and is really useful I love that.
+8. In 4.2.4 the way I have it configured anyway crouch didnt work :(  it works in 4.6
+	1. it just goes low and then back up 
+	2. Crouch works great in osiris and doom now.  Left Grip.  
+9. Weapon switching isnt ideal or instaneous.  Its like they slide off and then come back in slowly.  
+10.  Interesting that in Osiris the weapon models are backwards!  like they are pointing at the player haha.  Its clunky looking but no big deal
+11. Osiris: Comments
+	1. Does the red guys attack and drain your health that quick in ab3d?
+	2. Config: I feel like its moving faster in here and doom than in freedoom.  Did some of the options not get applied?  is that due to increasing the scale and therefore I should slow the player down more?
+	3. image Masking on the main shotgun frame is different than plasma rifle 
+	4. Comment: Red enemies cant go down the stairs on level 2 entrance
+	5. Very scary in the dark when enemies have bright eyes!
+	6. Comment: Seems like level 3 has very few ammo pickups
+	7. The under water effect is disconcerting in VR.  Can it be turned off in ini somewhere?
+	8. There are a few textures that appear to move where others appear rock solid
+
+
+# Games with Cristi #
+
+Hell_Dimension_VR - like serious sam co op wave shooter
 
 
 # Games that Don't work with WMR #
@@ -893,4 +1176,98 @@ https://en.wikipedia.org/wiki/List_of_gun_games
 
 
 Soul Calibur Legends
+
+
+# Dolphin Games Feb 10 2021 #
+Want a 3D TV NOW ... ok Soon is good
+
+
+Some while I do other things:
+1. Mario Galaxy
+2. Mario Galaxy 2
+3. Kirby's Return to Dream Land
+4. Klonoa
+5. 
+
+
+Some that I might feel relief in playing through to completion
+1. Metroid Prime 1 14h
+2. Metroid Prime 2 17h
+3. Metroid Prime 3 14h
+4. Zelda Ocarina 25h
+5. Zelda Wind Waker 29h
+6. Zelda Twilight Princess 38h
+7. Zelda Skyward Sword 39h
+8. Resident Evil Archives: Resident Evil 11h
+9. Resident Evil Archives: Resident Evil Zero 12h
+10. Lord of the Rings: The Two Towers 7h
+11. Lord of the Rings: Return of the King 9h
+---------
+1. Zelda A Link To The Past 15h
+2. Metroid Samus Returns 3DS 11h
+3. The Hobbit 15h
+4. Beyond Good and Evil 11h
+5. King Kong 7h
+
+
+
+Some to play because I want to play and finish them
+1. Dragon Quest Swords 9h
+10. Finish Kid Icarus Uprising 12h
+
+
+
+Other games on my mind:
+1. Some FPS
+2. Some new Tower Defense game (That Transformers one or that Toy one come to mind)
+3. Some 4x game like Battlestar?
+
+
+
+
+
+# Excited about Feb 14 2021 #
+
+1. Minotaur Arcade - 2 Llamasoft games in VR!
+2. BeamNG.drive - VR Driving with the wheel!
+
+With Cristi
+1. Concrete Jungle - Co Op with Cristi - Mac
+2. Minion Masters - Mac Co Op card Tower Defense
+3. Kingdoms
+4. Card Hunter - Looks like magic the gathering - mac and free
+5. Mythgard - like Magic the gathering mac and free
+-------
+1. Mansions of Madness - Board Game required.  Like an RPG but the app is the DM
+
+
+# June 2 2021 #
+
+I will know which ones I want to do in Hardcore after I've played them in Non-Hardcore
+
+Retroachievements games that I'm interested in
+1. SMS: 
+2. Gen: Desert Strike, 
+3. Amiga: 
+
+
+
+Possibly interesting ones: 
+1 SMS: 
+	1. Definitely: Golden Axe, Double Dragon, Sonic 1, Castle of Illusion Starring Mickey Mouse
+	1. Land of Illusion starring Mickey Mouse , Legend of Illusion starting Mickey Mouse ,  Addams Family, Alex Kidd, Sonic 2,  Deep Duck Trouble starring Donald Duck, 
+	1. Shinobi , Streets of Rage , Vampire Master of Darkness, Alien 3, 
+	1. Rescue Mission, Out Run , 
+	1. Maze Hunter 3D , Alien Syndrome, Fantasy Zone, Choplifter
+2. 
+
+
+
+
+Amiga Shooters that might actually be fair: Battle squadron, Hybris, Banshee, The killing game show, Agony, SWIV, Z-Out
+Amiga Shooters that are def unfair but could be fun with cheats: Disposable hero (so beautiful), Project x, Apidya, Uridium 2, 
+Amiga games to spend some time with: Darkmere - like being inside Tolkien's world!  
+More Modern Games to spend some time with: Lord of the Rings: TTT, Lord of the Rings: Rotk, Resident Evil Archives
+res, Minotaur Aracde, 
+
 
