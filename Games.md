@@ -2806,8 +2806,90 @@ Second Tier for Any Reason
 
 
 
+June 2 2021
+
+Second Tier Mac Retro Achievements: 
+1 SMS: 
+	1. Definitely:  Sonic 1, Castle of Illusion Starring Mickey Mouse
+	1. Land of Illusion starring Mickey Mouse , Legend of Illusion starting Mickey Mouse, Addams Family, Sonic 2,  Deep Duck Trouble starring Donald Duck, 
+	1. Shinobi , Streets of Rage , Vampire Master of Darkness, Alien 3, 
+	1. Rescue Mission, Out Run , 
+	1. Maze Hunter 3D , Alien Syndrome, Fantasy Zone, Choplifter
+2. PSX: 
+	1. Final Doom 
+	2. Massive Cheats + Walkthrough: Blood Omen: Legacy of Kain (15h), Brave Fencer Musashi (17h), FFVII, FFVIII, FFIX, Grandia, Parasite Eve, Suikoden, Suikoden 2, Vagrant Story, Xenogears 
+	3. Gex, Gex: Enter the Gecko, Klonoa, Vigilante 8, 
+	4. Einhander, Gradius V, Time Crisis Project Titan (In VR Bedroom), 
+3. GBA:
+	1. Ninja Five-O, 
+	2. Metroid Fusion
+	3. Massive Cheats + Walkthrough: Golden Sun
+4.
+	1. SSF2, WWF Raw, WWF Wrestlemania
+	2. Massive Cheats + Walkthrough: Secret of Mana, Chrono Trigger, 
+	3. Pac In Time, Pitfall the Mayan Adventure, Wolfchild, Run Saber, 
+5. Genesis
+	1. Shinobi III (Probably on 3DS instead), OutRun, 
+	2. Rock n Roll Racing, Super Smash TV, ToeJam and Earl, 
+	3. Streets of Rage, Streets of Rage 2, Super Street Fighter 2, WWF Royal Rumble, WWF Super Wrestlemania, 
+	5. Massive Cheats + Walkthrough: Phantasy Star 2,3,4
+6. TG16
+	1. Dragons Curse 
+7. NES Retroachievements:
+	1. Adventure Island 3, Little Nemo, Strider, Street Fighter 2010, 
+	2. Bad Dudes, Double Dragon,
+	3. Blaster Master, Bump n Jump
+	4. Massive Cheats + Walkthrough: Guardian Legend, Battle for Olympus
+	5. Super Off Road, Rad Racer, Snake Rattle and Roll, 
 
 
+
+Second Tier Non RetroAcheivements
+1. 3DSEN
+	1. Official 3DSen: Chip n Dale, Elevator Action, Journey to Silius, Batman, Ninja Gaiden III,   Micro Mages
+	2. Unofficial 3DSen: Amagon, Super Mario 2, TMNT, Kid Icarus
+2. 3DS Actual Hardware
+	1. Legit:
+	1. Nano Assault, Nano Assault EX, 
+	2. Save Scumming: Super Hang On, Streets of Rage, Xevious, Sonic 2, Kirby's Adventure, Streets of Rage 2, 
+	2. Already Beat in 3D: Space Harrier
+	2. 
+3. 3DS 3D Full Games on SBS
+	1. Tekken 3D, Yoshis New Island, Luigis Mansion,  Professor Layton Miracle Mask, 
+	2. WWE All Stars, Rayman Origins 3D, Donkey Kong Country Returns 3D, Kirby Triple Deluxe, Ultimate NES Remix, Ridge Racer 3D
+	3. Poochy & Yoshi's Wooly World, Kirby Blowout Blast, 
+4. Gamecube or Wii SBS or regular
+	1. Hobbit, Beyond Good and Evil, Peter Jackson's King Kong, Lord of the Rings Return of the King, Lord of the Rings The Two Towers, Baldurs Gate Dark Alliance
+	2.  Lego Lord of the Rings SBS,  Klonoa SBS (or VR), Sonic Unleashed
+	3. MLB Power Pros
+	4. Conduit 2, De Blob 2, NFS The Run, Nights Journey of Dreams, 
+
+
+Second Tier Amiga:
+	1. Save Scum with cheats and following step by step walkthrough
+		1. C64 Neverending Story (easy text adventure), 
+		2. Times of Lore, Faery Tale Adventure, Valhalla 2, Valhalla 3, Another World, 
+		3. Loom, Hook,
+		4. Batman The Caped Crusader, 
+		5. Starglider 2 (follow walkthrough), Carrier Command(do the speedrun strat, then do a longplay strat),
+		6. Legend of Blacksilver, Bards Tale 3 (At least successfully to the first portal)
+	3. Save Scum with cheats to beat it
+		1. Leander,  Turrican 2, Turrican 3, Gods, Sword of Sodan,  Walker,
+		2. Castlevania (Saves!),
+		3. Chaos Engine, 
+		4. Roadkill (Vision Software racer like rock and roll), Stunt Car Racer,  Red Zone, Nitro, Lotus 2, 
+		5. Desert Strike, Zeewolf 2 (with unlimited ammo only), Virus (Zarch), 
+		6. Falcon (controls in amiga note), Birds of Prey (Made by Argonaut!), 
+		7. Kick Off 2, Sensible Soccer, Superstar Ice Hockey, (play on easy mode to beat a season or tournament to feel better), 
+		8. 
+		9.  Zany Golf,  Centrefold Squares, 
+		10.
+		11. Disposable hero (so beautiful) (fair with slower emulator), Deluxe Galaga, 
+		11. Breathless, 
+	4. Try to do without save scumming / Hardcore Mode
+		1. 
+		1. MED, Get TERM working with ANSI (so sad), Photon Paint 2 (Do the tutorials again!), Finish the AMOS games on that CDRom
+		1. This list will flesh out as I play because I will find the ones I still want to play after
 
 
 
@@ -2872,8 +2954,163 @@ Pancake
 
 
 
-3DS
 
 
 
+
+# June 4 2021 #
+
+
+
+
+
+
+Mac Retroachievements
+1. Save Scum with cheats and following step by step walkthrough
+	1. SMS RA Phantasy Star
+	2. PSX RA Blood Omen: Legacy of Kain (15h), Brave Fencer Musashi (17h), Parasite Eve, Suikoden, Xenogears
+	3. GBA RA
+	4. SNES RA FFVI, Zelda LTTP, 
+	5. Gen RA Phantasy Star IV
+	6. TG16 RA
+	7. NES RA Crystalis,  Dragon Warrior IV, Faxanadu, Robin Hood: Prince of Thieves, Bionic Commando, 
+3. Save Scum with cheats to beat it
+	1. SMS RA Alex Kidd, 
+	2. PSX RA Alien Trilogy (8h FPS that looks amazing), Blaster Master Blasting Again (10h) (only 2 people have done this RA), Tomba!, Twisted Metal 2, Time Crisis (In VR Bedroom), 
+	3. GBA RA LotR The Two Towers, Metroid Zero Mission, 
+	4. SNES RA Final Fight, Street Fighter 2 The World Warrior, WWF Royal Rumble, Super Smash TV, Top Gear, Rock n Roll Racing, Super Mario World, 
+	5. Gen RA Sonic 1 (Practice on 3DS or SBS), Shadow Dancer, Castle of Illusion, Strider, Strider Returns, Gauntlet IV, Golden Axe 2, Double Dragon, TMNT Hyperstone Heist, 
+	6. TG16 RA Keith Courage in Alpha Zones
+	7. NES RA Mario 3, Amagon, TMNT,  TMNT 2, TMNT 3, Ironsword: Wizards and Warriors 2, Kid Icarus, Kid Niki, Ninja Gaiden, Smash TV, 
+4. Try to do without save scumming 
+5. Try to beat in Hardcore mode (Practice in 3DSen or in Normal mode)
+	0. This list will flesh out as I play because I will find the ones I still want to play after
+	1. SMS RA Golden Axe, Double Dragon, Castle of Illusion Starring Mickey Mouse
+	2. PSX RA
+	3. GBA RA
+	4. SNES RA
+	5. Gen RA Golden Axe, 
+	6. TG16 RA Bonks Adventure
+	7. NES RA Mario 1, Mario 2, Zelda 2 
+
+
+
+
+
+PC Non RetroAcheivements
+1. Save Scum with cheats and following step by step walkthrough
+	1. 3DSEN Dragon Warrior, Dragon Warrior II, Zelda 2,  Metroid, 
+	2. 3DS System
+	3. 3DS SBS
+	4. GC/WII Hobbit, Beyond Good and Evil, Peter Jackson's King Kong, Lord of the Rings Return of the King, Lord of the Rings The Two Towers, Baldurs Gate Dark Alliance, MLB Power Pros
+2. Save Scum with cheats to beat it
+	1. 3DSEN Castlevania, Contra, Ghosts n Goblins, Hogan's Alley, Mario 1,  Mario 3, 
+	3. 3DS SBS: Super Hang On, Streets of Rage, Xevious, Kirby's Adventure, Dead or Alive Dimensions, Sonic Generations, SSIV 3D,  Rayman 2 3D,  Star Fox 64 3D, 3D Cursed Castilla,  Ace Combat, 
+	4. GC/WII Mario Galaxy SBS, Mario Galaxy 2 SBS, Sonic Colors ("Colors was legitimately awesome and no qualifying statements like for a 3d sonic were necessary"), 
+3. Try to do without save scumming 
+	1. 3DSEN
+	3. 3DS SBS: Sonic The Hedgehog 3D SBS, Shinobi 3, 
+	4. GC/WII
+
+
+
+
+
+3DS Hardware
+	2. 3DS System  Metroid Samus Returns, Star Fox 64 3D, Lego The Hobbit, Lego Lord of the Rings, 3D Cursed Castilla, 
+	2. 3DS System  New Super Mario 2, 
+	
+	
+	
+	
+
+Best Amiga (Mac or PC):
+1. Save Scum with cheats and following step by step walkthrough
+	1. C64 The Hobbit, the Lost Treasures of Infocom (most of them that are interesting), The Pawn (with step by step walkthrough), Valhalla 1,  Journey, Obliterator,
+	2. Questron 1 and 2, Demon's Winter, 
+3. Save Scum with cheats to beat it
+	1. Risky Woods, Ork (I really like this),  Baal, Turrican 1,
+	2. Peter's Quest!, 
+	3. Cannon Fodder, Gauntlet 3, Deluxe Pacman
+	4. No Second Prize (Adjust sensitivity and driver and then beat the whole game), Lotus 3, Super Skidmarks, 
+	5. Thunderstrike,  Space Harrier, Jaguar XJ220, 
+	6.  F/A-18 Interceptor (new favorite flight sim ever, fly an f16),
+	7. GOAL!, Championship Baseball, Gridiron with Save States, (play on easy mode to beat a season or tournament to feel better), 
+	8. Battle Chess (With walkthrough for what to do and save scummings),
+	9. Better Dead than Alien,  Amegas, Crystal Hammer, Megaball 2.1 (beat it with save states), 
+	10.  The Killing Game Show, Agony, Cybernetix, Hybris, SWIV, Menace
+4. Try to do without save scumming / Hardcore Mode
+	1. Superfrog, 
+	1. Get TERM working with ANSI (so sad), Finish the AMOS games on that CDRom
+
+
+
+
+
+
+
+
+
+OMG I just invented a brilliant new avian animal classification!  
+If you see the pipipupu on the other side of Pearl Harbor it is known as ... the Kapapipipupupuhi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------- Peak Experiences
+
+Top 10 Right Now: 
+1. Mac: Darkmere Amiga on Mac Laptop - like being inside Tolkien's world!, Avernum
+2. Retroachievements Mac:
+3. PC: 
+4. WMR:  CrisisVrigade
+5. 3DS: Kid Icarus AR Cards
+6. Quest 2: 
+7. Wii/3DS
+8. VorpX: Grimrock 1 VR VorpX (20h)
+9. Marshall: Dead Space Extraction, Hypercharge Unboxed
+10. Rocksmith. Always.
+
+Top Tier Right Now:
+1. Mac:
+2. Retroachievements Mac:
+3. PC: Age of Barbarian Sexy 5h,
+4. WMR: Compound (WMR), Operation Warcade, 
+5. 3DS: Lego Lord of the Rings 3DS,
+6. Quest 2: In Death (Quest 2), Vader Immortal (Quest 2)
+7. Wii/3DS
+8. VorpX:
+
+
+Second Tier Right Now:
+
+Third Tier Right Now:
+1. Mac: 
+3. PC: Age of Barbarian Sexy 5h, Terminator Resistance 2019 12h, SeriousSamTormental 5h, SuperFrogHD HB 6h, Road Redemption 8h,  Burnout Paradise with Wheel 20h, Volgarr The Viking, GRiD, BallisticNG, Doom Eternal, TeslaVsLovecraft5h, Deep Space Wife 2, Before We Leave 15h,
+4. WMR: Thumper (2h left), Redout, Serious Sam 3, Doom VFR, Automata Break Tower Defense (co op in VR), QuiVR, Blasters of the Universe, GRiD, No One Lives Forever 2 VR 15-20h, Half Life Alyx, SACRALITH : The Archer`s Tale (Beautiful VR Archery with a story!), Rez Infinite, Ragnarock, Bone Works (#1 game of 2019 11h)
+5. 3DS: Super Mario 3D Land 3DS, Lego Lord of the Rings 3DS, Lego The Hobbit 3DS, Starfox64 3DS
+6. Quest 2: Robo Recall (Quest 2), Space Channel 5 VR (Quest 2), Doom3 (Quest 2), To The Top (Quest 2), Swarm (Spiderman with Guns), Knockout League (Quest 2), Superhot VR 4h, Pistol Whip (Quest 2, john wick + leg workout)
+7. Wii/3DS: Lord of the Rings: TTT 8h, Lord of the Rings: Rotk 8h,  The Hobbit Gamecube 15h, Kirby 3DS and DKC on Big Screen,
+8. VorpX: Psychonauts, Prey, Metro, Bulletstorm, Doom 2016, Return to Castle Wolfenstein, Voyager Elite Force, Middle Earth Shadow of Mordor, Titanfall 2, FAKK2, Mirrors Edge, 
+
+
+
+
+
+	
 
