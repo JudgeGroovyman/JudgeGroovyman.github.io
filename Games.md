@@ -2640,14 +2640,18 @@ Mar 22 2021
 Evergreen Games:
 1. Serious Sam 1,2,3 VR (while watching TV), Compound
 1. Cities Skylines (First Person Mod, Always morning mod)
-1. Viral EX VR, Rez VR, Xion, Duo, 
+1. Viral EX VR, Time Carnage VR, Rez VR, Xion, Duo, 
 2. Deep Space Wife (sequels), Bad ass Babes, 
 1. Experience Again: Alien Breed Impact 1,2,3, 
 5. Wii Baseball series win!
+6. Horizon Chase Turbo, Trackmania Turbo (VR), 
+7. Nex Machina, X-Morph Defense
+8. The Signal from Tolva, Titanfall 2, Warhammer: Vermintide
 
 Which of The games to practice and win below are important? Redout VR, Blasters of the Universe, Burnout Paradise (with wheel), Age of Barbarian
 
-
+Co-op With Marshall:
+1. X-Morph Defense, Hypercharge Unboxed, Dead Space 
 
 New Game Excitement Right Now Games:
 1. Bad ass Babes 2 Patreon

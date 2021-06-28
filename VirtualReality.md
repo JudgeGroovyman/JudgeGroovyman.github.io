@@ -1242,47 +1242,28 @@ With Cristi
 
 
 
+# Excited About 6 27 2021 #
 
-
-# June 2 2021 #
-
-I will know which ones I want to do in Hardcore after I've played them in Non-Hardcore
-
-Retroachievements games that I'm interested in
-1. SMS: 
-2. Gen: Desert Strike, 
-3. Amiga: 
-
-
-
-Possibly interesting ones: 
-1 SMS: 
-	1. Definitely: Golden Axe, Double Dragon, Sonic 1, Castle of Illusion Starring Mickey Mouse
-	1. Land of Illusion starring Mickey Mouse , Legend of Illusion starting Mickey Mouse ,  Addams Family, Alex Kidd, Sonic 2,  Deep Duck Trouble starring Donald Duck, 
-	1. Shinobi , Streets of Rage , Vampire Master of Darkness, Alien 3, 
-	1. Rescue Mission, Out Run , 
-	1. Maze Hunter 3D , Alien Syndrome, Fantasy Zone, Choplifter
+Steam Sale
+1. SIMS 4
 2. 
 
+Some new Steam VR Games:
+1. Hellsplit Arena
+2. Operation Warcade VR, 1976 (VR Arcade Shooter), Pangman (VR ball shooter co op)
+
+VR Games you might not have heard of that look cool:
+1. Shadow of Valhalla - combat like gorn 2020 $20 (sale for $10)
+2. Subject 264 - 5hr+ Unreal engine creepy exploration and puzzle game looks beautiful. 2018. 14 positive $10 (sale for $1)
+3. Crystal Rift - VR Grid based dungeon crawler 2016 26 levels - expect skyrim be disappointed.  expect Dungeon Master from 1987 and be thrilled. $10 (Sale for $1)
+4. Proze: Enlightenment - VR Puzzle Adventure multiple timelines horror, 2019 $20 (on sale for $3)
+5. Raptor Valley - scary horror jurassic park shooter where you have to listen for the raptor. 2016 $4 (on sale for .51)
 
 
+Other games that look really cool
+1. Warhammer End Times Vermintide 
 
-Amiga Shooters that might actually be fair: Battle squadron, Hybris, Banshee, The killing game show, Agony, SWIV, Z-Out
-Amiga Shooters that are def unfair but could be fun with cheats: Disposable hero (so beautiful), Project x, Apidya, Uridium 2, 
-Amiga games to spend some time with: 
-More Modern Games to spend some time with: Lord of the Rings: TTT, Lord of the Rings: Rotk, Resident Evil Archives
-res, Minotaur Aracde, 
-
-
-
-Top of my mind: 
-1. Darkmere Amiga on Mac Laptop - like being inside Tolkien's world!
-2. Finish Thumper, Curse of the Moon, 
-
-
-
-
-
-
+# Controller Problems in WMR 6-27-2021 #
+Twice in the last few months Ive had controller problems: WMR didnt recognize the controllers.  I couldn't remove them as bluetooth devices.  in the bluetooth menu if they say 'paired' then they might work but they need to say 'connected' to actually work.  If i go into device manager, uninstall them from PC->Bluetooth->MotionControllerLeft and then remove them from the bluetooth devices, then I can open the back panel, hold the sync button and they show up.  
 
 
