@@ -1220,7 +1220,7 @@ VR Games you might not have heard of that look cool:
 14. SurviVR - Castle Defender - $6 VR Tower Defense
 15. Dwarven Defender - $8 VR Tower Defense
 16. Domain Defense - $8 VR Tower Defense
-
+17. Minotaur Arcade
 
 Other games that look really cool
 
