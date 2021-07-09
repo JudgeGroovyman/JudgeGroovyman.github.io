@@ -2264,7 +2264,7 @@ WHOA!  Cristi might be able to run these games!
 - (Later) Maybe Peak: Tropico 6, Demise of Nations, Wargroove, LOTR, Terrorhedron (only $2),
 - (Later) Peak Co Op Action Adventure Games: Trine, Portal 2, Monster Hunter World, 
 
-With Marshall: Deathtrap, Hypercharge Unboxed, 
+With Marshall: Deathtrap, Hypercharge Unboxed, Dead Space Extraction, 
 
 
 
@@ -2645,8 +2645,9 @@ Evergreen Games:
 1. Experience Again: Alien Breed Impact 1,2,3, 
 5. Wii Baseball series win!
 6. Horizon Chase Turbo, Trackmania Turbo (VR), 
-7. Nex Machina, X-Morph Defense
-8. The Signal from Tolva, Titanfall 2, Warhammer: Vermintide
+7. Nex Machina, X-Morph Defense, Air Mech Command VR, 
+8. The Signal from Tolva, Titanfall 2, Warhammer: Vermintide, Destiny 2,
+9. Bloody Zombies, Bad Ass Babes, 
 
 Which of The games to practice and win below are important? Redout VR, Blasters of the Universe, Burnout Paradise (with wheel), Age of Barbarian
 
@@ -3055,16 +3056,6 @@ Best Amiga (Mac or PC):
 
 
 
-OMG I just invented a brilliant new avian animal classification!  
-If you see the pipipupu on the other side of Pearl Harbor it is known as ... the Kapapipipupupuhi
-
-
-
-
-
-
-
-
 
 
 
@@ -3081,7 +3072,7 @@ If you see the pipipupu on the other side of Pearl Harbor it is known as ... the
 Top 10 Right Now: 
 1. Mac: Darkmere Amiga on Mac Laptop - like being inside Tolkien's world!, Avernum
 2. Retroachievements Mac:
-3. PC: 
+3. PC: Middle Earth Shadow of War
 4. WMR:  CrisisVrigade
 5. 3DS: Kid Icarus AR Cards
 6. Quest 2: 
@@ -3105,7 +3096,7 @@ Second Tier Right Now:
 
 Third Tier Right Now:
 1. Mac: 
-3. PC: Age of Barbarian Sexy 5h, Terminator Resistance 2019 12h, SeriousSamTormental 5h, SuperFrogHD HB 6h, Road Redemption 8h,  Burnout Paradise with Wheel 20h, Volgarr The Viking, GRiD, BallisticNG, Doom Eternal, TeslaVsLovecraft5h, Deep Space Wife 2, Before We Leave 15h,
+3. PC: Age of Barbarian Sexy 5h, Terminator Resistance 2019 12h, SeriousSamTormental 5h, SuperFrogHD HB 6h, Road Redemption 8h,  Burnout Paradise with Wheel 20h, Volgarr The Viking, GRiD, BallisticNG, Doom Eternal, TeslaVsLovecraft5h, Deep Space Wife 2, Before We Leave 15h, Hostile Waters: Anateus Rising
 4. WMR: Thumper (2h left), Redout, Serious Sam 3, Doom VFR, Automata Break Tower Defense (co op in VR), QuiVR, Blasters of the Universe, GRiD, No One Lives Forever 2 VR 15-20h, Half Life Alyx, SACRALITH : The Archer`s Tale (Beautiful VR Archery with a story!), Rez Infinite, Ragnarock, Bone Works (#1 game of 2019 11h)
 5. 3DS: Super Mario 3D Land 3DS, Lego Lord of the Rings 3DS, Lego The Hobbit 3DS, Starfox64 3DS
 6. Quest 2: Robo Recall (Quest 2), Space Channel 5 VR (Quest 2), Doom3 (Quest 2), To The Top (Quest 2), Swarm (Spiderman with Guns), Knockout League (Quest 2), Superhot VR 4h, Pistol Whip (Quest 2, john wick + leg workout)

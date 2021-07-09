@@ -63,6 +63,15 @@ NOTE: Please take care when modifying the registry as unintended changes can cau
 Increasing this timer value can be helpful in kiosk or demo scenarios. If you are building an app for such a scenario, please consider implementing Screen burn-in prevention features into the app. The maximum supported timeout value is 0xFFFFFFFF. To mitigate Screen burn-in on Mixed Reality Headsets, ensure that the screen doesn’t show a static image for extended periods.
 
 
+# Evergreen Experiences #
+1. Rec Room
+2. VR Chat
+3. Google Earth
+4. Wander (Google Street View Data)
+
+Near Evergreen
+1. 
+
 # Games & Experiences #
 
 * Trackmania Turbo VR (2/1/19)
@@ -847,8 +856,66 @@ I think this game is why now playing amiga games up to jump isnt so foreign to m
 	- and this is in VR so its super spooky
 	- I've never felt so much like I was exploring a cave!  one that no one has ever been in.
 	- I loved the puzzles too!
-
-
+- Krypt Krawler 6/28/2021
+	- Bought on the summer sale for like $1 and it says its compatible with valve index and oculus rift, but in every other case the games work with SteamVR and therefore wmr and vive too, but eveyrone is reporting it specifically doesnt work with vive.  
+	- It wont even launch in steam vr mode to let me try it out.  Disappointing.  Should i return it?  well it makes me mad how they handled this, but I could go over to cristis computer and play it so maybe I'll keep it idk.  
+- Crystal Rift 6/28/2021
+	- Aww this stinks. This game doesnt work either :( 
+	- This one at least you can look around and that part looks really cool but controls dont work at all.  idk if they are gamepad or what.  maybe I'll try that but it certainly isnt using touch controls at all.  and keyboard didnt work either. 
+	- well yeah the controls are gamepad and the main menu works with the SF30pro which is nice but then 
+	- when you start a new game  ... everything goes black and thats it.
+		- in a discussion if you dont start steam vr in advance then it says it will work.  no that didnt work because now I can't even use my gamepad :( 
+		- but it also says you will be given two options dont choose the steam vr option choose the other one.  the first time I got two options this last time I only got one option
+		- gd it the oculus option showed up but doesnt show in the headset, the steam vr option doesnt let me use my gamepad all of a sudden.  bull shit.
+		1. 	Launching from desktop doesnt launch in VR
+		2. Launching with steam running but steam vr not running gamepad doesnt work
+			4. using xbox wired controller works in this mode but the screen still goes black.
+		3. Launching with steam and SteamVR running  and gamepad works but the screen goes black when you start a new game
+		4. using big picture mode lets you launch without steam vr running and after that doesnt work.
+		5. Launching in oculus mode without steam running just runs the game in windowed mode
+	- The game doesnt let you multiask either because even when its not focused it doesnt let the mouse outside of its window size :(
+	- the play space is centered behind me and not adjustable afaik which is annoying.  update: if you go into options and set it to seated mode then it seems to reset the position
+- Sentinel 3: Homeworld 6/28/2021
+	- Great 2D overhead 2005 level nice graphics tower defense thats fun and i beat thef irst two levels easily and fun.  I beat the third level too and am havign fun with it.  The game is highly regarded.  There are actually 2 campaigns. I thought there was only 20 levels but there are actually 35.  Each level tracks whether you have beat it on what difficulty which is nice. 
+	- Something I like: it doesnt concern itself with aspect ratio so you can resize the window whatever you want even if it looks squished thats ok and the user will understand what theyve done.  Advantage: multitasking with other apps and games on the same window.
+	- Its got good cheevos even acknowledging when you first upgrade something to top level
+	- Zooming in is a terrible idea for strategy but looks pretty cool though.
+	- its cool how liek the missiles upgrade to 900 damage!
+	- some of the air enemies make annoying sounds.  the wasps and purple wasp bosses
+	- 6/30/2021 I beat it!  This game has a huge thing going for it: Perfect difficulty curve. I beat most of the last half of the game on easy mode with no trouble.  thats perfect. I beat some of it on Medium mode but not effortlessly.  perfect. 
+	- Progress
+		- On level 4 medium mode there were 40 rounds and 36 was fine and 37 was rough barely survived and 38 was it.  difficulty curve ramped up hard there.  There are 20 levels which is a good number.   I needed to add different weapons in like the bomb and slow in the armory.  Probably need to use these around round 30.  I added in bomb and slow and upgraded my champion and it wasnt too bad. They never even touched my first gate
+		- I'm playing this game even though I have tons of other games I could be playing but I feel like it. 
+		- I'm playing on medium mode not easy mode.  it says you get more credits playing at higher difficulties.  I wonder if you can grind for credits?  I hope so.  I wonder if you can play the game on easy mode to get the credits you need and then Medium would be more achievable?  205 credits and I'm going to play the first level on Hard mode.  Got 80 credits so 285.  Now I'm playing level 3 on Hard mode.  got 100 credits so 385 now. I also got some XP bonus.  Lets play it again and see if I get another 100. Yup sure did.  So you CAN grind for credits and xp. I barely beat level 2 on psycho difficulty.  
+		- Beat level 7 without much trouble. I think I have only failed one level one time.
+		- Level 8 I got to 43/50 but was having problems at 40.  if you put your champ in the middle it can hit most enemies middle and bottom row.  Ok once I finally upgraded after my previous several hundred credit grinding session which was easy and fun, I was able to beat level 8 on Medium mode.  It wasnt easy but at one point I had several hundred bucks in the bank which was cool.
+		- Level 9 Wow theres a mini-boss at wave 20, oh and 2 at 30! and there are 60 total waves!  at 50 there were two and they nearly got through to my first gate!  It was scary!  I dont really know how one of them didnt but my peoples took them out.  Now I'm having trouble figuring out how to hurt the enemies more.  Ok I got to 60 but then I had to go along after what I thought was the final enemy and sell everything there and then put it ahead of the enemies.  Because of that I won but kind of barely.  I noticed it was really hard to attack them by the wall, but fortunately the way I set it up the boss wasnt TOO fast at destroying hte wall and if I had sold other things and built some repair bots then I think I could have lasted kind of a long time.  So I solidly beat it and didnt even lose a wall but it wasnt a sure thing.  Oh I had even forgotten to equip my laser!  This level took me 40 minutes.  OMG that was on EASY Difficulty!!!
+		- Level 10 Well theres a mini boss on 20 and 2 on 30 like the previous level. 60 waves total.  at 30 I barely made it through teh two bosses even though I had tons of awesome weapons out.  They didnt get hurt much by the guns.  really I needed another laser that was really hurting it.  Or maybe an upgraded laser would do the trick.  by wave 50 it wasnt too bad and I beat the two evils early.  I had several lasers upgraded by then. and I used a few power ups.  Finally when I got to 60 it wasnt too bad and although I did roll the towers behind the enemy back to the front I didnt do it much and think I would have survived even if I hadn't done that.    I kind of watn to know whether I would have now.  28m.
+		- Level 11 on easy was pretty easy sort of.  I ended up with plenty of money and not entirely sure what to do with it and thats always a good sign, and the enemies barely even ever touched my walls
+		- Level 12-15 werent hard on easy mode with my current upgrades.  Ive got commander 8-22-30-5 and level 10 and dont have rage. I use mostly laser, bomb, slow, and beam.  lots of slow and beam. 
+		- Level 16 is playing itself through wave 9 with a repair bot. looks like level 11 they will break through one of my walls, nope but they made big progress. 
+		- Level 17 is pretty easy till 55 too because I had 3,000 dollars.  on 66 I had 7000 dollars.  Ended up with $5000 and could have even spent a lot less.
+		- Level 18 was super easy.  I just put stuff at the entrance and it was over before I even knew it
+		- Level 20 has new boss types at 25 and 120 waves.  It wasnt too hard for me at hard mdoe. I mostly setup camp at the top left.  Now I'm about to beat wave 120.  Not bad. The enemies never got to my last wall or really even close.  I beat it in 102m29s 
+- Zombie Driver HD 6/28/2021
+	- Super fun!  Driving over smashing and shooting zombies with car controls.  its super polished and great!  lots of upgrade options.  This is worth $10-15 comfortably.  
+	- Its got missions like save these hostages and to do that you have to drive over a bunch of zombies in an area to clear space for the people to come out then you can stop in a spot crazy taxi style and rescue them.  
+- Shadow of War	6/30/2021
+	- Love
+	- Interesting
+		- I dont love all of the new things to learn about this game.  Learning new things takes me out of the game doesnt draw me in.  I used to like to learn new control schemes but theres a limit to my desire to do that.  its not entirely new ofc, but some of the buttons are non standard and there are a lot of new actions.  At least its walking me through them at least once.
+		- I dont like not knowing what to do.  This is so complex its making me feel a little bit stupid.  Probably I'm missing something though.
+		- Picking up the weapons and coins is needlessly clumsy. If you bump into them it should take them. OR if you activate the collection command near them it should take them.  Too often the coin is right behind you and you dont get it.
+	- I was in a city a few minutes ago and now I'm in an orc camp because I died.  How do I get back to the city?  how do I play that part again?  What is my current goal?  am I trying to hunt someone in particular?  how do I read their minds again to get clues? i've tried it 4 times and am not doing it right.  Ok it looks liek they have to be in the captains gang or area to know clues about them then it works.  It looks like I can mostly just run through the orc camp or try to sneak around but I get caught easily.  
+	- m for a map, b for inventory, l ctrl for interact and for roll over people or something space for run, shift for crouch, e for psycho attack, 
+	- 7/7/2021 I have been playing this almost non stop ever since and i still love it. I am more addicted to it than most games I've ever played and I'm giving myself permission to play it and love it and enjoy it.
+	- I love thinking "this is where Frodo walked"
+- Pistol Whip 7/8/2021
+	- Wow this is a wonderful game.  Its rhythm but also a cool on rails shooter.  I want more on rails shooters regardless of rhythm
+	- We got it for quest 2 and the shooting feels tighter and more responsive somehow. Maybe its haptics, or the feel of the trigger button or the speed of the controller communication idk.
+	- This is one of the best games on VR.  Its also a great workout, the music is great too.
+	
+	
 
 	
 # Games that aren't obvious #
@@ -1113,6 +1180,7 @@ Hell_Dimension_VR - like serious sam co op wave shooter
 Games that dont work with wmr
 * [NMS, LA Noir, and SmashBall Arena](https://www.reddit.com/r/WindowsMR/comments/cqkiqy/if_you_want_wmr_support_for_no_mans_sky_tell/) pseudovive fixes all three
 * Tinertia works well with pseudovive in fact I beat the whole game and it performed flawlessly.
+* KryptKrawler - specifially doesnt work with vive or wmr.  Launching in SteamVR mode doesnt even allow it to TRY VR.  it wont let me control it in any way or anything.
 
 Pseudovive 
 C:\Program Files (x86)\Steam\steamapps\common\SteamVR
@@ -1242,15 +1310,18 @@ With Cristi
 
 
 
+
+# Controller Problems in WMR 6-27-2021 #
+Twice in the last few months Ive had controller problems: WMR didnt recognize the controllers.  I couldn't remove them as bluetooth devices.  in the bluetooth menu if they say 'paired' then they might work but they need to say 'connected' to actually work.  If i go into device manager, uninstall them from PC->Bluetooth->MotionControllerLeft and then remove them from the bluetooth devices, then I can open the back panel, hold the sync button and they show up.  
+
+
+
 # Excited About 6 27 2021 #
 
-Steam Sale
-1. SIMS 4
-2. 
-
 Some new Steam VR Games:
-1. Hellsplit Arena
-2. Operation Warcade VR, 1976 (VR Arcade Shooter), Pangman (VR ball shooter co op)
+1. Hellsplit Arena $25
+2. Tales of Glory (Like Mount and Blade in VR) Demo $30
+3. Dominatrix Simulator VR Threshold $12 Demo 
 
 VR Games you might not have heard of that look cool:
 1. Shadow of Valhalla - combat like gorn 2020 $20 (sale for $10)
@@ -1258,12 +1329,108 @@ VR Games you might not have heard of that look cool:
 3. Crystal Rift - VR Grid based dungeon crawler 2016 26 levels - expect skyrim be disappointed.  expect Dungeon Master from 1987 and be thrilled. $10 (Sale for $1)
 4. Proze: Enlightenment - VR Puzzle Adventure multiple timelines horror, 2019 $20 (on sale for $3)
 5. Raptor Valley - scary horror jurassic park shooter where you have to listen for the raptor. 2016 $4 (on sale for .51)
+6. Brigador: Up-Armored $20 (sale for $9) amazing looking overhead mech shooter
+7. Neon Exile VR $25 Demo - cool MMO Action game where you are all fighting back against some bad boys
+8. Twilight Path
+9. Last Day Defense VR $10 - great VR tower defense
+10. Malazard Magic Defense - $2 VR Wave Shooter
+11. Ash of Legends VR - $15 VR tower defense with grappling hooks
+12. Project RTD: Random Tower Defense VR - $9 Vertical Map VR tower defense
+14. SurviVR - Castle Defender - $6 VR Tower Defense
+15. Dwarven Defender - $8 VR Tower Defense
+16. Domain Defense - $8 VR Tower Defense
 
 
 Other games that look really cool
-1. Warhammer End Times Vermintide 
 
-# Controller Problems in WMR 6-27-2021 #
-Twice in the last few months Ive had controller problems: WMR didnt recognize the controllers.  I couldn't remove them as bluetooth devices.  in the bluetooth menu if they say 'paired' then they might work but they need to say 'connected' to actually work.  If i go into device manager, uninstall them from PC->Bluetooth->MotionControllerLeft and then remove them from the bluetooth devices, then I can open the back panel, hold the sync button and they show up.  
 
+DONE Bought
+1. Crystal Rift $0.99/9.99 - Grid based dungeon crawler in VR
+3. KryptCrawler $1.59/7.99 - Grid based dungeon crawler in VR
+15. Zombie Driver HD - $1.99/9.99 Cool overhead driving shooter by the X-Morph Defense team
+11. Sentinel 3: Homeworld 0.69/6.99 cool Sci-Fi Tower Defense
+
+
+
+DONE Next Shopping Cart (<$3.00) ($15.60)
+7. Warhammer: End Times Vermintide $2.99/29.99 - awesome first person melee combat game1. 
+9. Devious Dungeon $0.49/4.99 - like Rogue Legacy but simpler
+12. Void Source $0.49/4.99 cool twin stick side scrolling shooter
+2. Dex $1.99/19.99 - 11h Artistically beautiful 2D side scrolling Adventure
+13. X-Morph: Defense - European Assault 0.99/4.99 Cool final mission in Europe and Eiffel Tower in particular
+14. X-Morph: Defense - Last Bastion 0.99/4.99 Cool final mission in remote locations
+16. Malazard: Magic Defense - $2 VR Tower Defense
+17. Out of Ammo - $2.49 VR Tower Defense
+18. Hex Defense - $1.59 VR Tower Defense
+
+
+DONE Next Shopping Cart with Cristi
+15. Fortification TD - $1.59 VR Tower Defense
+like 7 more
+
+
+DONE Next Shopping Cart (<$10) ($60.28)
+8. Nostalgia VR - $19.10/42.27 - Operation Warcade VR (awesome arcade Operation Wolf style game), 1976 (VR Arcade Shooter), Pangman (VR ball shooter co op)
+10. Van Helsing Anthology $7.49/74.99 - 3 15h Diablo games + Deathtrap ($20 on its own). 
+6. Skyworld VR $7.49/24.99 - Cool Round game like Civilization Revolution
+4. VR Dungeon Knight $4.99/19.99 - Cool VR Dungeon Crawler
+16. Distance $6.24/24.99 - Cool VR driving platformer
+17. Tesla vs Lovecraft $5.24/14.99 - Cool Overhead Twin Stick Shooter
+18. Serious Sam's Bogus Detour $3.74/14.99 - Cool Overhead Shooter Adventure
+19. Mortal Blitz $5.99/19.99 - Cool super short VR Wave Shooter
+4.  $5 	 	$20 	75%	 $15 	2014	Metro 2033 Redux 9h
+5. $6.36	$63.73						Homeworld Remastered and Deserts of Kharak - Amazing RTS games
+11. $5 	 	$20 	75%	 $15 	2011	Anno 2070
+
+
+20. $18	    $25 						Pistol Whip $18/25 - Amazing VR
+
+Next Shopping Cart Big >$20 ($110)
+5. 	$20		$60 	67%	 $40 	2020	Resident Evil 3
+10. $16 	$40 	60%	 $24 	2019	Resident Evil 2
+6. 	$36 	$60 	40%	 $24 	2020	Half Life: Alyx
+3.	$20  	$40 	50%	 $20 	2020	Serious Sam 4
+
+
+
+Not sure about these games (Didnt buy any of these)
+6. ------------------------------------------------------------
+6. ------------------------------------------------------------
+7. 	$20 	$40 	50%	 $20 	2019	Halo Master Chief Collection
+8. 	$24 	$60 	60%	 $36 	2019	Death Stranding
+14. $16		$40			 $26	2019	Remnant From The Ashes (Co op)
+9. 	$10 	$40 	75%	 $30 	2013	Europa Universalis IV
+12. $10 	$40 	75%	 $30 	2015	Anno 2205
+1.  $9 	 	$60 	85%	 $51 	2018	Far Cry 5 18h
+2.  $8 	 	$40 	80%	 $32 	2017	Wolfenstein 2 The New Colossus 11h
+21. $9		$30 						Sprint Vector - VR Exercise Shooter
+
+
+Look for
+1. DONE List in the powerpoint
+2. DONE Tower Defense games listed above
+3. DONE Other PC Games in my latest lists as I add them to the powerpoint
+4. DONE Install Shadow of War and blasters
+5. DONE xmorph dlc discount
+6. DONE CYOA Games?
+
+
+
+
+Excited About:
+1. Everything I bought in steam summer sale above
+2. Beating Vanishing Realms using a walkthrough step by step
+3. Middle Earth Shadow of War (ADDICTED!)
+4. VR FPS games: Knuckle down and beat these even if it takes all day: Serious Sam 3, Dead Effect VR, Payday 1 or 2, Arizona Sunshine,  Killing Floor Incursion,
+5. Install and play some Skyrim VR with some mods
+6. Install and play some Star Trek Bridge Crew
+6. Run of Mydan, Doom VFR, Windlands 2, 
+7. one of the other VR Tower Defenses above
+8. 
+5. Until I beat: Blasters of the universe, Scanner Sombre, In Your Face TD, Superhot VR (Oculus), Transpose (Oculus), Ultrawings
+7. Knockout League and watch videos to get strats, Beat Saber one new song when Im interested
+
+
+This is a modern-ish (updated this year) programming language which is cross-platform and compiles to Amiga!
+https://www.hollywood-mal.com/index.html
 
