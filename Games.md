@@ -1346,7 +1346,95 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 	- I liked it and there was TONS more customizations in the skill tree that I could go for if it were more stable 
 	- I think I like tower defense where the entry and exit points are discrete and especially where I dont have to defendd two fronts because I cant think that way and still have the same kind of fun.
 	- I got about halfway through the moon level. 
-- Avernum 5/22/2021
+* Bloons 6 1/17/2021
+	- Playing this on Mac with Cristi and it is so damn fun!  We both got to lvl 20 in a few hours playing and watching each other and sharing info and now we should be able to play co op which will be so cool!
+* XMorph Defense PC 2/11/2021
+	- It was on sale for like $6! There are apparently lots of DLCs for this with new missions and maps and stuff.  and this dev made other games too.
+	- Full co-op campaigns.  It even asks you single player or co op when you select the campaign
+	- Cool that you can change difficulty mid game!
+	- Wow its really really cool!  I love the shooting and its dual stick shooting with the mouse and wasd (could I use gamepad?  dont care atm)
+	- I love the transformers setting
+	- I love the story of US being the invading army
+	- I love the graphics
+	- The tutorial is well done
+	- I wonder do I get one life and then start the mission over?  if I didnt place any towers could I win the game?  if I didnt shoot with my ship could I win the game?  I dont think either one.  Update: I played level 1 and you know what ... I hardly shot at all.  In the first round pre-towers I did but it was easy.  After that there was only a few shots fired by my ship.  maybe 10 powered shots to take out enemies that got past my air guns (which I unlocked after I beat the first mission before)
+	- Controls
+		- shift to switch to build mode (aka ghost mode)
+		- you can connect fences between towers somehow with control 
+		- left click shoots
+		- right click hold for blast
+		- q and e or 1234 to switch weapons
+		- all controls are given in a screenshot before each game
+	- it says it took me 29m41s but it seemed to go by in just 5 min it was super immersive and fun!  I loved it!
+	- I'm playing in windowed mode and I think I prefer this.  More immersive?  no.  But when my attention wanders theres something there to catch it maybe?
+	- I'm playing on easy mode so I get 1/4 score I think and therefore only did better than 7% of other players.  I love the attention they paid to their difficulties.  This wasnt a walk in the park. I had to try and perform to win.  I wonder what would have happened if the tarantula had gotten nearer my towers (because it didnt really).  But apparently they renamed their difficulties from very easy to easy and then made their old hard mode the normal mode or something.  I like this.  AnD they made it so the difficulty doesnt prefent progression it only affects scores and leaderboards which is honestly exactly how it should be!  you should be able to experience the game you paid for mostly regardless of performance and get accolades according to performance.
+	- this game has nvidia integration so it records important moments in the gameplay which i think is excellent
+	- ghost mode is cool because right click and you can just go watch what your towers are doing!
+	- Interesting they expand the battlezone adding more entry points which messes with all of your paths
+	- Some levels ahve a boss and some dont although they all have a deciding battle.  I think thats cool.
+	- 33min for level 2 (canada?) and no damage.  It was interesting and fun.
+	- Some missions require certain technlogy tree upgrades and it tells you so
+	- looks like bombers kill towers and cant be killed by towers or they dont do enough damage
+	- The missions are really well designed.  THe enemy responds significantly to your strategies.
+	- Day 1 complete and 3 missions in and I love this game and am really glad I bought it.
+	- Session 2 Same Day: Its cool that there is so much variety.  it never gets boring at all.  Someone said its the same thing over and over, well not strategically at all.  The story is high-level similar on each level to start but each level has unique events and strategies that the enemies employ and its cool that you can hear their strategies.
+	- Whenever they introduce a new unit (which is several times per level) they give you a small wave after the previous wave is complete one which you cant really fail if you just shoot at them but they also plunk down a few towers for you.  Although I think I would prefer a little bit less variety 
+	- I just had a blast playing one of the community levels and it was really interesting something about seaside and it was very popular and it had 6 waves with all sorts of things Id never seen before (later in the campaign) fortunately it unlocks all options.
+	- Next day 2-12-21 In Asstralia I didnt do that great.  I got beat up pretty bad losing 62% of energy and there was an opportunityt o guard a special energy creation spot and I lost it (they bombed it even though I thought it was perfectly defended) thats ok I won and could do better next time.  I was excited about playing this all night and morning.
+	- I beat Russia, now I'm on USA! i'm halfway done (by level count) and playtime is 7.6h (which includes that one level I played twice and the community level) 
+	- In Hawaii I dont think you have enough resources to setup to not battle the enemies yourself.  its not bad after the first or second wave.
+	- This egypt pyramid level is AWESOME  Otoh even on easy the balance here was shooting because until the last wave there wasnt enough tower resources.  oh!  I forgot I had that cool part collector.  Idk how much that would have helped.
+	- in china theres not nearly enough resounrces round 1
+	- I like this last japan level they have been hinting about project defender and OMG its so damn cool!  I love this!   its a great setting with the human leader being in control of the bad boy so you can really win!  
+	- #win 2/13/2021 Steam says 13.5h and it was really fun and immersive
+	- added a review to Steam
+	- #again 2/16/2021 Ive been playing creeper world 3 and thinking back to x-morph defense wow it was fantastic.  Theres so much fun DLC I could play if I wanted.  and/or I could play the awesome campaign on a harder mode.
+* Creeper World 3 - PC (apparently on mac too?)
+	- Wow this is so immediately immersive I love it so much.  I love it like xmorph but its more casual since theres not the dependences on the helicopter (which is great but different and more intense)
+	- Theres lots of cool lore in the dialogue between levels
+	- Every level is interesting and just as fun and immersive as the previous.  They draw me in deep and I forget where I am and play for 20-30 min before the level is over and I loved every second.
+	- Its cool that you have to collect keys to unlock other planets' shields
+	- Problem on world 3
+		- I've been playing for 7h and I'm on tiplex and its legit not fun atm.  everything up until now has been itneresting but this is throwing way too much new stuff at me all at once with no time for deliberation.  previous levels have been chill but these spore levels ruin that completely because there are timers.  also this one fills up to your level way too fast.  with my current skill its not fun. I had to look for tips because this digitalis stuff which they introduced truly terribly in this level.  They should have had the smallest little patch of it on a level and had you figure out how to take it out first. instead they put a big patch, AND introduce two fronts on each side of the board which both have to be juggled simultaneous, AND have the normal creeper building up in the middle AND to beat the digitalis you have to use the anti creeper so you have to mine but to do that you have to protect 6 locations from the spores because AND they have two spores launching so you first have to take out the digitalis, then the spores, then the creepers, but actually you first have to unlock the two command centers.  What the fuck.  the last level had spores but otherwise was not too hard.  Half of this would be ok if the timing allowed for you to make mistakes and take your time and think about it but its one thing after another.  this is final boss level difficulty and its on level 2 or 3!?!  
+		- I'm really bad at this game.  These levels are taking me 1-2h.  One of them kind of blew my mind when it said it took me 2.5h.  I feel stupid because other people are doing it in 7minutes. :( I've never been good at games like this but thought I had gotten better but apparently not.  I finally got it on my 4th try but only after 2h11m and constantly pausing at the beginning, abandoning the left side of the map entirely, and just fighting my way across from right to left square by square.  I'm proud that I did it but I dont feel like its balanced for me and my skillset/committment.  The high score list says over 250 people have beat it in less than 8 minutes :(  
+		- That was the last level in solar system 3.  there are 9 systems. I'm just under 10h with the game now, so if the difficulty doesnt change at all, and I dont make any more mistakes than I did on the first 3 easiest levels, this game will take me 30h to finish. :( At least in this zone.  There are other zones apparently harder or maybe an easier zone or something?
+	- I just started world 4 and there were more things to learn and some kind of things to collect for upgrades, and a bunch of things getting overrun really quickly and I lost all motivation to continue.  This is a cool game for sure which allows for some progress to be made but for me its too difficult to be fun.  It wasnt too difficult in the 1st or second solar system and I honestly wish that for each of those two systems there had been like 3 more solar systems with no new introduction of mechanics just new layouts and simple things that happened.  it could even be one story per system and would allow for a lot more gameplay (although there is certainly enough here without).  
+	- I feel stupid because I know some people would say I should persevere, and others would say I should get gud, and otehrs would say I stink so I should give up and I wish I didnt have any of these voices in my head.  No one is saying these things to me and no one particularly knows that I ever played this so it shouldn't matter but ... I still feel stupid.
+	- ok now a few hours later I dont feel stupid anymore.  This is not a turn based strategy game which caught me off guard, its a real time strategy and yeah I stink at those games and  always have ever since I bought warcraft 3 when it first came out.  it is legit hard for me to manage many different things at once and I dont enjoy that part. however: I have been having fun so far taking my time and managing one front at a time and as long as this game allows for that I might keep playing.  So far I'm able to fortify a few things and then things settle into mostly into a stasis and I can whittle away here and there at my leisure.  
+	- its a really good game though for some people
+	- 15.6h in and got to choix and am giving up.  
+* Kingdom Rush Vengeance 2/16/21 mac
+	- Got the demo and it worked great on mac and was super fun and really responsive.  
+	- Bought the game for $20
+	- Figured I could do normal mode.  by level 3 I barely survived, 4 I died.  Lowered to easy. Level 5 I died.  And this is after constantly managing the action on screen - not setting itup turn based and seeing how it goes.  
+	- Thats bullshit difficulty so I'm returning it.
+	- returned.
+* Hypercharge unboxed 3/15/2021
+	- instantly fun.  You're in your toy box in the toy store when you start.  The controls are great.  the graphics are crisp and amazing.  the details are incredible like shipping labels from fredx and sending to the north pole and marvel (mazen heroes brawl) movie ads and stuff.  Your box says hypercharge right on it.  There are even transformers strucks near by.    on the 2nd level is a book by PErfume Patrick Suskind lol. and another called Filty Chromosome.  Also Nineteen eighty four and then a book called The Book with lorem ipsum on the back.  Then a book called the rare plants lol
+	- Wow the floppy bots are pretty creepy!   It said use your weapon or melee attack to take out those bots but I dont know how to use melee.  it didnt tell me either.  Apparently its V 
+	- it doesnt sotp when you pause lol
+	- GREAT ACDC music when they attack.  it rocks!
+	- on this demo level there are like 3 colors and I thought I was defending the one on top of the car so I built a turret there but now I dont have neough to build anything else to defend the others ... am I defending all of theM?  which one?  
+	- pLyaing co op with marshall it works great!  I thought it would be an obvious campaign but its more like play a map and possibly unlock the next map and that works just fine.
+* Bloodstained Curse of the Moon 5/2/2021
+	- Wow this is such a good game.  I played this a few years back all the way through on casual mode and I'm playing again on casual and have a new appreciation for it.  I'm deep into the lore and also the beautiful pixel art and parallax scrolling and great chiptunes. 
+	- Control
+		- I couldnt get my xbox controller to work even in big picture mode wired or wireless but the keyboard controls work great except for cutscenes when you have to move your hand.  I havent tried the numpad enter key actually.  Yup that works!
+		- Also a few days later I tried my 8bitdo and wired xboxone and neither worked even though I used 8bitdo to get into the game in big picture mode it didnt connect at all in game.
+		- I could probably use a keyboard mapping system but the keyboard and mouse are working just fine.  it is confusing and slightly frustrating
+	- Its so good.  I beat the first world and boss without dying.
+	- A bit cheap to allow to take damage after you beat the boss on the 2nd world.  Beat that without dying.  Thats a quirk.  Not a problem.  Also a bit annoying to make it so if a character falls you dont get them back until you win the level or start it over.  But its also really old school even though that wasnt a thing back then.  Its not bad just quirky.  
+	- At least there is no knockback on casual mode.  That pisses me off and makes it so I cant plan carefully.
+	- I could be wrong but I dont remember having gebel before.  There are 5 new moves with that guy.  A lot to keep track of.
+	- I beat level 3 with only one death.  Stopping there for today. but wow thats great
+	- How do I go back to previous levels?
+	- 5/4/2021 aww man it set me back to the beginning of level 3!?!  why?
+	- I beat it.  Level 4 is pretty awesome.  It was interesting to me and there were lots of places I couldnt get.
+	- The last boss on stage 5 is confusing.  I havent figured it out and its frustrating atm.  Also its stupid that if any of your characters die you have to start the boss all over and play part of the level too :(
+	- I got to stage 6 and stopped for the day.  Its really good.
+* Crazy Machines 3 5/19/2021
+	- Is cool how you make rube goldberg machines!  Some part of me has wanted a game like this since LEmmings or The Incredible Machine on Tom's mac but ... I got stuck on level 3 so I will have to come at this another time when I have more patience and am interested in solving puzzles like this.	
+* Avernum 5/22/2021
 	- See note in dropbox for clues and gameplay notes
 	- it looks like I started this end of August 2020.  I have some saves from 8/31-9/8.  My last save is from 9/8.  
 	- I dont remember where I was or what I'm supposed to do next
@@ -1365,7 +1453,44 @@ In other news I bought Skyrim VR (haven't played yet) and I just beat a game cal
 	10. sometimes (too often) during battle I will click on a space like two away from where my player is to position the player for a shot and it will tear off full speed in the other direction and waste all of its action points.  It probably has something to do with what spaces it sees as accessible.  just now it was only blocked by one of my party members ... and they were not stuck in place or anything (according to the icons)
 	11. I killed some enemies in a particular place and they had a valuable drop but there was nothing graphically indicating that it was there at all.  Even a brighter pixel would be nice.  I had to remember that I had killed someone there or just whack i every few squares
 	12. I was in the middle of a battle with a boss who was assigned the a key.  Some minor enemies wandered in.  I attacked the boss with the a key and my warrior ran off to attack the minor enemy which had been reassigned to be a.  never reassign those numbers MID battle!?!
-	14. Tip: Beating higher level enemies gives you more experience.  Probably then you have to fight less to progress.  SOmetimes beating those guys isnt really possible though
+	14. Tip: Beating higher level enemies gives you more experience.  Probably then you have to fight less to progress.  SOmetimes beating those guys isnt really possible though	
+* Sentinel 3: Homeworld 6/28/2021
+	- Great 2D overhead 2005 level nice graphics tower defense thats fun and i beat thef irst two levels easily and fun.  I beat the third level too and am havign fun with it.  The game is highly regarded.  There are actually 2 campaigns. I thought there was only 20 levels but there are actually 35.  Each level tracks whether you have beat it on what difficulty which is nice. 
+	- Something I like: it doesnt concern itself with aspect ratio so you can resize the window whatever you want even if it looks squished thats ok and the user will understand what theyve done.  Advantage: multitasking with other apps and games on the same window.
+	- Its got good cheevos even acknowledging when you first upgrade something to top level
+	- Zooming in is a terrible idea for strategy but looks pretty cool though.
+	- its cool how liek the missiles upgrade to 900 damage!
+	- some of the air enemies make annoying sounds.  the wasps and purple wasp bosses
+	- 6/30/2021 I beat it!  This game has a huge thing going for it: Perfect difficulty curve. I beat most of the last half of the game on easy mode with no trouble.  thats perfect. I beat some of it on Medium mode but not effortlessly.  perfect. 
+	- Progress
+		- On level 4 medium mode there were 40 rounds and 36 was fine and 37 was rough barely survived and 38 was it.  difficulty curve ramped up hard there.  There are 20 levels which is a good number.   I needed to add different weapons in like the bomb and slow in the armory.  Probably need to use these around round 30.  I added in bomb and slow and upgraded my champion and it wasnt too bad. They never even touched my first gate
+		- I'm playing this game even though I have tons of other games I could be playing but I feel like it. 
+		- I'm playing on medium mode not easy mode.  it says you get more credits playing at higher difficulties.  I wonder if you can grind for credits?  I hope so.  I wonder if you can play the game on easy mode to get the credits you need and then Medium would be more achievable?  205 credits and I'm going to play the first level on Hard mode.  Got 80 credits so 285.  Now I'm playing level 3 on Hard mode.  got 100 credits so 385 now. I also got some XP bonus.  Lets play it again and see if I get another 100. Yup sure did.  So you CAN grind for credits and xp. I barely beat level 2 on psycho difficulty.  
+		- Beat level 7 without much trouble. I think I have only failed one level one time.
+		- Level 8 I got to 43/50 but was having problems at 40.  if you put your champ in the middle it can hit most enemies middle and bottom row.  Ok once I finally upgraded after my previous several hundred credit grinding session which was easy and fun, I was able to beat level 8 on Medium mode.  It wasnt easy but at one point I had several hundred bucks in the bank which was cool.
+		- Level 9 Wow theres a mini-boss at wave 20, oh and 2 at 30! and there are 60 total waves!  at 50 there were two and they nearly got through to my first gate!  It was scary!  I dont really know how one of them didnt but my peoples took them out.  Now I'm having trouble figuring out how to hurt the enemies more.  Ok I got to 60 but then I had to go along after what I thought was the final enemy and sell everything there and then put it ahead of the enemies.  Because of that I won but kind of barely.  I noticed it was really hard to attack them by the wall, but fortunately the way I set it up the boss wasnt TOO fast at destroying hte wall and if I had sold other things and built some repair bots then I think I could have lasted kind of a long time.  So I solidly beat it and didnt even lose a wall but it wasnt a sure thing.  Oh I had even forgotten to equip my laser!  This level took me 40 minutes.  OMG that was on EASY Difficulty!!!
+		- Level 10 Well theres a mini boss on 20 and 2 on 30 like the previous level. 60 waves total.  at 30 I barely made it through teh two bosses even though I had tons of awesome weapons out.  They didnt get hurt much by the guns.  really I needed another laser that was really hurting it.  Or maybe an upgraded laser would do the trick.  by wave 50 it wasnt too bad and I beat the two evils early.  I had several lasers upgraded by then. and I used a few power ups.  Finally when I got to 60 it wasnt too bad and although I did roll the towers behind the enemy back to the front I didnt do it much and think I would have survived even if I hadn't done that.    I kind of watn to know whether I would have now.  28m.
+		- Level 11 on easy was pretty easy sort of.  I ended up with plenty of money and not entirely sure what to do with it and thats always a good sign, and the enemies barely even ever touched my walls
+		- Level 12-15 werent hard on easy mode with my current upgrades.  Ive got commander 8-22-30-5 and level 10 and dont have rage. I use mostly laser, bomb, slow, and beam.  lots of slow and beam. 
+		- Level 16 is playing itself through wave 9 with a repair bot. looks like level 11 they will break through one of my walls, nope but they made big progress. 
+		- Level 17 is pretty easy till 55 too because I had 3,000 dollars.  on 66 I had 7000 dollars.  Ended up with $5000 and could have even spent a lot less.
+		- Level 18 was super easy.  I just put stuff at the entrance and it was over before I even knew it
+		- Level 20 has new boss types at 25 and 120 waves.  It wasnt too hard for me at hard mdoe. I mostly setup camp at the top left.  Now I'm about to beat wave 120.  Not bad. The enemies never got to my last wall or really even close.  I beat it in 102m29s 
+- Zombie Driver HD 6/28/2021
+	- Super fun!  Driving over smashing and shooting zombies with car controls.  its super polished and great!  lots of upgrade options.  This is worth $10-15 comfortably.  
+	- Its got missions like save these hostages and to do that you have to drive over a bunch of zombies in an area to clear space for the people to come out then you can stop in a spot crazy taxi style and rescue them.  
+- Shadow of War	6/30/2021
+	- Love
+	- Interesting
+		- I dont love all of the new things to learn about this game.  Learning new things takes me out of the game doesnt draw me in.  I used to like to learn new control schemes but theres a limit to my desire to do that.  its not entirely new ofc, but some of the buttons are non standard and there are a lot of new actions.  At least its walking me through them at least once.
+		- I dont like not knowing what to do.  This is so complex its making me feel a little bit stupid.  Probably I'm missing something though.
+		- Picking up the weapons and coins is needlessly clumsy. If you bump into them it should take them. OR if you activate the collection command near them it should take them.  Too often the coin is right behind you and you dont get it.
+	- I was in a city a few minutes ago and now I'm in an orc camp because I died.  How do I get back to the city?  how do I play that part again?  What is my current goal?  am I trying to hunt someone in particular?  how do I read their minds again to get clues? i've tried it 4 times and am not doing it right.  Ok it looks liek they have to be in the captains gang or area to know clues about them then it works.  It looks like I can mostly just run through the orc camp or try to sneak around but I get caught easily.  
+	- m for a map, b for inventory, l ctrl for interact and for roll over people or something space for run, shift for crouch, e for psycho attack, 
+	- 7/7/2021 I have been playing this almost non stop ever since and i still love it. I am more addicted to it than most games I've ever played and I'm giving myself permission to play it and love it and enjoy it.
+	- I love thinking "this is where Frodo walked"
+	
+	
 	
 		
 # Top notable purchases #
