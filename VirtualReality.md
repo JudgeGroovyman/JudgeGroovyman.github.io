@@ -795,6 +795,24 @@ I think this game is why now playing amiga games up to jump isnt so foreign to m
 	- Wow this is a wonderful game.  Its rhythm but also a cool on rails shooter.  I want more on rails shooters regardless of rhythm
 	- We got it for quest 2 and the shooting feels tighter and more responsive somehow. Maybe its haptics, or the feel of the trigger button or the speed of the controller communication idk.
 	- This is one of the best games on VR.  Its also a great workout, the music is great too.
+* Raygun commando VR 7/11/2021 Free
+	- Ok I had fun with this and can recommend it and would not have been mad paying $5 for it but to be clear it is short, and it is clumsy but it is also fun. Its robots in a space station and sometimes you don't know where they are coming from or shooting you from or anything. I found myself shouting "No BAD ROBOT" out loud while I was playing the whole time and I really did have a good time playing it. It often wasnt clear when I killed the bosses or why the levels were advancing which was a big part of the clumsy thing I was talking about so I would give it a 3/10 on polish but an 8/10 on fun. I would play more if there was more to play and would enjoy it.
+	- Beat it only having died one time and that was early on before I knew that the enemies could be anywhere.  
+* Waves of Death VR Demo 
+	- This didnt work at all.  It was funny that the warning screen (which is extensive and also has many words that i cant read to the right and left) that warned about epilepsy and not playing whiel you are tired, was so glitchy and flickering and flashing and scraping that it hurt my eyes and my head haha
+	- I got to a narration but the visuals and controls were totally unplayable
+* Knockout League 7/11/2021
+	- I love this game.  The polish on this is 10/10 and its so much fun.  It reminds me of punchout wii but way way better controls.  
+	- I played it in 2018 and back then I felt clumsy because when I was dodging punches it was just me crouching down off to the left or right or something but this time I felt like i knew more where to dodge and I liked that. further I think its ok if thats what I do since crouching is effort too and jumping up after is too.  
+	- I fought barrage and won pretty easily and had fun.
+	- The cable is the only real problem and if I can use some tool to put the cable behind me (play facing the other dir) then I think I will play the heck out of this.
+* Propagation VR 7/11/2021 Free
+	- Apparently this game is free but its so good.  Its polished to perfection with great immersive horror movie cutscenes and tons of jumpscares and super creepy enemies and even dramatic bosses with different phases and attack patterns and stuff.
+	- One of the 110% coolest things about this game is idk if you can die, which means I got like 897% bitten which I think means if they had done lives I would have died 8 times and barely survived but they just mark my score down at the end for getting hit so much and thats all it takes.  I loved it
+	- The pistol and shotgun worked great the reloads were not too long but not too short.  Boy its fanatastic.
+	- And the drama of the attack waves and patterns and bosses and cutscenes was hollywood level.
+	- I'm decent at shooting games like this and it took me just under 40min to beat it.  I loved it all too. 
+	- I would have paid $20 for that and not regretted it.  for $40 it would have felt too short but with a few other modes or challenges or achievements and maybe replay sections it might be worth that too.  And with a few more levels of that caliber I wouldn't regret $60 and recommend it as one of the best games in VR.
 	
 	
 
@@ -812,6 +830,8 @@ I think this game is why now playing amiga games up to jump isnt so foreign to m
 10. PCSX2 ps2 emulation
 
 List of emulators that support 3d or VR https://emulation.gametechwiki.com/index.php/Virtual_Reality
+
+
 
 # Games I'm taking off my wishlist #
 * Renzo Racer 
@@ -832,37 +852,6 @@ Lots of VR can be experienced on a normal gaming pc with inexpensive VR Headset
 4. 3DSen
 
 
-Games with gamepad or keyboard mouse controls:
-(some of these will require a beefier PC)
-1. Overload (Descent Descendant)
-2. Lucky's Tale
-3. Tinertia
-4. Ultrawings
-6. SkyrimVR (Gamepad)
-7. Alien Isolation
-8. Edge of Nowhere
-12. Subnautica
-13. Hellblade: Senuas Sacrifice
-14. Pixel Ripped 1989
-15. Monstrum
-19. Assetto Corsa
-21. Thumper
-23. Everspace
-
-
-Havent played
-1. Dirt Rally
-16. Project Cars 2
-17. Yooka Laylee VR
-10. Battlezone
-11. Chronos
-5. Vox Machinae
-9. Blaze Rush (havent played)
-18. Legend of Dungeon (Doll House layout - setup keyboard input on your controller - gamepad support might not work in VR for some reason)
-22. Distance (Like trackmania but with more hazards and wings)
-23. House of the Dying Sun
-24. Vector36 "The more I play this the more I love it, the level of control is sublime and the feeling of presence is second to none. Can't recommend it enough, best racer I've ever played by a mile."
-
 # Some trickier 3D solutions #
 1. using CEMU to [emulate wiiu](https://www.reddit.com/r/oculus/comments/7rx0tm/bigscreen_vs_virtual_desktop_a_detailed_comparison/dtui2gq/) with SBS Stereoscopic
 9. Trinius https://www.trinusvirtualreality.com/trinus-dream/ converts normal games to sbs 
@@ -872,28 +861,6 @@ Havent played
 14. How to get VR Controllers working like a [Wiimote in DolphinVR](https://www.vrheads.com/dolphin-vr) and [how to get metroid prime working in VR](https://gamecrate.com/how-play-retro-games-vr-dolphin-vr/23568)
 
 
-# Solid Non Mainstream 3D & VR #
----------
-Many Gamecube Games
-Many 3DS Games
-Many Wii games
-Many Wii ware games
-Many full PC Games with VorpX
-A few full PC games with mods
-Many NES Games with 3DSEN
-A few PC games with native SBS (quake, doom, doom3, trine)
-
-# Flakier 3D & VR #
-----------
-VorpX and 
-Play some Wii Games with DolphinVR
-Play some Gamecube games with DolphinVR
-Play some Wii Shooter games
-Some PC games with VorpX in VR
-Some PSX games with 3D Shader
-Maybe Some N64 games with 3D shader (didnt work right away)
-Maybe Some PS2 games with SBS Emulator patch
-PSP?
 
 # Retroarch #
 See WarioWare above for more on getting it working with Virtual Boy
@@ -1104,90 +1071,8 @@ Virtual Desktop has the saame problem.
 Virtual desktop in FullSbS  seems to cut the width of the screen in half.  Half SBS works perfectly.  Bigscreen always stretches back to normal.
 
 
-# Gun games in VR #
-in the virtual living room game EMUVR some of these game would be really fun
-
-https://en.wikipedia.org/wiki/List_of_gun_games
-
-1. Gauntlet
 
 
-# Shooting Games With Marshall #
-1. Sin and Punishment Star Successor
-2. Resident Evil Darkside Chronicles
-3. Conduit 2
-4. Ghost Squad
-5. Gunblade NY & LA Machine Guns
-6. Dead Space Extraction
-7. Transformers Cybertron
-8. 
-
-
-
-Soul Calibur Legends
-
-
-# Dolphin Games Feb 10 2021 #
-Want a 3D TV NOW ... ok Soon is good
-
-
-Some while I do other things:
-1. Mario Galaxy
-2. Mario Galaxy 2
-3. Kirby's Return to Dream Land
-4. Klonoa
-5. 
-
-
-Some that I might feel relief in playing through to completion
-1. Metroid Prime 1 14h
-2. Metroid Prime 2 17h
-3. Metroid Prime 3 14h
-4. Zelda Ocarina 25h
-5. Zelda Wind Waker 29h
-6. Zelda Twilight Princess 38h
-7. Zelda Skyward Sword 39h
-8. Resident Evil Archives: Resident Evil 11h
-9. Resident Evil Archives: Resident Evil Zero 12h
-10. Lord of the Rings: The Two Towers 7h
-11. Lord of the Rings: Return of the King 9h
----------
-1. Zelda A Link To The Past 15h
-2. Metroid Samus Returns 3DS 11h
-3. The Hobbit 15h
-4. Beyond Good and Evil 11h
-5. King Kong 7h
-
-
-
-Some to play because I want to play and finish them
-1. Dragon Quest Swords 9h
-10. Finish Kid Icarus Uprising 12h
-
-
-
-Other games on my mind:
-1. Some FPS
-2. Some new Tower Defense game (That Transformers one or that Toy one come to mind)
-3. Some 4x game like Battlestar?
-
-
-
-
-
-# Excited about Feb 14 2021 #
-
-1. Minotaur Arcade - 2 Llamasoft games in VR!
-2. BeamNG.drive - VR Driving with the wheel!
-
-With Cristi
-1. Concrete Jungle - Co Op with Cristi - Mac
-2. Minion Masters - Mac Co Op card Tower Defense
-3. Kingdoms
-4. Card Hunter - Looks like magic the gathering - mac and free
-5. Mythgard - like Magic the gathering mac and free
--------
-1. Mansions of Madness - Board Game required.  Like an RPG but the app is the DM
 
 
 
@@ -1197,121 +1082,8 @@ Twice in the last few months Ive had controller problems: WMR didnt recognize th
 
 
 
-# Excited About 6 27 2021 #
-
-Some new Steam VR Games:
-1. Hellsplit Arena $25
-2. Tales of Glory (Like Mount and Blade in VR) Demo $30
-3. Dominatrix Simulator VR Threshold $12 Demo 
-
-VR Games you might not have heard of that look cool:
-1. Shadow of Valhalla - combat like gorn 2020 $20 (sale for $10)
-2. Subject 264 - 5hr+ Unreal engine creepy exploration and puzzle game looks beautiful. 2018. 14 positive $10 (sale for $1)
-3. Crystal Rift - VR Grid based dungeon crawler 2016 26 levels - expect skyrim be disappointed.  expect Dungeon Master from 1987 and be thrilled. $10 (Sale for $1)
-4. Proze: Enlightenment - VR Puzzle Adventure multiple timelines horror, 2019 $20 (on sale for $3)
-5. Raptor Valley - scary horror jurassic park shooter where you have to listen for the raptor. 2016 $4 (on sale for .51)
-6. Brigador: Up-Armored $20 (sale for $9) amazing looking overhead mech shooter
-7. Neon Exile VR $25 Demo - cool MMO Action game where you are all fighting back against some bad boys
-8. Twilight Path
-9. Last Day Defense VR $10 - great VR tower defense
-10. Malazard Magic Defense - $2 VR Wave Shooter
-11. Ash of Legends VR - $15 VR tower defense with grappling hooks
-12. Project RTD: Random Tower Defense VR - $9 Vertical Map VR tower defense
-14. SurviVR - Castle Defender - $6 VR Tower Defense
-15. Dwarven Defender - $8 VR Tower Defense
-16. Domain Defense - $8 VR Tower Defense
-17. Minotaur Arcade
-
-Other games that look really cool
 
 
-DONE Bought
-1. Crystal Rift $0.99/9.99 - Grid based dungeon crawler in VR
-3. KryptCrawler $1.59/7.99 - Grid based dungeon crawler in VR
-15. Zombie Driver HD - $1.99/9.99 Cool overhead driving shooter by the X-Morph Defense team
-11. Sentinel 3: Homeworld 0.69/6.99 cool Sci-Fi Tower Defense
+# Inbox #
 
-
-
-DONE Next Shopping Cart (<$3.00) ($15.60)
-7. Warhammer: End Times Vermintide $2.99/29.99 - awesome first person melee combat game1. 
-9. Devious Dungeon $0.49/4.99 - like Rogue Legacy but simpler
-12. Void Source $0.49/4.99 cool twin stick side scrolling shooter
-2. Dex $1.99/19.99 - 11h Artistically beautiful 2D side scrolling Adventure
-13. X-Morph: Defense - European Assault 0.99/4.99 Cool final mission in Europe and Eiffel Tower in particular
-14. X-Morph: Defense - Last Bastion 0.99/4.99 Cool final mission in remote locations
-16. Malazard: Magic Defense - $2 VR Tower Defense
-17. Out of Ammo - $2.49 VR Tower Defense
-18. Hex Defense - $1.59 VR Tower Defense
-
-
-DONE Next Shopping Cart with Cristi
-15. Fortification TD - $1.59 VR Tower Defense
-like 7 more
-
-
-DONE Next Shopping Cart (<$10) ($60.28)
-8. Nostalgia VR - $19.10/42.27 - Operation Warcade VR (awesome arcade Operation Wolf style game), 1976 (VR Arcade Shooter), Pangman (VR ball shooter co op)
-10. Van Helsing Anthology $7.49/74.99 - 3 15h Diablo games + Deathtrap ($20 on its own). 
-6. Skyworld VR $7.49/24.99 - Cool Round game like Civilization Revolution
-4. VR Dungeon Knight $4.99/19.99 - Cool VR Dungeon Crawler
-16. Distance $6.24/24.99 - Cool VR driving platformer
-17. Tesla vs Lovecraft $5.24/14.99 - Cool Overhead Twin Stick Shooter
-18. Serious Sam's Bogus Detour $3.74/14.99 - Cool Overhead Shooter Adventure
-19. Mortal Blitz $5.99/19.99 - Cool super short VR Wave Shooter
-4.  $5 	 	$20 	75%	 $15 	2014	Metro 2033 Redux 9h
-5. $6.36	$63.73						Homeworld Remastered and Deserts of Kharak - Amazing RTS games
-11. $5 	 	$20 	75%	 $15 	2011	Anno 2070
-
-
-20. $18	    $25 						Pistol Whip $18/25 - Amazing VR
-
-Next Shopping Cart Big >$20 ($110)
-5. 	$20		$60 	67%	 $40 	2020	Resident Evil 3
-10. $16 	$40 	60%	 $24 	2019	Resident Evil 2
-6. 	$36 	$60 	40%	 $24 	2020	Half Life: Alyx
-3.	$20  	$40 	50%	 $20 	2020	Serious Sam 4
-
-
-
-Not sure about these games (Didnt buy any of these)
-6. ------------------------------------------------------------
-6. ------------------------------------------------------------
-7. 	$20 	$40 	50%	 $20 	2019	Halo Master Chief Collection
-8. 	$24 	$60 	60%	 $36 	2019	Death Stranding
-14. $16		$40			 $26	2019	Remnant From The Ashes (Co op)
-9. 	$10 	$40 	75%	 $30 	2013	Europa Universalis IV
-12. $10 	$40 	75%	 $30 	2015	Anno 2205
-1.  $9 	 	$60 	85%	 $51 	2018	Far Cry 5 18h
-2.  $8 	 	$40 	80%	 $32 	2017	Wolfenstein 2 The New Colossus 11h
-21. $9		$30 						Sprint Vector - VR Exercise Shooter
-
-
-Look for
-1. DONE List in the powerpoint
-2. DONE Tower Defense games listed above
-3. DONE Other PC Games in my latest lists as I add them to the powerpoint
-4. DONE Install Shadow of War and blasters
-5. DONE xmorph dlc discount
-6. DONE CYOA Games?
-
-
-
-
-Excited About:
-1. Everything I bought in steam summer sale above
-2. Beating Vanishing Realms using a walkthrough step by step
-3. Middle Earth Shadow of War (ADDICTED!)
-4. VR FPS games: Knuckle down and beat these even if it takes all day: Serious Sam 3, Dead Effect VR, Payday 1 or 2, Arizona Sunshine,  Killing Floor Incursion,
-5. Install and play some Skyrim VR with some mods
-6. Install and play some Star Trek Bridge Crew
-6. Run of Mydan, Doom VFR, Windlands 2, 
-7. one of the other VR Tower Defenses above
-8. 
-5. Until I beat: Blasters of the universe, Scanner Sombre, In Your Face TD, Superhot VR (Oculus), Transpose (Oculus), Ultrawings
-7. Knockout League and watch videos to get strats, Beat Saber one new song when Im interested
-
-
-This is a modern-ish (updated this year) programming language which is cross-platform and compiles to Amiga!
-https://www.hollywood-mal.com/index.html
 

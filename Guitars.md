@@ -2595,3 +2595,22 @@ Always wanted
 
 
 
+Fretlight Guitar
+I got the orianthi guitar with a cable and it is so cool!
+1. It absolutely works.  Secret: Plug it all in and restart your computer.  Video player works regardless, chord and scale library doesnt.
+2. Studio Beginner Versions:  I only have the beginner app "studio 6 for the beginner" i installed from CD but then there was a slightly newer version online so I downloaded that from a random-ish informer website and it has the right version number in the app and everything.  6.1.474.  It comes with two programs: "Chord and Scale Library" (which is the one I care about) and "Video Player" which is a pathetic demo of one tiny riff and a tuning video.  Like 60s total.  Its good that its there though because its programmed differently and it works even after you unplug and plug back in
+4. Debugging:
+	3. Even with the new version installed the chord and scale library wasnt working.  I had to do a few things: I have my H&K amps footswitch plugged in.  
+		1. With it all plugged in and restarting my computer it seems to work right away.  I'm going to restart again and see if it works again (because it didnt before). 
+		2. Confirmed. with it all plugged in (including footswitch) and restarting the computer and starting the program it all works great.  
+		3. Checking that restarting with everything plugged in EXCEPT the real footswitch works. Confirmed.  That works too!
+	4. to test this: Run the video player and click bottom right on the blister riff clip and it should light up. It has always worked no matter when things were plugged in. then run the chord and scale library and see if it works.
+	4. Why didnt it work before?  Did it not recognize the footswitch?  Did it think the footswitch lights was always off?  Was the footswitch overriding the software footswitch?  idk.  Last night it worked for a while after some button presses and restarts with no footswitch plugged in.  
+		1. ok now if its working great and I unplug usb and replug then the chord and scale library doesnt work after that, but the video player still does.
+		2. Checking that restarting with everything plugged in works again.  Yes instantly.  
+5. The footswitch lets you change scales or change keys or whatever is in your playlist in the app.   its not widely dynamic but would be great for most people! 
+6. The software footswitch works with the real one like you would expect.  Click the software one and it works.  Click the hardware one and it works too.  they just both work.  
+ 
+
+
+
